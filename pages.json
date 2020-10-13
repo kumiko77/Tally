@@ -1,0 +1,65 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [
+		{
+			"path": "pages/chart/index",
+			"style": {
+				"navigationBarTitleText": "鲨鱼记账"
+			}
+		},
+		{
+			"path": "pages/detail/index",
+			"style": {
+				"navigationBarTitleText": "鲨鱼记账"
+			}
+		},
+		{
+			"path": "pages/add/index",
+			"style": {
+				"navigationBarTitleText": "鲨鱼记账"
+			}
+		},
+		{
+			"path": "pages/community/index",
+			"style": {
+				"navigationBarTitleText": "鲨鱼记账"
+			}
+		},
+		{
+			"path": "pages/me/index",
+			"style": {
+				"navigationBarTitleText": "鲨鱼记账"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "#333",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#f9db61",
+		"backgroundColor": "#feffff"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/detail/index",
+			"text": "明细"
+		}, {
+			"pagePath": "pages/chart/index",
+			"text": "图表"
+		}, {
+			"pagePath": "pages/add/index",
+			"text": "记账"
+		}, {
+			"pagePath": "pages/community/index",
+			"text": "社区"
+		}, {
+			"pagePath": "pages/me/index",
+			"text": "我的"
+		}]
+	}
+}

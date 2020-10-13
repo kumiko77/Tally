@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/chart/index",
+    "pages/detail/index",
+    "pages/add/index",
+    "pages/community/index",
+    "pages/me/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#f9db61",
+    "backgroundColor": "#feffff"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/detail/index",
+        "text": "明细"
+      },
+      {
+        "pagePath": "pages/chart/index",
+        "text": "图表"
+      },
+      {
+        "pagePath": "pages/add/index",
+        "text": "记账"
+      },
+      {
+        "pagePath": "pages/community/index",
+        "text": "社区"
+      },
+      {
+        "pagePath": "pages/me/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

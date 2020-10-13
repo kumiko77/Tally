@@ -1,0 +1,229 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.box .header.data-v-12dbf08d {
+  height: 270rpx;
+  padding: 0 40rpx;
+  background: -webkit-linear-gradient(top, #f9db61 85%, #fff);
+  background: linear-gradient(to bottom, #f9db61 85%, #fff);
+  color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.box .header .title.data-v-12dbf08d {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  width: 100%;
+  text-align: center;
+}
+.box .header .title ._h1.data-v-12dbf08d {
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.box .header .total.data-v-12dbf08d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.box .header .total .date.data-v-12dbf08d {
+  margin-right: 70rpx;
+}
+.box .header .total .date .year.data-v-12dbf08d {
+  font-size: 20rpx;
+  font-weight: 200;
+  margin-top: 20rpx;
+}
+.box .header .total .date .month.data-v-12dbf08d {
+  height: 50rpx;
+  border-right: 1rpx solid #9e8d4c;
+  font-size: 25rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-top: 20rpx;
+}
+.box .header .total .date .month ._span.data-v-12dbf08d {
+  font-size: 45rpx;
+  font-weight: 200;
+  display: inline-block;
+  line-height: 40rpx;
+}
+.box .header .total .date .month image.data-v-12dbf08d {
+  width: 30rpx;
+  height: 30rpx;
+  margin-left: 10rpx;
+  padding-right: 20rpx;
+}
+.box .header .total .money.data-v-12dbf08d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  text-align: left;
+  height: 90rpx;
+  margin-top: 10rpx;
+}
+.box .header .total .money .money-title.data-v-12dbf08d {
+  font-size: 20rpx;
+  font-weight: 200;
+}
+.box .header .total .money .income.data-v-12dbf08d,
+.box .header .total .money .expend.data-v-12dbf08d {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  width: 230rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.box .header .total .money .income .num.data-v-12dbf08d,
+.box .header .total .money .expend .num.data-v-12dbf08d {
+  font-weight: 200;
+  margin-top: 20rpx;
+}
+.box .header .total .money .income .num .integer.data-v-12dbf08d,
+.box .header .total .money .expend .num .integer.data-v-12dbf08d {
+  font-size: 40rpx;
+}
+.box .header .nav.data-v-12dbf08d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  background: #feffff;
+  border-radius: 6px;
+  width: 650rpx;
+  margin: 10rpx auto;
+  box-shadow: 0px 8px 10px #efefef;
+  padding: 20rpx 40rpx;
+  box-sizing: border-box;
+}
+.box .header .nav .nav-item.data-v-12dbf08d {
+  text-align: center;
+  font-size: 20rpx;
+  color: #999;
+}
+.box .header .nav .nav-item .nav-item-logo image.data-v-12dbf08d {
+  width: 50rpx;
+  margin-bottom: 4rpx;
+}
+.box .detail-box.data-v-12dbf08d {
+  margin-top: 280rpx;
+}
+.box .detail-box .detail-item.data-v-12dbf08d {
+  margin-bottom: 30rpx;
+}
+.box .detail-box .detail-item .dateil-header.data-v-12dbf08d {
+  color: #999;
+  font-size: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  border-bottom: 1rpx solid #eae8eb;
+  padding-bottom: 15rpx;
+}
+.box .detail-box .detail-item .dateil-header .datail-date.data-v-12dbf08d {
+  padding-left: 15rpx;
+}
+.box .detail-box .detail-item .dateil-header .datail-date .detail-date-time.data-v-12dbf08d {
+  margin-right: 10rpx;
+}
+.box .detail-box .detail-item .dateil-header .detail-money.data-v-12dbf08d {
+  padding-right: 15rpx;
+}
+.box .detail-box .detail-item .detail-item-definite.data-v-12dbf08d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.box .detail-box .detail-item .detail-item-definite:last-of-type .detail-item-definite-right.data-v-12dbf08d {
+  border: none;
+}
+.box .detail-box .detail-item .detail-item-definite .detail-item-definite-left.data-v-12dbf08d {
+  margin: 0 20rpx;
+}
+.box .detail-box .detail-item .detail-item-definite .detail-item-definite-left .detail-item-definite-logo.data-v-12dbf08d {
+  border-radius: 50%;
+  width: 60rpx;
+  height: 60rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.box .detail-box .detail-item .detail-item-definite .detail-item-definite-left .detail-item-definite-logo image.data-v-12dbf08d {
+  width: 60rpx;
+}
+.box .detail-box .detail-item .detail-item-definite .detail-item-definite-right.data-v-12dbf08d {
+  width: 660rpx;
+  padding: 20rpx 20rpx 20rpx 0;
+  font-size: 25rpx;
+  font-weight: 200;
+  height: 80rpx;
+  border-bottom: 1rpx solid #f3f1f5;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.box .detail-box .detail-item .detail-item-definite .detail-item-definite-right ._span.data-v-12dbf08d {
+  display: inline-block;
+}
+

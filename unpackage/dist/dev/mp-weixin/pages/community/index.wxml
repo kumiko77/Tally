@@ -1,0 +1,1 @@
+<view><u-tabbar vue-id="d24888ba-1" list="{{vuex_tabbar}}" mid-button="{{true}}" bind:__l="__l"></u-tabbar></view>
