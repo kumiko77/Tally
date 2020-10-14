@@ -10,8 +10,6 @@
   "libVersion": "",
   "appid": "touristappid",
   "projectname": "Tally",
-  "simulatorType": "wechat",
-  "simulatorPluginLibVersion": {},
   "condition": {
     "search": {
       "current": -1,

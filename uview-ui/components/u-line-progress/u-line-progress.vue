@@ -68,7 +68,7 @@
 			// 进度条的高度，单位rpx
 			height: {
 				type: [Number, String],
-				default: 28
+				default: 14
 			},
 			// 是否显示条纹
 			striped: {

@@ -24,6 +24,19 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
+.chart.data-v-9a036210 {
+  width: 750rpx;
+  height: 230rpx;
+  background-color: #FFFFFF;
+  border-top: 2rpx solid #ccc;
+  border-bottom: 2rpx solid #ccc;
+  padding: 0 10rpx;
+}
+.charts.data-v-9a036210 {
+  width: 730rpx;
+  height: 200rpx;
+  background-color: #FFFFFF;
+}
 .box .header.data-v-9a036210 {
   background: #f9db61;
   font-size: 35rpx;
@@ -66,5 +79,70 @@
 .box .header .menu .menu-year.menu-item-itemed.data-v-9a036210 {
   background: #343233;
   color: #f9db61;
+}
+.box .total.data-v-9a036210 {
+  color: #888;
+  font-weight: 200;
+  padding: 30rpx 25rpx;
+}
+.box .total .count.data-v-9a036210 {
+  font-size: 30rpx;
+  margin-bottom: 5rpx;
+}
+.box .total .average.data-v-9a036210 {
+  font-size: 25rpx;
+}
+.box .rank-box .rank-title.data-v-9a036210 {
+  padding: 15rpx 30rpx;
+  color: #555;
+  font-weight: 200;
+  font-size: 25rpx;
+}
+.box .rank-box .rank-item.data-v-9a036210 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.box .rank-box .rank-item .img-box.data-v-9a036210 {
+  margin: 0 20rpx;
+}
+.box .rank-box .rank-item .img-box image.data-v-9a036210 {
+  width: 60rpx;
+}
+.box .rank-box .rank-item .info-box.data-v-9a036210 {
+  width: 660rpx;
+  padding: 15rpx 20rpx 15rpx 0;
+  border-bottom: 1rpx solid #f3f1f5;
+}
+.box .rank-box .rank-item .info-box .info-box-line-info.data-v-9a036210 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.box .rank-box .rank-item .info-box .info-box-line-info-left.data-v-9a036210 {
+  color: #555;
+}
+.box .rank-box .rank-item .info-box .info-box-line-info-left .info-box-name.data-v-9a036210 {
+  font-size: 30rpx;
+  margin-right: 5rpx;
+}
+.box .rank-box .rank-item .info-box .info-box-line-info-left .info-box-percent.data-v-9a036210 {
+  font-size: 25rpx;
+}
+.box .rank-box .rank-item .info-box .info-box-line-percent.data-v-9a036210 {
+  position: relative;
+  top: -10rpx;
 }
 

@@ -2,6 +2,9 @@
 	"easycom": {
 		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
 	},
+	"usingComponents": {
+	    "f2": "@antv/wx-f2"
+	  },
 	"pages": [
 		{
 			"path": "pages/chart/index",
