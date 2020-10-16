@@ -11,11 +11,14 @@
 var _App = _interopRequireDefault(__webpack_require__(/*! ./App */ 5));
 var _uviewUi = _interopRequireDefault(__webpack_require__(/*! uview-ui */ 11));
 var _store = _interopRequireDefault(__webpack_require__(/*! @/store */ 37));
-var _uCharts = _interopRequireDefault(__webpack_require__(/*! js_sdk/u-charts/u-charts/u-charts.js */ 39));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function ownKeys(object, enumerableOnly) {var keys = Object.keys(object);if (Object.getOwnPropertySymbols) {var symbols = Object.getOwnPropertySymbols(object);if (enumerableOnly) symbols = symbols.filter(function (sym) {return Object.getOwnPropertyDescriptor(object, sym).enumerable;});keys.push.apply(keys, symbols);}return keys;}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};if (i % 2) {ownKeys(Object(source), true).forEach(function (key) {_defineProperty(target, key, source[key]);});} else if (Object.getOwnPropertyDescriptors) {Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));} else {ownKeys(Object(source)).forEach(function (key) {Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));});}}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}
+var _uCharts = _interopRequireDefault(__webpack_require__(/*! js_sdk/u-charts/u-charts/u-charts.js */ 39));
+var _request = _interopRequireDefault(__webpack_require__(/*! common/util/request.js */ 40));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function ownKeys(object, enumerableOnly) {var keys = Object.keys(object);if (Object.getOwnPropertySymbols) {var symbols = Object.getOwnPropertySymbols(object);if (enumerableOnly) symbols = symbols.filter(function (sym) {return Object.getOwnPropertyDescriptor(object, sym).enumerable;});keys.push.apply(keys, symbols);}return keys;}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};if (i % 2) {ownKeys(Object(source), true).forEach(function (key) {_defineProperty(target, key, source[key]);});} else if (Object.getOwnPropertyDescriptors) {Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));} else {ownKeys(Object(source)).forEach(function (key) {Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));});}}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}
 //uview封装vuex
-var vuexStore = __webpack_require__(/*! @/store/$u.mixin.js */ 40);
+var vuexStore = __webpack_require__(/*! @/store/$u.mixin.js */ 46);
 _vue.default.mixin(vuexStore);
 
+//请求云函数封装
+_vue.default.prototype.$uniCloud = _request.default;
 _vue.default.config.productionTip = false;
 
 _vue.default.prototype.$uCharts = _uCharts.default;

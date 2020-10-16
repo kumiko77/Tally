@@ -344,12 +344,57 @@
 			this.statusBar = app.statusBar + 8
 			this.customBar = app.customBar + app.pixelRatio * 30
 			this.custom = app.custom
+			//加载本月账单信息
+			this.getAccountData()
+		},
+		methods: {
+			getAccountData: async function() {
+				const month = new Date().getMonth() + 1
+				this.$uniCloud('account', {
+					month: month
+				}).then(res => {
+					const {data} = res.result
+					console.log(this.sortByDate(data))
+				})
+			},
+			sortByDate: function(list) {
+				const newArr = [];
+				list.forEach((item, i) => {
+					let index = -1;
+					//判断新数组里是否存在该日期
+					let isExists = newArr.some((newItem, j) => {
+						if (item.date == newItem.date) {
+							index = j;
+							return true;
+						}
+					})
+					if (!isExists) {
+						newArr.push({
+							date: item.date,
+							text: `${item.month}月 ${item.date}日 `,
+							in: item.money > 0 ? item.money : 0,
+							out: item.money < 0 ? Math.abs(item.money) : 0,
+							subList: [item]
+						})
+					} else {
+						newArr[index].subList.push(item);
+						if(item.accountType === 'out') {
+							newArr[index].out += Math.abs(item.money)
+						} else {
+							newArr[index].in += item.money
+						}
+					}
+				})
+				return newArr
+			}
 		}
 	}
 </script>
 
 <style lang="scss" scoped>
 	.box {
+		display: none;
+
 		.header {
 			height: 270rpx;
 			padding: 0 40rpx;
@@ -359,6 +404,7 @@
 			top: 0;
 			left: 0;
 			right: 0;
+
 			.title {
 				display: inline-flex;
 				justify-content: center;
@@ -528,6 +574,7 @@
 						display: flex;
 						justify-content: space-between;
 						align-items: center;
+
 						span {
 							display: inline-block;
 							// line-height: 80rpx;

@@ -1,6 +1,8 @@
 {
   "navigationBarTitleText": "鲨鱼记账",
   "usingComponents": {
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-keyboard": "/uview-ui/components/u-keyboard/u-keyboard",
     "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
   }
 }

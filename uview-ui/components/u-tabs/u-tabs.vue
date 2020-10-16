@@ -115,8 +115,8 @@
 			},
 			// 活动tab字体是否加粗
 			bold: {
-				type: Boolean,
-				default: false
+				type: Number,
+				default: 200
 			},
 			// 当前活动tab item的样式
 			activeItemStyle: {
@@ -206,10 +206,11 @@
 						'transition-duration': `${this.duration}s`,
 						padding: this.isScroll ? `0 ${this.gutter}rpx` : '',
 						flex: this.isScroll ? 'auto' : '1',
-						width: this.$u.addUnit(this.itemWidth)
+						width: this.$u.addUnit(this.itemWidth),
+						'font-weight': this.bold
 					};
 					// 字体加粗
-					if (index == this.currentIndex && this.bold) style.fontWeight = 'bold';
+					// if (index == this.currentIndex && this.bold) style.fontWeight = 'bold';
 					if (index == this.currentIndex) {
 						style.color = this.activeColor;
 						// 给选中的tab item添加外部自定义的样式

@@ -24,6 +24,9 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
+.box.data-v-12dbf08d {
+  display: none;
+}
 .box .header.data-v-12dbf08d {
   height: 270rpx;
   padding: 0 40rpx;

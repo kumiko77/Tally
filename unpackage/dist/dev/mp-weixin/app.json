@@ -1,8 +1,8 @@
 {
   "pages": [
-    "pages/chart/index",
     "pages/detail/index",
     "pages/add/index",
+    "pages/chart/index",
     "pages/community/index",
     "pages/me/index"
   ],

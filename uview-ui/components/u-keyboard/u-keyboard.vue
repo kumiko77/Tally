@@ -17,7 +17,8 @@
 			<u-number-keyboard :random="random" @backspace="backspace" @change="change" :mode="mode" :dotEnabled="dotEnabled"></u-number-keyboard>
 		</block>
 		<block v-else>
-			<u-car-keyboard :random="random" @backspace="backspace" @change="change"></u-car-keyboard>
+			<!-- <u-car-keyboard :random="random" @backspace="backspace" @change="change"></u-car-keyboard> -->
+			<u-tally-keyboard></u-tally-keyboard>
 		</block>
 	</u-popup>
 </template>
