@@ -1,9 +1,9 @@
 <template>
 	<view class="box">
 		<view class="remark">
-			<view class="remark-title">备注</view>
+			<view class="remark-title">备注：</view>
 			<input type="text">
-			<span class="count">0</span>
+			<span class="count">{{num}}</span>
 		</view>
 		<view class="u-keyboard" @touchmove.stop.prevent="() => {}">
 			<view class="u-keyboard-grids">
@@ -23,13 +23,13 @@
 				<view class="today u-border-top u-border-left u-border-bottom">
 					今天
 				</view>
-				<view class="today u-border-left u-border-bottom">
+				<view class="today u-border-left u-border-bottom" @tap="keyboardClick('+')">
 					+
 				</view>
-				<view class="today u-border-left u-border-bottom">
+				<view class="today u-border-left u-border-bottom" @tap="keyboardClick('-')">
 					-
 				</view>
-				<view class="save u-border-left u-border-bottom">
+				<view class="save u-border-left u-border-bottom" @tap="save()">
 					完成
 				</view>
 			</view>
@@ -38,6 +38,7 @@
 </template>
 
 <script>
+	import { evaluate } from "eval5";
 	export default {
 		props: {
 			// 键盘的类型，number-数字键盘，card-身份证键盘
@@ -61,8 +62,14 @@
 				backspace: 'backspace', // 退格键内容
 				dot: '.', // 点
 				timer: null, // 长按多次删除的事件监听
-				cardX: 'X' // 身份证的X符号
+				cardX: 'X', // 身份证的X符号‘
+				num: 0
 			};
+		},
+		watch:{
+			num() {
+				console.log(this.num)
+			}
 		},
 		computed: {
 			// 键盘需要显示的内容
@@ -113,12 +120,13 @@
 		methods: {
 			// 点击退格键
 			backspaceClick() {
-				this.$emit('backspace');
-				clearInterval(this.timer); //再次清空定时器，防止重复注册定时器
-				this.timer = null;
-				this.timer = setInterval(() => {
-					this.$emit('backspace');
-				}, 250);
+				// this.$emit('backspace');
+				// clearInterval(this.timer); //再次清空定时器，防止重复注册定时器
+				// this.timer = null;
+				// this.timer = setInterval(() => {
+				// 	this.$emit('backspace');
+				// }, 250);
+				this.num = this.num.substr(0, this.num.length - 1);  
 			},
 			clearTimer() {
 				clearInterval(this.timer);
@@ -126,9 +134,14 @@
 			},
 			// 获取键盘显示的内容
 			keyboardClick(val) {
-				// 允许键盘显示点模式和触发非点按键时，将内容转为数字类型
-				if (this.dotEnabled && val != this.dot && val != this.cardX) val = Number(val);
-				this.$emit('change', val);
+				if(this.num === 0) {
+					this.num += val
+				} else {
+					this.num += val.toString()
+				}
+			},
+			save() {
+				console.log(evaluate(this.num))
 			}
 		}
 	};
@@ -136,17 +149,28 @@
 
 <style lang="scss" scoped>
 	@import "../../libs/css/style.components.scss";
+	.box {
+		background: #f3f3f3;
+	}
 .remark {
 	display: flex;
 	align-items: center;
+	height: 80rpx;
+	padding: 0 20rpx 0 25rpx;
+	font-weight: 200;
 	.title {
-		
+		font-size: 20rpx;
+		flex:1
 	}
 	input {
-		
+		margin-right: 50rpx;
+		flex:4
 	}
 	.count {
-		
+		font-weight: 200;
+		font-size: 50rpx;
+		flex:2;
+		text-align: right;
 	}
 }
 	.u-keyboard {

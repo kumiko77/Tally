@@ -99,7 +99,6 @@
 import provinces from '../../libs/util/province.js';
 import citys from '../../libs/util/city.js';
 import areas from '../../libs/util/area.js';
-
 /**
  * picker picker弹出选择器
  * @description 此选择器有两种弹出模式：一是时间模式，可以配置年，日，月，时，分，秒参数 二是地区模式，可以配置省，市，区参数
@@ -595,17 +594,14 @@ export default {
 
 <style lang="scss" scoped>
 @import '../../libs/css/style.components.scss';
-
 .u-datetime-picker {
 	position: relative;
 	z-index: 999;
 }
-
 .u-picker-view {
 	height: 100%;
 	box-sizing: border-box;
 }
-
 .u-picker-header {
 	width: 100%;
 	height: 90rpx;
@@ -618,7 +614,6 @@ export default {
 	background: #fff;
 	position: relative;
 }
-
 .u-picker-header::after {
 	content: '';
 	position: absolute;
@@ -629,18 +624,15 @@ export default {
 	right: 0;
 	left: 0;
 }
-
 .u-picker__title {
 	color: $u-content-color;
 }
-
 .u-picker-body {
 	width: 100%;
 	height: 500rpx;
 	overflow: hidden;
 	background-color: #fff;
 }
-
 .u-column-item {
 	@include vue-flex;
 	align-items: center;
@@ -649,27 +641,22 @@ export default {
 	color: $u-main-color;
 	padding: 0 8rpx;
 }
-
 .u-text {
 	font-size: 24rpx;
 	padding-left: 8rpx;
 }
-
 .u-btn-picker {
 	padding: 16rpx;
 	box-sizing: border-box;
 	text-align: center;
 	text-decoration: none;
 }
-
 .u-opacity {
 	opacity: 0.5;
 }
-
 .u-btn-picker--primary {
 	color: $u-type-primary;
 }
-
 .u-btn-picker--tips {
 	color: $u-tips-color;
 }

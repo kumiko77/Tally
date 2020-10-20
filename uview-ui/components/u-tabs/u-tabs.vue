@@ -198,7 +198,6 @@
 			// tab的样式
 			tabItemStyle() {
 				return (index) => {
-					console.log(this.itemWidth)
 					let style = {
 						height: this.height + 'rpx',
 						'line-height': this.height + 'rpx',

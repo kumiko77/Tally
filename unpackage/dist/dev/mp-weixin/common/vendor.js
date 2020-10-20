@@ -7625,9 +7625,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!**********************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/pages.json ***!
-  \**********************************************************/
+/*!*************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/pages.json ***!
+  \*************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7768,9 +7768,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 11 */
-/*!*****************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/index.js ***!
-  \*****************************************************************/
+/*!********************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/index.js ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7914,9 +7914,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 12 */
-/*!****************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/mixin/mixin.js ***!
-  \****************************************************************************/
+/*!*******************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/mixin/mixin.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7969,9 +7969,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 13 */
-/*!******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/request/index.js ***!
-  \******************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/request/index.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8149,9 +8149,9 @@ new Request();exports.default = _default;
 
 /***/ }),
 /* 14 */
-/*!***********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/deepMerge.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/deepMerge.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8189,9 +8189,9 @@ deepMerge;exports.default = _default;
 
 /***/ }),
 /* 15 */
-/*!***********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/deepClone.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/deepClone.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8222,9 +8222,9 @@ deepClone;exports.default = _default;
 
 /***/ }),
 /* 16 */
-/*!******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/test.js ***!
-  \******************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/test.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8464,9 +8464,9 @@ function code(value) {var len = arguments.length > 1 && arguments[1] !== undefin
 
 /***/ }),
 /* 17 */
-/*!*************************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/queryParams.js ***!
-  \*************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/queryParams.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8532,9 +8532,9 @@ queryParams;exports.default = _default;
 
 /***/ }),
 /* 18 */
-/*!*******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/route.js ***!
-  \*******************************************************************************/
+/*!**********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/route.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8628,9 +8628,9 @@ route;exports.default = _default;
 
 /***/ }),
 /* 19 */
-/*!************************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/timeFormat.js ***!
-  \************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/timeFormat.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8690,9 +8690,9 @@ timeFormat;exports.default = _default;
 
 /***/ }),
 /* 20 */
-/*!**********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/timeFrom.js ***!
-  \**********************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/timeFrom.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8746,9 +8746,9 @@ timeFrom;exports.default = _default;
 
 /***/ }),
 /* 21 */
-/*!***************************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/colorGradient.js ***!
-  \***************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/colorGradient.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8855,9 +8855,9 @@ function rgbToHex(rgb) {
 
 /***/ }),
 /* 22 */
-/*!******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/guid.js ***!
-  \******************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/guid.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8906,9 +8906,9 @@ guid;exports.default = _default;
 
 /***/ }),
 /* 23 */
-/*!*******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/color.js ***!
-  \*******************************************************************************/
+/*!**********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/color.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8953,9 +8953,9 @@ color;exports.default = _default;
 
 /***/ }),
 /* 24 */
-/*!***********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/type2icon.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/type2icon.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8998,9 +8998,9 @@ type2icon;exports.default = _default;
 
 /***/ }),
 /* 25 */
-/*!*************************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/randomArray.js ***!
-  \*************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/randomArray.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9015,9 +9015,9 @@ randomArray;exports.default = _default;
 
 /***/ }),
 /* 26 */
-/*!*********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/addUnit.js ***!
-  \*********************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/addUnit.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9033,9 +9033,9 @@ function addUnit() {var value = arguments.length > 0 && arguments[0] !== undefin
 
 /***/ }),
 /* 27 */
-/*!********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/random.js ***!
-  \********************************************************************************/
+/*!***********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/random.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9053,9 +9053,9 @@ random;exports.default = _default;
 
 /***/ }),
 /* 28 */
-/*!******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/trim.js ***!
-  \******************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/trim.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9078,9 +9078,9 @@ trim;exports.default = _default;
 
 /***/ }),
 /* 29 */
-/*!*******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/toast.js ***!
-  \*******************************************************************************/
+/*!**********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/toast.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9098,9 +9098,9 @@ toast;exports.default = _default;
 
 /***/ }),
 /* 30 */
-/*!***********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/getParent.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/getParent.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9155,9 +9155,9 @@ function getParent(name, keys) {
 
 /***/ }),
 /* 31 */
-/*!*********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/$parent.js ***!
-  \*********************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/$parent.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9183,9 +9183,9 @@ function $parent() {var name = arguments.length > 0 && arguments[0] !== undefine
 
 /***/ }),
 /* 32 */
-/*!*****************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/sys.js ***!
-  \*****************************************************************************/
+/*!********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/sys.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9201,9 +9201,9 @@ function sys() {
 
 /***/ }),
 /* 33 */
-/*!**********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/debounce.js ***!
-  \**********************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/debounce.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9240,9 +9240,9 @@ debounce;exports.default = _default;
 
 /***/ }),
 /* 34 */
-/*!**********************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/function/throttle.js ***!
-  \**********************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/function/throttle.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9282,9 +9282,9 @@ throttle;exports.default = _default;
 
 /***/ }),
 /* 35 */
-/*!******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/config/config.js ***!
-  \******************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/config/config.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9305,9 +9305,9 @@ var version = '1.7.3';var _default =
 
 /***/ }),
 /* 36 */
-/*!******************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/uview-ui/libs/config/zIndex.js ***!
-  \******************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/config/zIndex.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9334,9 +9334,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 37 */
-/*!**************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/store/index.js ***!
-  \**************************************************************/
+/*!*****************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/store/index.js ***!
+  \*****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10354,9 +10354,9 @@ var index_esm = {
 
 /***/ }),
 /* 39 */
-/*!************************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/js_sdk/u-charts/u-charts/u-charts.js ***!
-  \************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/js_sdk/u-charts/u-charts/u-charts.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16027,9 +16027,9 @@ if ( true && typeof module.exports === "object") {
 
 /***/ }),
 /* 40 */
-/*!**********************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/common/util/request.js ***!
-  \**********************************************************************/
+/*!*************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/common/util/request.js ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16062,9 +16062,9 @@ if ( true && typeof module.exports === "object") {
 
 /***/ }),
 /* 42 */
-/*!**************************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/pages.json?{"type":"stat"} ***!
-  \**************************************************************************/
+/*!*****************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/pages.json?{"type":"stat"} ***!
+  \*****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16861,9 +16861,45 @@ if (hadRuntime) {
 
 /***/ }),
 /* 46 */
-/*!*****************************************************************!*\
-  !*** /Users/huanghaoran/Desktop/Mycode/Tally/store/$u.mixin.js ***!
-  \*****************************************************************/
+/*!*************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/common/util/toolset.js ***!
+  \*************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
+  number2Week: function number2Week(number) {
+    switch (number) {
+      case 1:
+        return '星期一';
+        break;
+      case 2:
+        return '星期二';
+        break;
+      case 3:
+        return '星期三';
+        break;
+      case 4:
+        return '星期四';
+        break;
+      case 5:
+        return '星期五';
+        break;
+      case 6:
+        return '星期六';
+        break;
+      case 7:
+        return '星期日';
+        break;}
+
+  } };exports.default = _default;
+
+/***/ }),
+/* 47 */
+/*!********************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/store/$u.mixin.js ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16893,6 +16929,7839 @@ module.exports = {
   computed: _objectSpread({},
 
   (0, _vuex.mapState)($uStoreKey)) };
+
+/***/ }),
+/* 48 */,
+/* 49 */,
+/* 50 */,
+/* 51 */,
+/* 52 */,
+/* 53 */,
+/* 54 */,
+/* 55 */,
+/* 56 */,
+/* 57 */,
+/* 58 */,
+/* 59 */,
+/* 60 */,
+/* 61 */,
+/* 62 */,
+/* 63 */,
+/* 64 */,
+/* 65 */,
+/* 66 */,
+/* 67 */,
+/* 68 */,
+/* 69 */,
+/* 70 */,
+/* 71 */,
+/* 72 */,
+/* 73 */,
+/* 74 */,
+/* 75 */,
+/* 76 */,
+/* 77 */,
+/* 78 */,
+/* 79 */,
+/* 80 */,
+/* 81 */,
+/* 82 */,
+/* 83 */,
+/* 84 */,
+/* 85 */,
+/* 86 */,
+/* 87 */,
+/* 88 */,
+/* 89 */
+/*!*********************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/util/province.js ***!
+  \*********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var provinceData = [{ "label": "北京市", "value": "11" }, { "label": "天津市", "value": "12" }, { "label": "河北省", "value": "13" }, { "label": "山西省", "value": "14" }, { "label": "内蒙古自治区", "value": "15" }, { "label": "辽宁省", "value": "21" }, { "label": "吉林省", "value": "22" }, { "label": "黑龙江省", "value": "23" }, { "label": "上海市", "value": "31" }, { "label": "江苏省", "value": "32" }, { "label": "浙江省", "value": "33" }, { "label": "安徽省", "value": "34" }, { "label": "福建省", "value": "35" }, { "label": "江西省", "value": "36" }, { "label": "山东省", "value": "37" }, { "label": "河南省", "value": "41" }, { "label": "湖北省", "value": "42" }, { "label": "湖南省", "value": "43" }, { "label": "广东省", "value": "44" }, { "label": "广西壮族自治区", "value": "45" }, { "label": "海南省", "value": "46" }, { "label": "重庆市", "value": "50" }, { "label": "四川省", "value": "51" }, { "label": "贵州省", "value": "52" }, { "label": "云南省", "value": "53" }, { "label": "西藏自治区", "value": "54" }, { "label": "陕西省", "value": "61" }, { "label": "甘肃省", "value": "62" }, { "label": "青海省", "value": "63" }, { "label": "宁夏回族自治区", "value": "64" }, { "label": "新疆维吾尔自治区", "value": "65" }, { "label": "台湾", "value": "66" }, { "label": "香港", "value": "67" }, { "label": "澳门", "value": "68" }];var _default = provinceData;exports.default = _default;
+
+/***/ }),
+/* 90 */
+/*!*****************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/util/city.js ***!
+  \*****************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var cityData = [[{ "label": "市辖区", "value": "1101" }], [{ "label": "市辖区", "value": "1201" }], [{ "label": "石家庄市", "value": "1301" }, { "label": "唐山市", "value": "1302" }, { "label": "秦皇岛市", "value": "1303" }, { "label": "邯郸市", "value": "1304" }, { "label": "邢台市", "value": "1305" }, { "label": "保定市", "value": "1306" }, { "label": "张家口市", "value": "1307" }, { "label": "承德市", "value": "1308" }, { "label": "沧州市", "value": "1309" }, { "label": "廊坊市", "value": "1310" }, { "label": "衡水市", "value": "1311" }], [{ "label": "太原市", "value": "1401" }, { "label": "大同市", "value": "1402" }, { "label": "阳泉市", "value": "1403" }, { "label": "长治市", "value": "1404" }, { "label": "晋城市", "value": "1405" }, { "label": "朔州市", "value": "1406" }, { "label": "晋中市", "value": "1407" }, { "label": "运城市", "value": "1408" }, { "label": "忻州市", "value": "1409" }, { "label": "临汾市", "value": "1410" }, { "label": "吕梁市", "value": "1411" }], [{ "label": "呼和浩特市", "value": "1501" }, { "label": "包头市", "value": "1502" }, { "label": "乌海市", "value": "1503" }, { "label": "赤峰市", "value": "1504" }, { "label": "通辽市", "value": "1505" }, { "label": "鄂尔多斯市", "value": "1506" }, { "label": "呼伦贝尔市", "value": "1507" }, { "label": "巴彦淖尔市", "value": "1508" }, { "label": "乌兰察布市", "value": "1509" }, { "label": "兴安盟", "value": "1522" }, { "label": "锡林郭勒盟", "value": "1525" }, { "label": "阿拉善盟", "value": "1529" }], [{ "label": "沈阳市", "value": "2101" }, { "label": "大连市", "value": "2102" }, { "label": "鞍山市", "value": "2103" }, { "label": "抚顺市", "value": "2104" }, { "label": "本溪市", "value": "2105" }, { "label": "丹东市", "value": "2106" }, { "label": "锦州市", "value": "2107" }, { "label": "营口市", "value": "2108" }, { "label": "阜新市", "value": "2109" }, { "label": "辽阳市", "value": "2110" }, { "label": "盘锦市", "value": "2111" }, { "label": "铁岭市", "value": "2112" }, { "label": "朝阳市", "value": "2113" }, { "label": "葫芦岛市", "value": "2114" }], [{ "label": "长春市", "value": "2201" }, { "label": "吉林市", "value": "2202" }, { "label": "四平市", "value": "2203" }, { "label": "辽源市", "value": "2204" }, { "label": "通化市", "value": "2205" }, { "label": "白山市", "value": "2206" }, { "label": "松原市", "value": "2207" }, { "label": "白城市", "value": "2208" }, { "label": "延边朝鲜族自治州", "value": "2224" }], [{ "label": "哈尔滨市", "value": "2301" }, { "label": "齐齐哈尔市", "value": "2302" }, { "label": "鸡西市", "value": "2303" }, { "label": "鹤岗市", "value": "2304" }, { "label": "双鸭山市", "value": "2305" }, { "label": "大庆市", "value": "2306" }, { "label": "伊春市", "value": "2307" }, { "label": "佳木斯市", "value": "2308" }, { "label": "七台河市", "value": "2309" }, { "label": "牡丹江市", "value": "2310" }, { "label": "黑河市", "value": "2311" }, { "label": "绥化市", "value": "2312" }, { "label": "大兴安岭地区", "value": "2327" }], [{ "label": "市辖区", "value": "3101" }], [{ "label": "南京市", "value": "3201" }, { "label": "无锡市", "value": "3202" }, { "label": "徐州市", "value": "3203" }, { "label": "常州市", "value": "3204" }, { "label": "苏州市", "value": "3205" }, { "label": "南通市", "value": "3206" }, { "label": "连云港市", "value": "3207" }, { "label": "淮安市", "value": "3208" }, { "label": "盐城市", "value": "3209" }, { "label": "扬州市", "value": "3210" }, { "label": "镇江市", "value": "3211" }, { "label": "泰州市", "value": "3212" }, { "label": "宿迁市", "value": "3213" }], [{ "label": "杭州市", "value": "3301" }, { "label": "宁波市", "value": "3302" }, { "label": "温州市", "value": "3303" }, { "label": "嘉兴市", "value": "3304" }, { "label": "湖州市", "value": "3305" }, { "label": "绍兴市", "value": "3306" }, { "label": "金华市", "value": "3307" }, { "label": "衢州市", "value": "3308" }, { "label": "舟山市", "value": "3309" }, { "label": "台州市", "value": "3310" }, { "label": "丽水市", "value": "3311" }], [{ "label": "合肥市", "value": "3401" }, { "label": "芜湖市", "value": "3402" }, { "label": "蚌埠市", "value": "3403" }, { "label": "淮南市", "value": "3404" }, { "label": "马鞍山市", "value": "3405" }, { "label": "淮北市", "value": "3406" }, { "label": "铜陵市", "value": "3407" }, { "label": "安庆市", "value": "3408" }, { "label": "黄山市", "value": "3410" }, { "label": "滁州市", "value": "3411" }, { "label": "阜阳市", "value": "3412" }, { "label": "宿州市", "value": "3413" }, { "label": "六安市", "value": "3415" }, { "label": "亳州市", "value": "3416" }, { "label": "池州市", "value": "3417" }, { "label": "宣城市", "value": "3418" }], [{ "label": "福州市", "value": "3501" }, { "label": "厦门市", "value": "3502" }, { "label": "莆田市", "value": "3503" }, { "label": "三明市", "value": "3504" }, { "label": "泉州市", "value": "3505" }, { "label": "漳州市", "value": "3506" }, { "label": "南平市", "value": "3507" }, { "label": "龙岩市", "value": "3508" }, { "label": "宁德市", "value": "3509" }], [{ "label": "南昌市", "value": "3601" }, { "label": "景德镇市", "value": "3602" }, { "label": "萍乡市", "value": "3603" }, { "label": "九江市", "value": "3604" }, { "label": "新余市", "value": "3605" }, { "label": "鹰潭市", "value": "3606" }, { "label": "赣州市", "value": "3607" }, { "label": "吉安市", "value": "3608" }, { "label": "宜春市", "value": "3609" }, { "label": "抚州市", "value": "3610" }, { "label": "上饶市", "value": "3611" }], [{ "label": "济南市", "value": "3701" }, { "label": "青岛市", "value": "3702" }, { "label": "淄博市", "value": "3703" }, { "label": "枣庄市", "value": "3704" }, { "label": "东营市", "value": "3705" }, { "label": "烟台市", "value": "3706" }, { "label": "潍坊市", "value": "3707" }, { "label": "济宁市", "value": "3708" }, { "label": "泰安市", "value": "3709" }, { "label": "威海市", "value": "3710" }, { "label": "日照市", "value": "3711" }, { "label": "莱芜市", "value": "3712" }, { "label": "临沂市", "value": "3713" }, { "label": "德州市", "value": "3714" }, { "label": "聊城市", "value": "3715" }, { "label": "滨州市", "value": "3716" }, { "label": "菏泽市", "value": "3717" }], [{ "label": "郑州市", "value": "4101" }, { "label": "开封市", "value": "4102" }, { "label": "洛阳市", "value": "4103" }, { "label": "平顶山市", "value": "4104" }, { "label": "安阳市", "value": "4105" }, { "label": "鹤壁市", "value": "4106" }, { "label": "新乡市", "value": "4107" }, { "label": "焦作市", "value": "4108" }, { "label": "濮阳市", "value": "4109" }, { "label": "许昌市", "value": "4110" }, { "label": "漯河市", "value": "4111" }, { "label": "三门峡市", "value": "4112" }, { "label": "南阳市", "value": "4113" }, { "label": "商丘市", "value": "4114" }, { "label": "信阳市", "value": "4115" }, { "label": "周口市", "value": "4116" }, { "label": "驻马店市", "value": "4117" }, { "label": "省直辖县级行政区划", "value": "4190" }], [{ "label": "武汉市", "value": "4201" }, { "label": "黄石市", "value": "4202" }, { "label": "十堰市", "value": "4203" }, { "label": "宜昌市", "value": "4205" }, { "label": "襄阳市", "value": "4206" }, { "label": "鄂州市", "value": "4207" }, { "label": "荆门市", "value": "4208" }, { "label": "孝感市", "value": "4209" }, { "label": "荆州市", "value": "4210" }, { "label": "黄冈市", "value": "4211" }, { "label": "咸宁市", "value": "4212" }, { "label": "随州市", "value": "4213" }, { "label": "恩施土家族苗族自治州", "value": "4228" }, { "label": "省直辖县级行政区划", "value": "4290" }], [{ "label": "长沙市", "value": "4301" }, { "label": "株洲市", "value": "4302" }, { "label": "湘潭市", "value": "4303" }, { "label": "衡阳市", "value": "4304" }, { "label": "邵阳市", "value": "4305" }, { "label": "岳阳市", "value": "4306" }, { "label": "常德市", "value": "4307" }, { "label": "张家界市", "value": "4308" }, { "label": "益阳市", "value": "4309" }, { "label": "郴州市", "value": "4310" }, { "label": "永州市", "value": "4311" }, { "label": "怀化市", "value": "4312" }, { "label": "娄底市", "value": "4313" }, { "label": "湘西土家族苗族自治州", "value": "4331" }], [{ "label": "广州市", "value": "4401" }, { "label": "韶关市", "value": "4402" }, { "label": "深圳市", "value": "4403" }, { "label": "珠海市", "value": "4404" }, { "label": "汕头市", "value": "4405" }, { "label": "佛山市", "value": "4406" }, { "label": "江门市", "value": "4407" }, { "label": "湛江市", "value": "4408" }, { "label": "茂名市", "value": "4409" }, { "label": "肇庆市", "value": "4412" }, { "label": "惠州市", "value": "4413" }, { "label": "梅州市", "value": "4414" }, { "label": "汕尾市", "value": "4415" }, { "label": "河源市", "value": "4416" }, { "label": "阳江市", "value": "4417" }, { "label": "清远市", "value": "4418" }, { "label": "东莞市", "value": "4419" }, { "label": "中山市", "value": "4420" }, { "label": "潮州市", "value": "4451" }, { "label": "揭阳市", "value": "4452" }, { "label": "云浮市", "value": "4453" }], [{ "label": "南宁市", "value": "4501" }, { "label": "柳州市", "value": "4502" }, { "label": "桂林市", "value": "4503" }, { "label": "梧州市", "value": "4504" }, { "label": "北海市", "value": "4505" }, { "label": "防城港市", "value": "4506" }, { "label": "钦州市", "value": "4507" }, { "label": "贵港市", "value": "4508" }, { "label": "玉林市", "value": "4509" }, { "label": "百色市", "value": "4510" }, { "label": "贺州市", "value": "4511" }, { "label": "河池市", "value": "4512" }, { "label": "来宾市", "value": "4513" }, { "label": "崇左市", "value": "4514" }], [{ "label": "海口市", "value": "4601" }, { "label": "三亚市", "value": "4602" }, { "label": "三沙市", "value": "4603" }, { "label": "儋州市", "value": "4604" }, { "label": "省直辖县级行政区划", "value": "4690" }], [{ "label": "市辖区", "value": "5001" }, { "label": "县", "value": "5002" }], [{ "label": "成都市", "value": "5101" }, { "label": "自贡市", "value": "5103" }, { "label": "攀枝花市", "value": "5104" }, { "label": "泸州市", "value": "5105" }, { "label": "德阳市", "value": "5106" }, { "label": "绵阳市", "value": "5107" }, { "label": "广元市", "value": "5108" }, { "label": "遂宁市", "value": "5109" }, { "label": "内江市", "value": "5110" }, { "label": "乐山市", "value": "5111" }, { "label": "南充市", "value": "5113" }, { "label": "眉山市", "value": "5114" }, { "label": "宜宾市", "value": "5115" }, { "label": "广安市", "value": "5116" }, { "label": "达州市", "value": "5117" }, { "label": "雅安市", "value": "5118" }, { "label": "巴中市", "value": "5119" }, { "label": "资阳市", "value": "5120" }, { "label": "阿坝藏族羌族自治州", "value": "5132" }, { "label": "甘孜藏族自治州", "value": "5133" }, { "label": "凉山彝族自治州", "value": "5134" }], [{ "label": "贵阳市", "value": "5201" }, { "label": "六盘水市", "value": "5202" }, { "label": "遵义市", "value": "5203" }, { "label": "安顺市", "value": "5204" }, { "label": "毕节市", "value": "5205" }, { "label": "铜仁市", "value": "5206" }, { "label": "黔西南布依族苗族自治州", "value": "5223" }, { "label": "黔东南苗族侗族自治州", "value": "5226" }, { "label": "黔南布依族苗族自治州", "value": "5227" }], [{ "label": "昆明市", "value": "5301" }, { "label": "曲靖市", "value": "5303" }, { "label": "玉溪市", "value": "5304" }, { "label": "保山市", "value": "5305" }, { "label": "昭通市", "value": "5306" }, { "label": "丽江市", "value": "5307" }, { "label": "普洱市", "value": "5308" }, { "label": "临沧市", "value": "5309" }, { "label": "楚雄彝族自治州", "value": "5323" }, { "label": "红河哈尼族彝族自治州", "value": "5325" }, { "label": "文山壮族苗族自治州", "value": "5326" }, { "label": "西双版纳傣族自治州", "value": "5328" }, { "label": "大理白族自治州", "value": "5329" }, { "label": "德宏傣族景颇族自治州", "value": "5331" }, { "label": "怒江傈僳族自治州", "value": "5333" }, { "label": "迪庆藏族自治州", "value": "5334" }], [{ "label": "拉萨市", "value": "5401" }, { "label": "日喀则市", "value": "5402" }, { "label": "昌都市", "value": "5403" }, { "label": "林芝市", "value": "5404" }, { "label": "山南市", "value": "5405" }, { "label": "那曲地区", "value": "5424" }, { "label": "阿里地区", "value": "5425" }], [{ "label": "西安市", "value": "6101" }, { "label": "铜川市", "value": "6102" }, { "label": "宝鸡市", "value": "6103" }, { "label": "咸阳市", "value": "6104" }, { "label": "渭南市", "value": "6105" }, { "label": "延安市", "value": "6106" }, { "label": "汉中市", "value": "6107" }, { "label": "榆林市", "value": "6108" }, { "label": "安康市", "value": "6109" }, { "label": "商洛市", "value": "6110" }], [{ "label": "兰州市", "value": "6201" }, { "label": "嘉峪关市", "value": "6202" }, { "label": "金昌市", "value": "6203" }, { "label": "白银市", "value": "6204" }, { "label": "天水市", "value": "6205" }, { "label": "武威市", "value": "6206" }, { "label": "张掖市", "value": "6207" }, { "label": "平凉市", "value": "6208" }, { "label": "酒泉市", "value": "6209" }, { "label": "庆阳市", "value": "6210" }, { "label": "定西市", "value": "6211" }, { "label": "陇南市", "value": "6212" }, { "label": "临夏回族自治州", "value": "6229" }, { "label": "甘南藏族自治州", "value": "6230" }], [{ "label": "西宁市", "value": "6301" }, { "label": "海东市", "value": "6302" }, { "label": "海北藏族自治州", "value": "6322" }, { "label": "黄南藏族自治州", "value": "6323" }, { "label": "海南藏族自治州", "value": "6325" }, { "label": "果洛藏族自治州", "value": "6326" }, { "label": "玉树藏族自治州", "value": "6327" }, { "label": "海西蒙古族藏族自治州", "value": "6328" }], [{ "label": "银川市", "value": "6401" }, { "label": "石嘴山市", "value": "6402" }, { "label": "吴忠市", "value": "6403" }, { "label": "固原市", "value": "6404" }, { "label": "中卫市", "value": "6405" }], [{ "label": "乌鲁木齐市", "value": "6501" }, { "label": "克拉玛依市", "value": "6502" }, { "label": "吐鲁番市", "value": "6504" }, { "label": "哈密市", "value": "6505" }, { "label": "昌吉回族自治州", "value": "6523" }, { "label": "博尔塔拉蒙古自治州", "value": "6527" }, { "label": "巴音郭楞蒙古自治州", "value": "6528" }, { "label": "阿克苏地区", "value": "6529" }, { "label": "克孜勒苏柯尔克孜自治州", "value": "6530" }, { "label": "喀什地区", "value": "6531" }, { "label": "和田地区", "value": "6532" }, { "label": "伊犁哈萨克自治州", "value": "6540" }, { "label": "塔城地区", "value": "6542" }, { "label": "阿勒泰地区", "value": "6543" }, { "label": "自治区直辖县级行政区划", "value": "6590" }], [{ "label": "台北", "value": "6601" }, { "label": "高雄", "value": "6602" }, { "label": "基隆", "value": "6603" }, { "label": "台中", "value": "6604" }, { "label": "台南", "value": "6605" }, { "label": "新竹", "value": "6606" }, { "label": "嘉义", "value": "6607" }, { "label": "宜兰", "value": "6608" }, { "label": "桃园", "value": "6609" }, { "label": "苗栗", "value": "6610" }, { "label": "彰化", "value": "6611" }, { "label": "南投", "value": "6612" }, { "label": "云林", "value": "6613" }, { "label": "屏东", "value": "6614" }, { "label": "台东", "value": "6615" }, { "label": "花莲", "value": "6616" }, { "label": "澎湖", "value": "6617" }], [{ "label": "香港岛", "value": "6701" }, { "label": "九龙", "value": "6702" }, { "label": "新界", "value": "6703" }], [{ "label": "澳门半岛", "value": "6801" }, { "label": "氹仔岛", "value": "6802" }, { "label": "路环岛", "value": "6803" }, { "label": "路氹城", "value": "6804" }]];var _default = cityData;exports.default = _default;
+
+/***/ }),
+/* 91 */
+/*!*****************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/uview-ui/libs/util/area.js ***!
+  \*****************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var areaData = [[[{ "label": "东城区", "value": "110101" }, { "label": "西城区", "value": "110102" }, { "label": "朝阳区", "value": "110105" }, { "label": "丰台区", "value": "110106" }, { "label": "石景山区", "value": "110107" }, { "label": "海淀区", "value": "110108" }, { "label": "门头沟区", "value": "110109" }, { "label": "房山区", "value": "110111" }, { "label": "通州区", "value": "110112" }, { "label": "顺义区", "value": "110113" }, { "label": "昌平区", "value": "110114" }, { "label": "大兴区", "value": "110115" }, { "label": "怀柔区", "value": "110116" }, { "label": "平谷区", "value": "110117" }, { "label": "密云区", "value": "110118" }, { "label": "延庆区", "value": "110119" }]], [[{ "label": "和平区", "value": "120101" }, { "label": "河东区", "value": "120102" }, { "label": "河西区", "value": "120103" }, { "label": "南开区", "value": "120104" }, { "label": "河北区", "value": "120105" }, { "label": "红桥区", "value": "120106" }, { "label": "东丽区", "value": "120110" }, { "label": "西青区", "value": "120111" }, { "label": "津南区", "value": "120112" }, { "label": "北辰区", "value": "120113" }, { "label": "武清区", "value": "120114" }, { "label": "宝坻区", "value": "120115" }, { "label": "滨海新区", "value": "120116" }, { "label": "宁河区", "value": "120117" }, { "label": "静海区", "value": "120118" }, { "label": "蓟州区", "value": "120119" }]], [[{ "label": "长安区", "value": "130102" }, { "label": "桥西区", "value": "130104" }, { "label": "新华区", "value": "130105" }, { "label": "井陉矿区", "value": "130107" }, { "label": "裕华区", "value": "130108" }, { "label": "藁城区", "value": "130109" }, { "label": "鹿泉区", "value": "130110" }, { "label": "栾城区", "value": "130111" }, { "label": "井陉县", "value": "130121" }, { "label": "正定县", "value": "130123" }, { "label": "行唐县", "value": "130125" }, { "label": "灵寿县", "value": "130126" }, { "label": "高邑县", "value": "130127" }, { "label": "深泽县", "value": "130128" }, { "label": "赞皇县", "value": "130129" }, { "label": "无极县", "value": "130130" }, { "label": "平山县", "value": "130131" }, { "label": "元氏县", "value": "130132" }, { "label": "赵县", "value": "130133" }, { "label": "石家庄高新技术产业开发区", "value": "130171" }, { "label": "石家庄循环化工园区", "value": "130172" }, { "label": "辛集市", "value": "130181" }, { "label": "晋州市", "value": "130183" }, { "label": "新乐市", "value": "130184" }], [{ "label": "路南区", "value": "130202" }, { "label": "路北区", "value": "130203" }, { "label": "古冶区", "value": "130204" }, { "label": "开平区", "value": "130205" }, { "label": "丰南区", "value": "130207" }, { "label": "丰润区", "value": "130208" }, { "label": "曹妃甸区", "value": "130209" }, { "label": "滦县", "value": "130223" }, { "label": "滦南县", "value": "130224" }, { "label": "乐亭县", "value": "130225" }, { "label": "迁西县", "value": "130227" }, { "label": "玉田县", "value": "130229" }, { "label": "唐山市芦台经济技术开发区", "value": "130271" }, { "label": "唐山市汉沽管理区", "value": "130272" }, { "label": "唐山高新技术产业开发区", "value": "130273" }, { "label": "河北唐山海港经济开发区", "value": "130274" }, { "label": "遵化市", "value": "130281" }, { "label": "迁安市", "value": "130283" }], [{ "label": "海港区", "value": "130302" }, { "label": "山海关区", "value": "130303" }, { "label": "北戴河区", "value": "130304" }, { "label": "抚宁区", "value": "130306" }, { "label": "青龙满族自治县", "value": "130321" }, { "label": "昌黎县", "value": "130322" }, { "label": "卢龙县", "value": "130324" }, { "label": "秦皇岛市经济技术开发区", "value": "130371" }, { "label": "北戴河新区", "value": "130372" }], [{ "label": "邯山区", "value": "130402" }, { "label": "丛台区", "value": "130403" }, { "label": "复兴区", "value": "130404" }, { "label": "峰峰矿区", "value": "130406" }, { "label": "肥乡区", "value": "130407" }, { "label": "永年区", "value": "130408" }, { "label": "临漳县", "value": "130423" }, { "label": "成安县", "value": "130424" }, { "label": "大名县", "value": "130425" }, { "label": "涉县", "value": "130426" }, { "label": "磁县", "value": "130427" }, { "label": "邱县", "value": "130430" }, { "label": "鸡泽县", "value": "130431" }, { "label": "广平县", "value": "130432" }, { "label": "馆陶县", "value": "130433" }, { "label": "魏县", "value": "130434" }, { "label": "曲周县", "value": "130435" }, { "label": "邯郸经济技术开发区", "value": "130471" }, { "label": "邯郸冀南新区", "value": "130473" }, { "label": "武安市", "value": "130481" }], [{ "label": "桥东区", "value": "130502" }, { "label": "桥西区", "value": "130503" }, { "label": "邢台县", "value": "130521" }, { "label": "临城县", "value": "130522" }, { "label": "内丘县", "value": "130523" }, { "label": "柏乡县", "value": "130524" }, { "label": "隆尧县", "value": "130525" }, { "label": "任县", "value": "130526" }, { "label": "南和县", "value": "130527" }, { "label": "宁晋县", "value": "130528" }, { "label": "巨鹿县", "value": "130529" }, { "label": "新河县", "value": "130530" }, { "label": "广宗县", "value": "130531" }, { "label": "平乡县", "value": "130532" }, { "label": "威县", "value": "130533" }, { "label": "清河县", "value": "130534" }, { "label": "临西县", "value": "130535" }, { "label": "河北邢台经济开发区", "value": "130571" }, { "label": "南宫市", "value": "130581" }, { "label": "沙河市", "value": "130582" }], [{ "label": "竞秀区", "value": "130602" }, { "label": "莲池区", "value": "130606" }, { "label": "满城区", "value": "130607" }, { "label": "清苑区", "value": "130608" }, { "label": "徐水区", "value": "130609" }, { "label": "涞水县", "value": "130623" }, { "label": "阜平县", "value": "130624" }, { "label": "定兴县", "value": "130626" }, { "label": "唐县", "value": "130627" }, { "label": "高阳县", "value": "130628" }, { "label": "容城县", "value": "130629" }, { "label": "涞源县", "value": "130630" }, { "label": "望都县", "value": "130631" }, { "label": "安新县", "value": "130632" }, { "label": "易县", "value": "130633" }, { "label": "曲阳县", "value": "130634" }, { "label": "蠡县", "value": "130635" }, { "label": "顺平县", "value": "130636" }, { "label": "博野县", "value": "130637" }, { "label": "雄县", "value": "130638" }, { "label": "保定高新技术产业开发区", "value": "130671" }, { "label": "保定白沟新城", "value": "130672" }, { "label": "涿州市", "value": "130681" }, { "label": "定州市", "value": "130682" }, { "label": "安国市", "value": "130683" }, { "label": "高碑店市", "value": "130684" }], [{ "label": "桥东区", "value": "130702" }, { "label": "桥西区", "value": "130703" }, { "label": "宣化区", "value": "130705" }, { "label": "下花园区", "value": "130706" }, { "label": "万全区", "value": "130708" }, { "label": "崇礼区", "value": "130709" }, { "label": "张北县", "value": "130722" }, { "label": "康保县", "value": "130723" }, { "label": "沽源县", "value": "130724" }, { "label": "尚义县", "value": "130725" }, { "label": "蔚县", "value": "130726" }, { "label": "阳原县", "value": "130727" }, { "label": "怀安县", "value": "130728" }, { "label": "怀来县", "value": "130730" }, { "label": "涿鹿县", "value": "130731" }, { "label": "赤城县", "value": "130732" }, { "label": "张家口市高新技术产业开发区", "value": "130771" }, { "label": "张家口市察北管理区", "value": "130772" }, { "label": "张家口市塞北管理区", "value": "130773" }], [{ "label": "双桥区", "value": "130802" }, { "label": "双滦区", "value": "130803" }, { "label": "鹰手营子矿区", "value": "130804" }, { "label": "承德县", "value": "130821" }, { "label": "兴隆县", "value": "130822" }, { "label": "滦平县", "value": "130824" }, { "label": "隆化县", "value": "130825" }, { "label": "丰宁满族自治县", "value": "130826" }, { "label": "宽城满族自治县", "value": "130827" }, { "label": "围场满族蒙古族自治县", "value": "130828" }, { "label": "承德高新技术产业开发区", "value": "130871" }, { "label": "平泉市", "value": "130881" }], [{ "label": "新华区", "value": "130902" }, { "label": "运河区", "value": "130903" }, { "label": "沧县", "value": "130921" }, { "label": "青县", "value": "130922" }, { "label": "东光县", "value": "130923" }, { "label": "海兴县", "value": "130924" }, { "label": "盐山县", "value": "130925" }, { "label": "肃宁县", "value": "130926" }, { "label": "南皮县", "value": "130927" }, { "label": "吴桥县", "value": "130928" }, { "label": "献县", "value": "130929" }, { "label": "孟村回族自治县", "value": "130930" }, { "label": "河北沧州经济开发区", "value": "130971" }, { "label": "沧州高新技术产业开发区", "value": "130972" }, { "label": "沧州渤海新区", "value": "130973" }, { "label": "泊头市", "value": "130981" }, { "label": "任丘市", "value": "130982" }, { "label": "黄骅市", "value": "130983" }, { "label": "河间市", "value": "130984" }], [{ "label": "安次区", "value": "131002" }, { "label": "广阳区", "value": "131003" }, { "label": "固安县", "value": "131022" }, { "label": "永清县", "value": "131023" }, { "label": "香河县", "value": "131024" }, { "label": "大城县", "value": "131025" }, { "label": "文安县", "value": "131026" }, { "label": "大厂回族自治县", "value": "131028" }, { "label": "廊坊经济技术开发区", "value": "131071" }, { "label": "霸州市", "value": "131081" }, { "label": "三河市", "value": "131082" }], [{ "label": "桃城区", "value": "131102" }, { "label": "冀州区", "value": "131103" }, { "label": "枣强县", "value": "131121" }, { "label": "武邑县", "value": "131122" }, { "label": "武强县", "value": "131123" }, { "label": "饶阳县", "value": "131124" }, { "label": "安平县", "value": "131125" }, { "label": "故城县", "value": "131126" }, { "label": "景县", "value": "131127" }, { "label": "阜城县", "value": "131128" }, { "label": "河北衡水经济开发区", "value": "131171" }, { "label": "衡水滨湖新区", "value": "131172" }, { "label": "深州市", "value": "131182" }]], [[{ "label": "小店区", "value": "140105" }, { "label": "迎泽区", "value": "140106" }, { "label": "杏花岭区", "value": "140107" }, { "label": "尖草坪区", "value": "140108" }, { "label": "万柏林区", "value": "140109" }, { "label": "晋源区", "value": "140110" }, { "label": "清徐县", "value": "140121" }, { "label": "阳曲县", "value": "140122" }, { "label": "娄烦县", "value": "140123" }, { "label": "山西转型综合改革示范区", "value": "140171" }, { "label": "古交市", "value": "140181" }], [{ "label": "城区", "value": "140202" }, { "label": "矿区", "value": "140203" }, { "label": "南郊区", "value": "140211" }, { "label": "新荣区", "value": "140212" }, { "label": "阳高县", "value": "140221" }, { "label": "天镇县", "value": "140222" }, { "label": "广灵县", "value": "140223" }, { "label": "灵丘县", "value": "140224" }, { "label": "浑源县", "value": "140225" }, { "label": "左云县", "value": "140226" }, { "label": "大同县", "value": "140227" }, { "label": "山西大同经济开发区", "value": "140271" }], [{ "label": "城区", "value": "140302" }, { "label": "矿区", "value": "140303" }, { "label": "郊区", "value": "140311" }, { "label": "平定县", "value": "140321" }, { "label": "盂县", "value": "140322" }, { "label": "山西阳泉经济开发区", "value": "140371" }], [{ "label": "城区", "value": "140402" }, { "label": "郊区", "value": "140411" }, { "label": "长治县", "value": "140421" }, { "label": "襄垣县", "value": "140423" }, { "label": "屯留县", "value": "140424" }, { "label": "平顺县", "value": "140425" }, { "label": "黎城县", "value": "140426" }, { "label": "壶关县", "value": "140427" }, { "label": "长子县", "value": "140428" }, { "label": "武乡县", "value": "140429" }, { "label": "沁县", "value": "140430" }, { "label": "沁源县", "value": "140431" }, { "label": "山西长治高新技术产业园区", "value": "140471" }, { "label": "潞城市", "value": "140481" }], [{ "label": "城区", "value": "140502" }, { "label": "沁水县", "value": "140521" }, { "label": "阳城县", "value": "140522" }, { "label": "陵川县", "value": "140524" }, { "label": "泽州县", "value": "140525" }, { "label": "高平市", "value": "140581" }], [{ "label": "朔城区", "value": "140602" }, { "label": "平鲁区", "value": "140603" }, { "label": "山阴县", "value": "140621" }, { "label": "应县", "value": "140622" }, { "label": "右玉县", "value": "140623" }, { "label": "怀仁县", "value": "140624" }, { "label": "山西朔州经济开发区", "value": "140671" }], [{ "label": "榆次区", "value": "140702" }, { "label": "榆社县", "value": "140721" }, { "label": "左权县", "value": "140722" }, { "label": "和顺县", "value": "140723" }, { "label": "昔阳县", "value": "140724" }, { "label": "寿阳县", "value": "140725" }, { "label": "太谷县", "value": "140726" }, { "label": "祁县", "value": "140727" }, { "label": "平遥县", "value": "140728" }, { "label": "灵石县", "value": "140729" }, { "label": "介休市", "value": "140781" }], [{ "label": "盐湖区", "value": "140802" }, { "label": "临猗县", "value": "140821" }, { "label": "万荣县", "value": "140822" }, { "label": "闻喜县", "value": "140823" }, { "label": "稷山县", "value": "140824" }, { "label": "新绛县", "value": "140825" }, { "label": "绛县", "value": "140826" }, { "label": "垣曲县", "value": "140827" }, { "label": "夏县", "value": "140828" }, { "label": "平陆县", "value": "140829" }, { "label": "芮城县", "value": "140830" }, { "label": "永济市", "value": "140881" }, { "label": "河津市", "value": "140882" }], [{ "label": "忻府区", "value": "140902" }, { "label": "定襄县", "value": "140921" }, { "label": "五台县", "value": "140922" }, { "label": "代县", "value": "140923" }, { "label": "繁峙县", "value": "140924" }, { "label": "宁武县", "value": "140925" }, { "label": "静乐县", "value": "140926" }, { "label": "神池县", "value": "140927" }, { "label": "五寨县", "value": "140928" }, { "label": "岢岚县", "value": "140929" }, { "label": "河曲县", "value": "140930" }, { "label": "保德县", "value": "140931" }, { "label": "偏关县", "value": "140932" }, { "label": "五台山风景名胜区", "value": "140971" }, { "label": "原平市", "value": "140981" }], [{ "label": "尧都区", "value": "141002" }, { "label": "曲沃县", "value": "141021" }, { "label": "翼城县", "value": "141022" }, { "label": "襄汾县", "value": "141023" }, { "label": "洪洞县", "value": "141024" }, { "label": "古县", "value": "141025" }, { "label": "安泽县", "value": "141026" }, { "label": "浮山县", "value": "141027" }, { "label": "吉县", "value": "141028" }, { "label": "乡宁县", "value": "141029" }, { "label": "大宁县", "value": "141030" }, { "label": "隰县", "value": "141031" }, { "label": "永和县", "value": "141032" }, { "label": "蒲县", "value": "141033" }, { "label": "汾西县", "value": "141034" }, { "label": "侯马市", "value": "141081" }, { "label": "霍州市", "value": "141082" }], [{ "label": "离石区", "value": "141102" }, { "label": "文水县", "value": "141121" }, { "label": "交城县", "value": "141122" }, { "label": "兴县", "value": "141123" }, { "label": "临县", "value": "141124" }, { "label": "柳林县", "value": "141125" }, { "label": "石楼县", "value": "141126" }, { "label": "岚县", "value": "141127" }, { "label": "方山县", "value": "141128" }, { "label": "中阳县", "value": "141129" }, { "label": "交口县", "value": "141130" }, { "label": "孝义市", "value": "141181" }, { "label": "汾阳市", "value": "141182" }]], [[{ "label": "新城区", "value": "150102" }, { "label": "回民区", "value": "150103" }, { "label": "玉泉区", "value": "150104" }, { "label": "赛罕区", "value": "150105" }, { "label": "土默特左旗", "value": "150121" }, { "label": "托克托县", "value": "150122" }, { "label": "和林格尔县", "value": "150123" }, { "label": "清水河县", "value": "150124" }, { "label": "武川县", "value": "150125" }, { "label": "呼和浩特金海工业园区", "value": "150171" }, { "label": "呼和浩特经济技术开发区", "value": "150172" }], [{ "label": "东河区", "value": "150202" }, { "label": "昆都仑区", "value": "150203" }, { "label": "青山区", "value": "150204" }, { "label": "石拐区", "value": "150205" }, { "label": "白云鄂博矿区", "value": "150206" }, { "label": "九原区", "value": "150207" }, { "label": "土默特右旗", "value": "150221" }, { "label": "固阳县", "value": "150222" }, { "label": "达尔罕茂明安联合旗", "value": "150223" }, { "label": "包头稀土高新技术产业开发区", "value": "150271" }], [{ "label": "海勃湾区", "value": "150302" }, { "label": "海南区", "value": "150303" }, { "label": "乌达区", "value": "150304" }], [{ "label": "红山区", "value": "150402" }, { "label": "元宝山区", "value": "150403" }, { "label": "松山区", "value": "150404" }, { "label": "阿鲁科尔沁旗", "value": "150421" }, { "label": "巴林左旗", "value": "150422" }, { "label": "巴林右旗", "value": "150423" }, { "label": "林西县", "value": "150424" }, { "label": "克什克腾旗", "value": "150425" }, { "label": "翁牛特旗", "value": "150426" }, { "label": "喀喇沁旗", "value": "150428" }, { "label": "宁城县", "value": "150429" }, { "label": "敖汉旗", "value": "150430" }], [{ "label": "科尔沁区", "value": "150502" }, { "label": "科尔沁左翼中旗", "value": "150521" }, { "label": "科尔沁左翼后旗", "value": "150522" }, { "label": "开鲁县", "value": "150523" }, { "label": "库伦旗", "value": "150524" }, { "label": "奈曼旗", "value": "150525" }, { "label": "扎鲁特旗", "value": "150526" }, { "label": "通辽经济技术开发区", "value": "150571" }, { "label": "霍林郭勒市", "value": "150581" }], [{ "label": "东胜区", "value": "150602" }, { "label": "康巴什区", "value": "150603" }, { "label": "达拉特旗", "value": "150621" }, { "label": "准格尔旗", "value": "150622" }, { "label": "鄂托克前旗", "value": "150623" }, { "label": "鄂托克旗", "value": "150624" }, { "label": "杭锦旗", "value": "150625" }, { "label": "乌审旗", "value": "150626" }, { "label": "伊金霍洛旗", "value": "150627" }], [{ "label": "海拉尔区", "value": "150702" }, { "label": "扎赉诺尔区", "value": "150703" }, { "label": "阿荣旗", "value": "150721" }, { "label": "莫力达瓦达斡尔族自治旗", "value": "150722" }, { "label": "鄂伦春自治旗", "value": "150723" }, { "label": "鄂温克族自治旗", "value": "150724" }, { "label": "陈巴尔虎旗", "value": "150725" }, { "label": "新巴尔虎左旗", "value": "150726" }, { "label": "新巴尔虎右旗", "value": "150727" }, { "label": "满洲里市", "value": "150781" }, { "label": "牙克石市", "value": "150782" }, { "label": "扎兰屯市", "value": "150783" }, { "label": "额尔古纳市", "value": "150784" }, { "label": "根河市", "value": "150785" }], [{ "label": "临河区", "value": "150802" }, { "label": "五原县", "value": "150821" }, { "label": "磴口县", "value": "150822" }, { "label": "乌拉特前旗", "value": "150823" }, { "label": "乌拉特中旗", "value": "150824" }, { "label": "乌拉特后旗", "value": "150825" }, { "label": "杭锦后旗", "value": "150826" }], [{ "label": "集宁区", "value": "150902" }, { "label": "卓资县", "value": "150921" }, { "label": "化德县", "value": "150922" }, { "label": "商都县", "value": "150923" }, { "label": "兴和县", "value": "150924" }, { "label": "凉城县", "value": "150925" }, { "label": "察哈尔右翼前旗", "value": "150926" }, { "label": "察哈尔右翼中旗", "value": "150927" }, { "label": "察哈尔右翼后旗", "value": "150928" }, { "label": "四子王旗", "value": "150929" }, { "label": "丰镇市", "value": "150981" }], [{ "label": "乌兰浩特市", "value": "152201" }, { "label": "阿尔山市", "value": "152202" }, { "label": "科尔沁右翼前旗", "value": "152221" }, { "label": "科尔沁右翼中旗", "value": "152222" }, { "label": "扎赉特旗", "value": "152223" }, { "label": "突泉县", "value": "152224" }], [{ "label": "二连浩特市", "value": "152501" }, { "label": "锡林浩特市", "value": "152502" }, { "label": "阿巴嘎旗", "value": "152522" }, { "label": "苏尼特左旗", "value": "152523" }, { "label": "苏尼特右旗", "value": "152524" }, { "label": "东乌珠穆沁旗", "value": "152525" }, { "label": "西乌珠穆沁旗", "value": "152526" }, { "label": "太仆寺旗", "value": "152527" }, { "label": "镶黄旗", "value": "152528" }, { "label": "正镶白旗", "value": "152529" }, { "label": "正蓝旗", "value": "152530" }, { "label": "多伦县", "value": "152531" }, { "label": "乌拉盖管委会", "value": "152571" }], [{ "label": "阿拉善左旗", "value": "152921" }, { "label": "阿拉善右旗", "value": "152922" }, { "label": "额济纳旗", "value": "152923" }, { "label": "内蒙古阿拉善经济开发区", "value": "152971" }]], [[{ "label": "和平区", "value": "210102" }, { "label": "沈河区", "value": "210103" }, { "label": "大东区", "value": "210104" }, { "label": "皇姑区", "value": "210105" }, { "label": "铁西区", "value": "210106" }, { "label": "苏家屯区", "value": "210111" }, { "label": "浑南区", "value": "210112" }, { "label": "沈北新区", "value": "210113" }, { "label": "于洪区", "value": "210114" }, { "label": "辽中区", "value": "210115" }, { "label": "康平县", "value": "210123" }, { "label": "法库县", "value": "210124" }, { "label": "新民市", "value": "210181" }], [{ "label": "中山区", "value": "210202" }, { "label": "西岗区", "value": "210203" }, { "label": "沙河口区", "value": "210204" }, { "label": "甘井子区", "value": "210211" }, { "label": "旅顺口区", "value": "210212" }, { "label": "金州区", "value": "210213" }, { "label": "普兰店区", "value": "210214" }, { "label": "长海县", "value": "210224" }, { "label": "瓦房店市", "value": "210281" }, { "label": "庄河市", "value": "210283" }], [{ "label": "铁东区", "value": "210302" }, { "label": "铁西区", "value": "210303" }, { "label": "立山区", "value": "210304" }, { "label": "千山区", "value": "210311" }, { "label": "台安县", "value": "210321" }, { "label": "岫岩满族自治县", "value": "210323" }, { "label": "海城市", "value": "210381" }], [{ "label": "新抚区", "value": "210402" }, { "label": "东洲区", "value": "210403" }, { "label": "望花区", "value": "210404" }, { "label": "顺城区", "value": "210411" }, { "label": "抚顺县", "value": "210421" }, { "label": "新宾满族自治县", "value": "210422" }, { "label": "清原满族自治县", "value": "210423" }], [{ "label": "平山区", "value": "210502" }, { "label": "溪湖区", "value": "210503" }, { "label": "明山区", "value": "210504" }, { "label": "南芬区", "value": "210505" }, { "label": "本溪满族自治县", "value": "210521" }, { "label": "桓仁满族自治县", "value": "210522" }], [{ "label": "元宝区", "value": "210602" }, { "label": "振兴区", "value": "210603" }, { "label": "振安区", "value": "210604" }, { "label": "宽甸满族自治县", "value": "210624" }, { "label": "东港市", "value": "210681" }, { "label": "凤城市", "value": "210682" }], [{ "label": "古塔区", "value": "210702" }, { "label": "凌河区", "value": "210703" }, { "label": "太和区", "value": "210711" }, { "label": "黑山县", "value": "210726" }, { "label": "义县", "value": "210727" }, { "label": "凌海市", "value": "210781" }, { "label": "北镇市", "value": "210782" }], [{ "label": "站前区", "value": "210802" }, { "label": "西市区", "value": "210803" }, { "label": "鲅鱼圈区", "value": "210804" }, { "label": "老边区", "value": "210811" }, { "label": "盖州市", "value": "210881" }, { "label": "大石桥市", "value": "210882" }], [{ "label": "海州区", "value": "210902" }, { "label": "新邱区", "value": "210903" }, { "label": "太平区", "value": "210904" }, { "label": "清河门区", "value": "210905" }, { "label": "细河区", "value": "210911" }, { "label": "阜新蒙古族自治县", "value": "210921" }, { "label": "彰武县", "value": "210922" }], [{ "label": "白塔区", "value": "211002" }, { "label": "文圣区", "value": "211003" }, { "label": "宏伟区", "value": "211004" }, { "label": "弓长岭区", "value": "211005" }, { "label": "太子河区", "value": "211011" }, { "label": "辽阳县", "value": "211021" }, { "label": "灯塔市", "value": "211081" }], [{ "label": "双台子区", "value": "211102" }, { "label": "兴隆台区", "value": "211103" }, { "label": "大洼区", "value": "211104" }, { "label": "盘山县", "value": "211122" }], [{ "label": "银州区", "value": "211202" }, { "label": "清河区", "value": "211204" }, { "label": "铁岭县", "value": "211221" }, { "label": "西丰县", "value": "211223" }, { "label": "昌图县", "value": "211224" }, { "label": "调兵山市", "value": "211281" }, { "label": "开原市", "value": "211282" }], [{ "label": "双塔区", "value": "211302" }, { "label": "龙城区", "value": "211303" }, { "label": "朝阳县", "value": "211321" }, { "label": "建平县", "value": "211322" }, { "label": "喀喇沁左翼蒙古族自治县", "value": "211324" }, { "label": "北票市", "value": "211381" }, { "label": "凌源市", "value": "211382" }], [{ "label": "连山区", "value": "211402" }, { "label": "龙港区", "value": "211403" }, { "label": "南票区", "value": "211404" }, { "label": "绥中县", "value": "211421" }, { "label": "建昌县", "value": "211422" }, { "label": "兴城市", "value": "211481" }]], [[{ "label": "南关区", "value": "220102" }, { "label": "宽城区", "value": "220103" }, { "label": "朝阳区", "value": "220104" }, { "label": "二道区", "value": "220105" }, { "label": "绿园区", "value": "220106" }, { "label": "双阳区", "value": "220112" }, { "label": "九台区", "value": "220113" }, { "label": "农安县", "value": "220122" }, { "label": "长春经济技术开发区", "value": "220171" }, { "label": "长春净月高新技术产业开发区", "value": "220172" }, { "label": "长春高新技术产业开发区", "value": "220173" }, { "label": "长春汽车经济技术开发区", "value": "220174" }, { "label": "榆树市", "value": "220182" }, { "label": "德惠市", "value": "220183" }], [{ "label": "昌邑区", "value": "220202" }, { "label": "龙潭区", "value": "220203" }, { "label": "船营区", "value": "220204" }, { "label": "丰满区", "value": "220211" }, { "label": "永吉县", "value": "220221" }, { "label": "吉林经济开发区", "value": "220271" }, { "label": "吉林高新技术产业开发区", "value": "220272" }, { "label": "吉林中国新加坡食品区", "value": "220273" }, { "label": "蛟河市", "value": "220281" }, { "label": "桦甸市", "value": "220282" }, { "label": "舒兰市", "value": "220283" }, { "label": "磐石市", "value": "220284" }], [{ "label": "铁西区", "value": "220302" }, { "label": "铁东区", "value": "220303" }, { "label": "梨树县", "value": "220322" }, { "label": "伊通满族自治县", "value": "220323" }, { "label": "公主岭市", "value": "220381" }, { "label": "双辽市", "value": "220382" }], [{ "label": "龙山区", "value": "220402" }, { "label": "西安区", "value": "220403" }, { "label": "东丰县", "value": "220421" }, { "label": "东辽县", "value": "220422" }], [{ "label": "东昌区", "value": "220502" }, { "label": "二道江区", "value": "220503" }, { "label": "通化县", "value": "220521" }, { "label": "辉南县", "value": "220523" }, { "label": "柳河县", "value": "220524" }, { "label": "梅河口市", "value": "220581" }, { "label": "集安市", "value": "220582" }], [{ "label": "浑江区", "value": "220602" }, { "label": "江源区", "value": "220605" }, { "label": "抚松县", "value": "220621" }, { "label": "靖宇县", "value": "220622" }, { "label": "长白朝鲜族自治县", "value": "220623" }, { "label": "临江市", "value": "220681" }], [{ "label": "宁江区", "value": "220702" }, { "label": "前郭尔罗斯蒙古族自治县", "value": "220721" }, { "label": "长岭县", "value": "220722" }, { "label": "乾安县", "value": "220723" }, { "label": "吉林松原经济开发区", "value": "220771" }, { "label": "扶余市", "value": "220781" }], [{ "label": "洮北区", "value": "220802" }, { "label": "镇赉县", "value": "220821" }, { "label": "通榆县", "value": "220822" }, { "label": "吉林白城经济开发区", "value": "220871" }, { "label": "洮南市", "value": "220881" }, { "label": "大安市", "value": "220882" }], [{ "label": "延吉市", "value": "222401" }, { "label": "图们市", "value": "222402" }, { "label": "敦化市", "value": "222403" }, { "label": "珲春市", "value": "222404" }, { "label": "龙井市", "value": "222405" }, { "label": "和龙市", "value": "222406" }, { "label": "汪清县", "value": "222424" }, { "label": "安图县", "value": "222426" }]], [[{ "label": "道里区", "value": "230102" }, { "label": "南岗区", "value": "230103" }, { "label": "道外区", "value": "230104" }, { "label": "平房区", "value": "230108" }, { "label": "松北区", "value": "230109" }, { "label": "香坊区", "value": "230110" }, { "label": "呼兰区", "value": "230111" }, { "label": "阿城区", "value": "230112" }, { "label": "双城区", "value": "230113" }, { "label": "依兰县", "value": "230123" }, { "label": "方正县", "value": "230124" }, { "label": "宾县", "value": "230125" }, { "label": "巴彦县", "value": "230126" }, { "label": "木兰县", "value": "230127" }, { "label": "通河县", "value": "230128" }, { "label": "延寿县", "value": "230129" }, { "label": "尚志市", "value": "230183" }, { "label": "五常市", "value": "230184" }], [{ "label": "龙沙区", "value": "230202" }, { "label": "建华区", "value": "230203" }, { "label": "铁锋区", "value": "230204" }, { "label": "昂昂溪区", "value": "230205" }, { "label": "富拉尔基区", "value": "230206" }, { "label": "碾子山区", "value": "230207" }, { "label": "梅里斯达斡尔族区", "value": "230208" }, { "label": "龙江县", "value": "230221" }, { "label": "依安县", "value": "230223" }, { "label": "泰来县", "value": "230224" }, { "label": "甘南县", "value": "230225" }, { "label": "富裕县", "value": "230227" }, { "label": "克山县", "value": "230229" }, { "label": "克东县", "value": "230230" }, { "label": "拜泉县", "value": "230231" }, { "label": "讷河市", "value": "230281" }], [{ "label": "鸡冠区", "value": "230302" }, { "label": "恒山区", "value": "230303" }, { "label": "滴道区", "value": "230304" }, { "label": "梨树区", "value": "230305" }, { "label": "城子河区", "value": "230306" }, { "label": "麻山区", "value": "230307" }, { "label": "鸡东县", "value": "230321" }, { "label": "虎林市", "value": "230381" }, { "label": "密山市", "value": "230382" }], [{ "label": "向阳区", "value": "230402" }, { "label": "工农区", "value": "230403" }, { "label": "南山区", "value": "230404" }, { "label": "兴安区", "value": "230405" }, { "label": "东山区", "value": "230406" }, { "label": "兴山区", "value": "230407" }, { "label": "萝北县", "value": "230421" }, { "label": "绥滨县", "value": "230422" }], [{ "label": "尖山区", "value": "230502" }, { "label": "岭东区", "value": "230503" }, { "label": "四方台区", "value": "230505" }, { "label": "宝山区", "value": "230506" }, { "label": "集贤县", "value": "230521" }, { "label": "友谊县", "value": "230522" }, { "label": "宝清县", "value": "230523" }, { "label": "饶河县", "value": "230524" }], [{ "label": "萨尔图区", "value": "230602" }, { "label": "龙凤区", "value": "230603" }, { "label": "让胡路区", "value": "230604" }, { "label": "红岗区", "value": "230605" }, { "label": "大同区", "value": "230606" }, { "label": "肇州县", "value": "230621" }, { "label": "肇源县", "value": "230622" }, { "label": "林甸县", "value": "230623" }, { "label": "杜尔伯特蒙古族自治县", "value": "230624" }, { "label": "大庆高新技术产业开发区", "value": "230671" }], [{ "label": "伊春区", "value": "230702" }, { "label": "南岔区", "value": "230703" }, { "label": "友好区", "value": "230704" }, { "label": "西林区", "value": "230705" }, { "label": "翠峦区", "value": "230706" }, { "label": "新青区", "value": "230707" }, { "label": "美溪区", "value": "230708" }, { "label": "金山屯区", "value": "230709" }, { "label": "五营区", "value": "230710" }, { "label": "乌马河区", "value": "230711" }, { "label": "汤旺河区", "value": "230712" }, { "label": "带岭区", "value": "230713" }, { "label": "乌伊岭区", "value": "230714" }, { "label": "红星区", "value": "230715" }, { "label": "上甘岭区", "value": "230716" }, { "label": "嘉荫县", "value": "230722" }, { "label": "铁力市", "value": "230781" }], [{ "label": "向阳区", "value": "230803" }, { "label": "前进区", "value": "230804" }, { "label": "东风区", "value": "230805" }, { "label": "郊区", "value": "230811" }, { "label": "桦南县", "value": "230822" }, { "label": "桦川县", "value": "230826" }, { "label": "汤原县", "value": "230828" }, { "label": "同江市", "value": "230881" }, { "label": "富锦市", "value": "230882" }, { "label": "抚远市", "value": "230883" }], [{ "label": "新兴区", "value": "230902" }, { "label": "桃山区", "value": "230903" }, { "label": "茄子河区", "value": "230904" }, { "label": "勃利县", "value": "230921" }], [{ "label": "东安区", "value": "231002" }, { "label": "阳明区", "value": "231003" }, { "label": "爱民区", "value": "231004" }, { "label": "西安区", "value": "231005" }, { "label": "林口县", "value": "231025" }, { "label": "牡丹江经济技术开发区", "value": "231071" }, { "label": "绥芬河市", "value": "231081" }, { "label": "海林市", "value": "231083" }, { "label": "宁安市", "value": "231084" }, { "label": "穆棱市", "value": "231085" }, { "label": "东宁市", "value": "231086" }], [{ "label": "爱辉区", "value": "231102" }, { "label": "嫩江县", "value": "231121" }, { "label": "逊克县", "value": "231123" }, { "label": "孙吴县", "value": "231124" }, { "label": "北安市", "value": "231181" }, { "label": "五大连池市", "value": "231182" }], [{ "label": "北林区", "value": "231202" }, { "label": "望奎县", "value": "231221" }, { "label": "兰西县", "value": "231222" }, { "label": "青冈县", "value": "231223" }, { "label": "庆安县", "value": "231224" }, { "label": "明水县", "value": "231225" }, { "label": "绥棱县", "value": "231226" }, { "label": "安达市", "value": "231281" }, { "label": "肇东市", "value": "231282" }, { "label": "海伦市", "value": "231283" }], [{ "label": "加格达奇区", "value": "232701" }, { "label": "松岭区", "value": "232702" }, { "label": "新林区", "value": "232703" }, { "label": "呼中区", "value": "232704" }, { "label": "呼玛县", "value": "232721" }, { "label": "塔河县", "value": "232722" }, { "label": "漠河县", "value": "232723" }]], [[{ "label": "黄浦区", "value": "310101" }, { "label": "徐汇区", "value": "310104" }, { "label": "长宁区", "value": "310105" }, { "label": "静安区", "value": "310106" }, { "label": "普陀区", "value": "310107" }, { "label": "虹口区", "value": "310109" }, { "label": "杨浦区", "value": "310110" }, { "label": "闵行区", "value": "310112" }, { "label": "宝山区", "value": "310113" }, { "label": "嘉定区", "value": "310114" }, { "label": "浦东新区", "value": "310115" }, { "label": "金山区", "value": "310116" }, { "label": "松江区", "value": "310117" }, { "label": "青浦区", "value": "310118" }, { "label": "奉贤区", "value": "310120" }, { "label": "崇明区", "value": "310151" }]], [[{ "label": "玄武区", "value": "320102" }, { "label": "秦淮区", "value": "320104" }, { "label": "建邺区", "value": "320105" }, { "label": "鼓楼区", "value": "320106" }, { "label": "浦口区", "value": "320111" }, { "label": "栖霞区", "value": "320113" }, { "label": "雨花台区", "value": "320114" }, { "label": "江宁区", "value": "320115" }, { "label": "六合区", "value": "320116" }, { "label": "溧水区", "value": "320117" }, { "label": "高淳区", "value": "320118" }], [{ "label": "锡山区", "value": "320205" }, { "label": "惠山区", "value": "320206" }, { "label": "滨湖区", "value": "320211" }, { "label": "梁溪区", "value": "320213" }, { "label": "新吴区", "value": "320214" }, { "label": "江阴市", "value": "320281" }, { "label": "宜兴市", "value": "320282" }], [{ "label": "鼓楼区", "value": "320302" }, { "label": "云龙区", "value": "320303" }, { "label": "贾汪区", "value": "320305" }, { "label": "泉山区", "value": "320311" }, { "label": "铜山区", "value": "320312" }, { "label": "丰县", "value": "320321" }, { "label": "沛县", "value": "320322" }, { "label": "睢宁县", "value": "320324" }, { "label": "徐州经济技术开发区", "value": "320371" }, { "label": "新沂市", "value": "320381" }, { "label": "邳州市", "value": "320382" }], [{ "label": "天宁区", "value": "320402" }, { "label": "钟楼区", "value": "320404" }, { "label": "新北区", "value": "320411" }, { "label": "武进区", "value": "320412" }, { "label": "金坛区", "value": "320413" }, { "label": "溧阳市", "value": "320481" }], [{ "label": "虎丘区", "value": "320505" }, { "label": "吴中区", "value": "320506" }, { "label": "相城区", "value": "320507" }, { "label": "姑苏区", "value": "320508" }, { "label": "吴江区", "value": "320509" }, { "label": "苏州工业园区", "value": "320571" }, { "label": "常熟市", "value": "320581" }, { "label": "张家港市", "value": "320582" }, { "label": "昆山市", "value": "320583" }, { "label": "太仓市", "value": "320585" }], [{ "label": "崇川区", "value": "320602" }, { "label": "港闸区", "value": "320611" }, { "label": "通州区", "value": "320612" }, { "label": "海安县", "value": "320621" }, { "label": "如东县", "value": "320623" }, { "label": "南通经济技术开发区", "value": "320671" }, { "label": "启东市", "value": "320681" }, { "label": "如皋市", "value": "320682" }, { "label": "海门市", "value": "320684" }], [{ "label": "连云区", "value": "320703" }, { "label": "海州区", "value": "320706" }, { "label": "赣榆区", "value": "320707" }, { "label": "东海县", "value": "320722" }, { "label": "灌云县", "value": "320723" }, { "label": "灌南县", "value": "320724" }, { "label": "连云港经济技术开发区", "value": "320771" }, { "label": "连云港高新技术产业开发区", "value": "320772" }], [{ "label": "淮安区", "value": "320803" }, { "label": "淮阴区", "value": "320804" }, { "label": "清江浦区", "value": "320812" }, { "label": "洪泽区", "value": "320813" }, { "label": "涟水县", "value": "320826" }, { "label": "盱眙县", "value": "320830" }, { "label": "金湖县", "value": "320831" }, { "label": "淮安经济技术开发区", "value": "320871" }], [{ "label": "亭湖区", "value": "320902" }, { "label": "盐都区", "value": "320903" }, { "label": "大丰区", "value": "320904" }, { "label": "响水县", "value": "320921" }, { "label": "滨海县", "value": "320922" }, { "label": "阜宁县", "value": "320923" }, { "label": "射阳县", "value": "320924" }, { "label": "建湖县", "value": "320925" }, { "label": "盐城经济技术开发区", "value": "320971" }, { "label": "东台市", "value": "320981" }], [{ "label": "广陵区", "value": "321002" }, { "label": "邗江区", "value": "321003" }, { "label": "江都区", "value": "321012" }, { "label": "宝应县", "value": "321023" }, { "label": "扬州经济技术开发区", "value": "321071" }, { "label": "仪征市", "value": "321081" }, { "label": "高邮市", "value": "321084" }], [{ "label": "京口区", "value": "321102" }, { "label": "润州区", "value": "321111" }, { "label": "丹徒区", "value": "321112" }, { "label": "镇江新区", "value": "321171" }, { "label": "丹阳市", "value": "321181" }, { "label": "扬中市", "value": "321182" }, { "label": "句容市", "value": "321183" }], [{ "label": "海陵区", "value": "321202" }, { "label": "高港区", "value": "321203" }, { "label": "姜堰区", "value": "321204" }, { "label": "泰州医药高新技术产业开发区", "value": "321271" }, { "label": "兴化市", "value": "321281" }, { "label": "靖江市", "value": "321282" }, { "label": "泰兴市", "value": "321283" }], [{ "label": "宿城区", "value": "321302" }, { "label": "宿豫区", "value": "321311" }, { "label": "沭阳县", "value": "321322" }, { "label": "泗阳县", "value": "321323" }, { "label": "泗洪县", "value": "321324" }, { "label": "宿迁经济技术开发区", "value": "321371" }]], [[{ "label": "上城区", "value": "330102" }, { "label": "下城区", "value": "330103" }, { "label": "江干区", "value": "330104" }, { "label": "拱墅区", "value": "330105" }, { "label": "西湖区", "value": "330106" }, { "label": "滨江区", "value": "330108" }, { "label": "萧山区", "value": "330109" }, { "label": "余杭区", "value": "330110" }, { "label": "富阳区", "value": "330111" }, { "label": "临安区", "value": "330112" }, { "label": "桐庐县", "value": "330122" }, { "label": "淳安县", "value": "330127" }, { "label": "建德市", "value": "330182" }], [{ "label": "海曙区", "value": "330203" }, { "label": "江北区", "value": "330205" }, { "label": "北仑区", "value": "330206" }, { "label": "镇海区", "value": "330211" }, { "label": "鄞州区", "value": "330212" }, { "label": "奉化区", "value": "330213" }, { "label": "象山县", "value": "330225" }, { "label": "宁海县", "value": "330226" }, { "label": "余姚市", "value": "330281" }, { "label": "慈溪市", "value": "330282" }], [{ "label": "鹿城区", "value": "330302" }, { "label": "龙湾区", "value": "330303" }, { "label": "瓯海区", "value": "330304" }, { "label": "洞头区", "value": "330305" }, { "label": "永嘉县", "value": "330324" }, { "label": "平阳县", "value": "330326" }, { "label": "苍南县", "value": "330327" }, { "label": "文成县", "value": "330328" }, { "label": "泰顺县", "value": "330329" }, { "label": "温州经济技术开发区", "value": "330371" }, { "label": "瑞安市", "value": "330381" }, { "label": "乐清市", "value": "330382" }], [{ "label": "南湖区", "value": "330402" }, { "label": "秀洲区", "value": "330411" }, { "label": "嘉善县", "value": "330421" }, { "label": "海盐县", "value": "330424" }, { "label": "海宁市", "value": "330481" }, { "label": "平湖市", "value": "330482" }, { "label": "桐乡市", "value": "330483" }], [{ "label": "吴兴区", "value": "330502" }, { "label": "南浔区", "value": "330503" }, { "label": "德清县", "value": "330521" }, { "label": "长兴县", "value": "330522" }, { "label": "安吉县", "value": "330523" }], [{ "label": "越城区", "value": "330602" }, { "label": "柯桥区", "value": "330603" }, { "label": "上虞区", "value": "330604" }, { "label": "新昌县", "value": "330624" }, { "label": "诸暨市", "value": "330681" }, { "label": "嵊州市", "value": "330683" }], [{ "label": "婺城区", "value": "330702" }, { "label": "金东区", "value": "330703" }, { "label": "武义县", "value": "330723" }, { "label": "浦江县", "value": "330726" }, { "label": "磐安县", "value": "330727" }, { "label": "兰溪市", "value": "330781" }, { "label": "义乌市", "value": "330782" }, { "label": "东阳市", "value": "330783" }, { "label": "永康市", "value": "330784" }], [{ "label": "柯城区", "value": "330802" }, { "label": "衢江区", "value": "330803" }, { "label": "常山县", "value": "330822" }, { "label": "开化县", "value": "330824" }, { "label": "龙游县", "value": "330825" }, { "label": "江山市", "value": "330881" }], [{ "label": "定海区", "value": "330902" }, { "label": "普陀区", "value": "330903" }, { "label": "岱山县", "value": "330921" }, { "label": "嵊泗县", "value": "330922" }], [{ "label": "椒江区", "value": "331002" }, { "label": "黄岩区", "value": "331003" }, { "label": "路桥区", "value": "331004" }, { "label": "三门县", "value": "331022" }, { "label": "天台县", "value": "331023" }, { "label": "仙居县", "value": "331024" }, { "label": "温岭市", "value": "331081" }, { "label": "临海市", "value": "331082" }, { "label": "玉环市", "value": "331083" }], [{ "label": "莲都区", "value": "331102" }, { "label": "青田县", "value": "331121" }, { "label": "缙云县", "value": "331122" }, { "label": "遂昌县", "value": "331123" }, { "label": "松阳县", "value": "331124" }, { "label": "云和县", "value": "331125" }, { "label": "庆元县", "value": "331126" }, { "label": "景宁畲族自治县", "value": "331127" }, { "label": "龙泉市", "value": "331181" }]], [[{ "label": "瑶海区", "value": "340102" }, { "label": "庐阳区", "value": "340103" }, { "label": "蜀山区", "value": "340104" }, { "label": "包河区", "value": "340111" }, { "label": "长丰县", "value": "340121" }, { "label": "肥东县", "value": "340122" }, { "label": "肥西县", "value": "340123" }, { "label": "庐江县", "value": "340124" }, { "label": "合肥高新技术产业开发区", "value": "340171" }, { "label": "合肥经济技术开发区", "value": "340172" }, { "label": "合肥新站高新技术产业开发区", "value": "340173" }, { "label": "巢湖市", "value": "340181" }], [{ "label": "镜湖区", "value": "340202" }, { "label": "弋江区", "value": "340203" }, { "label": "鸠江区", "value": "340207" }, { "label": "三山区", "value": "340208" }, { "label": "芜湖县", "value": "340221" }, { "label": "繁昌县", "value": "340222" }, { "label": "南陵县", "value": "340223" }, { "label": "无为县", "value": "340225" }, { "label": "芜湖经济技术开发区", "value": "340271" }, { "label": "安徽芜湖长江大桥经济开发区", "value": "340272" }], [{ "label": "龙子湖区", "value": "340302" }, { "label": "蚌山区", "value": "340303" }, { "label": "禹会区", "value": "340304" }, { "label": "淮上区", "value": "340311" }, { "label": "怀远县", "value": "340321" }, { "label": "五河县", "value": "340322" }, { "label": "固镇县", "value": "340323" }, { "label": "蚌埠市高新技术开发区", "value": "340371" }, { "label": "蚌埠市经济开发区", "value": "340372" }], [{ "label": "大通区", "value": "340402" }, { "label": "田家庵区", "value": "340403" }, { "label": "谢家集区", "value": "340404" }, { "label": "八公山区", "value": "340405" }, { "label": "潘集区", "value": "340406" }, { "label": "凤台县", "value": "340421" }, { "label": "寿县", "value": "340422" }], [{ "label": "花山区", "value": "340503" }, { "label": "雨山区", "value": "340504" }, { "label": "博望区", "value": "340506" }, { "label": "当涂县", "value": "340521" }, { "label": "含山县", "value": "340522" }, { "label": "和县", "value": "340523" }], [{ "label": "杜集区", "value": "340602" }, { "label": "相山区", "value": "340603" }, { "label": "烈山区", "value": "340604" }, { "label": "濉溪县", "value": "340621" }], [{ "label": "铜官区", "value": "340705" }, { "label": "义安区", "value": "340706" }, { "label": "郊区", "value": "340711" }, { "label": "枞阳县", "value": "340722" }], [{ "label": "迎江区", "value": "340802" }, { "label": "大观区", "value": "340803" }, { "label": "宜秀区", "value": "340811" }, { "label": "怀宁县", "value": "340822" }, { "label": "潜山县", "value": "340824" }, { "label": "太湖县", "value": "340825" }, { "label": "宿松县", "value": "340826" }, { "label": "望江县", "value": "340827" }, { "label": "岳西县", "value": "340828" }, { "label": "安徽安庆经济开发区", "value": "340871" }, { "label": "桐城市", "value": "340881" }], [{ "label": "屯溪区", "value": "341002" }, { "label": "黄山区", "value": "341003" }, { "label": "徽州区", "value": "341004" }, { "label": "歙县", "value": "341021" }, { "label": "休宁县", "value": "341022" }, { "label": "黟县", "value": "341023" }, { "label": "祁门县", "value": "341024" }], [{ "label": "琅琊区", "value": "341102" }, { "label": "南谯区", "value": "341103" }, { "label": "来安县", "value": "341122" }, { "label": "全椒县", "value": "341124" }, { "label": "定远县", "value": "341125" }, { "label": "凤阳县", "value": "341126" }, { "label": "苏滁现代产业园", "value": "341171" }, { "label": "滁州经济技术开发区", "value": "341172" }, { "label": "天长市", "value": "341181" }, { "label": "明光市", "value": "341182" }], [{ "label": "颍州区", "value": "341202" }, { "label": "颍东区", "value": "341203" }, { "label": "颍泉区", "value": "341204" }, { "label": "临泉县", "value": "341221" }, { "label": "太和县", "value": "341222" }, { "label": "阜南县", "value": "341225" }, { "label": "颍上县", "value": "341226" }, { "label": "阜阳合肥现代产业园区", "value": "341271" }, { "label": "阜阳经济技术开发区", "value": "341272" }, { "label": "界首市", "value": "341282" }], [{ "label": "埇桥区", "value": "341302" }, { "label": "砀山县", "value": "341321" }, { "label": "萧县", "value": "341322" }, { "label": "灵璧县", "value": "341323" }, { "label": "泗县", "value": "341324" }, { "label": "宿州马鞍山现代产业园区", "value": "341371" }, { "label": "宿州经济技术开发区", "value": "341372" }], [{ "label": "金安区", "value": "341502" }, { "label": "裕安区", "value": "341503" }, { "label": "叶集区", "value": "341504" }, { "label": "霍邱县", "value": "341522" }, { "label": "舒城县", "value": "341523" }, { "label": "金寨县", "value": "341524" }, { "label": "霍山县", "value": "341525" }], [{ "label": "谯城区", "value": "341602" }, { "label": "涡阳县", "value": "341621" }, { "label": "蒙城县", "value": "341622" }, { "label": "利辛县", "value": "341623" }], [{ "label": "贵池区", "value": "341702" }, { "label": "东至县", "value": "341721" }, { "label": "石台县", "value": "341722" }, { "label": "青阳县", "value": "341723" }], [{ "label": "宣州区", "value": "341802" }, { "label": "郎溪县", "value": "341821" }, { "label": "广德县", "value": "341822" }, { "label": "泾县", "value": "341823" }, { "label": "绩溪县", "value": "341824" }, { "label": "旌德县", "value": "341825" }, { "label": "宣城市经济开发区", "value": "341871" }, { "label": "宁国市", "value": "341881" }]], [[{ "label": "鼓楼区", "value": "350102" }, { "label": "台江区", "value": "350103" }, { "label": "仓山区", "value": "350104" }, { "label": "马尾区", "value": "350105" }, { "label": "晋安区", "value": "350111" }, { "label": "闽侯县", "value": "350121" }, { "label": "连江县", "value": "350122" }, { "label": "罗源县", "value": "350123" }, { "label": "闽清县", "value": "350124" }, { "label": "永泰县", "value": "350125" }, { "label": "平潭县", "value": "350128" }, { "label": "福清市", "value": "350181" }, { "label": "长乐市", "value": "350182" }], [{ "label": "思明区", "value": "350203" }, { "label": "海沧区", "value": "350205" }, { "label": "湖里区", "value": "350206" }, { "label": "集美区", "value": "350211" }, { "label": "同安区", "value": "350212" }, { "label": "翔安区", "value": "350213" }], [{ "label": "城厢区", "value": "350302" }, { "label": "涵江区", "value": "350303" }, { "label": "荔城区", "value": "350304" }, { "label": "秀屿区", "value": "350305" }, { "label": "仙游县", "value": "350322" }], [{ "label": "梅列区", "value": "350402" }, { "label": "三元区", "value": "350403" }, { "label": "明溪县", "value": "350421" }, { "label": "清流县", "value": "350423" }, { "label": "宁化县", "value": "350424" }, { "label": "大田县", "value": "350425" }, { "label": "尤溪县", "value": "350426" }, { "label": "沙县", "value": "350427" }, { "label": "将乐县", "value": "350428" }, { "label": "泰宁县", "value": "350429" }, { "label": "建宁县", "value": "350430" }, { "label": "永安市", "value": "350481" }], [{ "label": "鲤城区", "value": "350502" }, { "label": "丰泽区", "value": "350503" }, { "label": "洛江区", "value": "350504" }, { "label": "泉港区", "value": "350505" }, { "label": "惠安县", "value": "350521" }, { "label": "安溪县", "value": "350524" }, { "label": "永春县", "value": "350525" }, { "label": "德化县", "value": "350526" }, { "label": "金门县", "value": "350527" }, { "label": "石狮市", "value": "350581" }, { "label": "晋江市", "value": "350582" }, { "label": "南安市", "value": "350583" }], [{ "label": "芗城区", "value": "350602" }, { "label": "龙文区", "value": "350603" }, { "label": "云霄县", "value": "350622" }, { "label": "漳浦县", "value": "350623" }, { "label": "诏安县", "value": "350624" }, { "label": "长泰县", "value": "350625" }, { "label": "东山县", "value": "350626" }, { "label": "南靖县", "value": "350627" }, { "label": "平和县", "value": "350628" }, { "label": "华安县", "value": "350629" }, { "label": "龙海市", "value": "350681" }], [{ "label": "延平区", "value": "350702" }, { "label": "建阳区", "value": "350703" }, { "label": "顺昌县", "value": "350721" }, { "label": "浦城县", "value": "350722" }, { "label": "光泽县", "value": "350723" }, { "label": "松溪县", "value": "350724" }, { "label": "政和县", "value": "350725" }, { "label": "邵武市", "value": "350781" }, { "label": "武夷山市", "value": "350782" }, { "label": "建瓯市", "value": "350783" }], [{ "label": "新罗区", "value": "350802" }, { "label": "永定区", "value": "350803" }, { "label": "长汀县", "value": "350821" }, { "label": "上杭县", "value": "350823" }, { "label": "武平县", "value": "350824" }, { "label": "连城县", "value": "350825" }, { "label": "漳平市", "value": "350881" }], [{ "label": "蕉城区", "value": "350902" }, { "label": "霞浦县", "value": "350921" }, { "label": "古田县", "value": "350922" }, { "label": "屏南县", "value": "350923" }, { "label": "寿宁县", "value": "350924" }, { "label": "周宁县", "value": "350925" }, { "label": "柘荣县", "value": "350926" }, { "label": "福安市", "value": "350981" }, { "label": "福鼎市", "value": "350982" }]], [[{ "label": "东湖区", "value": "360102" }, { "label": "西湖区", "value": "360103" }, { "label": "青云谱区", "value": "360104" }, { "label": "湾里区", "value": "360105" }, { "label": "青山湖区", "value": "360111" }, { "label": "新建区", "value": "360112" }, { "label": "南昌县", "value": "360121" }, { "label": "安义县", "value": "360123" }, { "label": "进贤县", "value": "360124" }], [{ "label": "昌江区", "value": "360202" }, { "label": "珠山区", "value": "360203" }, { "label": "浮梁县", "value": "360222" }, { "label": "乐平市", "value": "360281" }], [{ "label": "安源区", "value": "360302" }, { "label": "湘东区", "value": "360313" }, { "label": "莲花县", "value": "360321" }, { "label": "上栗县", "value": "360322" }, { "label": "芦溪县", "value": "360323" }], [{ "label": "濂溪区", "value": "360402" }, { "label": "浔阳区", "value": "360403" }, { "label": "柴桑区", "value": "360404" }, { "label": "武宁县", "value": "360423" }, { "label": "修水县", "value": "360424" }, { "label": "永修县", "value": "360425" }, { "label": "德安县", "value": "360426" }, { "label": "都昌县", "value": "360428" }, { "label": "湖口县", "value": "360429" }, { "label": "彭泽县", "value": "360430" }, { "label": "瑞昌市", "value": "360481" }, { "label": "共青城市", "value": "360482" }, { "label": "庐山市", "value": "360483" }], [{ "label": "渝水区", "value": "360502" }, { "label": "分宜县", "value": "360521" }], [{ "label": "月湖区", "value": "360602" }, { "label": "余江县", "value": "360622" }, { "label": "贵溪市", "value": "360681" }], [{ "label": "章贡区", "value": "360702" }, { "label": "南康区", "value": "360703" }, { "label": "赣县区", "value": "360704" }, { "label": "信丰县", "value": "360722" }, { "label": "大余县", "value": "360723" }, { "label": "上犹县", "value": "360724" }, { "label": "崇义县", "value": "360725" }, { "label": "安远县", "value": "360726" }, { "label": "龙南县", "value": "360727" }, { "label": "定南县", "value": "360728" }, { "label": "全南县", "value": "360729" }, { "label": "宁都县", "value": "360730" }, { "label": "于都县", "value": "360731" }, { "label": "兴国县", "value": "360732" }, { "label": "会昌县", "value": "360733" }, { "label": "寻乌县", "value": "360734" }, { "label": "石城县", "value": "360735" }, { "label": "瑞金市", "value": "360781" }], [{ "label": "吉州区", "value": "360802" }, { "label": "青原区", "value": "360803" }, { "label": "吉安县", "value": "360821" }, { "label": "吉水县", "value": "360822" }, { "label": "峡江县", "value": "360823" }, { "label": "新干县", "value": "360824" }, { "label": "永丰县", "value": "360825" }, { "label": "泰和县", "value": "360826" }, { "label": "遂川县", "value": "360827" }, { "label": "万安县", "value": "360828" }, { "label": "安福县", "value": "360829" }, { "label": "永新县", "value": "360830" }, { "label": "井冈山市", "value": "360881" }], [{ "label": "袁州区", "value": "360902" }, { "label": "奉新县", "value": "360921" }, { "label": "万载县", "value": "360922" }, { "label": "上高县", "value": "360923" }, { "label": "宜丰县", "value": "360924" }, { "label": "靖安县", "value": "360925" }, { "label": "铜鼓县", "value": "360926" }, { "label": "丰城市", "value": "360981" }, { "label": "樟树市", "value": "360982" }, { "label": "高安市", "value": "360983" }], [{ "label": "临川区", "value": "361002" }, { "label": "东乡区", "value": "361003" }, { "label": "南城县", "value": "361021" }, { "label": "黎川县", "value": "361022" }, { "label": "南丰县", "value": "361023" }, { "label": "崇仁县", "value": "361024" }, { "label": "乐安县", "value": "361025" }, { "label": "宜黄县", "value": "361026" }, { "label": "金溪县", "value": "361027" }, { "label": "资溪县", "value": "361028" }, { "label": "广昌县", "value": "361030" }], [{ "label": "信州区", "value": "361102" }, { "label": "广丰区", "value": "361103" }, { "label": "上饶县", "value": "361121" }, { "label": "玉山县", "value": "361123" }, { "label": "铅山县", "value": "361124" }, { "label": "横峰县", "value": "361125" }, { "label": "弋阳县", "value": "361126" }, { "label": "余干县", "value": "361127" }, { "label": "鄱阳县", "value": "361128" }, { "label": "万年县", "value": "361129" }, { "label": "婺源县", "value": "361130" }, { "label": "德兴市", "value": "361181" }]], [[{ "label": "历下区", "value": "370102" }, { "label": "市中区", "value": "370103" }, { "label": "槐荫区", "value": "370104" }, { "label": "天桥区", "value": "370105" }, { "label": "历城区", "value": "370112" }, { "label": "长清区", "value": "370113" }, { "label": "章丘区", "value": "370114" }, { "label": "平阴县", "value": "370124" }, { "label": "济阳县", "value": "370125" }, { "label": "商河县", "value": "370126" }, { "label": "济南高新技术产业开发区", "value": "370171" }], [{ "label": "市南区", "value": "370202" }, { "label": "市北区", "value": "370203" }, { "label": "黄岛区", "value": "370211" }, { "label": "崂山区", "value": "370212" }, { "label": "李沧区", "value": "370213" }, { "label": "城阳区", "value": "370214" }, { "label": "即墨区", "value": "370215" }, { "label": "青岛高新技术产业开发区", "value": "370271" }, { "label": "胶州市", "value": "370281" }, { "label": "平度市", "value": "370283" }, { "label": "莱西市", "value": "370285" }], [{ "label": "淄川区", "value": "370302" }, { "label": "张店区", "value": "370303" }, { "label": "博山区", "value": "370304" }, { "label": "临淄区", "value": "370305" }, { "label": "周村区", "value": "370306" }, { "label": "桓台县", "value": "370321" }, { "label": "高青县", "value": "370322" }, { "label": "沂源县", "value": "370323" }], [{ "label": "市中区", "value": "370402" }, { "label": "薛城区", "value": "370403" }, { "label": "峄城区", "value": "370404" }, { "label": "台儿庄区", "value": "370405" }, { "label": "山亭区", "value": "370406" }, { "label": "滕州市", "value": "370481" }], [{ "label": "东营区", "value": "370502" }, { "label": "河口区", "value": "370503" }, { "label": "垦利区", "value": "370505" }, { "label": "利津县", "value": "370522" }, { "label": "广饶县", "value": "370523" }, { "label": "东营经济技术开发区", "value": "370571" }, { "label": "东营港经济开发区", "value": "370572" }], [{ "label": "芝罘区", "value": "370602" }, { "label": "福山区", "value": "370611" }, { "label": "牟平区", "value": "370612" }, { "label": "莱山区", "value": "370613" }, { "label": "长岛县", "value": "370634" }, { "label": "烟台高新技术产业开发区", "value": "370671" }, { "label": "烟台经济技术开发区", "value": "370672" }, { "label": "龙口市", "value": "370681" }, { "label": "莱阳市", "value": "370682" }, { "label": "莱州市", "value": "370683" }, { "label": "蓬莱市", "value": "370684" }, { "label": "招远市", "value": "370685" }, { "label": "栖霞市", "value": "370686" }, { "label": "海阳市", "value": "370687" }], [{ "label": "潍城区", "value": "370702" }, { "label": "寒亭区", "value": "370703" }, { "label": "坊子区", "value": "370704" }, { "label": "奎文区", "value": "370705" }, { "label": "临朐县", "value": "370724" }, { "label": "昌乐县", "value": "370725" }, { "label": "潍坊滨海经济技术开发区", "value": "370772" }, { "label": "青州市", "value": "370781" }, { "label": "诸城市", "value": "370782" }, { "label": "寿光市", "value": "370783" }, { "label": "安丘市", "value": "370784" }, { "label": "高密市", "value": "370785" }, { "label": "昌邑市", "value": "370786" }], [{ "label": "任城区", "value": "370811" }, { "label": "兖州区", "value": "370812" }, { "label": "微山县", "value": "370826" }, { "label": "鱼台县", "value": "370827" }, { "label": "金乡县", "value": "370828" }, { "label": "嘉祥县", "value": "370829" }, { "label": "汶上县", "value": "370830" }, { "label": "泗水县", "value": "370831" }, { "label": "梁山县", "value": "370832" }, { "label": "济宁高新技术产业开发区", "value": "370871" }, { "label": "曲阜市", "value": "370881" }, { "label": "邹城市", "value": "370883" }], [{ "label": "泰山区", "value": "370902" }, { "label": "岱岳区", "value": "370911" }, { "label": "宁阳县", "value": "370921" }, { "label": "东平县", "value": "370923" }, { "label": "新泰市", "value": "370982" }, { "label": "肥城市", "value": "370983" }], [{ "label": "环翠区", "value": "371002" }, { "label": "文登区", "value": "371003" }, { "label": "威海火炬高技术产业开发区", "value": "371071" }, { "label": "威海经济技术开发区", "value": "371072" }, { "label": "威海临港经济技术开发区", "value": "371073" }, { "label": "荣成市", "value": "371082" }, { "label": "乳山市", "value": "371083" }], [{ "label": "东港区", "value": "371102" }, { "label": "岚山区", "value": "371103" }, { "label": "五莲县", "value": "371121" }, { "label": "莒县", "value": "371122" }, { "label": "日照经济技术开发区", "value": "371171" }, { "label": "日照国际海洋城", "value": "371172" }], [{ "label": "莱城区", "value": "371202" }, { "label": "钢城区", "value": "371203" }], [{ "label": "兰山区", "value": "371302" }, { "label": "罗庄区", "value": "371311" }, { "label": "河东区", "value": "371312" }, { "label": "沂南县", "value": "371321" }, { "label": "郯城县", "value": "371322" }, { "label": "沂水县", "value": "371323" }, { "label": "兰陵县", "value": "371324" }, { "label": "费县", "value": "371325" }, { "label": "平邑县", "value": "371326" }, { "label": "莒南县", "value": "371327" }, { "label": "蒙阴县", "value": "371328" }, { "label": "临沭县", "value": "371329" }, { "label": "临沂高新技术产业开发区", "value": "371371" }, { "label": "临沂经济技术开发区", "value": "371372" }, { "label": "临沂临港经济开发区", "value": "371373" }], [{ "label": "德城区", "value": "371402" }, { "label": "陵城区", "value": "371403" }, { "label": "宁津县", "value": "371422" }, { "label": "庆云县", "value": "371423" }, { "label": "临邑县", "value": "371424" }, { "label": "齐河县", "value": "371425" }, { "label": "平原县", "value": "371426" }, { "label": "夏津县", "value": "371427" }, { "label": "武城县", "value": "371428" }, { "label": "德州经济技术开发区", "value": "371471" }, { "label": "德州运河经济开发区", "value": "371472" }, { "label": "乐陵市", "value": "371481" }, { "label": "禹城市", "value": "371482" }], [{ "label": "东昌府区", "value": "371502" }, { "label": "阳谷县", "value": "371521" }, { "label": "莘县", "value": "371522" }, { "label": "茌平县", "value": "371523" }, { "label": "东阿县", "value": "371524" }, { "label": "冠县", "value": "371525" }, { "label": "高唐县", "value": "371526" }, { "label": "临清市", "value": "371581" }], [{ "label": "滨城区", "value": "371602" }, { "label": "沾化区", "value": "371603" }, { "label": "惠民县", "value": "371621" }, { "label": "阳信县", "value": "371622" }, { "label": "无棣县", "value": "371623" }, { "label": "博兴县", "value": "371625" }, { "label": "邹平县", "value": "371626" }], [{ "label": "牡丹区", "value": "371702" }, { "label": "定陶区", "value": "371703" }, { "label": "曹县", "value": "371721" }, { "label": "单县", "value": "371722" }, { "label": "成武县", "value": "371723" }, { "label": "巨野县", "value": "371724" }, { "label": "郓城县", "value": "371725" }, { "label": "鄄城县", "value": "371726" }, { "label": "东明县", "value": "371728" }, { "label": "菏泽经济技术开发区", "value": "371771" }, { "label": "菏泽高新技术开发区", "value": "371772" }]], [[{ "label": "中原区", "value": "410102" }, { "label": "二七区", "value": "410103" }, { "label": "管城回族区", "value": "410104" }, { "label": "金水区", "value": "410105" }, { "label": "上街区", "value": "410106" }, { "label": "惠济区", "value": "410108" }, { "label": "中牟县", "value": "410122" }, { "label": "郑州经济技术开发区", "value": "410171" }, { "label": "郑州高新技术产业开发区", "value": "410172" }, { "label": "郑州航空港经济综合实验区", "value": "410173" }, { "label": "巩义市", "value": "410181" }, { "label": "荥阳市", "value": "410182" }, { "label": "新密市", "value": "410183" }, { "label": "新郑市", "value": "410184" }, { "label": "登封市", "value": "410185" }], [{ "label": "龙亭区", "value": "410202" }, { "label": "顺河回族区", "value": "410203" }, { "label": "鼓楼区", "value": "410204" }, { "label": "禹王台区", "value": "410205" }, { "label": "祥符区", "value": "410212" }, { "label": "杞县", "value": "410221" }, { "label": "通许县", "value": "410222" }, { "label": "尉氏县", "value": "410223" }, { "label": "兰考县", "value": "410225" }], [{ "label": "老城区", "value": "410302" }, { "label": "西工区", "value": "410303" }, { "label": "瀍河回族区", "value": "410304" }, { "label": "涧西区", "value": "410305" }, { "label": "吉利区", "value": "410306" }, { "label": "洛龙区", "value": "410311" }, { "label": "孟津县", "value": "410322" }, { "label": "新安县", "value": "410323" }, { "label": "栾川县", "value": "410324" }, { "label": "嵩县", "value": "410325" }, { "label": "汝阳县", "value": "410326" }, { "label": "宜阳县", "value": "410327" }, { "label": "洛宁县", "value": "410328" }, { "label": "伊川县", "value": "410329" }, { "label": "洛阳高新技术产业开发区", "value": "410371" }, { "label": "偃师市", "value": "410381" }], [{ "label": "新华区", "value": "410402" }, { "label": "卫东区", "value": "410403" }, { "label": "石龙区", "value": "410404" }, { "label": "湛河区", "value": "410411" }, { "label": "宝丰县", "value": "410421" }, { "label": "叶县", "value": "410422" }, { "label": "鲁山县", "value": "410423" }, { "label": "郏县", "value": "410425" }, { "label": "平顶山高新技术产业开发区", "value": "410471" }, { "label": "平顶山市新城区", "value": "410472" }, { "label": "舞钢市", "value": "410481" }, { "label": "汝州市", "value": "410482" }], [{ "label": "文峰区", "value": "410502" }, { "label": "北关区", "value": "410503" }, { "label": "殷都区", "value": "410505" }, { "label": "龙安区", "value": "410506" }, { "label": "安阳县", "value": "410522" }, { "label": "汤阴县", "value": "410523" }, { "label": "滑县", "value": "410526" }, { "label": "内黄县", "value": "410527" }, { "label": "安阳高新技术产业开发区", "value": "410571" }, { "label": "林州市", "value": "410581" }], [{ "label": "鹤山区", "value": "410602" }, { "label": "山城区", "value": "410603" }, { "label": "淇滨区", "value": "410611" }, { "label": "浚县", "value": "410621" }, { "label": "淇县", "value": "410622" }, { "label": "鹤壁经济技术开发区", "value": "410671" }], [{ "label": "红旗区", "value": "410702" }, { "label": "卫滨区", "value": "410703" }, { "label": "凤泉区", "value": "410704" }, { "label": "牧野区", "value": "410711" }, { "label": "新乡县", "value": "410721" }, { "label": "获嘉县", "value": "410724" }, { "label": "原阳县", "value": "410725" }, { "label": "延津县", "value": "410726" }, { "label": "封丘县", "value": "410727" }, { "label": "长垣县", "value": "410728" }, { "label": "新乡高新技术产业开发区", "value": "410771" }, { "label": "新乡经济技术开发区", "value": "410772" }, { "label": "新乡市平原城乡一体化示范区", "value": "410773" }, { "label": "卫辉市", "value": "410781" }, { "label": "辉县市", "value": "410782" }], [{ "label": "解放区", "value": "410802" }, { "label": "中站区", "value": "410803" }, { "label": "马村区", "value": "410804" }, { "label": "山阳区", "value": "410811" }, { "label": "修武县", "value": "410821" }, { "label": "博爱县", "value": "410822" }, { "label": "武陟县", "value": "410823" }, { "label": "温县", "value": "410825" }, { "label": "焦作城乡一体化示范区", "value": "410871" }, { "label": "沁阳市", "value": "410882" }, { "label": "孟州市", "value": "410883" }], [{ "label": "华龙区", "value": "410902" }, { "label": "清丰县", "value": "410922" }, { "label": "南乐县", "value": "410923" }, { "label": "范县", "value": "410926" }, { "label": "台前县", "value": "410927" }, { "label": "濮阳县", "value": "410928" }, { "label": "河南濮阳工业园区", "value": "410971" }, { "label": "濮阳经济技术开发区", "value": "410972" }], [{ "label": "魏都区", "value": "411002" }, { "label": "建安区", "value": "411003" }, { "label": "鄢陵县", "value": "411024" }, { "label": "襄城县", "value": "411025" }, { "label": "许昌经济技术开发区", "value": "411071" }, { "label": "禹州市", "value": "411081" }, { "label": "长葛市", "value": "411082" }], [{ "label": "源汇区", "value": "411102" }, { "label": "郾城区", "value": "411103" }, { "label": "召陵区", "value": "411104" }, { "label": "舞阳县", "value": "411121" }, { "label": "临颍县", "value": "411122" }, { "label": "漯河经济技术开发区", "value": "411171" }], [{ "label": "湖滨区", "value": "411202" }, { "label": "陕州区", "value": "411203" }, { "label": "渑池县", "value": "411221" }, { "label": "卢氏县", "value": "411224" }, { "label": "河南三门峡经济开发区", "value": "411271" }, { "label": "义马市", "value": "411281" }, { "label": "灵宝市", "value": "411282" }], [{ "label": "宛城区", "value": "411302" }, { "label": "卧龙区", "value": "411303" }, { "label": "南召县", "value": "411321" }, { "label": "方城县", "value": "411322" }, { "label": "西峡县", "value": "411323" }, { "label": "镇平县", "value": "411324" }, { "label": "内乡县", "value": "411325" }, { "label": "淅川县", "value": "411326" }, { "label": "社旗县", "value": "411327" }, { "label": "唐河县", "value": "411328" }, { "label": "新野县", "value": "411329" }, { "label": "桐柏县", "value": "411330" }, { "label": "南阳高新技术产业开发区", "value": "411371" }, { "label": "南阳市城乡一体化示范区", "value": "411372" }, { "label": "邓州市", "value": "411381" }], [{ "label": "梁园区", "value": "411402" }, { "label": "睢阳区", "value": "411403" }, { "label": "民权县", "value": "411421" }, { "label": "睢县", "value": "411422" }, { "label": "宁陵县", "value": "411423" }, { "label": "柘城县", "value": "411424" }, { "label": "虞城县", "value": "411425" }, { "label": "夏邑县", "value": "411426" }, { "label": "豫东综合物流产业聚集区", "value": "411471" }, { "label": "河南商丘经济开发区", "value": "411472" }, { "label": "永城市", "value": "411481" }], [{ "label": "浉河区", "value": "411502" }, { "label": "平桥区", "value": "411503" }, { "label": "罗山县", "value": "411521" }, { "label": "光山县", "value": "411522" }, { "label": "新县", "value": "411523" }, { "label": "商城县", "value": "411524" }, { "label": "固始县", "value": "411525" }, { "label": "潢川县", "value": "411526" }, { "label": "淮滨县", "value": "411527" }, { "label": "息县", "value": "411528" }, { "label": "信阳高新技术产业开发区", "value": "411571" }], [{ "label": "川汇区", "value": "411602" }, { "label": "扶沟县", "value": "411621" }, { "label": "西华县", "value": "411622" }, { "label": "商水县", "value": "411623" }, { "label": "沈丘县", "value": "411624" }, { "label": "郸城县", "value": "411625" }, { "label": "淮阳县", "value": "411626" }, { "label": "太康县", "value": "411627" }, { "label": "鹿邑县", "value": "411628" }, { "label": "河南周口经济开发区", "value": "411671" }, { "label": "项城市", "value": "411681" }], [{ "label": "驿城区", "value": "411702" }, { "label": "西平县", "value": "411721" }, { "label": "上蔡县", "value": "411722" }, { "label": "平舆县", "value": "411723" }, { "label": "正阳县", "value": "411724" }, { "label": "确山县", "value": "411725" }, { "label": "泌阳县", "value": "411726" }, { "label": "汝南县", "value": "411727" }, { "label": "遂平县", "value": "411728" }, { "label": "新蔡县", "value": "411729" }, { "label": "河南驻马店经济开发区", "value": "411771" }], [{ "label": "济源市", "value": "419001" }]], [[{ "label": "江岸区", "value": "420102" }, { "label": "江汉区", "value": "420103" }, { "label": "硚口区", "value": "420104" }, { "label": "汉阳区", "value": "420105" }, { "label": "武昌区", "value": "420106" }, { "label": "青山区", "value": "420107" }, { "label": "洪山区", "value": "420111" }, { "label": "东西湖区", "value": "420112" }, { "label": "汉南区", "value": "420113" }, { "label": "蔡甸区", "value": "420114" }, { "label": "江夏区", "value": "420115" }, { "label": "黄陂区", "value": "420116" }, { "label": "新洲区", "value": "420117" }], [{ "label": "黄石港区", "value": "420202" }, { "label": "西塞山区", "value": "420203" }, { "label": "下陆区", "value": "420204" }, { "label": "铁山区", "value": "420205" }, { "label": "阳新县", "value": "420222" }, { "label": "大冶市", "value": "420281" }], [{ "label": "茅箭区", "value": "420302" }, { "label": "张湾区", "value": "420303" }, { "label": "郧阳区", "value": "420304" }, { "label": "郧西县", "value": "420322" }, { "label": "竹山县", "value": "420323" }, { "label": "竹溪县", "value": "420324" }, { "label": "房县", "value": "420325" }, { "label": "丹江口市", "value": "420381" }], [{ "label": "西陵区", "value": "420502" }, { "label": "伍家岗区", "value": "420503" }, { "label": "点军区", "value": "420504" }, { "label": "猇亭区", "value": "420505" }, { "label": "夷陵区", "value": "420506" }, { "label": "远安县", "value": "420525" }, { "label": "兴山县", "value": "420526" }, { "label": "秭归县", "value": "420527" }, { "label": "长阳土家族自治县", "value": "420528" }, { "label": "五峰土家族自治县", "value": "420529" }, { "label": "宜都市", "value": "420581" }, { "label": "当阳市", "value": "420582" }, { "label": "枝江市", "value": "420583" }], [{ "label": "襄城区", "value": "420602" }, { "label": "樊城区", "value": "420606" }, { "label": "襄州区", "value": "420607" }, { "label": "南漳县", "value": "420624" }, { "label": "谷城县", "value": "420625" }, { "label": "保康县", "value": "420626" }, { "label": "老河口市", "value": "420682" }, { "label": "枣阳市", "value": "420683" }, { "label": "宜城市", "value": "420684" }], [{ "label": "梁子湖区", "value": "420702" }, { "label": "华容区", "value": "420703" }, { "label": "鄂城区", "value": "420704" }], [{ "label": "东宝区", "value": "420802" }, { "label": "掇刀区", "value": "420804" }, { "label": "京山县", "value": "420821" }, { "label": "沙洋县", "value": "420822" }, { "label": "钟祥市", "value": "420881" }], [{ "label": "孝南区", "value": "420902" }, { "label": "孝昌县", "value": "420921" }, { "label": "大悟县", "value": "420922" }, { "label": "云梦县", "value": "420923" }, { "label": "应城市", "value": "420981" }, { "label": "安陆市", "value": "420982" }, { "label": "汉川市", "value": "420984" }], [{ "label": "沙市区", "value": "421002" }, { "label": "荆州区", "value": "421003" }, { "label": "公安县", "value": "421022" }, { "label": "监利县", "value": "421023" }, { "label": "江陵县", "value": "421024" }, { "label": "荆州经济技术开发区", "value": "421071" }, { "label": "石首市", "value": "421081" }, { "label": "洪湖市", "value": "421083" }, { "label": "松滋市", "value": "421087" }], [{ "label": "黄州区", "value": "421102" }, { "label": "团风县", "value": "421121" }, { "label": "红安县", "value": "421122" }, { "label": "罗田县", "value": "421123" }, { "label": "英山县", "value": "421124" }, { "label": "浠水县", "value": "421125" }, { "label": "蕲春县", "value": "421126" }, { "label": "黄梅县", "value": "421127" }, { "label": "龙感湖管理区", "value": "421171" }, { "label": "麻城市", "value": "421181" }, { "label": "武穴市", "value": "421182" }], [{ "label": "咸安区", "value": "421202" }, { "label": "嘉鱼县", "value": "421221" }, { "label": "通城县", "value": "421222" }, { "label": "崇阳县", "value": "421223" }, { "label": "通山县", "value": "421224" }, { "label": "赤壁市", "value": "421281" }], [{ "label": "曾都区", "value": "421303" }, { "label": "随县", "value": "421321" }, { "label": "广水市", "value": "421381" }], [{ "label": "恩施市", "value": "422801" }, { "label": "利川市", "value": "422802" }, { "label": "建始县", "value": "422822" }, { "label": "巴东县", "value": "422823" }, { "label": "宣恩县", "value": "422825" }, { "label": "咸丰县", "value": "422826" }, { "label": "来凤县", "value": "422827" }, { "label": "鹤峰县", "value": "422828" }], [{ "label": "仙桃市", "value": "429004" }, { "label": "潜江市", "value": "429005" }, { "label": "天门市", "value": "429006" }, { "label": "神农架林区", "value": "429021" }]], [[{ "label": "芙蓉区", "value": "430102" }, { "label": "天心区", "value": "430103" }, { "label": "岳麓区", "value": "430104" }, { "label": "开福区", "value": "430105" }, { "label": "雨花区", "value": "430111" }, { "label": "望城区", "value": "430112" }, { "label": "长沙县", "value": "430121" }, { "label": "浏阳市", "value": "430181" }, { "label": "宁乡市", "value": "430182" }], [{ "label": "荷塘区", "value": "430202" }, { "label": "芦淞区", "value": "430203" }, { "label": "石峰区", "value": "430204" }, { "label": "天元区", "value": "430211" }, { "label": "株洲县", "value": "430221" }, { "label": "攸县", "value": "430223" }, { "label": "茶陵县", "value": "430224" }, { "label": "炎陵县", "value": "430225" }, { "label": "云龙示范区", "value": "430271" }, { "label": "醴陵市", "value": "430281" }], [{ "label": "雨湖区", "value": "430302" }, { "label": "岳塘区", "value": "430304" }, { "label": "湘潭县", "value": "430321" }, { "label": "湖南湘潭高新技术产业园区", "value": "430371" }, { "label": "湘潭昭山示范区", "value": "430372" }, { "label": "湘潭九华示范区", "value": "430373" }, { "label": "湘乡市", "value": "430381" }, { "label": "韶山市", "value": "430382" }], [{ "label": "珠晖区", "value": "430405" }, { "label": "雁峰区", "value": "430406" }, { "label": "石鼓区", "value": "430407" }, { "label": "蒸湘区", "value": "430408" }, { "label": "南岳区", "value": "430412" }, { "label": "衡阳县", "value": "430421" }, { "label": "衡南县", "value": "430422" }, { "label": "衡山县", "value": "430423" }, { "label": "衡东县", "value": "430424" }, { "label": "祁东县", "value": "430426" }, { "label": "衡阳综合保税区", "value": "430471" }, { "label": "湖南衡阳高新技术产业园区", "value": "430472" }, { "label": "湖南衡阳松木经济开发区", "value": "430473" }, { "label": "耒阳市", "value": "430481" }, { "label": "常宁市", "value": "430482" }], [{ "label": "双清区", "value": "430502" }, { "label": "大祥区", "value": "430503" }, { "label": "北塔区", "value": "430511" }, { "label": "邵东县", "value": "430521" }, { "label": "新邵县", "value": "430522" }, { "label": "邵阳县", "value": "430523" }, { "label": "隆回县", "value": "430524" }, { "label": "洞口县", "value": "430525" }, { "label": "绥宁县", "value": "430527" }, { "label": "新宁县", "value": "430528" }, { "label": "城步苗族自治县", "value": "430529" }, { "label": "武冈市", "value": "430581" }], [{ "label": "岳阳楼区", "value": "430602" }, { "label": "云溪区", "value": "430603" }, { "label": "君山区", "value": "430611" }, { "label": "岳阳县", "value": "430621" }, { "label": "华容县", "value": "430623" }, { "label": "湘阴县", "value": "430624" }, { "label": "平江县", "value": "430626" }, { "label": "岳阳市屈原管理区", "value": "430671" }, { "label": "汨罗市", "value": "430681" }, { "label": "临湘市", "value": "430682" }], [{ "label": "武陵区", "value": "430702" }, { "label": "鼎城区", "value": "430703" }, { "label": "安乡县", "value": "430721" }, { "label": "汉寿县", "value": "430722" }, { "label": "澧县", "value": "430723" }, { "label": "临澧县", "value": "430724" }, { "label": "桃源县", "value": "430725" }, { "label": "石门县", "value": "430726" }, { "label": "常德市西洞庭管理区", "value": "430771" }, { "label": "津市市", "value": "430781" }], [{ "label": "永定区", "value": "430802" }, { "label": "武陵源区", "value": "430811" }, { "label": "慈利县", "value": "430821" }, { "label": "桑植县", "value": "430822" }], [{ "label": "资阳区", "value": "430902" }, { "label": "赫山区", "value": "430903" }, { "label": "南县", "value": "430921" }, { "label": "桃江县", "value": "430922" }, { "label": "安化县", "value": "430923" }, { "label": "益阳市大通湖管理区", "value": "430971" }, { "label": "湖南益阳高新技术产业园区", "value": "430972" }, { "label": "沅江市", "value": "430981" }], [{ "label": "北湖区", "value": "431002" }, { "label": "苏仙区", "value": "431003" }, { "label": "桂阳县", "value": "431021" }, { "label": "宜章县", "value": "431022" }, { "label": "永兴县", "value": "431023" }, { "label": "嘉禾县", "value": "431024" }, { "label": "临武县", "value": "431025" }, { "label": "汝城县", "value": "431026" }, { "label": "桂东县", "value": "431027" }, { "label": "安仁县", "value": "431028" }, { "label": "资兴市", "value": "431081" }], [{ "label": "零陵区", "value": "431102" }, { "label": "冷水滩区", "value": "431103" }, { "label": "祁阳县", "value": "431121" }, { "label": "东安县", "value": "431122" }, { "label": "双牌县", "value": "431123" }, { "label": "道县", "value": "431124" }, { "label": "江永县", "value": "431125" }, { "label": "宁远县", "value": "431126" }, { "label": "蓝山县", "value": "431127" }, { "label": "新田县", "value": "431128" }, { "label": "江华瑶族自治县", "value": "431129" }, { "label": "永州经济技术开发区", "value": "431171" }, { "label": "永州市金洞管理区", "value": "431172" }, { "label": "永州市回龙圩管理区", "value": "431173" }], [{ "label": "鹤城区", "value": "431202" }, { "label": "中方县", "value": "431221" }, { "label": "沅陵县", "value": "431222" }, { "label": "辰溪县", "value": "431223" }, { "label": "溆浦县", "value": "431224" }, { "label": "会同县", "value": "431225" }, { "label": "麻阳苗族自治县", "value": "431226" }, { "label": "新晃侗族自治县", "value": "431227" }, { "label": "芷江侗族自治县", "value": "431228" }, { "label": "靖州苗族侗族自治县", "value": "431229" }, { "label": "通道侗族自治县", "value": "431230" }, { "label": "怀化市洪江管理区", "value": "431271" }, { "label": "洪江市", "value": "431281" }], [{ "label": "娄星区", "value": "431302" }, { "label": "双峰县", "value": "431321" }, { "label": "新化县", "value": "431322" }, { "label": "冷水江市", "value": "431381" }, { "label": "涟源市", "value": "431382" }], [{ "label": "吉首市", "value": "433101" }, { "label": "泸溪县", "value": "433122" }, { "label": "凤凰县", "value": "433123" }, { "label": "花垣县", "value": "433124" }, { "label": "保靖县", "value": "433125" }, { "label": "古丈县", "value": "433126" }, { "label": "永顺县", "value": "433127" }, { "label": "龙山县", "value": "433130" }, { "label": "湖南吉首经济开发区", "value": "433172" }, { "label": "湖南永顺经济开发区", "value": "433173" }]], [[{ "label": "荔湾区", "value": "440103" }, { "label": "越秀区", "value": "440104" }, { "label": "海珠区", "value": "440105" }, { "label": "天河区", "value": "440106" }, { "label": "白云区", "value": "440111" }, { "label": "黄埔区", "value": "440112" }, { "label": "番禺区", "value": "440113" }, { "label": "花都区", "value": "440114" }, { "label": "南沙区", "value": "440115" }, { "label": "从化区", "value": "440117" }, { "label": "增城区", "value": "440118" }], [{ "label": "武江区", "value": "440203" }, { "label": "浈江区", "value": "440204" }, { "label": "曲江区", "value": "440205" }, { "label": "始兴县", "value": "440222" }, { "label": "仁化县", "value": "440224" }, { "label": "翁源县", "value": "440229" }, { "label": "乳源瑶族自治县", "value": "440232" }, { "label": "新丰县", "value": "440233" }, { "label": "乐昌市", "value": "440281" }, { "label": "南雄市", "value": "440282" }], [{ "label": "罗湖区", "value": "440303" }, { "label": "福田区", "value": "440304" }, { "label": "南山区", "value": "440305" }, { "label": "宝安区", "value": "440306" }, { "label": "龙岗区", "value": "440307" }, { "label": "盐田区", "value": "440308" }, { "label": "龙华区", "value": "440309" }, { "label": "坪山区", "value": "440310" }], [{ "label": "香洲区", "value": "440402" }, { "label": "斗门区", "value": "440403" }, { "label": "金湾区", "value": "440404" }], [{ "label": "龙湖区", "value": "440507" }, { "label": "金平区", "value": "440511" }, { "label": "濠江区", "value": "440512" }, { "label": "潮阳区", "value": "440513" }, { "label": "潮南区", "value": "440514" }, { "label": "澄海区", "value": "440515" }, { "label": "南澳县", "value": "440523" }], [{ "label": "禅城区", "value": "440604" }, { "label": "南海区", "value": "440605" }, { "label": "顺德区", "value": "440606" }, { "label": "三水区", "value": "440607" }, { "label": "高明区", "value": "440608" }], [{ "label": "蓬江区", "value": "440703" }, { "label": "江海区", "value": "440704" }, { "label": "新会区", "value": "440705" }, { "label": "台山市", "value": "440781" }, { "label": "开平市", "value": "440783" }, { "label": "鹤山市", "value": "440784" }, { "label": "恩平市", "value": "440785" }], [{ "label": "赤坎区", "value": "440802" }, { "label": "霞山区", "value": "440803" }, { "label": "坡头区", "value": "440804" }, { "label": "麻章区", "value": "440811" }, { "label": "遂溪县", "value": "440823" }, { "label": "徐闻县", "value": "440825" }, { "label": "廉江市", "value": "440881" }, { "label": "雷州市", "value": "440882" }, { "label": "吴川市", "value": "440883" }], [{ "label": "茂南区", "value": "440902" }, { "label": "电白区", "value": "440904" }, { "label": "高州市", "value": "440981" }, { "label": "化州市", "value": "440982" }, { "label": "信宜市", "value": "440983" }], [{ "label": "端州区", "value": "441202" }, { "label": "鼎湖区", "value": "441203" }, { "label": "高要区", "value": "441204" }, { "label": "广宁县", "value": "441223" }, { "label": "怀集县", "value": "441224" }, { "label": "封开县", "value": "441225" }, { "label": "德庆县", "value": "441226" }, { "label": "四会市", "value": "441284" }], [{ "label": "惠城区", "value": "441302" }, { "label": "惠阳区", "value": "441303" }, { "label": "博罗县", "value": "441322" }, { "label": "惠东县", "value": "441323" }, { "label": "龙门县", "value": "441324" }], [{ "label": "梅江区", "value": "441402" }, { "label": "梅县区", "value": "441403" }, { "label": "大埔县", "value": "441422" }, { "label": "丰顺县", "value": "441423" }, { "label": "五华县", "value": "441424" }, { "label": "平远县", "value": "441426" }, { "label": "蕉岭县", "value": "441427" }, { "label": "兴宁市", "value": "441481" }], [{ "label": "城区", "value": "441502" }, { "label": "海丰县", "value": "441521" }, { "label": "陆河县", "value": "441523" }, { "label": "陆丰市", "value": "441581" }], [{ "label": "源城区", "value": "441602" }, { "label": "紫金县", "value": "441621" }, { "label": "龙川县", "value": "441622" }, { "label": "连平县", "value": "441623" }, { "label": "和平县", "value": "441624" }, { "label": "东源县", "value": "441625" }], [{ "label": "江城区", "value": "441702" }, { "label": "阳东区", "value": "441704" }, { "label": "阳西县", "value": "441721" }, { "label": "阳春市", "value": "441781" }], [{ "label": "清城区", "value": "441802" }, { "label": "清新区", "value": "441803" }, { "label": "佛冈县", "value": "441821" }, { "label": "阳山县", "value": "441823" }, { "label": "连山壮族瑶族自治县", "value": "441825" }, { "label": "连南瑶族自治县", "value": "441826" }, { "label": "英德市", "value": "441881" }, { "label": "连州市", "value": "441882" }], [{ "label": "东莞市", "value": "441900" }], [{ "label": "中山市", "value": "442000" }], [{ "label": "湘桥区", "value": "445102" }, { "label": "潮安区", "value": "445103" }, { "label": "饶平县", "value": "445122" }], [{ "label": "榕城区", "value": "445202" }, { "label": "揭东区", "value": "445203" }, { "label": "揭西县", "value": "445222" }, { "label": "惠来县", "value": "445224" }, { "label": "普宁市", "value": "445281" }], [{ "label": "云城区", "value": "445302" }, { "label": "云安区", "value": "445303" }, { "label": "新兴县", "value": "445321" }, { "label": "郁南县", "value": "445322" }, { "label": "罗定市", "value": "445381" }]], [[{ "label": "兴宁区", "value": "450102" }, { "label": "青秀区", "value": "450103" }, { "label": "江南区", "value": "450105" }, { "label": "西乡塘区", "value": "450107" }, { "label": "良庆区", "value": "450108" }, { "label": "邕宁区", "value": "450109" }, { "label": "武鸣区", "value": "450110" }, { "label": "隆安县", "value": "450123" }, { "label": "马山县", "value": "450124" }, { "label": "上林县", "value": "450125" }, { "label": "宾阳县", "value": "450126" }, { "label": "横县", "value": "450127" }], [{ "label": "城中区", "value": "450202" }, { "label": "鱼峰区", "value": "450203" }, { "label": "柳南区", "value": "450204" }, { "label": "柳北区", "value": "450205" }, { "label": "柳江区", "value": "450206" }, { "label": "柳城县", "value": "450222" }, { "label": "鹿寨县", "value": "450223" }, { "label": "融安县", "value": "450224" }, { "label": "融水苗族自治县", "value": "450225" }, { "label": "三江侗族自治县", "value": "450226" }], [{ "label": "秀峰区", "value": "450302" }, { "label": "叠彩区", "value": "450303" }, { "label": "象山区", "value": "450304" }, { "label": "七星区", "value": "450305" }, { "label": "雁山区", "value": "450311" }, { "label": "临桂区", "value": "450312" }, { "label": "阳朔县", "value": "450321" }, { "label": "灵川县", "value": "450323" }, { "label": "全州县", "value": "450324" }, { "label": "兴安县", "value": "450325" }, { "label": "永福县", "value": "450326" }, { "label": "灌阳县", "value": "450327" }, { "label": "龙胜各族自治县", "value": "450328" }, { "label": "资源县", "value": "450329" }, { "label": "平乐县", "value": "450330" }, { "label": "荔浦县", "value": "450331" }, { "label": "恭城瑶族自治县", "value": "450332" }], [{ "label": "万秀区", "value": "450403" }, { "label": "长洲区", "value": "450405" }, { "label": "龙圩区", "value": "450406" }, { "label": "苍梧县", "value": "450421" }, { "label": "藤县", "value": "450422" }, { "label": "蒙山县", "value": "450423" }, { "label": "岑溪市", "value": "450481" }], [{ "label": "海城区", "value": "450502" }, { "label": "银海区", "value": "450503" }, { "label": "铁山港区", "value": "450512" }, { "label": "合浦县", "value": "450521" }], [{ "label": "港口区", "value": "450602" }, { "label": "防城区", "value": "450603" }, { "label": "上思县", "value": "450621" }, { "label": "东兴市", "value": "450681" }], [{ "label": "钦南区", "value": "450702" }, { "label": "钦北区", "value": "450703" }, { "label": "灵山县", "value": "450721" }, { "label": "浦北县", "value": "450722" }], [{ "label": "港北区", "value": "450802" }, { "label": "港南区", "value": "450803" }, { "label": "覃塘区", "value": "450804" }, { "label": "平南县", "value": "450821" }, { "label": "桂平市", "value": "450881" }], [{ "label": "玉州区", "value": "450902" }, { "label": "福绵区", "value": "450903" }, { "label": "容县", "value": "450921" }, { "label": "陆川县", "value": "450922" }, { "label": "博白县", "value": "450923" }, { "label": "兴业县", "value": "450924" }, { "label": "北流市", "value": "450981" }], [{ "label": "右江区", "value": "451002" }, { "label": "田阳县", "value": "451021" }, { "label": "田东县", "value": "451022" }, { "label": "平果县", "value": "451023" }, { "label": "德保县", "value": "451024" }, { "label": "那坡县", "value": "451026" }, { "label": "凌云县", "value": "451027" }, { "label": "乐业县", "value": "451028" }, { "label": "田林县", "value": "451029" }, { "label": "西林县", "value": "451030" }, { "label": "隆林各族自治县", "value": "451031" }, { "label": "靖西市", "value": "451081" }], [{ "label": "八步区", "value": "451102" }, { "label": "平桂区", "value": "451103" }, { "label": "昭平县", "value": "451121" }, { "label": "钟山县", "value": "451122" }, { "label": "富川瑶族自治县", "value": "451123" }], [{ "label": "金城江区", "value": "451202" }, { "label": "宜州区", "value": "451203" }, { "label": "南丹县", "value": "451221" }, { "label": "天峨县", "value": "451222" }, { "label": "凤山县", "value": "451223" }, { "label": "东兰县", "value": "451224" }, { "label": "罗城仫佬族自治县", "value": "451225" }, { "label": "环江毛南族自治县", "value": "451226" }, { "label": "巴马瑶族自治县", "value": "451227" }, { "label": "都安瑶族自治县", "value": "451228" }, { "label": "大化瑶族自治县", "value": "451229" }], [{ "label": "兴宾区", "value": "451302" }, { "label": "忻城县", "value": "451321" }, { "label": "象州县", "value": "451322" }, { "label": "武宣县", "value": "451323" }, { "label": "金秀瑶族自治县", "value": "451324" }, { "label": "合山市", "value": "451381" }], [{ "label": "江州区", "value": "451402" }, { "label": "扶绥县", "value": "451421" }, { "label": "宁明县", "value": "451422" }, { "label": "龙州县", "value": "451423" }, { "label": "大新县", "value": "451424" }, { "label": "天等县", "value": "451425" }, { "label": "凭祥市", "value": "451481" }]], [[{ "label": "秀英区", "value": "460105" }, { "label": "龙华区", "value": "460106" }, { "label": "琼山区", "value": "460107" }, { "label": "美兰区", "value": "460108" }], [{ "label": "海棠区", "value": "460202" }, { "label": "吉阳区", "value": "460203" }, { "label": "天涯区", "value": "460204" }, { "label": "崖州区", "value": "460205" }], [{ "label": "西沙群岛", "value": "460321" }, { "label": "南沙群岛", "value": "460322" }, { "label": "中沙群岛的岛礁及其海域", "value": "460323" }], [{ "label": "儋州市", "value": "460400" }], [{ "label": "五指山市", "value": "469001" }, { "label": "琼海市", "value": "469002" }, { "label": "文昌市", "value": "469005" }, { "label": "万宁市", "value": "469006" }, { "label": "东方市", "value": "469007" }, { "label": "定安县", "value": "469021" }, { "label": "屯昌县", "value": "469022" }, { "label": "澄迈县", "value": "469023" }, { "label": "临高县", "value": "469024" }, { "label": "白沙黎族自治县", "value": "469025" }, { "label": "昌江黎族自治县", "value": "469026" }, { "label": "乐东黎族自治县", "value": "469027" }, { "label": "陵水黎族自治县", "value": "469028" }, { "label": "保亭黎族苗族自治县", "value": "469029" }, { "label": "琼中黎族苗族自治县", "value": "469030" }]], [[{ "label": "万州区", "value": "500101" }, { "label": "涪陵区", "value": "500102" }, { "label": "渝中区", "value": "500103" }, { "label": "大渡口区", "value": "500104" }, { "label": "江北区", "value": "500105" }, { "label": "沙坪坝区", "value": "500106" }, { "label": "九龙坡区", "value": "500107" }, { "label": "南岸区", "value": "500108" }, { "label": "北碚区", "value": "500109" }, { "label": "綦江区", "value": "500110" }, { "label": "大足区", "value": "500111" }, { "label": "渝北区", "value": "500112" }, { "label": "巴南区", "value": "500113" }, { "label": "黔江区", "value": "500114" }, { "label": "长寿区", "value": "500115" }, { "label": "江津区", "value": "500116" }, { "label": "合川区", "value": "500117" }, { "label": "永川区", "value": "500118" }, { "label": "南川区", "value": "500119" }, { "label": "璧山区", "value": "500120" }, { "label": "铜梁区", "value": "500151" }, { "label": "潼南区", "value": "500152" }, { "label": "荣昌区", "value": "500153" }, { "label": "开州区", "value": "500154" }, { "label": "梁平区", "value": "500155" }, { "label": "武隆区", "value": "500156" }], [{ "label": "城口县", "value": "500229" }, { "label": "丰都县", "value": "500230" }, { "label": "垫江县", "value": "500231" }, { "label": "忠县", "value": "500233" }, { "label": "云阳县", "value": "500235" }, { "label": "奉节县", "value": "500236" }, { "label": "巫山县", "value": "500237" }, { "label": "巫溪县", "value": "500238" }, { "label": "石柱土家族自治县", "value": "500240" }, { "label": "秀山土家族苗族自治县", "value": "500241" }, { "label": "酉阳土家族苗族自治县", "value": "500242" }, { "label": "彭水苗族土家族自治县", "value": "500243" }]], [[{ "label": "锦江区", "value": "510104" }, { "label": "青羊区", "value": "510105" }, { "label": "金牛区", "value": "510106" }, { "label": "武侯区", "value": "510107" }, { "label": "成华区", "value": "510108" }, { "label": "龙泉驿区", "value": "510112" }, { "label": "青白江区", "value": "510113" }, { "label": "新都区", "value": "510114" }, { "label": "温江区", "value": "510115" }, { "label": "双流区", "value": "510116" }, { "label": "郫都区", "value": "510117" }, { "label": "金堂县", "value": "510121" }, { "label": "大邑县", "value": "510129" }, { "label": "蒲江县", "value": "510131" }, { "label": "新津县", "value": "510132" }, { "label": "都江堰市", "value": "510181" }, { "label": "彭州市", "value": "510182" }, { "label": "邛崃市", "value": "510183" }, { "label": "崇州市", "value": "510184" }, { "label": "简阳市", "value": "510185" }], [{ "label": "自流井区", "value": "510302" }, { "label": "贡井区", "value": "510303" }, { "label": "大安区", "value": "510304" }, { "label": "沿滩区", "value": "510311" }, { "label": "荣县", "value": "510321" }, { "label": "富顺县", "value": "510322" }], [{ "label": "东区", "value": "510402" }, { "label": "西区", "value": "510403" }, { "label": "仁和区", "value": "510411" }, { "label": "米易县", "value": "510421" }, { "label": "盐边县", "value": "510422" }], [{ "label": "江阳区", "value": "510502" }, { "label": "纳溪区", "value": "510503" }, { "label": "龙马潭区", "value": "510504" }, { "label": "泸县", "value": "510521" }, { "label": "合江县", "value": "510522" }, { "label": "叙永县", "value": "510524" }, { "label": "古蔺县", "value": "510525" }], [{ "label": "旌阳区", "value": "510603" }, { "label": "罗江区", "value": "510604" }, { "label": "中江县", "value": "510623" }, { "label": "广汉市", "value": "510681" }, { "label": "什邡市", "value": "510682" }, { "label": "绵竹市", "value": "510683" }], [{ "label": "涪城区", "value": "510703" }, { "label": "游仙区", "value": "510704" }, { "label": "安州区", "value": "510705" }, { "label": "三台县", "value": "510722" }, { "label": "盐亭县", "value": "510723" }, { "label": "梓潼县", "value": "510725" }, { "label": "北川羌族自治县", "value": "510726" }, { "label": "平武县", "value": "510727" }, { "label": "江油市", "value": "510781" }], [{ "label": "利州区", "value": "510802" }, { "label": "昭化区", "value": "510811" }, { "label": "朝天区", "value": "510812" }, { "label": "旺苍县", "value": "510821" }, { "label": "青川县", "value": "510822" }, { "label": "剑阁县", "value": "510823" }, { "label": "苍溪县", "value": "510824" }], [{ "label": "船山区", "value": "510903" }, { "label": "安居区", "value": "510904" }, { "label": "蓬溪县", "value": "510921" }, { "label": "射洪县", "value": "510922" }, { "label": "大英县", "value": "510923" }], [{ "label": "市中区", "value": "511002" }, { "label": "东兴区", "value": "511011" }, { "label": "威远县", "value": "511024" }, { "label": "资中县", "value": "511025" }, { "label": "内江经济开发区", "value": "511071" }, { "label": "隆昌市", "value": "511083" }], [{ "label": "市中区", "value": "511102" }, { "label": "沙湾区", "value": "511111" }, { "label": "五通桥区", "value": "511112" }, { "label": "金口河区", "value": "511113" }, { "label": "犍为县", "value": "511123" }, { "label": "井研县", "value": "511124" }, { "label": "夹江县", "value": "511126" }, { "label": "沐川县", "value": "511129" }, { "label": "峨边彝族自治县", "value": "511132" }, { "label": "马边彝族自治县", "value": "511133" }, { "label": "峨眉山市", "value": "511181" }], [{ "label": "顺庆区", "value": "511302" }, { "label": "高坪区", "value": "511303" }, { "label": "嘉陵区", "value": "511304" }, { "label": "南部县", "value": "511321" }, { "label": "营山县", "value": "511322" }, { "label": "蓬安县", "value": "511323" }, { "label": "仪陇县", "value": "511324" }, { "label": "西充县", "value": "511325" }, { "label": "阆中市", "value": "511381" }], [{ "label": "东坡区", "value": "511402" }, { "label": "彭山区", "value": "511403" }, { "label": "仁寿县", "value": "511421" }, { "label": "洪雅县", "value": "511423" }, { "label": "丹棱县", "value": "511424" }, { "label": "青神县", "value": "511425" }], [{ "label": "翠屏区", "value": "511502" }, { "label": "南溪区", "value": "511503" }, { "label": "宜宾县", "value": "511521" }, { "label": "江安县", "value": "511523" }, { "label": "长宁县", "value": "511524" }, { "label": "高县", "value": "511525" }, { "label": "珙县", "value": "511526" }, { "label": "筠连县", "value": "511527" }, { "label": "兴文县", "value": "511528" }, { "label": "屏山县", "value": "511529" }], [{ "label": "广安区", "value": "511602" }, { "label": "前锋区", "value": "511603" }, { "label": "岳池县", "value": "511621" }, { "label": "武胜县", "value": "511622" }, { "label": "邻水县", "value": "511623" }, { "label": "华蓥市", "value": "511681" }], [{ "label": "通川区", "value": "511702" }, { "label": "达川区", "value": "511703" }, { "label": "宣汉县", "value": "511722" }, { "label": "开江县", "value": "511723" }, { "label": "大竹县", "value": "511724" }, { "label": "渠县", "value": "511725" }, { "label": "达州经济开发区", "value": "511771" }, { "label": "万源市", "value": "511781" }], [{ "label": "雨城区", "value": "511802" }, { "label": "名山区", "value": "511803" }, { "label": "荥经县", "value": "511822" }, { "label": "汉源县", "value": "511823" }, { "label": "石棉县", "value": "511824" }, { "label": "天全县", "value": "511825" }, { "label": "芦山县", "value": "511826" }, { "label": "宝兴县", "value": "511827" }], [{ "label": "巴州区", "value": "511902" }, { "label": "恩阳区", "value": "511903" }, { "label": "通江县", "value": "511921" }, { "label": "南江县", "value": "511922" }, { "label": "平昌县", "value": "511923" }, { "label": "巴中经济开发区", "value": "511971" }], [{ "label": "雁江区", "value": "512002" }, { "label": "安岳县", "value": "512021" }, { "label": "乐至县", "value": "512022" }], [{ "label": "马尔康市", "value": "513201" }, { "label": "汶川县", "value": "513221" }, { "label": "理县", "value": "513222" }, { "label": "茂县", "value": "513223" }, { "label": "松潘县", "value": "513224" }, { "label": "九寨沟县", "value": "513225" }, { "label": "金川县", "value": "513226" }, { "label": "小金县", "value": "513227" }, { "label": "黑水县", "value": "513228" }, { "label": "壤塘县", "value": "513230" }, { "label": "阿坝县", "value": "513231" }, { "label": "若尔盖县", "value": "513232" }, { "label": "红原县", "value": "513233" }], [{ "label": "康定市", "value": "513301" }, { "label": "泸定县", "value": "513322" }, { "label": "丹巴县", "value": "513323" }, { "label": "九龙县", "value": "513324" }, { "label": "雅江县", "value": "513325" }, { "label": "道孚县", "value": "513326" }, { "label": "炉霍县", "value": "513327" }, { "label": "甘孜县", "value": "513328" }, { "label": "新龙县", "value": "513329" }, { "label": "德格县", "value": "513330" }, { "label": "白玉县", "value": "513331" }, { "label": "石渠县", "value": "513332" }, { "label": "色达县", "value": "513333" }, { "label": "理塘县", "value": "513334" }, { "label": "巴塘县", "value": "513335" }, { "label": "乡城县", "value": "513336" }, { "label": "稻城县", "value": "513337" }, { "label": "得荣县", "value": "513338" }], [{ "label": "西昌市", "value": "513401" }, { "label": "木里藏族自治县", "value": "513422" }, { "label": "盐源县", "value": "513423" }, { "label": "德昌县", "value": "513424" }, { "label": "会理县", "value": "513425" }, { "label": "会东县", "value": "513426" }, { "label": "宁南县", "value": "513427" }, { "label": "普格县", "value": "513428" }, { "label": "布拖县", "value": "513429" }, { "label": "金阳县", "value": "513430" }, { "label": "昭觉县", "value": "513431" }, { "label": "喜德县", "value": "513432" }, { "label": "冕宁县", "value": "513433" }, { "label": "越西县", "value": "513434" }, { "label": "甘洛县", "value": "513435" }, { "label": "美姑县", "value": "513436" }, { "label": "雷波县", "value": "513437" }]], [[{ "label": "南明区", "value": "520102" }, { "label": "云岩区", "value": "520103" }, { "label": "花溪区", "value": "520111" }, { "label": "乌当区", "value": "520112" }, { "label": "白云区", "value": "520113" }, { "label": "观山湖区", "value": "520115" }, { "label": "开阳县", "value": "520121" }, { "label": "息烽县", "value": "520122" }, { "label": "修文县", "value": "520123" }, { "label": "清镇市", "value": "520181" }], [{ "label": "钟山区", "value": "520201" }, { "label": "六枝特区", "value": "520203" }, { "label": "水城县", "value": "520221" }, { "label": "盘州市", "value": "520281" }], [{ "label": "红花岗区", "value": "520302" }, { "label": "汇川区", "value": "520303" }, { "label": "播州区", "value": "520304" }, { "label": "桐梓县", "value": "520322" }, { "label": "绥阳县", "value": "520323" }, { "label": "正安县", "value": "520324" }, { "label": "道真仡佬族苗族自治县", "value": "520325" }, { "label": "务川仡佬族苗族自治县", "value": "520326" }, { "label": "凤冈县", "value": "520327" }, { "label": "湄潭县", "value": "520328" }, { "label": "余庆县", "value": "520329" }, { "label": "习水县", "value": "520330" }, { "label": "赤水市", "value": "520381" }, { "label": "仁怀市", "value": "520382" }], [{ "label": "西秀区", "value": "520402" }, { "label": "平坝区", "value": "520403" }, { "label": "普定县", "value": "520422" }, { "label": "镇宁布依族苗族自治县", "value": "520423" }, { "label": "关岭布依族苗族自治县", "value": "520424" }, { "label": "紫云苗族布依族自治县", "value": "520425" }], [{ "label": "七星关区", "value": "520502" }, { "label": "大方县", "value": "520521" }, { "label": "黔西县", "value": "520522" }, { "label": "金沙县", "value": "520523" }, { "label": "织金县", "value": "520524" }, { "label": "纳雍县", "value": "520525" }, { "label": "威宁彝族回族苗族自治县", "value": "520526" }, { "label": "赫章县", "value": "520527" }], [{ "label": "碧江区", "value": "520602" }, { "label": "万山区", "value": "520603" }, { "label": "江口县", "value": "520621" }, { "label": "玉屏侗族自治县", "value": "520622" }, { "label": "石阡县", "value": "520623" }, { "label": "思南县", "value": "520624" }, { "label": "印江土家族苗族自治县", "value": "520625" }, { "label": "德江县", "value": "520626" }, { "label": "沿河土家族自治县", "value": "520627" }, { "label": "松桃苗族自治县", "value": "520628" }], [{ "label": "兴义市", "value": "522301" }, { "label": "兴仁县", "value": "522322" }, { "label": "普安县", "value": "522323" }, { "label": "晴隆县", "value": "522324" }, { "label": "贞丰县", "value": "522325" }, { "label": "望谟县", "value": "522326" }, { "label": "册亨县", "value": "522327" }, { "label": "安龙县", "value": "522328" }], [{ "label": "凯里市", "value": "522601" }, { "label": "黄平县", "value": "522622" }, { "label": "施秉县", "value": "522623" }, { "label": "三穗县", "value": "522624" }, { "label": "镇远县", "value": "522625" }, { "label": "岑巩县", "value": "522626" }, { "label": "天柱县", "value": "522627" }, { "label": "锦屏县", "value": "522628" }, { "label": "剑河县", "value": "522629" }, { "label": "台江县", "value": "522630" }, { "label": "黎平县", "value": "522631" }, { "label": "榕江县", "value": "522632" }, { "label": "从江县", "value": "522633" }, { "label": "雷山县", "value": "522634" }, { "label": "麻江县", "value": "522635" }, { "label": "丹寨县", "value": "522636" }], [{ "label": "都匀市", "value": "522701" }, { "label": "福泉市", "value": "522702" }, { "label": "荔波县", "value": "522722" }, { "label": "贵定县", "value": "522723" }, { "label": "瓮安县", "value": "522725" }, { "label": "独山县", "value": "522726" }, { "label": "平塘县", "value": "522727" }, { "label": "罗甸县", "value": "522728" }, { "label": "长顺县", "value": "522729" }, { "label": "龙里县", "value": "522730" }, { "label": "惠水县", "value": "522731" }, { "label": "三都水族自治县", "value": "522732" }]], [[{ "label": "五华区", "value": "530102" }, { "label": "盘龙区", "value": "530103" }, { "label": "官渡区", "value": "530111" }, { "label": "西山区", "value": "530112" }, { "label": "东川区", "value": "530113" }, { "label": "呈贡区", "value": "530114" }, { "label": "晋宁区", "value": "530115" }, { "label": "富民县", "value": "530124" }, { "label": "宜良县", "value": "530125" }, { "label": "石林彝族自治县", "value": "530126" }, { "label": "嵩明县", "value": "530127" }, { "label": "禄劝彝族苗族自治县", "value": "530128" }, { "label": "寻甸回族彝族自治县", "value": "530129" }, { "label": "安宁市", "value": "530181" }], [{ "label": "麒麟区", "value": "530302" }, { "label": "沾益区", "value": "530303" }, { "label": "马龙县", "value": "530321" }, { "label": "陆良县", "value": "530322" }, { "label": "师宗县", "value": "530323" }, { "label": "罗平县", "value": "530324" }, { "label": "富源县", "value": "530325" }, { "label": "会泽县", "value": "530326" }, { "label": "宣威市", "value": "530381" }], [{ "label": "红塔区", "value": "530402" }, { "label": "江川区", "value": "530403" }, { "label": "澄江县", "value": "530422" }, { "label": "通海县", "value": "530423" }, { "label": "华宁县", "value": "530424" }, { "label": "易门县", "value": "530425" }, { "label": "峨山彝族自治县", "value": "530426" }, { "label": "新平彝族傣族自治县", "value": "530427" }, { "label": "元江哈尼族彝族傣族自治县", "value": "530428" }], [{ "label": "隆阳区", "value": "530502" }, { "label": "施甸县", "value": "530521" }, { "label": "龙陵县", "value": "530523" }, { "label": "昌宁县", "value": "530524" }, { "label": "腾冲市", "value": "530581" }], [{ "label": "昭阳区", "value": "530602" }, { "label": "鲁甸县", "value": "530621" }, { "label": "巧家县", "value": "530622" }, { "label": "盐津县", "value": "530623" }, { "label": "大关县", "value": "530624" }, { "label": "永善县", "value": "530625" }, { "label": "绥江县", "value": "530626" }, { "label": "镇雄县", "value": "530627" }, { "label": "彝良县", "value": "530628" }, { "label": "威信县", "value": "530629" }, { "label": "水富县", "value": "530630" }], [{ "label": "古城区", "value": "530702" }, { "label": "玉龙纳西族自治县", "value": "530721" }, { "label": "永胜县", "value": "530722" }, { "label": "华坪县", "value": "530723" }, { "label": "宁蒗彝族自治县", "value": "530724" }], [{ "label": "思茅区", "value": "530802" }, { "label": "宁洱哈尼族彝族自治县", "value": "530821" }, { "label": "墨江哈尼族自治县", "value": "530822" }, { "label": "景东彝族自治县", "value": "530823" }, { "label": "景谷傣族彝族自治县", "value": "530824" }, { "label": "镇沅彝族哈尼族拉祜族自治县", "value": "530825" }, { "label": "江城哈尼族彝族自治县", "value": "530826" }, { "label": "孟连傣族拉祜族佤族自治县", "value": "530827" }, { "label": "澜沧拉祜族自治县", "value": "530828" }, { "label": "西盟佤族自治县", "value": "530829" }], [{ "label": "临翔区", "value": "530902" }, { "label": "凤庆县", "value": "530921" }, { "label": "云县", "value": "530922" }, { "label": "永德县", "value": "530923" }, { "label": "镇康县", "value": "530924" }, { "label": "双江拉祜族佤族布朗族傣族自治县", "value": "530925" }, { "label": "耿马傣族佤族自治县", "value": "530926" }, { "label": "沧源佤族自治县", "value": "530927" }], [{ "label": "楚雄市", "value": "532301" }, { "label": "双柏县", "value": "532322" }, { "label": "牟定县", "value": "532323" }, { "label": "南华县", "value": "532324" }, { "label": "姚安县", "value": "532325" }, { "label": "大姚县", "value": "532326" }, { "label": "永仁县", "value": "532327" }, { "label": "元谋县", "value": "532328" }, { "label": "武定县", "value": "532329" }, { "label": "禄丰县", "value": "532331" }], [{ "label": "个旧市", "value": "532501" }, { "label": "开远市", "value": "532502" }, { "label": "蒙自市", "value": "532503" }, { "label": "弥勒市", "value": "532504" }, { "label": "屏边苗族自治县", "value": "532523" }, { "label": "建水县", "value": "532524" }, { "label": "石屏县", "value": "532525" }, { "label": "泸西县", "value": "532527" }, { "label": "元阳县", "value": "532528" }, { "label": "红河县", "value": "532529" }, { "label": "金平苗族瑶族傣族自治县", "value": "532530" }, { "label": "绿春县", "value": "532531" }, { "label": "河口瑶族自治县", "value": "532532" }], [{ "label": "文山市", "value": "532601" }, { "label": "砚山县", "value": "532622" }, { "label": "西畴县", "value": "532623" }, { "label": "麻栗坡县", "value": "532624" }, { "label": "马关县", "value": "532625" }, { "label": "丘北县", "value": "532626" }, { "label": "广南县", "value": "532627" }, { "label": "富宁县", "value": "532628" }], [{ "label": "景洪市", "value": "532801" }, { "label": "勐海县", "value": "532822" }, { "label": "勐腊县", "value": "532823" }], [{ "label": "大理市", "value": "532901" }, { "label": "漾濞彝族自治县", "value": "532922" }, { "label": "祥云县", "value": "532923" }, { "label": "宾川县", "value": "532924" }, { "label": "弥渡县", "value": "532925" }, { "label": "南涧彝族自治县", "value": "532926" }, { "label": "巍山彝族回族自治县", "value": "532927" }, { "label": "永平县", "value": "532928" }, { "label": "云龙县", "value": "532929" }, { "label": "洱源县", "value": "532930" }, { "label": "剑川县", "value": "532931" }, { "label": "鹤庆县", "value": "532932" }], [{ "label": "瑞丽市", "value": "533102" }, { "label": "芒市", "value": "533103" }, { "label": "梁河县", "value": "533122" }, { "label": "盈江县", "value": "533123" }, { "label": "陇川县", "value": "533124" }], [{ "label": "泸水市", "value": "533301" }, { "label": "福贡县", "value": "533323" }, { "label": "贡山独龙族怒族自治县", "value": "533324" }, { "label": "兰坪白族普米族自治县", "value": "533325" }], [{ "label": "香格里拉市", "value": "533401" }, { "label": "德钦县", "value": "533422" }, { "label": "维西傈僳族自治县", "value": "533423" }]], [[{ "label": "城关区", "value": "540102" }, { "label": "堆龙德庆区", "value": "540103" }, { "label": "林周县", "value": "540121" }, { "label": "当雄县", "value": "540122" }, { "label": "尼木县", "value": "540123" }, { "label": "曲水县", "value": "540124" }, { "label": "达孜县", "value": "540126" }, { "label": "墨竹工卡县", "value": "540127" }, { "label": "格尔木藏青工业园区", "value": "540171" }, { "label": "拉萨经济技术开发区", "value": "540172" }, { "label": "西藏文化旅游创意园区", "value": "540173" }, { "label": "达孜工业园区", "value": "540174" }], [{ "label": "桑珠孜区", "value": "540202" }, { "label": "南木林县", "value": "540221" }, { "label": "江孜县", "value": "540222" }, { "label": "定日县", "value": "540223" }, { "label": "萨迦县", "value": "540224" }, { "label": "拉孜县", "value": "540225" }, { "label": "昂仁县", "value": "540226" }, { "label": "谢通门县", "value": "540227" }, { "label": "白朗县", "value": "540228" }, { "label": "仁布县", "value": "540229" }, { "label": "康马县", "value": "540230" }, { "label": "定结县", "value": "540231" }, { "label": "仲巴县", "value": "540232" }, { "label": "亚东县", "value": "540233" }, { "label": "吉隆县", "value": "540234" }, { "label": "聂拉木县", "value": "540235" }, { "label": "萨嘎县", "value": "540236" }, { "label": "岗巴县", "value": "540237" }], [{ "label": "卡若区", "value": "540302" }, { "label": "江达县", "value": "540321" }, { "label": "贡觉县", "value": "540322" }, { "label": "类乌齐县", "value": "540323" }, { "label": "丁青县", "value": "540324" }, { "label": "察雅县", "value": "540325" }, { "label": "八宿县", "value": "540326" }, { "label": "左贡县", "value": "540327" }, { "label": "芒康县", "value": "540328" }, { "label": "洛隆县", "value": "540329" }, { "label": "边坝县", "value": "540330" }], [{ "label": "巴宜区", "value": "540402" }, { "label": "工布江达县", "value": "540421" }, { "label": "米林县", "value": "540422" }, { "label": "墨脱县", "value": "540423" }, { "label": "波密县", "value": "540424" }, { "label": "察隅县", "value": "540425" }, { "label": "朗县", "value": "540426" }], [{ "label": "乃东区", "value": "540502" }, { "label": "扎囊县", "value": "540521" }, { "label": "贡嘎县", "value": "540522" }, { "label": "桑日县", "value": "540523" }, { "label": "琼结县", "value": "540524" }, { "label": "曲松县", "value": "540525" }, { "label": "措美县", "value": "540526" }, { "label": "洛扎县", "value": "540527" }, { "label": "加查县", "value": "540528" }, { "label": "隆子县", "value": "540529" }, { "label": "错那县", "value": "540530" }, { "label": "浪卡子县", "value": "540531" }], [{ "label": "那曲县", "value": "542421" }, { "label": "嘉黎县", "value": "542422" }, { "label": "比如县", "value": "542423" }, { "label": "聂荣县", "value": "542424" }, { "label": "安多县", "value": "542425" }, { "label": "申扎县", "value": "542426" }, { "label": "索县", "value": "542427" }, { "label": "班戈县", "value": "542428" }, { "label": "巴青县", "value": "542429" }, { "label": "尼玛县", "value": "542430" }, { "label": "双湖县", "value": "542431" }], [{ "label": "普兰县", "value": "542521" }, { "label": "札达县", "value": "542522" }, { "label": "噶尔县", "value": "542523" }, { "label": "日土县", "value": "542524" }, { "label": "革吉县", "value": "542525" }, { "label": "改则县", "value": "542526" }, { "label": "措勤县", "value": "542527" }]], [[{ "label": "新城区", "value": "610102" }, { "label": "碑林区", "value": "610103" }, { "label": "莲湖区", "value": "610104" }, { "label": "灞桥区", "value": "610111" }, { "label": "未央区", "value": "610112" }, { "label": "雁塔区", "value": "610113" }, { "label": "阎良区", "value": "610114" }, { "label": "临潼区", "value": "610115" }, { "label": "长安区", "value": "610116" }, { "label": "高陵区", "value": "610117" }, { "label": "鄠邑区", "value": "610118" }, { "label": "蓝田县", "value": "610122" }, { "label": "周至县", "value": "610124" }], [{ "label": "王益区", "value": "610202" }, { "label": "印台区", "value": "610203" }, { "label": "耀州区", "value": "610204" }, { "label": "宜君县", "value": "610222" }], [{ "label": "渭滨区", "value": "610302" }, { "label": "金台区", "value": "610303" }, { "label": "陈仓区", "value": "610304" }, { "label": "凤翔县", "value": "610322" }, { "label": "岐山县", "value": "610323" }, { "label": "扶风县", "value": "610324" }, { "label": "眉县", "value": "610326" }, { "label": "陇县", "value": "610327" }, { "label": "千阳县", "value": "610328" }, { "label": "麟游县", "value": "610329" }, { "label": "凤县", "value": "610330" }, { "label": "太白县", "value": "610331" }], [{ "label": "秦都区", "value": "610402" }, { "label": "杨陵区", "value": "610403" }, { "label": "渭城区", "value": "610404" }, { "label": "三原县", "value": "610422" }, { "label": "泾阳县", "value": "610423" }, { "label": "乾县", "value": "610424" }, { "label": "礼泉县", "value": "610425" }, { "label": "永寿县", "value": "610426" }, { "label": "彬县", "value": "610427" }, { "label": "长武县", "value": "610428" }, { "label": "旬邑县", "value": "610429" }, { "label": "淳化县", "value": "610430" }, { "label": "武功县", "value": "610431" }, { "label": "兴平市", "value": "610481" }], [{ "label": "临渭区", "value": "610502" }, { "label": "华州区", "value": "610503" }, { "label": "潼关县", "value": "610522" }, { "label": "大荔县", "value": "610523" }, { "label": "合阳县", "value": "610524" }, { "label": "澄城县", "value": "610525" }, { "label": "蒲城县", "value": "610526" }, { "label": "白水县", "value": "610527" }, { "label": "富平县", "value": "610528" }, { "label": "韩城市", "value": "610581" }, { "label": "华阴市", "value": "610582" }], [{ "label": "宝塔区", "value": "610602" }, { "label": "安塞区", "value": "610603" }, { "label": "延长县", "value": "610621" }, { "label": "延川县", "value": "610622" }, { "label": "子长县", "value": "610623" }, { "label": "志丹县", "value": "610625" }, { "label": "吴起县", "value": "610626" }, { "label": "甘泉县", "value": "610627" }, { "label": "富县", "value": "610628" }, { "label": "洛川县", "value": "610629" }, { "label": "宜川县", "value": "610630" }, { "label": "黄龙县", "value": "610631" }, { "label": "黄陵县", "value": "610632" }], [{ "label": "汉台区", "value": "610702" }, { "label": "南郑区", "value": "610703" }, { "label": "城固县", "value": "610722" }, { "label": "洋县", "value": "610723" }, { "label": "西乡县", "value": "610724" }, { "label": "勉县", "value": "610725" }, { "label": "宁强县", "value": "610726" }, { "label": "略阳县", "value": "610727" }, { "label": "镇巴县", "value": "610728" }, { "label": "留坝县", "value": "610729" }, { "label": "佛坪县", "value": "610730" }], [{ "label": "榆阳区", "value": "610802" }, { "label": "横山区", "value": "610803" }, { "label": "府谷县", "value": "610822" }, { "label": "靖边县", "value": "610824" }, { "label": "定边县", "value": "610825" }, { "label": "绥德县", "value": "610826" }, { "label": "米脂县", "value": "610827" }, { "label": "佳县", "value": "610828" }, { "label": "吴堡县", "value": "610829" }, { "label": "清涧县", "value": "610830" }, { "label": "子洲县", "value": "610831" }, { "label": "神木市", "value": "610881" }], [{ "label": "汉滨区", "value": "610902" }, { "label": "汉阴县", "value": "610921" }, { "label": "石泉县", "value": "610922" }, { "label": "宁陕县", "value": "610923" }, { "label": "紫阳县", "value": "610924" }, { "label": "岚皋县", "value": "610925" }, { "label": "平利县", "value": "610926" }, { "label": "镇坪县", "value": "610927" }, { "label": "旬阳县", "value": "610928" }, { "label": "白河县", "value": "610929" }], [{ "label": "商州区", "value": "611002" }, { "label": "洛南县", "value": "611021" }, { "label": "丹凤县", "value": "611022" }, { "label": "商南县", "value": "611023" }, { "label": "山阳县", "value": "611024" }, { "label": "镇安县", "value": "611025" }, { "label": "柞水县", "value": "611026" }]], [[{ "label": "城关区", "value": "620102" }, { "label": "七里河区", "value": "620103" }, { "label": "西固区", "value": "620104" }, { "label": "安宁区", "value": "620105" }, { "label": "红古区", "value": "620111" }, { "label": "永登县", "value": "620121" }, { "label": "皋兰县", "value": "620122" }, { "label": "榆中县", "value": "620123" }, { "label": "兰州新区", "value": "620171" }], [{ "label": "嘉峪关市", "value": "620201" }], [{ "label": "金川区", "value": "620302" }, { "label": "永昌县", "value": "620321" }], [{ "label": "白银区", "value": "620402" }, { "label": "平川区", "value": "620403" }, { "label": "靖远县", "value": "620421" }, { "label": "会宁县", "value": "620422" }, { "label": "景泰县", "value": "620423" }], [{ "label": "秦州区", "value": "620502" }, { "label": "麦积区", "value": "620503" }, { "label": "清水县", "value": "620521" }, { "label": "秦安县", "value": "620522" }, { "label": "甘谷县", "value": "620523" }, { "label": "武山县", "value": "620524" }, { "label": "张家川回族自治县", "value": "620525" }], [{ "label": "凉州区", "value": "620602" }, { "label": "民勤县", "value": "620621" }, { "label": "古浪县", "value": "620622" }, { "label": "天祝藏族自治县", "value": "620623" }], [{ "label": "甘州区", "value": "620702" }, { "label": "肃南裕固族自治县", "value": "620721" }, { "label": "民乐县", "value": "620722" }, { "label": "临泽县", "value": "620723" }, { "label": "高台县", "value": "620724" }, { "label": "山丹县", "value": "620725" }], [{ "label": "崆峒区", "value": "620802" }, { "label": "泾川县", "value": "620821" }, { "label": "灵台县", "value": "620822" }, { "label": "崇信县", "value": "620823" }, { "label": "华亭县", "value": "620824" }, { "label": "庄浪县", "value": "620825" }, { "label": "静宁县", "value": "620826" }, { "label": "平凉工业园区", "value": "620871" }], [{ "label": "肃州区", "value": "620902" }, { "label": "金塔县", "value": "620921" }, { "label": "瓜州县", "value": "620922" }, { "label": "肃北蒙古族自治县", "value": "620923" }, { "label": "阿克塞哈萨克族自治县", "value": "620924" }, { "label": "玉门市", "value": "620981" }, { "label": "敦煌市", "value": "620982" }], [{ "label": "西峰区", "value": "621002" }, { "label": "庆城县", "value": "621021" }, { "label": "环县", "value": "621022" }, { "label": "华池县", "value": "621023" }, { "label": "合水县", "value": "621024" }, { "label": "正宁县", "value": "621025" }, { "label": "宁县", "value": "621026" }, { "label": "镇原县", "value": "621027" }], [{ "label": "安定区", "value": "621102" }, { "label": "通渭县", "value": "621121" }, { "label": "陇西县", "value": "621122" }, { "label": "渭源县", "value": "621123" }, { "label": "临洮县", "value": "621124" }, { "label": "漳县", "value": "621125" }, { "label": "岷县", "value": "621126" }], [{ "label": "武都区", "value": "621202" }, { "label": "成县", "value": "621221" }, { "label": "文县", "value": "621222" }, { "label": "宕昌县", "value": "621223" }, { "label": "康县", "value": "621224" }, { "label": "西和县", "value": "621225" }, { "label": "礼县", "value": "621226" }, { "label": "徽县", "value": "621227" }, { "label": "两当县", "value": "621228" }], [{ "label": "临夏市", "value": "622901" }, { "label": "临夏县", "value": "622921" }, { "label": "康乐县", "value": "622922" }, { "label": "永靖县", "value": "622923" }, { "label": "广河县", "value": "622924" }, { "label": "和政县", "value": "622925" }, { "label": "东乡族自治县", "value": "622926" }, { "label": "积石山保安族东乡族撒拉族自治县", "value": "622927" }], [{ "label": "合作市", "value": "623001" }, { "label": "临潭县", "value": "623021" }, { "label": "卓尼县", "value": "623022" }, { "label": "舟曲县", "value": "623023" }, { "label": "迭部县", "value": "623024" }, { "label": "玛曲县", "value": "623025" }, { "label": "碌曲县", "value": "623026" }, { "label": "夏河县", "value": "623027" }]], [[{ "label": "城东区", "value": "630102" }, { "label": "城中区", "value": "630103" }, { "label": "城西区", "value": "630104" }, { "label": "城北区", "value": "630105" }, { "label": "大通回族土族自治县", "value": "630121" }, { "label": "湟中县", "value": "630122" }, { "label": "湟源县", "value": "630123" }], [{ "label": "乐都区", "value": "630202" }, { "label": "平安区", "value": "630203" }, { "label": "民和回族土族自治县", "value": "630222" }, { "label": "互助土族自治县", "value": "630223" }, { "label": "化隆回族自治县", "value": "630224" }, { "label": "循化撒拉族自治县", "value": "630225" }], [{ "label": "门源回族自治县", "value": "632221" }, { "label": "祁连县", "value": "632222" }, { "label": "海晏县", "value": "632223" }, { "label": "刚察县", "value": "632224" }], [{ "label": "同仁县", "value": "632321" }, { "label": "尖扎县", "value": "632322" }, { "label": "泽库县", "value": "632323" }, { "label": "河南蒙古族自治县", "value": "632324" }], [{ "label": "共和县", "value": "632521" }, { "label": "同德县", "value": "632522" }, { "label": "贵德县", "value": "632523" }, { "label": "兴海县", "value": "632524" }, { "label": "贵南县", "value": "632525" }], [{ "label": "玛沁县", "value": "632621" }, { "label": "班玛县", "value": "632622" }, { "label": "甘德县", "value": "632623" }, { "label": "达日县", "value": "632624" }, { "label": "久治县", "value": "632625" }, { "label": "玛多县", "value": "632626" }], [{ "label": "玉树市", "value": "632701" }, { "label": "杂多县", "value": "632722" }, { "label": "称多县", "value": "632723" }, { "label": "治多县", "value": "632724" }, { "label": "囊谦县", "value": "632725" }, { "label": "曲麻莱县", "value": "632726" }], [{ "label": "格尔木市", "value": "632801" }, { "label": "德令哈市", "value": "632802" }, { "label": "乌兰县", "value": "632821" }, { "label": "都兰县", "value": "632822" }, { "label": "天峻县", "value": "632823" }, { "label": "大柴旦行政委员会", "value": "632857" }, { "label": "冷湖行政委员会", "value": "632858" }, { "label": "茫崖行政委员会", "value": "632859" }]], [[{ "label": "兴庆区", "value": "640104" }, { "label": "西夏区", "value": "640105" }, { "label": "金凤区", "value": "640106" }, { "label": "永宁县", "value": "640121" }, { "label": "贺兰县", "value": "640122" }, { "label": "灵武市", "value": "640181" }], [{ "label": "大武口区", "value": "640202" }, { "label": "惠农区", "value": "640205" }, { "label": "平罗县", "value": "640221" }], [{ "label": "利通区", "value": "640302" }, { "label": "红寺堡区", "value": "640303" }, { "label": "盐池县", "value": "640323" }, { "label": "同心县", "value": "640324" }, { "label": "青铜峡市", "value": "640381" }], [{ "label": "原州区", "value": "640402" }, { "label": "西吉县", "value": "640422" }, { "label": "隆德县", "value": "640423" }, { "label": "泾源县", "value": "640424" }, { "label": "彭阳县", "value": "640425" }], [{ "label": "沙坡头区", "value": "640502" }, { "label": "中宁县", "value": "640521" }, { "label": "海原县", "value": "640522" }]], [[{ "label": "天山区", "value": "650102" }, { "label": "沙依巴克区", "value": "650103" }, { "label": "新市区", "value": "650104" }, { "label": "水磨沟区", "value": "650105" }, { "label": "头屯河区", "value": "650106" }, { "label": "达坂城区", "value": "650107" }, { "label": "米东区", "value": "650109" }, { "label": "乌鲁木齐县", "value": "650121" }, { "label": "乌鲁木齐经济技术开发区", "value": "650171" }, { "label": "乌鲁木齐高新技术产业开发区", "value": "650172" }], [{ "label": "独山子区", "value": "650202" }, { "label": "克拉玛依区", "value": "650203" }, { "label": "白碱滩区", "value": "650204" }, { "label": "乌尔禾区", "value": "650205" }], [{ "label": "高昌区", "value": "650402" }, { "label": "鄯善县", "value": "650421" }, { "label": "托克逊县", "value": "650422" }], [{ "label": "伊州区", "value": "650502" }, { "label": "巴里坤哈萨克自治县", "value": "650521" }, { "label": "伊吾县", "value": "650522" }], [{ "label": "昌吉市", "value": "652301" }, { "label": "阜康市", "value": "652302" }, { "label": "呼图壁县", "value": "652323" }, { "label": "玛纳斯县", "value": "652324" }, { "label": "奇台县", "value": "652325" }, { "label": "吉木萨尔县", "value": "652327" }, { "label": "木垒哈萨克自治县", "value": "652328" }], [{ "label": "博乐市", "value": "652701" }, { "label": "阿拉山口市", "value": "652702" }, { "label": "精河县", "value": "652722" }, { "label": "温泉县", "value": "652723" }], [{ "label": "库尔勒市", "value": "652801" }, { "label": "轮台县", "value": "652822" }, { "label": "尉犁县", "value": "652823" }, { "label": "若羌县", "value": "652824" }, { "label": "且末县", "value": "652825" }, { "label": "焉耆回族自治县", "value": "652826" }, { "label": "和静县", "value": "652827" }, { "label": "和硕县", "value": "652828" }, { "label": "博湖县", "value": "652829" }, { "label": "库尔勒经济技术开发区", "value": "652871" }], [{ "label": "阿克苏市", "value": "652901" }, { "label": "温宿县", "value": "652922" }, { "label": "库车县", "value": "652923" }, { "label": "沙雅县", "value": "652924" }, { "label": "新和县", "value": "652925" }, { "label": "拜城县", "value": "652926" }, { "label": "乌什县", "value": "652927" }, { "label": "阿瓦提县", "value": "652928" }, { "label": "柯坪县", "value": "652929" }], [{ "label": "阿图什市", "value": "653001" }, { "label": "阿克陶县", "value": "653022" }, { "label": "阿合奇县", "value": "653023" }, { "label": "乌恰县", "value": "653024" }], [{ "label": "喀什市", "value": "653101" }, { "label": "疏附县", "value": "653121" }, { "label": "疏勒县", "value": "653122" }, { "label": "英吉沙县", "value": "653123" }, { "label": "泽普县", "value": "653124" }, { "label": "莎车县", "value": "653125" }, { "label": "叶城县", "value": "653126" }, { "label": "麦盖提县", "value": "653127" }, { "label": "岳普湖县", "value": "653128" }, { "label": "伽师县", "value": "653129" }, { "label": "巴楚县", "value": "653130" }, { "label": "塔什库尔干塔吉克自治县", "value": "653131" }], [{ "label": "和田市", "value": "653201" }, { "label": "和田县", "value": "653221" }, { "label": "墨玉县", "value": "653222" }, { "label": "皮山县", "value": "653223" }, { "label": "洛浦县", "value": "653224" }, { "label": "策勒县", "value": "653225" }, { "label": "于田县", "value": "653226" }, { "label": "民丰县", "value": "653227" }], [{ "label": "伊宁市", "value": "654002" }, { "label": "奎屯市", "value": "654003" }, { "label": "霍尔果斯市", "value": "654004" }, { "label": "伊宁县", "value": "654021" }, { "label": "察布查尔锡伯自治县", "value": "654022" }, { "label": "霍城县", "value": "654023" }, { "label": "巩留县", "value": "654024" }, { "label": "新源县", "value": "654025" }, { "label": "昭苏县", "value": "654026" }, { "label": "特克斯县", "value": "654027" }, { "label": "尼勒克县", "value": "654028" }], [{ "label": "塔城市", "value": "654201" }, { "label": "乌苏市", "value": "654202" }, { "label": "额敏县", "value": "654221" }, { "label": "沙湾县", "value": "654223" }, { "label": "托里县", "value": "654224" }, { "label": "裕民县", "value": "654225" }, { "label": "和布克赛尔蒙古自治县", "value": "654226" }], [{ "label": "阿勒泰市", "value": "654301" }, { "label": "布尔津县", "value": "654321" }, { "label": "富蕴县", "value": "654322" }, { "label": "福海县", "value": "654323" }, { "label": "哈巴河县", "value": "654324" }, { "label": "青河县", "value": "654325" }, { "label": "吉木乃县", "value": "654326" }], [{ "label": "石河子市", "value": "659001" }, { "label": "阿拉尔市", "value": "659002" }, { "label": "图木舒克市", "value": "659003" }, { "label": "五家渠市", "value": "659004" }, { "label": "铁门关市", "value": "659006" }]], [[{ "label": "台北", "value": "660101" }], [{ "label": "高雄", "value": "660201" }], [{ "label": "基隆", "value": "660301" }], [{ "label": "台中", "value": "660401" }], [{ "label": "台南", "value": "660501" }], [{ "label": "新竹", "value": "660601" }], [{ "label": "嘉义", "value": "660701" }], [{ "label": "宜兰", "value": "660801" }], [{ "label": "桃园", "value": "660901" }], [{ "label": "苗栗", "value": "661001" }], [{ "label": "彰化", "value": "661101" }], [{ "label": "南投", "value": "661201" }], [{ "label": "云林", "value": "661301" }], [{ "label": "屏东", "value": "661401" }], [{ "label": "台东", "value": "661501" }], [{ "label": "花莲", "value": "661601" }], [{ "label": "澎湖", "value": "661701" }]], [[{ "label": "香港岛", "value": "670101" }], [{ "label": "九龙", "value": "670201" }], [{ "label": "新界", "value": "670301" }]], [[{ "label": "澳门半岛", "value": "680101" }], [{ "label": "氹仔岛", "value": "680201" }], [{ "label": "路环岛", "value": "680301" }], [{ "label": "路氹城", "value": "680401" }]]];var _default = areaData;exports.default = _default;
+
+/***/ }),
+/* 92 */,
+/* 93 */,
+/* 94 */,
+/* 95 */,
+/* 96 */,
+/* 97 */,
+/* 98 */,
+/* 99 */,
+/* 100 */,
+/* 101 */,
+/* 102 */,
+/* 103 */,
+/* 104 */,
+/* 105 */,
+/* 106 */,
+/* 107 */,
+/* 108 */,
+/* 109 */,
+/* 110 */,
+/* 111 */,
+/* 112 */,
+/* 113 */,
+/* 114 */,
+/* 115 */,
+/* 116 */,
+/* 117 */,
+/* 118 */,
+/* 119 */,
+/* 120 */,
+/* 121 */,
+/* 122 */,
+/* 123 */,
+/* 124 */,
+/* 125 */,
+/* 126 */,
+/* 127 */,
+/* 128 */,
+/* 129 */,
+/* 130 */,
+/* 131 */,
+/* 132 */,
+/* 133 */,
+/* 134 */,
+/* 135 */,
+/* 136 */,
+/* 137 */,
+/* 138 */,
+/* 139 */,
+/* 140 */,
+/* 141 */,
+/* 142 */,
+/* 143 */,
+/* 144 */,
+/* 145 */,
+/* 146 */,
+/* 147 */,
+/* 148 */,
+/* 149 */,
+/* 150 */,
+/* 151 */,
+/* 152 */,
+/* 153 */,
+/* 154 */,
+/* 155 */,
+/* 156 */,
+/* 157 */,
+/* 158 */,
+/* 159 */,
+/* 160 */,
+/* 161 */,
+/* 162 */,
+/* 163 */,
+/* 164 */,
+/* 165 */,
+/* 166 */,
+/* 167 */,
+/* 168 */,
+/* 169 */,
+/* 170 */,
+/* 171 */,
+/* 172 */,
+/* 173 */,
+/* 174 */,
+/* 175 */,
+/* 176 */,
+/* 177 */,
+/* 178 */,
+/* 179 */
+/*!***************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/node_modules/eval5/dist/esm/index.js ***!
+  \***************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });Object.defineProperty(exports, "Interpreter", { enumerable: true, get: function get() {return _main.Interpreter;} });Object.defineProperty(exports, "evaluate", { enumerable: true, get: function get() {return _evaluate.default;} });Object.defineProperty(exports, "Function", { enumerable: true, get: function get() {return _Function.default;} });exports.vm = exports.default = void 0;var _main = __webpack_require__(/*! ./interpreter/main */ 180);
+var vm = _interopRequireWildcard(__webpack_require__(/*! ./vm */ 183));exports.vm = vm;
+var _evaluate = _interopRequireDefault(__webpack_require__(/*! ./evaluate */ 184));
+var _Function = _interopRequireDefault(__webpack_require__(/*! ./Function */ 185));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _getRequireWildcardCache() {if (typeof WeakMap !== "function") return null;var cache = new WeakMap();_getRequireWildcardCache = function _getRequireWildcardCache() {return cache;};return cache;}function _interopRequireWildcard(obj) {if (obj && obj.__esModule) {return obj;}if (obj === null || typeof obj !== "object" && typeof obj !== "function") {return { default: obj };}var cache = _getRequireWildcardCache();if (cache && cache.has(obj)) {return cache.get(obj);}var newObj = {};var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor;for (var key in obj) {if (Object.prototype.hasOwnProperty.call(obj, key)) {var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null;if (desc && (desc.get || desc.set)) {Object.defineProperty(newObj, key, desc);} else {newObj[key] = obj[key];}}}newObj.default = obj;if (cache) {cache.set(obj, newObj);}return newObj;}var _default =
+
+_evaluate.default;exports.default = _default;
+
+/***/ }),
+/* 180 */
+/*!**************************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/node_modules/eval5/dist/esm/interpreter/main.js ***!
+  \**************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.Interpreter = void 0;
+
+
+
+
+
+var _acorn = __webpack_require__(/*! acorn */ 181);
+var _messages = __webpack_require__(/*! ./messages */ 182);function isNativeReflectConstruct() {if (typeof Reflect === "undefined" || !Reflect.construct) return false;if (Reflect.construct.sham) return false;if (typeof Proxy === "function") return true;try {Date.prototype.toString.call(Reflect.construct(Date, [], function () {}));return true;} catch (e) {return false;}}function _construct(Parent, args, Class) {if (isNativeReflectConstruct()) {_construct = Reflect.construct;} else {_construct = function _construct(Parent, args, Class) {var a = [null];a.push.apply(a, args);var Constructor = Function.bind.apply(Parent, a);var instance = new Constructor();if (Class) _setPrototypeOf(instance, Class.prototype);return instance;};}return _construct.apply(null, arguments);}function _setPrototypeOf(o, p) {_setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) {o.__proto__ = p;return o;};return _setPrototypeOf(o, p);}
+var version = "1.4.6";
+
+function defineFunctionName(func, name) {
+  Object.defineProperty(func, "name", {
+    value: name,
+    writable: false,
+    enumerable: false,
+    configurable: true });
+
+}
+
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var Break = Symbol("Break");
+var Continue = Symbol("Continue");
+var DefaultCase = Symbol("DefaultCase");
+var EmptyStatementReturn = Symbol("EmptyStatementReturn");
+var WithScopeName = Symbol("WithScopeName");
+var SuperScopeName = Symbol("SuperScopeName");
+var RootScopeName = Symbol("RootScopeName");
+var GlobalScopeName = Symbol("GlobalScopeName");
+
+function isFunction(func) {
+  return typeof func === "function";
+}
+
+var InternalInterpreterReflection =
+/*#__PURE__*/
+function () {
+  function InternalInterpreterReflection(interpreter) {
+    this.interpreter = interpreter;
+  }
+
+  var _proto = InternalInterpreterReflection.prototype;
+
+  _proto.generator = function generator() {
+    var interpreter = this.interpreter;
+
+    function getCurrentScope() {
+      return this.getCurrentScope();
+    }
+
+    function getGlobalScope() {
+      return this.getGlobalScope();
+    }
+
+    function getCurrentContext() {
+      return this.getCurrentContext();
+    }
+
+    return {
+      getOptions: interpreter.getOptions.bind(interpreter),
+      getCurrentScope: getCurrentScope.bind(interpreter),
+      getGlobalScope: getGlobalScope.bind(interpreter),
+      getCurrentContext: getCurrentContext.bind(interpreter),
+      getExecStartTime: interpreter.getExecStartTime.bind(interpreter) };
+
+  };
+
+  return InternalInterpreterReflection;
+}();
+
+function internalEval(reflection, code, useGlobalScope) {
+  if (useGlobalScope === void 0) {
+    useGlobalScope = true;
+  }
+
+  if (!(reflection instanceof InternalInterpreterReflection)) {
+    throw new Error("Illegal call");
+  }
+
+  if (typeof code !== "string") return code;
+  if (!code) return void 0;
+  var instance = reflection.generator();
+  var opts = instance.getOptions();
+  var options = {
+    timeout: opts.timeout,
+    _initEnv: function _initEnv() {
+      // set caller context
+      if (!useGlobalScope) {
+        this.setCurrentContext(instance.getCurrentContext());
+      } // share timeout
+
+
+      this.execStartTime = instance.getExecStartTime();
+      this.execEndTime = this.execStartTime;
+    } };
+
+  var currentScope = useGlobalScope ? instance.getGlobalScope() : instance.getCurrentScope();
+  var interpreter = new Interpreter(currentScope, options);
+  return interpreter.evaluate(code);
+}
+
+Object.defineProperty(internalEval, "__IS_EVAL_FUNC", {
+  value: true,
+  writable: false,
+  enumerable: false,
+  configurable: false });
+
+
+function internalFunction(reflection) {
+  if (!(reflection instanceof InternalInterpreterReflection)) {
+    throw new Error("Illegal call");
+  }
+
+  var instance = reflection.generator();
+
+  for (var _len = arguments.length, params = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+    params[_key - 1] = arguments[_key];
+  }
+
+  var code = params.pop();
+  var interpreter = new Interpreter(instance.getGlobalScope(), instance.getOptions());
+  var wrapCode = "\n\t\t    (function anonymous(" + params.join(",") + "){\n\t\t        " + code + "\n\t\t    });\n\t\t    ";
+  return interpreter.evaluate(wrapCode);
+}
+
+Object.defineProperty(internalFunction, "__IS_FUNCTION_FUNC", {
+  value: true,
+  writable: false,
+  enumerable: false,
+  configurable: false });
+
+
+var Return = function Return(value) {
+  this.value = value;
+};
+
+var BreakLabel = function BreakLabel(value) {
+  this.value = value;
+};
+
+var ContinueLabel = function ContinueLabel(value) {
+  this.value = value;
+};
+/**
+    * scope chain
+    *
+    * superScope
+    *     ↓
+    * rootScope
+    *     ↓
+    * globalScope
+    *     ↓
+    * functionScope
+    *
+    */
+
+
+var Scope = function Scope(data, parent, name) {
+  if (parent === void 0) {
+    parent = null;
+  }
+
+  this.name = name;
+  this.parent = parent;
+  this.data = data;
+  this.labelStack = [];
+};
+
+function noop() {}
+
+function createScope(parent, name) {
+  if (parent === void 0) {
+    parent = null;
+  }
+
+  return new Scope(Object.create(null), parent, name);
+}
+
+function createRootContext(data) {
+  return Object.create(data);
+}
+
+var BuildInObjects = {
+  NaN: NaN,
+  Infinity: Infinity,
+  undefined: undefined,
+  // null,
+  Object: Object,
+  Array: Array,
+  String: String,
+  Boolean: Boolean,
+  Number: Number,
+  Date: Date,
+  RegExp: RegExp,
+  Error: Error,
+  URIError: URIError,
+  TypeError: TypeError,
+  RangeError: RangeError,
+  SyntaxError: SyntaxError,
+  ReferenceError: ReferenceError,
+  Math: Math,
+  parseInt: parseInt,
+  parseFloat: parseFloat,
+  isNaN: isNaN,
+  isFinite: isFinite,
+  decodeURI: decodeURI,
+  decodeURIComponent: decodeURIComponent,
+  encodeURI: encodeURI,
+  encodeURIComponent: encodeURIComponent,
+  escape: escape,
+  unescape: unescape,
+  eval: internalEval,
+  Function: internalFunction };
+// ES5 Object
+
+if (typeof JSON !== "undefined") {
+  BuildInObjects.JSON = JSON;
+} //ES6 Object
+
+
+if (typeof Promise !== "undefined") {
+  BuildInObjects.Promise = Promise;
+}
+
+if (typeof Set !== "undefined") {
+  BuildInObjects.Set = Set;
+}
+
+if (typeof Map !== "undefined") {
+  BuildInObjects.Map = Map;
+}
+
+if (typeof Symbol !== "undefined") {
+  BuildInObjects.Symbol = Symbol;
+}
+
+if (typeof Proxy !== "undefined") {
+  BuildInObjects.Proxy = Proxy;
+}
+
+if (typeof WeakMap !== "undefined") {
+  BuildInObjects.WeakMap = WeakMap;
+}
+
+if (typeof WeakSet !== "undefined") {
+  BuildInObjects.WeakSet = WeakSet;
+}
+
+if (typeof Reflect !== "undefined") {
+  BuildInObjects.Reflect = Reflect;
+}
+
+var Interpreter =
+/*#__PURE__*/
+function () {
+  function Interpreter(context, options) {
+    if (context === void 0) {
+      context = Interpreter.global;
+    }
+
+    if (options === void 0) {
+      options = {};
+    }
+
+    this.sourceList = [];
+    this.collectDeclVars = Object.create(null);
+    this.collectDeclFuncs = Object.create(null);
+    this.isVarDeclMode = false;
+    this.lastExecNode = null;
+    this.isRunning = false;
+    this.options = {
+      ecmaVersion: options.ecmaVersion || Interpreter.ecmaVersion,
+      timeout: options.timeout || 0,
+      rootContext: options.rootContext,
+      globalContextInFunction: options.globalContextInFunction === undefined ? Interpreter.globalContextInFunction : options.globalContextInFunction,
+      _initEnv: options._initEnv };
+
+    this.context = context || Object.create(null);
+    this.callStack = [];
+    this.initEnvironment(this.context);
+  }
+
+  var _proto2 = Interpreter.prototype;
+
+  _proto2.initEnvironment = function initEnvironment(ctx) {
+    var scope; //init global scope
+
+    if (ctx instanceof Scope) {
+      scope = ctx;
+    } else {
+      var rootScope = null;
+      var superScope = this.createSuperScope(ctx);
+
+      if (this.options.rootContext) {
+        rootScope = new Scope(createRootContext(this.options.rootContext), superScope, RootScopeName);
+      }
+
+      scope = new Scope(ctx, rootScope || superScope, GlobalScopeName);
+    }
+
+    this.globalScope = scope;
+    this.currentScope = this.globalScope; //init global context to this
+
+    this.globalContext = scope.data;
+    this.currentContext = scope.data; // collect var/function declare
+
+    this.collectDeclVars = Object.create(null);
+    this.collectDeclFuncs = Object.create(null);
+    this.execStartTime = Date.now();
+    this.execEndTime = this.execStartTime;
+    var _initEnv = this.options._initEnv;
+
+    if (_initEnv) {
+      _initEnv.call(this);
+    }
+  };
+
+  _proto2.getExecStartTime = function getExecStartTime() {
+    return this.execStartTime;
+  };
+
+  _proto2.getExecutionTime = function getExecutionTime() {
+    return this.execEndTime - this.execStartTime;
+  };
+
+  _proto2.setExecTimeout = function setExecTimeout(timeout) {
+    if (timeout === void 0) {
+      timeout = 0;
+    }
+
+    this.options.timeout = timeout;
+  };
+
+  _proto2.getOptions = function getOptions() {
+    return this.options;
+  };
+
+  _proto2.getGlobalScope = function getGlobalScope() {
+    return this.globalScope;
+  };
+
+  _proto2.getCurrentScope = function getCurrentScope() {
+    return this.currentScope;
+  };
+
+  _proto2.getCurrentContext = function getCurrentContext() {
+    return this.currentContext;
+  };
+
+  _proto2.isInterruptThrow = function isInterruptThrow(err) {
+    return err instanceof _messages.InterruptThrowError || err instanceof _messages.InterruptThrowReferenceError || err instanceof _messages.InterruptThrowSyntaxError;
+  };
+
+  _proto2.createSuperScope = function createSuperScope(ctx) {
+    var data = Object.assign({}, BuildInObjects);
+    var buildInObjectKeys = Object.keys(data);
+    buildInObjectKeys.forEach(function (key) {
+      if (key in ctx) {
+        delete data[key];
+      }
+    });
+    return new Scope(data, null, SuperScopeName);
+  };
+
+  _proto2.setCurrentContext = function setCurrentContext(ctx) {
+    this.currentContext = ctx;
+  };
+
+  _proto2.setCurrentScope = function setCurrentScope(scope) {
+    this.currentScope = scope;
+  };
+
+  _proto2.evaluate = function evaluate(code) {
+    if (code === void 0) {
+      code = "";
+    }
+
+    var node;
+    if (!code) return;
+    node = (0, _acorn.parse)(code, {
+      ranges: true,
+      locations: true,
+      ecmaVersion: this.options.ecmaVersion || Interpreter.ecmaVersion });
+
+    return this.evaluateNode(node, code);
+  };
+
+  _proto2.appendCode = function appendCode(code) {
+    return this.evaluate(code);
+  };
+
+  _proto2.evaluateNode = function evaluateNode(node, source) {
+    var _this = this;
+
+    if (source === void 0) {
+      source = "";
+    }
+
+    this.value = undefined;
+    this.source = source;
+    this.sourceList.push(source);
+    this.isRunning = true; //reset timeout
+
+    this.execStartTime = Date.now();
+    this.execEndTime = this.execStartTime; // reset
+
+    this.collectDeclVars = Object.create(null);
+    this.collectDeclFuncs = Object.create(null);
+    var currentScope = this.getCurrentScope();
+    var currentContext = this.getCurrentContext();
+    var labelStack = currentScope.labelStack.concat([]);
+    var callStack = this.callStack.concat([]);
+
+    var reset = function reset() {
+      _this.setCurrentScope(currentScope); //reset scope
+
+
+      _this.setCurrentContext(currentContext); //reset context
+
+
+      currentScope.labelStack = labelStack; //reset label stack
+
+      _this.callStack = callStack; //reset call stack
+    }; // start run
+
+
+    try {
+      var bodyClosure = this.createClosure(node); // add declares to data
+
+      this.addDeclarationsToScope(this.collectDeclVars, this.collectDeclFuncs, this.getCurrentScope());
+      bodyClosure();
+    } catch (e) {
+      throw e;
+    } finally {
+      reset();
+      this.execEndTime = Date.now();
+    }
+
+    this.isRunning = false;
+    return this.getValue();
+  };
+
+  _proto2.createErrorMessage = function createErrorMessage(msg, value, node) {
+    var message = msg[1].replace("%0", String(value));
+
+    if (node !== null) {
+      message += this.getNodePosition(node || this.lastExecNode);
+    }
+
+    return message;
+  };
+
+  _proto2.createError = function createError(message, error) {
+    return new error(message);
+  };
+
+  _proto2.createThrowError = function createThrowError(message, error) {
+    return this.createError(message, error);
+  };
+
+  _proto2.createInternalThrowError = function createInternalThrowError(msg, value, node) {
+    return this.createError(this.createErrorMessage(msg, value, node), msg[2]);
+  };
+
+  _proto2.checkTimeout = function checkTimeout() {
+    if (!this.isRunning) return false;
+    var timeout = this.options.timeout || 0;
+    var now = Date.now();
+
+    if (now - this.execStartTime > timeout) {
+      return true;
+    }
+
+    return false;
+  };
+
+  _proto2.getNodePosition = function getNodePosition(node) {
+    if (node) {
+      var errorCode = ""; //this.source.slice(node.start, node.end);
+
+      return node.loc ? " [" + node.loc.start.line + ":" + node.loc.start.column + "]" + errorCode : "";
+    }
+
+    return "";
+  };
+
+  _proto2.createClosure = function createClosure(node) {
+    var _this2 = this;
+
+    var closure;
+
+    switch (node.type) {
+      case "BinaryExpression":
+        closure = this.binaryExpressionHandler(node);
+        break;
+
+      case "LogicalExpression":
+        closure = this.logicalExpressionHandler(node);
+        break;
+
+      case "UnaryExpression":
+        closure = this.unaryExpressionHandler(node);
+        break;
+
+      case "UpdateExpression":
+        closure = this.updateExpressionHandler(node);
+        break;
+
+      case "ObjectExpression":
+        closure = this.objectExpressionHandler(node);
+        break;
+
+      case "ArrayExpression":
+        closure = this.arrayExpressionHandler(node);
+        break;
+
+      case "CallExpression":
+        closure = this.callExpressionHandler(node);
+        break;
+
+      case "NewExpression":
+        closure = this.newExpressionHandler(node);
+        break;
+
+      case "MemberExpression":
+        closure = this.memberExpressionHandler(node);
+        break;
+
+      case "ThisExpression":
+        closure = this.thisExpressionHandler(node);
+        break;
+
+      case "SequenceExpression":
+        closure = this.sequenceExpressionHandler(node);
+        break;
+
+      case "Literal":
+        closure = this.literalHandler(node);
+        break;
+
+      case "Identifier":
+        closure = this.identifierHandler(node);
+        break;
+
+      case "AssignmentExpression":
+        closure = this.assignmentExpressionHandler(node);
+        break;
+
+      case "FunctionDeclaration":
+        closure = this.functionDeclarationHandler(node);
+        break;
+
+      case "VariableDeclaration":
+        closure = this.variableDeclarationHandler(node);
+        break;
+
+      case "BlockStatement":
+      case "Program":
+        closure = this.programHandler(node);
+        break;
+
+      case "ExpressionStatement":
+        closure = this.expressionStatementHandler(node);
+        break;
+
+      case "EmptyStatement":
+        closure = this.emptyStatementHandler(node);
+        break;
+
+      case "ReturnStatement":
+        closure = this.returnStatementHandler(node);
+        break;
+
+      case "FunctionExpression":
+        closure = this.functionExpressionHandler(node);
+        break;
+
+      case "IfStatement":
+        closure = this.ifStatementHandler(node);
+        break;
+
+      case "ConditionalExpression":
+        closure = this.conditionalExpressionHandler(node);
+        break;
+
+      case "ForStatement":
+        closure = this.forStatementHandler(node);
+        break;
+
+      case "WhileStatement":
+        closure = this.whileStatementHandler(node);
+        break;
+
+      case "DoWhileStatement":
+        closure = this.doWhileStatementHandler(node);
+        break;
+
+      case "ForInStatement":
+        closure = this.forInStatementHandler(node);
+        break;
+
+      case "WithStatement":
+        closure = this.withStatementHandler(node);
+        break;
+
+      case "ThrowStatement":
+        closure = this.throwStatementHandler(node);
+        break;
+
+      case "TryStatement":
+        closure = this.tryStatementHandler(node);
+        break;
+
+      case "ContinueStatement":
+        closure = this.continueStatementHandler(node);
+        break;
+
+      case "BreakStatement":
+        closure = this.breakStatementHandler(node);
+        break;
+
+      case "SwitchStatement":
+        closure = this.switchStatementHandler(node);
+        break;
+
+      case "LabeledStatement":
+        closure = this.labeledStatementHandler(node);
+        break;
+
+      case "DebuggerStatement":
+        closure = this.debuggerStatementHandler(node);
+        break;
+
+      default:
+        throw this.createInternalThrowError(_messages.Messages.NodeTypeSyntaxError, node.type, node);}
+
+
+    return function () {
+      var timeout = _this2.options.timeout;
+
+      if (timeout && timeout > 0 && _this2.checkTimeout()) {
+        throw _this2.createInternalThrowError(_messages.Messages.ExecutionTimeOutError, timeout, null);
+      }
+
+      _this2.lastExecNode = node;
+      return closure.apply(void 0, arguments);
+    };
+  } // a==b a/b
+  ;
+
+  _proto2.binaryExpressionHandler = function binaryExpressionHandler(node) {
+    var _this3 = this;
+
+    var leftExpression = this.createClosure(node.left);
+    var rightExpression = this.createClosure(node.right);
+    return function () {
+      var leftValue = leftExpression();
+      var rightValue = rightExpression();
+
+      switch (node.operator) {
+        case "==":
+          return leftValue == rightValue;
+
+        case "!=":
+          return leftValue != rightValue;
+
+        case "===":
+          return leftValue === rightValue;
+
+        case "!==":
+          return leftValue !== rightValue;
+
+        case "<":
+          return leftValue < rightValue;
+
+        case "<=":
+          return leftValue <= rightValue;
+
+        case ">":
+          return leftValue > rightValue;
+
+        case ">=":
+          return leftValue >= rightValue;
+
+        case "<<":
+          return leftValue << rightValue;
+
+        case ">>":
+          return leftValue >> rightValue;
+
+        case ">>>":
+          return leftValue >>> rightValue;
+
+        case "+":
+          return leftValue + rightValue;
+
+        case "-":
+          return leftValue - rightValue;
+
+        case "*":
+          return leftValue * rightValue;
+
+        case "**":
+          return Math.pow(leftValue, rightValue);
+
+        case "/":
+          return leftValue / rightValue;
+
+        case "%":
+          return leftValue % rightValue;
+
+        case "|":
+          return leftValue | rightValue;
+
+        case "^":
+          return leftValue ^ rightValue;
+
+        case "&":
+          return leftValue & rightValue;
+
+        case "in":
+          return leftValue in rightValue;
+
+        case "instanceof":
+          return leftValue instanceof rightValue;
+
+        default:
+          throw _this3.createInternalThrowError(_messages.Messages.BinaryOperatorSyntaxError, node.operator, node);}
+
+    };
+  } // a && b
+  ;
+
+  _proto2.logicalExpressionHandler = function logicalExpressionHandler(node) {
+    var _this4 = this;
+
+    var leftExpression = this.createClosure(node.left);
+    var rightExpression = this.createClosure(node.right);
+    return function () {
+      switch (node.operator) {
+        case "||":
+          return leftExpression() || rightExpression();
+
+        case "&&":
+          return leftExpression() && rightExpression();
+
+        default:
+          throw _this4.createInternalThrowError(_messages.Messages.LogicalOperatorSyntaxError, node.operator, node);}
+
+    };
+  } // protected isRootScope(node: ESTree.Expression | ESTree.Pattern): boolean {
+  // 	if (node.type === "Identifier") {
+  // 		const scope = this.getScopeFromName(node.name, this.getCurrentScope());
+  // 		return scope.name === "rootScope";
+  // 	}
+  // 	return false;
+  // }
+  // typeof a !a()
+  ;
+
+  _proto2.unaryExpressionHandler = function unaryExpressionHandler(node) {
+    var _this5 = this;
+
+    switch (node.operator) {
+      case "delete":
+        var objectGetter = this.createObjectGetter(node.argument);
+        var nameGetter = this.createNameGetter(node.argument);
+        return function () {
+          // not allowed to delete root scope property
+          // rootContext has move to prototype chai, so no judgment required
+          // if (this.isRootScope(node.argument)) {
+          // 	return false;
+          // }
+          var obj = objectGetter();
+          var name = nameGetter();
+          return delete obj[name];
+        };
+
+      default:
+        var expression; // for typeof undefined var
+        // typeof adf9ad
+
+        if (node.operator === "typeof" && node.argument.type === "Identifier") {
+          var _objectGetter = this.createObjectGetter(node.argument);
+
+          var _nameGetter = this.createNameGetter(node.argument);
+
+          expression = function expression() {
+            return _objectGetter()[_nameGetter()];
+          };
+        } else {
+          expression = this.createClosure(node.argument);
+        }
+
+        return function () {
+          var value = expression();
+
+          switch (node.operator) {
+            case "-":
+              return -value;
+
+            case "+":
+              return +value;
+
+            case "!":
+              return !value;
+
+            case "~":
+              return ~value;
+
+            case "void":
+              return void value;
+
+            case "typeof":
+              return typeof value;
+
+            default:
+              throw _this5.createInternalThrowError(_messages.Messages.UnaryOperatorSyntaxError, node.operator, node);}
+
+        };}
+
+  } // ++a --a
+  ;
+
+  _proto2.updateExpressionHandler = function updateExpressionHandler(node) {
+    var _this6 = this;
+
+    var objectGetter = this.createObjectGetter(node.argument);
+    var nameGetter = this.createNameGetter(node.argument);
+    return function () {
+      var obj = objectGetter();
+      var name = nameGetter();
+
+      _this6.assertVariable(obj, name, node);
+
+      switch (node.operator) {
+        case "++":
+          return node.prefix ? ++obj[name] : obj[name]++;
+
+        case "--":
+          return node.prefix ? --obj[name] : obj[name]--;
+
+        default:
+          throw _this6.createInternalThrowError(_messages.Messages.UpdateOperatorSyntaxError, node.operator, node);}
+
+    };
+  } // var o = {a: 1, b: 's', get name(){}, set name(){}  ...}
+  ;
+
+  _proto2.objectExpressionHandler = function objectExpressionHandler(node) {
+    var _this7 = this;
+
+    var items = [];
+
+    function getKey(keyNode) {
+      if (keyNode.type === "Identifier") {
+        // var o = {a:1}
+        return keyNode.name;
+      } else if (keyNode.type === "Literal") {
+        // var o = {"a":1}
+        return keyNode.value;
+      } else {
+        return this.throwError(_messages.Messages.ObjectStructureSyntaxError, keyNode.type, keyNode);
+      }
+    } // collect value, getter, and/or setter.
+
+
+    var properties = Object.create(null);
+    node.properties.forEach(function (property) {
+      var kind = property.kind;
+      var key = getKey(property.key);
+
+      if (!properties[key] || kind === "init") {
+        properties[key] = {};
+      }
+
+      properties[key][kind] = _this7.createClosure(property.value);
+      items.push({
+        key: key,
+        property: property });
+
+    });
+    return function () {
+      var result = {};
+      var len = items.length;
+
+      for (var i = 0; i < len; i++) {
+        var item = items[i];
+        var key = item.key;
+        var kinds = properties[key];
+        var value = kinds.init ? kinds.init() : undefined;
+        var getter = kinds.get ? kinds.get() : function () {};
+        var setter = kinds.set ? kinds.set() : function (a) {};
+
+        if ("set" in kinds || "get" in kinds) {
+          var descriptor = {
+            configurable: true,
+            enumerable: true,
+            get: getter,
+            set: setter };
+
+          Object.defineProperty(result, key, descriptor);
+        } else {
+          var property = item.property;
+          var kind = property.kind; // set function.name
+          // var d = { test(){} }
+          // var d = { test: function(){} }
+
+          if (property.key.type === "Identifier" && property.value.type === "FunctionExpression" && kind === "init" && !property.value.id) {
+            defineFunctionName(value, property.key.name);
+          }
+
+          result[key] = value;
+        }
+      }
+
+      return result;
+    };
+  } // [1,2,3]
+  ;
+
+  _proto2.arrayExpressionHandler = function arrayExpressionHandler(node) {
+    var _this8 = this;
+
+    //fix: [,,,1,2]
+    var items = node.elements.map(function (element) {
+      return element ? _this8.createClosure(element) : element;
+    });
+    return function () {
+      var len = items.length;
+      var result = Array(len);
+
+      for (var i = 0; i < len; i++) {
+        var item = items[i];
+
+        if (item) {
+          result[i] = item();
+        }
+      }
+
+      return result;
+    };
+  };
+
+  _proto2.safeObjectGet = function safeObjectGet(obj, key, node) {
+    return obj[key];
+  };
+
+  _proto2.createCallFunctionGetter = function createCallFunctionGetter(node) {
+    var _this9 = this;
+
+    switch (node.type) {
+      case "MemberExpression":
+        var objectGetter = this.createClosure(node.object);
+        var keyGetter = this.createMemberKeyGetter(node);
+        var source = this.source;
+        return function () {
+          var obj = objectGetter();
+          var key = keyGetter();
+
+          var func = _this9.safeObjectGet(obj, key, node);
+
+          if (!func || !isFunction(func)) {
+            var name = source.slice(node.start, node.end);
+            throw _this9.createInternalThrowError(_messages.Messages.FunctionUndefinedReferenceError, name, node);
+          } // obj.eval = eval
+          // obj.eval(...)
+
+
+          if (func.__IS_EVAL_FUNC) {
+            return function (code) {
+              return func(new InternalInterpreterReflection(_this9), code, true);
+            };
+          } // obj.func = Function
+          // obj.func(...)
+
+
+          if (func.__IS_FUNCTION_FUNC) {
+            return function () {
+              for (var _len2 = arguments.length, args = new Array(_len2), _key2 = 0; _key2 < _len2; _key2++) {
+                args[_key2] = arguments[_key2];
+              }
+
+              return func.apply(void 0, [new InternalInterpreterReflection(_this9)].concat(args));
+            };
+          } // method call
+          // eg：obj.say(...)
+          // eg: obj.say.call(...)
+          // eg: obj.say.apply(...)
+          // ======================
+          // obj.func(...)
+          // func = func.bind(obj)
+          // tips:
+          // func(...) -> func.bind(obj)(...)
+          // func.call(...) -> obj.func.call.bind(obj.func)(...)
+          // func.apply(...) -> obj.func.apply.bind(obj.func)(...)
+          // ...others
+
+
+          return func.bind(obj);
+        };
+
+      default:
+        // test() or (0,test)() or a[1]() ...
+        var closure = this.createClosure(node);
+        return function () {
+          var name = "";
+
+          if (node.type === "Identifier") {
+            name = node.name;
+          } // const name: string = (<ESTree.Identifier>node).name;
+
+
+          var func = closure();
+
+          if (!func || !isFunction(func)) {
+            throw _this9.createInternalThrowError(_messages.Messages.FunctionUndefinedReferenceError, name, node);
+          } // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
+          // var eval = eval;
+          // function test(){
+          //    eval(...); //note: use local scope in eval5，but in Browser is use global scope
+          // }
+
+
+          if (node.type === "Identifier" && func.__IS_EVAL_FUNC && name === "eval") {
+            return function (code) {
+              var scope = _this9.getScopeFromName(name, _this9.getCurrentScope());
+
+              var useGlobalScope = scope.name === SuperScopeName || // !scope.parent || // super scope
+              scope.name === GlobalScopeName || // this.globalScope === scope ||
+              scope.name === RootScopeName; // use local scope if calling eval in super scope
+
+              return func(new InternalInterpreterReflection(_this9), code, !useGlobalScope);
+            };
+          } // use global scope
+          // var g_eval = eval;
+          // g_eval("a+1");
+          //(0,eval)(...) ...eval alias
+
+
+          if (func.__IS_EVAL_FUNC) {
+            return function (code) {
+              return func(new InternalInterpreterReflection(_this9), code, true);
+            };
+          } // Function('a', 'b', 'return a+b')
+
+
+          if (func.__IS_FUNCTION_FUNC) {
+            return function () {
+              for (var _len3 = arguments.length, args = new Array(_len3), _key3 = 0; _key3 < _len3; _key3++) {
+                args[_key3] = arguments[_key3];
+              }
+
+              return func.apply(void 0, [new InternalInterpreterReflection(_this9)].concat(args));
+            };
+          }
+
+          var ctx = _this9.options.globalContextInFunction; // with(obj) {
+          //     test() // test.call(obj, ...)
+          // }
+
+          if (node.type === "Identifier") {
+            var scope = _this9.getIdentifierScope(node);
+
+            if (scope.name === WithScopeName) {
+              ctx = scope.data;
+            }
+          } // function call
+          // this = undefined
+          // tips:
+          // test(...) === test.call(undefined, ...)
+          // fix: alert.call({}, ...) Illegal invocation
+
+
+          return func.bind(ctx);
+        };}
+
+  } // func()
+  ;
+
+  _proto2.callExpressionHandler = function callExpressionHandler(node) {
+    var _this10 = this;
+
+    var funcGetter = this.createCallFunctionGetter(node.callee);
+    var argsGetter = node.arguments.map(function (arg) {
+      return _this10.createClosure(arg);
+    });
+    return function () {
+      return funcGetter().apply(void 0, argsGetter.map(function (arg) {
+        return arg();
+      }));
+    };
+  } // var f = function() {...}
+  ;
+
+  _proto2.functionExpressionHandler = function functionExpressionHandler(node) {
+    var _this11 = this;
+
+    var self = this;
+    var source = this.source;
+    var oldDeclVars = this.collectDeclVars;
+    var oldDeclFuncs = this.collectDeclFuncs;
+    this.collectDeclVars = Object.create(null);
+    this.collectDeclFuncs = Object.create(null);
+    var name = node.id ? node.id.name : "";
+    /**anonymous*/
+
+    var paramLength = node.params.length;
+    var paramsGetter = node.params.map(function (param) {
+      return _this11.createParamNameGetter(param);
+    }); // set scope
+
+    var bodyClosure = this.createClosure(node.body);
+    var declVars = this.collectDeclVars;
+    var declFuncs = this.collectDeclFuncs;
+    this.collectDeclVars = oldDeclVars;
+    this.collectDeclFuncs = oldDeclFuncs;
+    return function () {
+      // bind current scope
+      var runtimeScope = self.getCurrentScope();
+
+      var func = function func() {
+        for (var _len4 = arguments.length, args = new Array(_len4), _key4 = 0; _key4 < _len4; _key4++) {
+          args[_key4] = arguments[_key4];
+        }
+
+        self.callStack.push("" + name);
+        var prevScope = self.getCurrentScope();
+        var currentScope = createScope(runtimeScope, "FunctionScope(" + name + ")");
+        self.setCurrentScope(currentScope);
+        self.addDeclarationsToScope(declVars, declFuncs, currentScope); // var t = function(){ typeof t } // function
+        // t = function(){ typeof t } // function
+        // z = function tx(){ typeof tx } // function
+        // but
+        // d = { say: function(){ typeof say } } // undefined
+
+        if (name) {
+          currentScope.data[name] = func;
+        } // init arguments var
+
+
+        currentScope.data["arguments"] = arguments;
+        paramsGetter.forEach(function (getter, i) {
+          currentScope.data[getter()] = args[i];
+        }); // init this
+
+        var prevContext = self.getCurrentContext(); //for ThisExpression
+
+        self.setCurrentContext(this);
+        var result = bodyClosure(); //reset
+
+        self.setCurrentContext(prevContext);
+        self.setCurrentScope(prevScope);
+        self.callStack.pop();
+
+        if (result instanceof Return) {
+          return result.value;
+        }
+      };
+
+      defineFunctionName(func, name);
+      Object.defineProperty(func, "length", {
+        value: paramLength,
+        writable: false,
+        enumerable: false,
+        configurable: true });
+
+      Object.defineProperty(func, "toString", {
+        value: function value() {
+          return source.slice(node.start, node.end);
+        },
+        writable: true,
+        configurable: true,
+        enumerable: false });
+
+      Object.defineProperty(func, "valueOf", {
+        value: function value() {
+          return source.slice(node.start, node.end);
+        },
+        writable: true,
+        configurable: true,
+        enumerable: false });
+
+      return func;
+    };
+  } // new Ctrl()
+  ;
+
+  _proto2.newExpressionHandler = function newExpressionHandler(node) {
+    var _this12 = this;
+
+    var source = this.source;
+    var expression = this.createClosure(node.callee);
+    var args = node.arguments.map(function (arg) {
+      return _this12.createClosure(arg);
+    });
+    return function () {
+      var construct = expression();
+
+      if (!isFunction(construct) || construct.__IS_EVAL_FUNC) {
+        var callee = node.callee;
+        var name = source.slice(callee.start, callee.end);
+        throw _this12.createInternalThrowError(_messages.Messages.IsNotConstructor, name, node);
+      } // new Function(...)
+
+
+      if (construct.__IS_FUNCTION_FUNC) {
+        return construct.apply(void 0, [new InternalInterpreterReflection(_this12)].concat(args.map(function (arg) {
+          return arg();
+        })));
+      }
+
+      return _construct(construct, args.map(function (arg) {
+        return arg();
+      }));
+    };
+  } // a.b a['b']
+  ;
+
+  _proto2.memberExpressionHandler = function memberExpressionHandler(node) {
+    var objectGetter = this.createClosure(node.object);
+    var keyGetter = this.createMemberKeyGetter(node);
+    return function () {
+      var obj = objectGetter();
+      var key = keyGetter();
+      return obj[key];
+    };
+  } //this
+  ;
+
+  _proto2.thisExpressionHandler = function thisExpressionHandler(node) {
+    var _this13 = this;
+
+    return function () {
+      return _this13.getCurrentContext();
+    };
+  } // var1,var2,...
+  ;
+
+  _proto2.sequenceExpressionHandler = function sequenceExpressionHandler(node) {
+    var _this14 = this;
+
+    var expressions = node.expressions.map(function (item) {
+      return _this14.createClosure(item);
+    });
+    return function () {
+      var result;
+      var len = expressions.length;
+
+      for (var i = 0; i < len; i++) {
+        var expression = expressions[i];
+        result = expression();
+      }
+
+      return result;
+    };
+  } // 1 'name'
+  ;
+
+  _proto2.literalHandler = function literalHandler(node) {
+    return function () {
+      if (node.regex) {
+        return new RegExp(node.regex.pattern, node.regex.flags);
+      }
+
+      return node.value;
+    };
+  } // var1 ...
+  ;
+
+  _proto2.identifierHandler = function identifierHandler(node) {
+    var _this15 = this;
+
+    return function () {
+      var currentScope = _this15.getCurrentScope();
+
+      var data = _this15.getScopeDataFromName(node.name, currentScope);
+
+      _this15.assertVariable(data, node.name, node);
+
+      return data[node.name];
+    };
+  };
+
+  _proto2.getIdentifierScope = function getIdentifierScope(node) {
+    var currentScope = this.getCurrentScope();
+    var scope = this.getScopeFromName(node.name, currentScope);
+    return scope;
+  } // a=1 a+=2
+  ;
+
+  _proto2.assignmentExpressionHandler = function assignmentExpressionHandler(node) {
+    var _this16 = this;
+
+    // var s = function(){}
+    // s.name === s
+    if (node.left.type === "Identifier" && node.right.type === "FunctionExpression" && !node.right.id) {
+      node.right.id = {
+        type: "Identifier",
+        name: node.left.name };
+
+    }
+
+    var dataGetter = this.createObjectGetter(node.left);
+    var nameGetter = this.createNameGetter(node.left);
+    var rightValueGetter = this.createClosure(node.right);
+    return function () {
+      var data = dataGetter();
+      var name = nameGetter();
+      var rightValue = rightValueGetter();
+
+      if (node.operator !== "=") {
+        // if a is undefined
+        // a += 1
+        _this16.assertVariable(data, name, node);
+      }
+
+      switch (node.operator) {
+        case "=":
+          return data[name] = rightValue;
+
+        case "+=":
+          return data[name] += rightValue;
+
+        case "-=":
+          return data[name] -= rightValue;
+
+        case "*=":
+          return data[name] *= rightValue;
+
+        case "**=":
+          return data[name] = Math.pow(data[name], rightValue);
+
+        case "/=":
+          return data[name] /= rightValue;
+
+        case "%=":
+          return data[name] %= rightValue;
+
+        case "<<=":
+          return data[name] <<= rightValue;
+
+        case ">>=":
+          return data[name] >>= rightValue;
+
+        case ">>>=":
+          return data[name] >>>= rightValue;
+
+        case "&=":
+          return data[name] &= rightValue;
+
+        case "^=":
+          return data[name] ^= rightValue;
+
+        case "|=":
+          return data[name] |= rightValue;
+
+        default:
+          throw _this16.createInternalThrowError(_messages.Messages.AssignmentExpressionSyntaxError, node.type, node);}
+
+    };
+  } // function test(){}
+  ;
+
+  _proto2.functionDeclarationHandler = function functionDeclarationHandler(node) {
+    if (node.id) {
+      var functionClosure = this.functionExpressionHandler(node);
+      Object.defineProperty(functionClosure, "isFunctionDeclareClosure", {
+        value: true,
+        writable: false,
+        configurable: false,
+        enumerable: false });
+
+      this.funcDeclaration(node.id.name, functionClosure);
+    }
+
+    return function () {
+      return EmptyStatementReturn;
+    };
+  };
+
+  _proto2.getVariableName = function getVariableName(node) {
+    if (node.type === "Identifier") {
+      return node.name;
+    } else {
+      throw this.createInternalThrowError(_messages.Messages.VariableTypeSyntaxError, node.type, node);
+    }
+  } // var i;
+  // var i=1;
+  ;
+
+  _proto2.variableDeclarationHandler = function variableDeclarationHandler(node) {
+    var _this17 = this;
+
+    var assignmentsClosure;
+    var assignments = [];
+
+    for (var i = 0; i < node.declarations.length; i++) {
+      var decl = node.declarations[i];
+      this.varDeclaration(this.getVariableName(decl.id));
+
+      if (decl.init) {
+        assignments.push({
+          type: "AssignmentExpression",
+          operator: "=",
+          left: decl.id,
+          right: decl.init });
+
+      }
+    }
+
+    if (assignments.length) {
+      assignmentsClosure = this.createClosure({
+        type: "BlockStatement",
+        body: assignments });
+
+    }
+
+    return function () {
+      if (assignmentsClosure) {
+        var oldValue = _this17.isVarDeclMode;
+        _this17.isVarDeclMode = true;
+        assignmentsClosure();
+        _this17.isVarDeclMode = oldValue;
+      }
+
+      return EmptyStatementReturn;
+    };
+  };
+
+  _proto2.assertVariable = function assertVariable(data, name, node) {
+    if (data === this.globalScope.data && !(name in data)) {
+      throw this.createInternalThrowError(_messages.Messages.VariableUndefinedReferenceError, name, node);
+    }
+  } // {...}
+  ;
+
+  _proto2.programHandler = function programHandler(node) {
+    var _this18 = this;
+
+    // const currentScope = this.getCurrentScope();
+    var stmtClosures = node.body.map(function (stmt) {
+      // if (stmt.type === "EmptyStatement") return null;
+      return _this18.createClosure(stmt);
+    });
+    return function () {
+      var result = EmptyStatementReturn;
+
+      for (var i = 0; i < stmtClosures.length; i++) {
+        var stmtClosure = stmtClosures[i]; // save last value
+
+        var ret = _this18.setValue(stmtClosure()); // if (!stmtClosure) continue;
+        // EmptyStatement
+
+
+        if (ret === EmptyStatementReturn) continue;
+        result = ret; // BlockStatement: break label;  continue label; for(){ break ... }
+        // ReturnStatement: return xx;
+
+        if (result instanceof Return || result instanceof BreakLabel || result instanceof ContinueLabel || result === Break || result === Continue) {
+          break;
+        }
+      } // save last value
+
+
+      return result;
+    };
+  } // all expression: a+1 a&&b a() a.b ...
+  ;
+
+  _proto2.expressionStatementHandler = function expressionStatementHandler(node) {
+    return this.createClosure(node.expression);
+  };
+
+  _proto2.emptyStatementHandler = function emptyStatementHandler(node) {
+    return function () {
+      return EmptyStatementReturn;
+    };
+  } // return xx;
+  ;
+
+  _proto2.returnStatementHandler = function returnStatementHandler(node) {
+    var argumentClosure = node.argument ? this.createClosure(node.argument) : noop;
+    return function () {
+      return new Return(argumentClosure());
+    };
+  } // if else
+  ;
+
+  _proto2.ifStatementHandler = function ifStatementHandler(node) {
+    var testClosure = this.createClosure(node.test);
+    var consequentClosure = this.createClosure(node.consequent);
+    var alternateClosure = node.alternate ? this.createClosure(node.alternate) :
+    /*!important*/
+    function () {
+      return EmptyStatementReturn;
+    };
+    return function () {
+      return testClosure() ? consequentClosure() : alternateClosure();
+    };
+  } // test() ? true : false
+  ;
+
+  _proto2.conditionalExpressionHandler = function conditionalExpressionHandler(node) {
+    return this.ifStatementHandler(node);
+  } // for(var i = 0; i < 10; i++) {...}
+  ;
+
+  _proto2.forStatementHandler = function forStatementHandler(node) {
+    var _this19 = this;
+
+    var initClosure = noop;
+    var testClosure = node.test ? this.createClosure(node.test) : function () {
+      return true;
+    };
+    var updateClosure = noop;
+    var bodyClosure = this.createClosure(node.body);
+
+    if (node.type === "ForStatement") {
+      initClosure = node.init ? this.createClosure(node.init) : initClosure;
+      updateClosure = node.update ? this.createClosure(node.update) : noop;
+    }
+
+    return function (pNode) {
+      var labelName;
+      var result = EmptyStatementReturn;
+      var shouldInitExec = node.type === "DoWhileStatement";
+
+      if (pNode && pNode.type === "LabeledStatement") {
+        labelName = pNode.label.name;
+      }
+
+      for (initClosure(); shouldInitExec || testClosure(); updateClosure()) {
+        shouldInitExec = false; // save last value
+
+        var ret = _this19.setValue(bodyClosure()); // notice: never return Break or Continue!
+
+
+        if (ret === EmptyStatementReturn || ret === Continue) continue;
+
+        if (ret === Break) {
+          break;
+        }
+
+        result = ret; // stop continue label
+
+        if (result instanceof ContinueLabel && result.value === labelName) {
+          result = EmptyStatementReturn;
+          continue;
+        }
+
+        if (result instanceof Return || result instanceof BreakLabel || result instanceof ContinueLabel) {
+          break;
+        }
+      }
+
+      return result;
+    };
+  } // while(1) {...}
+  ;
+
+  _proto2.whileStatementHandler = function whileStatementHandler(node) {
+    return this.forStatementHandler(node);
+  };
+
+  _proto2.doWhileStatementHandler = function doWhileStatementHandler(node) {
+    return this.forStatementHandler(node);
+  };
+
+  _proto2.forInStatementHandler = function forInStatementHandler(node) {
+    var _this20 = this;
+
+    // for( k in obj) or for(o.k in obj) ...
+    var left = node.left;
+    var rightClosure = this.createClosure(node.right);
+    var bodyClosure = this.createClosure(node.body); // for(var k in obj) {...}
+
+    if (node.left.type === "VariableDeclaration") {
+      // init var k
+      this.createClosure(node.left)(); // reset left
+      // for( k in obj)
+
+      left = node.left.declarations[0].id;
+    }
+
+    return function (pNode) {
+      var labelName;
+      var result = EmptyStatementReturn;
+      var x;
+
+      if (pNode && pNode.type === "LabeledStatement") {
+        labelName = pNode.label.name;
+      }
+
+      var data = rightClosure();
+
+      for (x in data) {
+        // assign left to scope
+        // k = x
+        // o.k = x
+        _this20.assignmentExpressionHandler({
+          type: "AssignmentExpression",
+          operator: "=",
+          left: left,
+          right: {
+            type: "Literal",
+            value: x } })();
+
+        // save last value
+
+
+        var ret = _this20.setValue(bodyClosure()); // notice: never return Break or Continue!
+
+
+        if (ret === EmptyStatementReturn || ret === Continue) continue;
+
+        if (ret === Break) {
+          break;
+        }
+
+        result = ret; // stop continue label
+
+        if (result instanceof ContinueLabel && result.value === labelName) {
+          result = EmptyStatementReturn;
+          continue;
+        }
+
+        if (result instanceof Return || result instanceof BreakLabel || result instanceof ContinueLabel) {
+          break;
+        }
+      }
+
+      return result;
+    };
+  };
+
+  _proto2.withStatementHandler = function withStatementHandler(node) {
+    var _this21 = this;
+
+    var objectClosure = this.createClosure(node.object);
+    var bodyClosure = this.createClosure(node.body);
+    return function () {
+      var data = objectClosure();
+
+      var currentScope = _this21.getCurrentScope();
+
+      var newScope = new Scope(data, currentScope, WithScopeName); // const data = objectClosure();
+      // copy all properties
+      // for (let k in data) {
+      // 	newScope.data[k] = data[k];
+      // }
+
+      _this21.setCurrentScope(newScope); // save last value
+
+
+      var result = _this21.setValue(bodyClosure());
+
+      _this21.setCurrentScope(currentScope);
+
+      return result;
+    };
+  };
+
+  _proto2.throwStatementHandler = function throwStatementHandler(node) {
+    var _this22 = this;
+
+    var argumentClosure = this.createClosure(node.argument);
+    return function () {
+      _this22.setValue(undefined);
+
+      throw argumentClosure();
+    };
+  } // try{...}catch(e){...}finally{}
+  ;
+
+  _proto2.tryStatementHandler = function tryStatementHandler(node) {
+    var _this23 = this;
+
+    var blockClosure = this.createClosure(node.block);
+    var handlerClosure = node.handler ? this.catchClauseHandler(node.handler) : null;
+    var finalizerClosure = node.finalizer ? this.createClosure(node.finalizer) : null;
+    return function () {
+      var currentScope = _this23.getCurrentScope();
+
+      var currentContext = _this23.getCurrentContext();
+
+      var labelStack = currentScope.labelStack.concat([]);
+
+      var callStack = _this23.callStack.concat([]);
+
+      var result = EmptyStatementReturn;
+      var finalReturn;
+      var throwError;
+
+      var reset = function reset() {
+        _this23.setCurrentScope(currentScope); //reset scope
+
+
+        _this23.setCurrentContext(currentContext); //reset context
+
+
+        currentScope.labelStack = labelStack; //reset label stack
+
+        _this23.callStack = callStack; //reset call stack
+      };
+      /**
+          * try{...}catch(e){...}finally{...} execution sequence:
+          * try stmt
+          * try throw
+          * catch stmt (if)
+          * finally stmt
+          *
+          * finally throw or finally return
+          * catch throw or catch return
+          * try return
+          */
+
+
+      try {
+        result = _this23.setValue(blockClosure());
+
+        if (result instanceof Return) {
+          finalReturn = result;
+        }
+      } catch (err) {
+        reset();
+
+        if (_this23.isInterruptThrow(err)) {
+          throw err;
+        }
+
+        if (handlerClosure) {
+          try {
+            result = _this23.setValue(handlerClosure(err));
+
+            if (result instanceof Return) {
+              finalReturn = result;
+            }
+          } catch (err) {
+            reset();
+
+            if (_this23.isInterruptThrow(err)) {
+              throw err;
+            } // save catch throw error
+
+
+            throwError = err;
+          }
+        }
+      } // finally {
+
+
+      if (finalizerClosure) {
+        try {
+          //do not save finally result
+          result = finalizerClosure();
+
+          if (result instanceof Return) {
+            finalReturn = result;
+          } // finalReturn = finalizerClosure();
+
+        } catch (err) {
+          reset();
+
+          if (_this23.isInterruptThrow(err)) {
+            throw err;
+          } // save finally throw error
+
+
+          throwError = err;
+        } // if (finalReturn instanceof Return) {
+        // 	result = finalReturn;
+        // }
+
+      } // }
+
+
+      if (throwError) throw throwError;
+
+      if (finalReturn) {
+        return finalReturn;
+      }
+
+      return result;
+    };
+  } // ... catch(e){...}
+  ;
+
+  _proto2.catchClauseHandler = function catchClauseHandler(node) {
+    var _this24 = this;
+
+    var paramNameGetter = this.createParamNameGetter(node.param);
+    var bodyClosure = this.createClosure(node.body);
+    return function (e) {
+      var result;
+
+      var currentScope = _this24.getCurrentScope();
+
+      var scopeData = currentScope.data; // get param name "e"
+
+      var paramName = paramNameGetter();
+      var isInScope = hasOwnProperty.call(scopeData, paramName); //paramName in scopeData;
+      // save "e"
+
+      var oldValue = scopeData[paramName]; // add "e" to scope
+
+      scopeData[paramName] = e; // run
+
+      result = bodyClosure(); // reset "e"
+
+      if (isInScope) {
+        scopeData[paramName] = oldValue;
+      } else {
+        //unset
+        delete scopeData[paramName];
+      }
+
+      return result;
+    };
+  };
+
+  _proto2.continueStatementHandler = function continueStatementHandler(node) {
+    return function () {
+      return node.label ? new ContinueLabel(node.label.name) : Continue;
+    };
+  };
+
+  _proto2.breakStatementHandler = function breakStatementHandler(node) {
+    return function () {
+      return node.label ? new BreakLabel(node.label.name) : Break;
+    };
+  };
+
+  _proto2.switchStatementHandler = function switchStatementHandler(node) {
+    var _this25 = this;
+
+    var discriminantClosure = this.createClosure(node.discriminant);
+    var caseClosures = node.cases.map(function (item) {
+      return _this25.switchCaseHandler(item);
+    });
+    return function () {
+      var value = discriminantClosure();
+      var match = false;
+      var result;
+      var ret, defaultCase;
+
+      for (var i = 0; i < caseClosures.length; i++) {
+        var item = caseClosures[i]();
+        var test = item.testClosure();
+
+        if (test === DefaultCase) {
+          defaultCase = item;
+          continue;
+        }
+
+        if (match || test === value) {
+          match = true;
+          ret = _this25.setValue(item.bodyClosure()); // notice: never return Break!
+
+          if (ret === EmptyStatementReturn) continue;
+
+          if (ret === Break) {
+            break;
+          }
+
+          result = ret;
+
+          if (result instanceof Return || result instanceof BreakLabel || result instanceof ContinueLabel || result === Continue) {
+            break;
+          }
+        }
+      }
+
+      if (!match && defaultCase) {
+        ret = _this25.setValue(defaultCase.bodyClosure());
+        var isEBC = ret === EmptyStatementReturn || ret === Break || ret === Continue; // notice: never return Break or Continue!
+
+        if (!isEBC) {
+          result = ret;
+        }
+      }
+
+      return result;
+    };
+  };
+
+  _proto2.switchCaseHandler = function switchCaseHandler(node) {
+    var testClosure = node.test ? this.createClosure(node.test) : function () {
+      return DefaultCase;
+    };
+    var bodyClosure = this.createClosure({
+      type: "BlockStatement",
+      body: node.consequent });
+
+    return function () {
+      return {
+        testClosure: testClosure,
+        bodyClosure: bodyClosure };
+
+    };
+  } // label: xxx
+  ;
+
+  _proto2.labeledStatementHandler = function labeledStatementHandler(node) {
+    var _this26 = this;
+
+    var labelName = node.label.name;
+    var bodyClosure = this.createClosure(node.body);
+    return function () {
+      var result;
+
+      var currentScope = _this26.getCurrentScope();
+
+      currentScope.labelStack.push(labelName);
+      result = bodyClosure(node); // stop break label
+
+      if (result instanceof BreakLabel && result.value === labelName) {
+        result = EmptyStatementReturn;
+      }
+
+      currentScope.labelStack.pop();
+      return result;
+    };
+  };
+
+  _proto2.debuggerStatementHandler = function debuggerStatementHandler(node) {
+    return function () {
+      debugger;
+      return EmptyStatementReturn;
+    };
+  } // get es3/5 param name
+  ;
+
+  _proto2.createParamNameGetter = function createParamNameGetter(node) {
+    if (node.type === "Identifier") {
+      return function () {
+        return node.name;
+      };
+    } else {
+      throw this.createInternalThrowError(_messages.Messages.ParamTypeSyntaxError, node.type, node);
+    }
+  };
+
+  _proto2.createObjectKeyGetter = function createObjectKeyGetter(node) {
+    var getter; // var obj = { title: "" }
+
+    if (node.type === "Identifier") {
+      getter = function getter() {
+        return node.name;
+      };
+    } else {
+      // Literal or ...
+      // var obj = { "title": "" } or others...
+      getter = this.createClosure(node);
+    }
+
+    return function () {
+      return getter();
+    };
+  };
+
+  _proto2.createMemberKeyGetter = function createMemberKeyGetter(node) {
+    // s['a'];  node.computed = true
+    // s.foo;  node.computed = false
+    return node.computed ? this.createClosure(node.property) : this.createObjectKeyGetter(node.property);
+  } // for UnaryExpression UpdateExpression AssignmentExpression
+  ;
+
+  _proto2.createObjectGetter = function createObjectGetter(node) {
+    var _this27 = this;
+
+    switch (node.type) {
+      case "Identifier":
+        return function () {
+          return _this27.getScopeDataFromName(node.name, _this27.getCurrentScope());
+        };
+
+      case "MemberExpression":
+        return this.createClosure(node.object);
+
+      default:
+        throw this.createInternalThrowError(_messages.Messages.AssignmentTypeSyntaxError, node.type, node);}
+
+  } // for UnaryExpression UpdateExpression AssignmentExpression
+  ;
+
+  _proto2.createNameGetter = function createNameGetter(node) {
+    switch (node.type) {
+      case "Identifier":
+        return function () {
+          return node.name;
+        };
+
+      case "MemberExpression":
+        return this.createMemberKeyGetter(node);
+
+      default:
+        throw this.createInternalThrowError(_messages.Messages.AssignmentTypeSyntaxError, node.type, node);}
+
+  };
+
+  _proto2.varDeclaration = function varDeclaration(name) {
+    var context = this.collectDeclVars;
+    context[name] = undefined;
+  };
+
+  _proto2.funcDeclaration = function funcDeclaration(name, func) {
+    var context = this.collectDeclFuncs;
+    context[name] = func;
+  };
+
+  _proto2.addDeclarationsToScope = function addDeclarationsToScope(declVars, declFuncs, scope) {
+    var scopeData = scope.data;
+
+    for (var key in declFuncs) {
+      var value = declFuncs[key];
+      scopeData[key] = value ? value() : value;
+    }
+
+    for (var _key5 in declVars) {
+      if (!(_key5 in scopeData)) {
+        scopeData[_key5] = void 0;
+      }
+    }
+  };
+
+  _proto2.getScopeValue = function getScopeValue(name, startScope) {
+    var scope = this.getScopeFromName(name, startScope);
+    return scope.data[name];
+  };
+
+  _proto2.getScopeDataFromName = function getScopeDataFromName(name, startScope) {
+    return this.getScopeFromName(name, startScope).data;
+  };
+
+  _proto2.getScopeFromName = function getScopeFromName(name, startScope) {
+    var scope = startScope;
+
+    do {
+      if (name in scope.data) {
+        //if (hasOwnProperty.call(scope.data, name)) {
+        return scope;
+      }
+    } while (scope = scope.parent);
+
+    return this.globalScope;
+  };
+
+  _proto2.setValue = function setValue(value) {
+    var isFunctionCall = this.callStack.length;
+
+    if (this.isVarDeclMode || isFunctionCall || value === EmptyStatementReturn || value === Break || value === Continue || value instanceof BreakLabel || value instanceof ContinueLabel) {
+      return value;
+    }
+
+    this.value = value instanceof Return ? value.value : value;
+    return value;
+  };
+
+  _proto2.getValue = function getValue() {
+    return this.value;
+  };
+
+  return Interpreter;
+}();exports.Interpreter = Interpreter;
+Interpreter.version = version;
+Interpreter.eval = internalEval;
+Interpreter.Function = internalFunction;
+Interpreter.ecmaVersion = 5; // alert.call(globalContextInFunction, 1);
+// fix: alert.call({}, 1); // Illegal invocation
+// function func(){
+//     this;// Interpreter.globalContextInFunction
+// }
+// func()
+
+Interpreter.globalContextInFunction = void 0;
+Interpreter.global = Object.create(null);
+
+/***/ }),
+/* 181 */
+/*!*********************************************!*\
+  !*** ./node_modules/acorn/dist/acorn.es.js ***!
+  \*********************************************/
+/*! exports provided: version, parse, parseExpressionAt, tokenizer, parse_dammit, LooseParser, pluginsLoose, addLooseExports, Parser, plugins, defaultOptions, Position, SourceLocation, getLineInfo, Node, TokenType, tokTypes, keywordTypes, TokContext, tokContexts, isIdentifierChar, isIdentifierStart, Token, isNewLine, lineBreak, lineBreakG, nonASCIIwhitespace */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "version", function() { return version; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "parse", function() { return parse; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "parseExpressionAt", function() { return parseExpressionAt; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tokenizer", function() { return tokenizer; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "parse_dammit", function() { return parse_dammit; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LooseParser", function() { return LooseParser; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pluginsLoose", function() { return pluginsLoose; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "addLooseExports", function() { return addLooseExports; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Parser", function() { return Parser; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "plugins", function() { return plugins; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "defaultOptions", function() { return defaultOptions; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Position", function() { return Position; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SourceLocation", function() { return SourceLocation; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getLineInfo", function() { return getLineInfo; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Node", function() { return Node; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TokenType", function() { return TokenType; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tokTypes", function() { return types; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "keywordTypes", function() { return keywords$1; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TokContext", function() { return TokContext; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tokContexts", function() { return types$1; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isIdentifierChar", function() { return isIdentifierChar; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isIdentifierStart", function() { return isIdentifierStart; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Token", function() { return Token; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isNewLine", function() { return isNewLine; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lineBreak", function() { return lineBreak; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lineBreakG", function() { return lineBreakG; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nonASCIIwhitespace", function() { return nonASCIIwhitespace; });
+// Reserved word lists for various dialects of the language
+
+var reservedWords = {
+  3: "abstract boolean byte char class double enum export extends final float goto implements import int interface long native package private protected public short static super synchronized throws transient volatile",
+  5: "class enum extends super const export import",
+  6: "enum",
+  strict: "implements interface let package private protected public static yield",
+  strictBind: "eval arguments"
+};
+
+// And the keywords
+
+var ecma5AndLessKeywords = "break case catch continue debugger default do else finally for function if return switch throw try var while with null true false instanceof typeof void delete new in this";
+
+var keywords = {
+  5: ecma5AndLessKeywords,
+  6: ecma5AndLessKeywords + " const class extends export import super"
+};
+
+var keywordRelationalOperator = /^in(stanceof)?$/;
+
+// ## Character categories
+
+// Big ugly regular expressions that match characters in the
+// whitespace, identifier, and identifier-start categories. These
+// are only applied when a character is found to actually have a
+// code point above 128.
+// Generated by `bin/generate-identifier-regex.js`.
+
+var nonASCIIidentifierStartChars = "\xaa\xb5\xba\xc0-\xd6\xd8-\xf6\xf8-\u02c1\u02c6-\u02d1\u02e0-\u02e4\u02ec\u02ee\u0370-\u0374\u0376\u0377\u037a-\u037d\u037f\u0386\u0388-\u038a\u038c\u038e-\u03a1\u03a3-\u03f5\u03f7-\u0481\u048a-\u052f\u0531-\u0556\u0559\u0560-\u0588\u05d0-\u05ea\u05ef-\u05f2\u0620-\u064a\u066e\u066f\u0671-\u06d3\u06d5\u06e5\u06e6\u06ee\u06ef\u06fa-\u06fc\u06ff\u0710\u0712-\u072f\u074d-\u07a5\u07b1\u07ca-\u07ea\u07f4\u07f5\u07fa\u0800-\u0815\u081a\u0824\u0828\u0840-\u0858\u0860-\u086a\u08a0-\u08b4\u08b6-\u08bd\u0904-\u0939\u093d\u0950\u0958-\u0961\u0971-\u0980\u0985-\u098c\u098f\u0990\u0993-\u09a8\u09aa-\u09b0\u09b2\u09b6-\u09b9\u09bd\u09ce\u09dc\u09dd\u09df-\u09e1\u09f0\u09f1\u09fc\u0a05-\u0a0a\u0a0f\u0a10\u0a13-\u0a28\u0a2a-\u0a30\u0a32\u0a33\u0a35\u0a36\u0a38\u0a39\u0a59-\u0a5c\u0a5e\u0a72-\u0a74\u0a85-\u0a8d\u0a8f-\u0a91\u0a93-\u0aa8\u0aaa-\u0ab0\u0ab2\u0ab3\u0ab5-\u0ab9\u0abd\u0ad0\u0ae0\u0ae1\u0af9\u0b05-\u0b0c\u0b0f\u0b10\u0b13-\u0b28\u0b2a-\u0b30\u0b32\u0b33\u0b35-\u0b39\u0b3d\u0b5c\u0b5d\u0b5f-\u0b61\u0b71\u0b83\u0b85-\u0b8a\u0b8e-\u0b90\u0b92-\u0b95\u0b99\u0b9a\u0b9c\u0b9e\u0b9f\u0ba3\u0ba4\u0ba8-\u0baa\u0bae-\u0bb9\u0bd0\u0c05-\u0c0c\u0c0e-\u0c10\u0c12-\u0c28\u0c2a-\u0c39\u0c3d\u0c58-\u0c5a\u0c60\u0c61\u0c80\u0c85-\u0c8c\u0c8e-\u0c90\u0c92-\u0ca8\u0caa-\u0cb3\u0cb5-\u0cb9\u0cbd\u0cde\u0ce0\u0ce1\u0cf1\u0cf2\u0d05-\u0d0c\u0d0e-\u0d10\u0d12-\u0d3a\u0d3d\u0d4e\u0d54-\u0d56\u0d5f-\u0d61\u0d7a-\u0d7f\u0d85-\u0d96\u0d9a-\u0db1\u0db3-\u0dbb\u0dbd\u0dc0-\u0dc6\u0e01-\u0e30\u0e32\u0e33\u0e40-\u0e46\u0e81\u0e82\u0e84\u0e87\u0e88\u0e8a\u0e8d\u0e94-\u0e97\u0e99-\u0e9f\u0ea1-\u0ea3\u0ea5\u0ea7\u0eaa\u0eab\u0ead-\u0eb0\u0eb2\u0eb3\u0ebd\u0ec0-\u0ec4\u0ec6\u0edc-\u0edf\u0f00\u0f40-\u0f47\u0f49-\u0f6c\u0f88-\u0f8c\u1000-\u102a\u103f\u1050-\u1055\u105a-\u105d\u1061\u1065\u1066\u106e-\u1070\u1075-\u1081\u108e\u10a0-\u10c5\u10c7\u10cd\u10d0-\u10fa\u10fc-\u1248\u124a-\u124d\u1250-\u1256\u1258\u125a-\u125d\u1260-\u1288\u128a-\u128d\u1290-\u12b0\u12b2-\u12b5\u12b8-\u12be\u12c0\u12c2-\u12c5\u12c8-\u12d6\u12d8-\u1310\u1312-\u1315\u1318-\u135a\u1380-\u138f\u13a0-\u13f5\u13f8-\u13fd\u1401-\u166c\u166f-\u167f\u1681-\u169a\u16a0-\u16ea\u16ee-\u16f8\u1700-\u170c\u170e-\u1711\u1720-\u1731\u1740-\u1751\u1760-\u176c\u176e-\u1770\u1780-\u17b3\u17d7\u17dc\u1820-\u1878\u1880-\u18a8\u18aa\u18b0-\u18f5\u1900-\u191e\u1950-\u196d\u1970-\u1974\u1980-\u19ab\u19b0-\u19c9\u1a00-\u1a16\u1a20-\u1a54\u1aa7\u1b05-\u1b33\u1b45-\u1b4b\u1b83-\u1ba0\u1bae\u1baf\u1bba-\u1be5\u1c00-\u1c23\u1c4d-\u1c4f\u1c5a-\u1c7d\u1c80-\u1c88\u1c90-\u1cba\u1cbd-\u1cbf\u1ce9-\u1cec\u1cee-\u1cf1\u1cf5\u1cf6\u1d00-\u1dbf\u1e00-\u1f15\u1f18-\u1f1d\u1f20-\u1f45\u1f48-\u1f4d\u1f50-\u1f57\u1f59\u1f5b\u1f5d\u1f5f-\u1f7d\u1f80-\u1fb4\u1fb6-\u1fbc\u1fbe\u1fc2-\u1fc4\u1fc6-\u1fcc\u1fd0-\u1fd3\u1fd6-\u1fdb\u1fe0-\u1fec\u1ff2-\u1ff4\u1ff6-\u1ffc\u2071\u207f\u2090-\u209c\u2102\u2107\u210a-\u2113\u2115\u2118-\u211d\u2124\u2126\u2128\u212a-\u2139\u213c-\u213f\u2145-\u2149\u214e\u2160-\u2188\u2c00-\u2c2e\u2c30-\u2c5e\u2c60-\u2ce4\u2ceb-\u2cee\u2cf2\u2cf3\u2d00-\u2d25\u2d27\u2d2d\u2d30-\u2d67\u2d6f\u2d80-\u2d96\u2da0-\u2da6\u2da8-\u2dae\u2db0-\u2db6\u2db8-\u2dbe\u2dc0-\u2dc6\u2dc8-\u2dce\u2dd0-\u2dd6\u2dd8-\u2dde\u3005-\u3007\u3021-\u3029\u3031-\u3035\u3038-\u303c\u3041-\u3096\u309b-\u309f\u30a1-\u30fa\u30fc-\u30ff\u3105-\u312f\u3131-\u318e\u31a0-\u31ba\u31f0-\u31ff\u3400-\u4db5\u4e00-\u9fef\ua000-\ua48c\ua4d0-\ua4fd\ua500-\ua60c\ua610-\ua61f\ua62a\ua62b\ua640-\ua66e\ua67f-\ua69d\ua6a0-\ua6ef\ua717-\ua71f\ua722-\ua788\ua78b-\ua7b9\ua7f7-\ua801\ua803-\ua805\ua807-\ua80a\ua80c-\ua822\ua840-\ua873\ua882-\ua8b3\ua8f2-\ua8f7\ua8fb\ua8fd\ua8fe\ua90a-\ua925\ua930-\ua946\ua960-\ua97c\ua984-\ua9b2\ua9cf\ua9e0-\ua9e4\ua9e6-\ua9ef\ua9fa-\ua9fe\uaa00-\uaa28\uaa40-\uaa42\uaa44-\uaa4b\uaa60-\uaa76\uaa7a\uaa7e-\uaaaf\uaab1\uaab5\uaab6\uaab9-\uaabd\uaac0\uaac2\uaadb-\uaadd\uaae0-\uaaea\uaaf2-\uaaf4\uab01-\uab06\uab09-\uab0e\uab11-\uab16\uab20-\uab26\uab28-\uab2e\uab30-\uab5a\uab5c-\uab65\uab70-\uabe2\uac00-\ud7a3\ud7b0-\ud7c6\ud7cb-\ud7fb\uf900-\ufa6d\ufa70-\ufad9\ufb00-\ufb06\ufb13-\ufb17\ufb1d\ufb1f-\ufb28\ufb2a-\ufb36\ufb38-\ufb3c\ufb3e\ufb40\ufb41\ufb43\ufb44\ufb46-\ufbb1\ufbd3-\ufd3d\ufd50-\ufd8f\ufd92-\ufdc7\ufdf0-\ufdfb\ufe70-\ufe74\ufe76-\ufefc\uff21-\uff3a\uff41-\uff5a\uff66-\uffbe\uffc2-\uffc7\uffca-\uffcf\uffd2-\uffd7\uffda-\uffdc";
+var nonASCIIidentifierChars = "\u200c\u200d\xb7\u0300-\u036f\u0387\u0483-\u0487\u0591-\u05bd\u05bf\u05c1\u05c2\u05c4\u05c5\u05c7\u0610-\u061a\u064b-\u0669\u0670\u06d6-\u06dc\u06df-\u06e4\u06e7\u06e8\u06ea-\u06ed\u06f0-\u06f9\u0711\u0730-\u074a\u07a6-\u07b0\u07c0-\u07c9\u07eb-\u07f3\u07fd\u0816-\u0819\u081b-\u0823\u0825-\u0827\u0829-\u082d\u0859-\u085b\u08d3-\u08e1\u08e3-\u0903\u093a-\u093c\u093e-\u094f\u0951-\u0957\u0962\u0963\u0966-\u096f\u0981-\u0983\u09bc\u09be-\u09c4\u09c7\u09c8\u09cb-\u09cd\u09d7\u09e2\u09e3\u09e6-\u09ef\u09fe\u0a01-\u0a03\u0a3c\u0a3e-\u0a42\u0a47\u0a48\u0a4b-\u0a4d\u0a51\u0a66-\u0a71\u0a75\u0a81-\u0a83\u0abc\u0abe-\u0ac5\u0ac7-\u0ac9\u0acb-\u0acd\u0ae2\u0ae3\u0ae6-\u0aef\u0afa-\u0aff\u0b01-\u0b03\u0b3c\u0b3e-\u0b44\u0b47\u0b48\u0b4b-\u0b4d\u0b56\u0b57\u0b62\u0b63\u0b66-\u0b6f\u0b82\u0bbe-\u0bc2\u0bc6-\u0bc8\u0bca-\u0bcd\u0bd7\u0be6-\u0bef\u0c00-\u0c04\u0c3e-\u0c44\u0c46-\u0c48\u0c4a-\u0c4d\u0c55\u0c56\u0c62\u0c63\u0c66-\u0c6f\u0c81-\u0c83\u0cbc\u0cbe-\u0cc4\u0cc6-\u0cc8\u0cca-\u0ccd\u0cd5\u0cd6\u0ce2\u0ce3\u0ce6-\u0cef\u0d00-\u0d03\u0d3b\u0d3c\u0d3e-\u0d44\u0d46-\u0d48\u0d4a-\u0d4d\u0d57\u0d62\u0d63\u0d66-\u0d6f\u0d82\u0d83\u0dca\u0dcf-\u0dd4\u0dd6\u0dd8-\u0ddf\u0de6-\u0def\u0df2\u0df3\u0e31\u0e34-\u0e3a\u0e47-\u0e4e\u0e50-\u0e59\u0eb1\u0eb4-\u0eb9\u0ebb\u0ebc\u0ec8-\u0ecd\u0ed0-\u0ed9\u0f18\u0f19\u0f20-\u0f29\u0f35\u0f37\u0f39\u0f3e\u0f3f\u0f71-\u0f84\u0f86\u0f87\u0f8d-\u0f97\u0f99-\u0fbc\u0fc6\u102b-\u103e\u1040-\u1049\u1056-\u1059\u105e-\u1060\u1062-\u1064\u1067-\u106d\u1071-\u1074\u1082-\u108d\u108f-\u109d\u135d-\u135f\u1369-\u1371\u1712-\u1714\u1732-\u1734\u1752\u1753\u1772\u1773\u17b4-\u17d3\u17dd\u17e0-\u17e9\u180b-\u180d\u1810-\u1819\u18a9\u1920-\u192b\u1930-\u193b\u1946-\u194f\u19d0-\u19da\u1a17-\u1a1b\u1a55-\u1a5e\u1a60-\u1a7c\u1a7f-\u1a89\u1a90-\u1a99\u1ab0-\u1abd\u1b00-\u1b04\u1b34-\u1b44\u1b50-\u1b59\u1b6b-\u1b73\u1b80-\u1b82\u1ba1-\u1bad\u1bb0-\u1bb9\u1be6-\u1bf3\u1c24-\u1c37\u1c40-\u1c49\u1c50-\u1c59\u1cd0-\u1cd2\u1cd4-\u1ce8\u1ced\u1cf2-\u1cf4\u1cf7-\u1cf9\u1dc0-\u1df9\u1dfb-\u1dff\u203f\u2040\u2054\u20d0-\u20dc\u20e1\u20e5-\u20f0\u2cef-\u2cf1\u2d7f\u2de0-\u2dff\u302a-\u302f\u3099\u309a\ua620-\ua629\ua66f\ua674-\ua67d\ua69e\ua69f\ua6f0\ua6f1\ua802\ua806\ua80b\ua823-\ua827\ua880\ua881\ua8b4-\ua8c5\ua8d0-\ua8d9\ua8e0-\ua8f1\ua8ff-\ua909\ua926-\ua92d\ua947-\ua953\ua980-\ua983\ua9b3-\ua9c0\ua9d0-\ua9d9\ua9e5\ua9f0-\ua9f9\uaa29-\uaa36\uaa43\uaa4c\uaa4d\uaa50-\uaa59\uaa7b-\uaa7d\uaab0\uaab2-\uaab4\uaab7\uaab8\uaabe\uaabf\uaac1\uaaeb-\uaaef\uaaf5\uaaf6\uabe3-\uabea\uabec\uabed\uabf0-\uabf9\ufb1e\ufe00-\ufe0f\ufe20-\ufe2f\ufe33\ufe34\ufe4d-\ufe4f\uff10-\uff19\uff3f";
+
+var nonASCIIidentifierStart = new RegExp("[" + nonASCIIidentifierStartChars + "]");
+var nonASCIIidentifier = new RegExp("[" + nonASCIIidentifierStartChars + nonASCIIidentifierChars + "]");
+
+nonASCIIidentifierStartChars = nonASCIIidentifierChars = null;
+
+// These are a run-length and offset encoded representation of the
+// >0xffff code points that are a valid part of identifiers. The
+// offset starts at 0x10000, and each pair of numbers represents an
+// offset to the next range, and then a size of the range. They were
+// generated by bin/generate-identifier-regex.js
+
+// eslint-disable-next-line comma-spacing
+var astralIdentifierStartCodes = [0,11,2,25,2,18,2,1,2,14,3,13,35,122,70,52,268,28,4,48,48,31,14,29,6,37,11,29,3,35,5,7,2,4,43,157,19,35,5,35,5,39,9,51,157,310,10,21,11,7,153,5,3,0,2,43,2,1,4,0,3,22,11,22,10,30,66,18,2,1,11,21,11,25,71,55,7,1,65,0,16,3,2,2,2,28,43,28,4,28,36,7,2,27,28,53,11,21,11,18,14,17,111,72,56,50,14,50,14,35,477,28,11,0,9,21,190,52,76,44,33,24,27,35,30,0,12,34,4,0,13,47,15,3,22,0,2,0,36,17,2,24,85,6,2,0,2,3,2,14,2,9,8,46,39,7,3,1,3,21,2,6,2,1,2,4,4,0,19,0,13,4,159,52,19,3,54,47,21,1,2,0,185,46,42,3,37,47,21,0,60,42,86,26,230,43,117,63,32,0,257,0,11,39,8,0,22,0,12,39,3,3,20,0,35,56,264,8,2,36,18,0,50,29,113,6,2,1,2,37,22,0,26,5,2,1,2,31,15,0,328,18,270,921,103,110,18,195,2749,1070,4050,582,8634,568,8,30,114,29,19,47,17,3,32,20,6,18,689,63,129,68,12,0,67,12,65,1,31,6129,15,754,9486,286,82,395,2309,106,6,12,4,8,8,9,5991,84,2,70,2,1,3,0,3,1,3,3,2,11,2,0,2,6,2,64,2,3,3,7,2,6,2,27,2,3,2,4,2,0,4,6,2,339,3,24,2,24,2,30,2,24,2,30,2,24,2,30,2,24,2,30,2,24,2,7,4149,196,60,67,1213,3,2,26,2,1,2,0,3,0,2,9,2,3,2,0,2,0,7,0,5,0,2,0,2,0,2,2,2,1,2,0,3,0,2,0,2,0,2,0,2,0,2,1,2,0,3,3,2,6,2,3,2,3,2,0,2,9,2,16,6,2,2,4,2,16,4421,42710,42,4148,12,221,3,5761,15,7472,3104,541];
+
+// eslint-disable-next-line comma-spacing
+var astralIdentifierCodes = [509,0,227,0,150,4,294,9,1368,2,2,1,6,3,41,2,5,0,166,1,574,3,9,9,525,10,176,2,54,14,32,9,16,3,46,10,54,9,7,2,37,13,2,9,6,1,45,0,13,2,49,13,9,3,4,9,83,11,7,0,161,11,6,9,7,3,56,1,2,6,3,1,3,2,10,0,11,1,3,6,4,4,193,17,10,9,5,0,82,19,13,9,214,6,3,8,28,1,83,16,16,9,82,12,9,9,84,14,5,9,243,14,166,9,280,9,41,6,2,3,9,0,10,10,47,15,406,7,2,7,17,9,57,21,2,13,123,5,4,0,2,1,2,6,2,0,9,9,49,4,2,1,2,4,9,9,330,3,19306,9,135,4,60,6,26,9,1016,45,17,3,19723,1,5319,4,4,5,9,7,3,6,31,3,149,2,1418,49,513,54,5,49,9,0,15,0,23,4,2,14,1361,6,2,16,3,6,2,1,2,4,2214,6,110,6,6,9,792487,239];
+
+// This has a complexity linear to the value of the code. The
+// assumption is that looking up astral identifier characters is
+// rare.
+function isInAstralSet(code, set) {
+  var pos = 0x10000;
+  for (var i = 0; i < set.length; i += 2) {
+    pos += set[i];
+    if (pos > code) { return false }
+    pos += set[i + 1];
+    if (pos >= code) { return true }
+  }
+}
+
+// Test whether a given character code starts an identifier.
+
+function isIdentifierStart(code, astral) {
+  if (code < 65) { return code === 36 }
+  if (code < 91) { return true }
+  if (code < 97) { return code === 95 }
+  if (code < 123) { return true }
+  if (code <= 0xffff) { return code >= 0xaa && nonASCIIidentifierStart.test(String.fromCharCode(code)) }
+  if (astral === false) { return false }
+  return isInAstralSet(code, astralIdentifierStartCodes)
+}
+
+// Test whether a given character is part of an identifier.
+
+function isIdentifierChar(code, astral) {
+  if (code < 48) { return code === 36 }
+  if (code < 58) { return true }
+  if (code < 65) { return false }
+  if (code < 91) { return true }
+  if (code < 97) { return code === 95 }
+  if (code < 123) { return true }
+  if (code <= 0xffff) { return code >= 0xaa && nonASCIIidentifier.test(String.fromCharCode(code)) }
+  if (astral === false) { return false }
+  return isInAstralSet(code, astralIdentifierStartCodes) || isInAstralSet(code, astralIdentifierCodes)
+}
+
+// ## Token types
+
+// The assignment of fine-grained, information-carrying type objects
+// allows the tokenizer to store the information it has about a
+// token in a way that is very cheap for the parser to look up.
+
+// All token type variables start with an underscore, to make them
+// easy to recognize.
+
+// The `beforeExpr` property is used to disambiguate between regular
+// expressions and divisions. It is set on all token types that can
+// be followed by an expression (thus, a slash after them would be a
+// regular expression).
+//
+// The `startsExpr` property is used to check if the token ends a
+// `yield` expression. It is set on all token types that either can
+// directly start an expression (like a quotation mark) or can
+// continue an expression (like the body of a string).
+//
+// `isLoop` marks a keyword as starting a loop, which is important
+// to know when parsing a label, in order to allow or disallow
+// continue jumps to that label.
+
+var TokenType = function TokenType(label, conf) {
+  if ( conf === void 0 ) conf = {};
+
+  this.label = label;
+  this.keyword = conf.keyword;
+  this.beforeExpr = !!conf.beforeExpr;
+  this.startsExpr = !!conf.startsExpr;
+  this.isLoop = !!conf.isLoop;
+  this.isAssign = !!conf.isAssign;
+  this.prefix = !!conf.prefix;
+  this.postfix = !!conf.postfix;
+  this.binop = conf.binop || null;
+  this.updateContext = null;
+};
+
+function binop(name, prec) {
+  return new TokenType(name, {beforeExpr: true, binop: prec})
+}
+var beforeExpr = {beforeExpr: true};
+var startsExpr = {startsExpr: true};
+
+// Map keyword names to token types.
+
+var keywords$1 = {};
+
+// Succinct definitions of keyword token types
+function kw(name, options) {
+  if ( options === void 0 ) options = {};
+
+  options.keyword = name;
+  return keywords$1[name] = new TokenType(name, options)
+}
+
+var types = {
+  num: new TokenType("num", startsExpr),
+  regexp: new TokenType("regexp", startsExpr),
+  string: new TokenType("string", startsExpr),
+  name: new TokenType("name", startsExpr),
+  eof: new TokenType("eof"),
+
+  // Punctuation token types.
+  bracketL: new TokenType("[", {beforeExpr: true, startsExpr: true}),
+  bracketR: new TokenType("]"),
+  braceL: new TokenType("{", {beforeExpr: true, startsExpr: true}),
+  braceR: new TokenType("}"),
+  parenL: new TokenType("(", {beforeExpr: true, startsExpr: true}),
+  parenR: new TokenType(")"),
+  comma: new TokenType(",", beforeExpr),
+  semi: new TokenType(";", beforeExpr),
+  colon: new TokenType(":", beforeExpr),
+  dot: new TokenType("."),
+  question: new TokenType("?", beforeExpr),
+  arrow: new TokenType("=>", beforeExpr),
+  template: new TokenType("template"),
+  invalidTemplate: new TokenType("invalidTemplate"),
+  ellipsis: new TokenType("...", beforeExpr),
+  backQuote: new TokenType("`", startsExpr),
+  dollarBraceL: new TokenType("${", {beforeExpr: true, startsExpr: true}),
+
+  // Operators. These carry several kinds of properties to help the
+  // parser use them properly (the presence of these properties is
+  // what categorizes them as operators).
+  //
+  // `binop`, when present, specifies that this operator is a binary
+  // operator, and will refer to its precedence.
+  //
+  // `prefix` and `postfix` mark the operator as a prefix or postfix
+  // unary operator.
+  //
+  // `isAssign` marks all of `=`, `+=`, `-=` etcetera, which act as
+  // binary operators with a very low precedence, that should result
+  // in AssignmentExpression nodes.
+
+  eq: new TokenType("=", {beforeExpr: true, isAssign: true}),
+  assign: new TokenType("_=", {beforeExpr: true, isAssign: true}),
+  incDec: new TokenType("++/--", {prefix: true, postfix: true, startsExpr: true}),
+  prefix: new TokenType("!/~", {beforeExpr: true, prefix: true, startsExpr: true}),
+  logicalOR: binop("||", 1),
+  logicalAND: binop("&&", 2),
+  bitwiseOR: binop("|", 3),
+  bitwiseXOR: binop("^", 4),
+  bitwiseAND: binop("&", 5),
+  equality: binop("==/!=/===/!==", 6),
+  relational: binop("</>/<=/>=", 7),
+  bitShift: binop("<</>>/>>>", 8),
+  plusMin: new TokenType("+/-", {beforeExpr: true, binop: 9, prefix: true, startsExpr: true}),
+  modulo: binop("%", 10),
+  star: binop("*", 10),
+  slash: binop("/", 10),
+  starstar: new TokenType("**", {beforeExpr: true}),
+
+  // Keyword token types.
+  _break: kw("break"),
+  _case: kw("case", beforeExpr),
+  _catch: kw("catch"),
+  _continue: kw("continue"),
+  _debugger: kw("debugger"),
+  _default: kw("default", beforeExpr),
+  _do: kw("do", {isLoop: true, beforeExpr: true}),
+  _else: kw("else", beforeExpr),
+  _finally: kw("finally"),
+  _for: kw("for", {isLoop: true}),
+  _function: kw("function", startsExpr),
+  _if: kw("if"),
+  _return: kw("return", beforeExpr),
+  _switch: kw("switch"),
+  _throw: kw("throw", beforeExpr),
+  _try: kw("try"),
+  _var: kw("var"),
+  _const: kw("const"),
+  _while: kw("while", {isLoop: true}),
+  _with: kw("with"),
+  _new: kw("new", {beforeExpr: true, startsExpr: true}),
+  _this: kw("this", startsExpr),
+  _super: kw("super", startsExpr),
+  _class: kw("class", startsExpr),
+  _extends: kw("extends", beforeExpr),
+  _export: kw("export"),
+  _import: kw("import"),
+  _null: kw("null", startsExpr),
+  _true: kw("true", startsExpr),
+  _false: kw("false", startsExpr),
+  _in: kw("in", {beforeExpr: true, binop: 7}),
+  _instanceof: kw("instanceof", {beforeExpr: true, binop: 7}),
+  _typeof: kw("typeof", {beforeExpr: true, prefix: true, startsExpr: true}),
+  _void: kw("void", {beforeExpr: true, prefix: true, startsExpr: true}),
+  _delete: kw("delete", {beforeExpr: true, prefix: true, startsExpr: true})
+};
+
+// Matches a whole line break (where CRLF is considered a single
+// line break). Used to count lines.
+
+var lineBreak = /\r\n?|\n|\u2028|\u2029/;
+var lineBreakG = new RegExp(lineBreak.source, "g");
+
+function isNewLine(code, ecma2019String) {
+  return code === 10 || code === 13 || (!ecma2019String && (code === 0x2028 || code === 0x2029))
+}
+
+var nonASCIIwhitespace = /[\u1680\u180e\u2000-\u200a\u202f\u205f\u3000\ufeff]/;
+
+var skipWhiteSpace = /(?:\s|\/\/.*|\/\*[^]*?\*\/)*/g;
+
+var ref = Object.prototype;
+var hasOwnProperty = ref.hasOwnProperty;
+var toString = ref.toString;
+
+// Checks if an object has a property.
+
+function has(obj, propName) {
+  return hasOwnProperty.call(obj, propName)
+}
+
+var isArray = Array.isArray || (function (obj) { return (
+  toString.call(obj) === "[object Array]"
+); });
+
+// These are used when `options.locations` is on, for the
+// `startLoc` and `endLoc` properties.
+
+var Position = function Position(line, col) {
+  this.line = line;
+  this.column = col;
+};
+
+Position.prototype.offset = function offset (n) {
+  return new Position(this.line, this.column + n)
+};
+
+var SourceLocation = function SourceLocation(p, start, end) {
+  this.start = start;
+  this.end = end;
+  if (p.sourceFile !== null) { this.source = p.sourceFile; }
+};
+
+// The `getLineInfo` function is mostly useful when the
+// `locations` option is off (for performance reasons) and you
+// want to find the line/column position for a given character
+// offset. `input` should be the code string that the offset refers
+// into.
+
+function getLineInfo(input, offset) {
+  for (var line = 1, cur = 0;;) {
+    lineBreakG.lastIndex = cur;
+    var match = lineBreakG.exec(input);
+    if (match && match.index < offset) {
+      ++line;
+      cur = match.index + match[0].length;
+    } else {
+      return new Position(line, offset - cur)
+    }
+  }
+}
+
+// A second optional argument can be given to further configure
+// the parser process. These options are recognized:
+
+var defaultOptions = {
+  // `ecmaVersion` indicates the ECMAScript version to parse. Must
+  // be either 3, 5, 6 (2015), 7 (2016), or 8 (2017). This influences support
+  // for strict mode, the set of reserved words, and support for
+  // new syntax features. The default is 7.
+  ecmaVersion: 7,
+  // `sourceType` indicates the mode the code should be parsed in.
+  // Can be either `"script"` or `"module"`. This influences global
+  // strict mode and parsing of `import` and `export` declarations.
+  sourceType: "script",
+  // `onInsertedSemicolon` can be a callback that will be called
+  // when a semicolon is automatically inserted. It will be passed
+  // th position of the comma as an offset, and if `locations` is
+  // enabled, it is given the location as a `{line, column}` object
+  // as second argument.
+  onInsertedSemicolon: null,
+  // `onTrailingComma` is similar to `onInsertedSemicolon`, but for
+  // trailing commas.
+  onTrailingComma: null,
+  // By default, reserved words are only enforced if ecmaVersion >= 5.
+  // Set `allowReserved` to a boolean value to explicitly turn this on
+  // an off. When this option has the value "never", reserved words
+  // and keywords can also not be used as property names.
+  allowReserved: null,
+  // When enabled, a return at the top level is not considered an
+  // error.
+  allowReturnOutsideFunction: false,
+  // When enabled, import/export statements are not constrained to
+  // appearing at the top of the program.
+  allowImportExportEverywhere: false,
+  // When enabled, await identifiers are allowed to appear at the top-level scope,
+  // but they are still not allowed in non-async functions.
+  allowAwaitOutsideFunction: false,
+  // When enabled, hashbang directive in the beginning of file
+  // is allowed and treated as a line comment.
+  allowHashBang: false,
+  // When `locations` is on, `loc` properties holding objects with
+  // `start` and `end` properties in `{line, column}` form (with
+  // line being 1-based and column 0-based) will be attached to the
+  // nodes.
+  locations: false,
+  // A function can be passed as `onToken` option, which will
+  // cause Acorn to call that function with object in the same
+  // format as tokens returned from `tokenizer().getToken()`. Note
+  // that you are not allowed to call the parser from the
+  // callback—that will corrupt its internal state.
+  onToken: null,
+  // A function can be passed as `onComment` option, which will
+  // cause Acorn to call that function with `(block, text, start,
+  // end)` parameters whenever a comment is skipped. `block` is a
+  // boolean indicating whether this is a block (`/* */`) comment,
+  // `text` is the content of the comment, and `start` and `end` are
+  // character offsets that denote the start and end of the comment.
+  // When the `locations` option is on, two more parameters are
+  // passed, the full `{line, column}` locations of the start and
+  // end of the comments. Note that you are not allowed to call the
+  // parser from the callback—that will corrupt its internal state.
+  onComment: null,
+  // Nodes have their start and end characters offsets recorded in
+  // `start` and `end` properties (directly on the node, rather than
+  // the `loc` object, which holds line/column data. To also add a
+  // [semi-standardized][range] `range` property holding a `[start,
+  // end]` array with the same numbers, set the `ranges` option to
+  // `true`.
+  //
+  // [range]: https://bugzilla.mozilla.org/show_bug.cgi?id=745678
+  ranges: false,
+  // It is possible to parse multiple files into a single AST by
+  // passing the tree produced by parsing the first file as
+  // `program` option in subsequent parses. This will add the
+  // toplevel forms of the parsed file to the `Program` (top) node
+  // of an existing parse tree.
+  program: null,
+  // When `locations` is on, you can pass this to record the source
+  // file in every node's `loc` object.
+  sourceFile: null,
+  // This value, if given, is stored in every node, whether
+  // `locations` is on or off.
+  directSourceFile: null,
+  // When enabled, parenthesized expressions are represented by
+  // (non-standard) ParenthesizedExpression nodes
+  preserveParens: false,
+  plugins: {}
+};
+
+// Interpret and default an options object
+
+function getOptions(opts) {
+  var options = {};
+
+  for (var opt in defaultOptions)
+    { options[opt] = opts && has(opts, opt) ? opts[opt] : defaultOptions[opt]; }
+
+  if (options.ecmaVersion >= 2015)
+    { options.ecmaVersion -= 2009; }
+
+  if (options.allowReserved == null)
+    { options.allowReserved = options.ecmaVersion < 5; }
+
+  if (isArray(options.onToken)) {
+    var tokens = options.onToken;
+    options.onToken = function (token) { return tokens.push(token); };
+  }
+  if (isArray(options.onComment))
+    { options.onComment = pushComment(options, options.onComment); }
+
+  return options
+}
+
+function pushComment(options, array) {
+  return function(block, text, start, end, startLoc, endLoc) {
+    var comment = {
+      type: block ? "Block" : "Line",
+      value: text,
+      start: start,
+      end: end
+    };
+    if (options.locations)
+      { comment.loc = new SourceLocation(this, startLoc, endLoc); }
+    if (options.ranges)
+      { comment.range = [start, end]; }
+    array.push(comment);
+  }
+}
+
+// Registered plugins
+var plugins = {};
+
+function keywordRegexp(words) {
+  return new RegExp("^(?:" + words.replace(/ /g, "|") + ")$")
+}
+
+var Parser = function Parser(options, input, startPos) {
+  this.options = options = getOptions(options);
+  this.sourceFile = options.sourceFile;
+  this.keywords = keywordRegexp(keywords[options.ecmaVersion >= 6 ? 6 : 5]);
+  var reserved = "";
+  if (!options.allowReserved) {
+    for (var v = options.ecmaVersion;; v--)
+      { if (reserved = reservedWords[v]) { break } }
+    if (options.sourceType === "module") { reserved += " await"; }
+  }
+  this.reservedWords = keywordRegexp(reserved);
+  var reservedStrict = (reserved ? reserved + " " : "") + reservedWords.strict;
+  this.reservedWordsStrict = keywordRegexp(reservedStrict);
+  this.reservedWordsStrictBind = keywordRegexp(reservedStrict + " " + reservedWords.strictBind);
+  this.input = String(input);
+
+  // Used to signal to callers of `readWord1` whether the word
+  // contained any escape sequences. This is needed because words with
+  // escape sequences must not be interpreted as keywords.
+  this.containsEsc = false;
+
+  // Load plugins
+  this.loadPlugins(options.plugins);
+
+  // Set up token state
+
+  // The current position of the tokenizer in the input.
+  if (startPos) {
+    this.pos = startPos;
+    this.lineStart = this.input.lastIndexOf("\n", startPos - 1) + 1;
+    this.curLine = this.input.slice(0, this.lineStart).split(lineBreak).length;
+  } else {
+    this.pos = this.lineStart = 0;
+    this.curLine = 1;
+  }
+
+  // Properties of the current token:
+  // Its type
+  this.type = types.eof;
+  // For tokens that include more information than their type, the value
+  this.value = null;
+  // Its start and end offset
+  this.start = this.end = this.pos;
+  // And, if locations are used, the {line, column} object
+  // corresponding to those offsets
+  this.startLoc = this.endLoc = this.curPosition();
+
+  // Position information for the previous token
+  this.lastTokEndLoc = this.lastTokStartLoc = null;
+  this.lastTokStart = this.lastTokEnd = this.pos;
+
+  // The context stack is used to superficially track syntactic
+  // context to predict whether a regular expression is allowed in a
+  // given position.
+  this.context = this.initialContext();
+  this.exprAllowed = true;
+
+  // Figure out if it's a module code.
+  this.inModule = options.sourceType === "module";
+  this.strict = this.inModule || this.strictDirective(this.pos);
+
+  // Used to signify the start of a potential arrow function
+  this.potentialArrowAt = -1;
+
+  // Flags to track whether we are in a function, a generator, an async function.
+  this.inFunction = this.inGenerator = this.inAsync = false;
+  // Positions to delayed-check that yield/await does not exist in default parameters.
+  this.yieldPos = this.awaitPos = 0;
+  // Labels in scope.
+  this.labels = [];
+
+  // If enabled, skip leading hashbang line.
+  if (this.pos === 0 && options.allowHashBang && this.input.slice(0, 2) === "#!")
+    { this.skipLineComment(2); }
+
+  // Scope tracking for duplicate variable names (see scope.js)
+  this.scopeStack = [];
+  this.enterFunctionScope();
+
+  // For RegExp validation
+  this.regexpState = null;
+};
+
+// DEPRECATED Kept for backwards compatibility until 3.0 in case a plugin uses them
+Parser.prototype.isKeyword = function isKeyword (word) { return this.keywords.test(word) };
+Parser.prototype.isReservedWord = function isReservedWord (word) { return this.reservedWords.test(word) };
+
+Parser.prototype.extend = function extend (name, f) {
+  this[name] = f(this[name]);
+};
+
+Parser.prototype.loadPlugins = function loadPlugins (pluginConfigs) {
+    var this$1 = this;
+
+  for (var name in pluginConfigs) {
+    var plugin = plugins[name];
+    if (!plugin) { throw new Error("Plugin '" + name + "' not found") }
+    plugin(this$1, pluginConfigs[name]);
+  }
+};
+
+Parser.prototype.parse = function parse () {
+  var node = this.options.program || this.startNode();
+  this.nextToken();
+  return this.parseTopLevel(node)
+};
+
+var pp = Parser.prototype;
+
+// ## Parser utilities
+
+var literal = /^(?:'((?:\\.|[^'])*?)'|"((?:\\.|[^"])*?)"|;)/;
+pp.strictDirective = function(start) {
+  var this$1 = this;
+
+  for (;;) {
+    skipWhiteSpace.lastIndex = start;
+    start += skipWhiteSpace.exec(this$1.input)[0].length;
+    var match = literal.exec(this$1.input.slice(start));
+    if (!match) { return false }
+    if ((match[1] || match[2]) === "use strict") { return true }
+    start += match[0].length;
+  }
+};
+
+// Predicate that tests whether the next token is of the given
+// type, and if yes, consumes it as a side effect.
+
+pp.eat = function(type) {
+  if (this.type === type) {
+    this.next();
+    return true
+  } else {
+    return false
+  }
+};
+
+// Tests whether parsed token is a contextual keyword.
+
+pp.isContextual = function(name) {
+  return this.type === types.name && this.value === name && !this.containsEsc
+};
+
+// Consumes contextual keyword if possible.
+
+pp.eatContextual = function(name) {
+  if (!this.isContextual(name)) { return false }
+  this.next();
+  return true
+};
+
+// Asserts that following token is given contextual keyword.
+
+pp.expectContextual = function(name) {
+  if (!this.eatContextual(name)) { this.unexpected(); }
+};
+
+// Test whether a semicolon can be inserted at the current position.
+
+pp.canInsertSemicolon = function() {
+  return this.type === types.eof ||
+    this.type === types.braceR ||
+    lineBreak.test(this.input.slice(this.lastTokEnd, this.start))
+};
+
+pp.insertSemicolon = function() {
+  if (this.canInsertSemicolon()) {
+    if (this.options.onInsertedSemicolon)
+      { this.options.onInsertedSemicolon(this.lastTokEnd, this.lastTokEndLoc); }
+    return true
+  }
+};
+
+// Consume a semicolon, or, failing that, see if we are allowed to
+// pretend that there is a semicolon at this position.
+
+pp.semicolon = function() {
+  if (!this.eat(types.semi) && !this.insertSemicolon()) { this.unexpected(); }
+};
+
+pp.afterTrailingComma = function(tokType, notNext) {
+  if (this.type === tokType) {
+    if (this.options.onTrailingComma)
+      { this.options.onTrailingComma(this.lastTokStart, this.lastTokStartLoc); }
+    if (!notNext)
+      { this.next(); }
+    return true
+  }
+};
+
+// Expect a token of a given type. If found, consume it, otherwise,
+// raise an unexpected token error.
+
+pp.expect = function(type) {
+  this.eat(type) || this.unexpected();
+};
+
+// Raise an unexpected token error.
+
+pp.unexpected = function(pos) {
+  this.raise(pos != null ? pos : this.start, "Unexpected token");
+};
+
+function DestructuringErrors() {
+  this.shorthandAssign =
+  this.trailingComma =
+  this.parenthesizedAssign =
+  this.parenthesizedBind =
+  this.doubleProto =
+    -1;
+}
+
+pp.checkPatternErrors = function(refDestructuringErrors, isAssign) {
+  if (!refDestructuringErrors) { return }
+  if (refDestructuringErrors.trailingComma > -1)
+    { this.raiseRecoverable(refDestructuringErrors.trailingComma, "Comma is not permitted after the rest element"); }
+  var parens = isAssign ? refDestructuringErrors.parenthesizedAssign : refDestructuringErrors.parenthesizedBind;
+  if (parens > -1) { this.raiseRecoverable(parens, "Parenthesized pattern"); }
+};
+
+pp.checkExpressionErrors = function(refDestructuringErrors, andThrow) {
+  if (!refDestructuringErrors) { return false }
+  var shorthandAssign = refDestructuringErrors.shorthandAssign;
+  var doubleProto = refDestructuringErrors.doubleProto;
+  if (!andThrow) { return shorthandAssign >= 0 || doubleProto >= 0 }
+  if (shorthandAssign >= 0)
+    { this.raise(shorthandAssign, "Shorthand property assignments are valid only in destructuring patterns"); }
+  if (doubleProto >= 0)
+    { this.raiseRecoverable(doubleProto, "Redefinition of __proto__ property"); }
+};
+
+pp.checkYieldAwaitInDefaultParams = function() {
+  if (this.yieldPos && (!this.awaitPos || this.yieldPos < this.awaitPos))
+    { this.raise(this.yieldPos, "Yield expression cannot be a default value"); }
+  if (this.awaitPos)
+    { this.raise(this.awaitPos, "Await expression cannot be a default value"); }
+};
+
+pp.isSimpleAssignTarget = function(expr) {
+  if (expr.type === "ParenthesizedExpression")
+    { return this.isSimpleAssignTarget(expr.expression) }
+  return expr.type === "Identifier" || expr.type === "MemberExpression"
+};
+
+var pp$1 = Parser.prototype;
+
+// ### Statement parsing
+
+// Parse a program. Initializes the parser, reads any number of
+// statements, and wraps them in a Program node.  Optionally takes a
+// `program` argument.  If present, the statements will be appended
+// to its body instead of creating a new node.
+
+pp$1.parseTopLevel = function(node) {
+  var this$1 = this;
+
+  var exports = {};
+  if (!node.body) { node.body = []; }
+  while (this.type !== types.eof) {
+    var stmt = this$1.parseStatement(true, true, exports);
+    node.body.push(stmt);
+  }
+  this.adaptDirectivePrologue(node.body);
+  this.next();
+  if (this.options.ecmaVersion >= 6) {
+    node.sourceType = this.options.sourceType;
+  }
+  return this.finishNode(node, "Program")
+};
+
+var loopLabel = {kind: "loop"};
+var switchLabel = {kind: "switch"};
+
+pp$1.isLet = function() {
+  if (this.options.ecmaVersion < 6 || !this.isContextual("let")) { return false }
+  skipWhiteSpace.lastIndex = this.pos;
+  var skip = skipWhiteSpace.exec(this.input);
+  var next = this.pos + skip[0].length, nextCh = this.input.charCodeAt(next);
+  if (nextCh === 91 || nextCh === 123) { return true } // '{' and '['
+  if (isIdentifierStart(nextCh, true)) {
+    var pos = next + 1;
+    while (isIdentifierChar(this.input.charCodeAt(pos), true)) { ++pos; }
+    var ident = this.input.slice(next, pos);
+    if (!keywordRelationalOperator.test(ident)) { return true }
+  }
+  return false
+};
+
+// check 'async [no LineTerminator here] function'
+// - 'async /*foo*/ function' is OK.
+// - 'async /*\n*/ function' is invalid.
+pp$1.isAsyncFunction = function() {
+  if (this.options.ecmaVersion < 8 || !this.isContextual("async"))
+    { return false }
+
+  skipWhiteSpace.lastIndex = this.pos;
+  var skip = skipWhiteSpace.exec(this.input);
+  var next = this.pos + skip[0].length;
+  return !lineBreak.test(this.input.slice(this.pos, next)) &&
+    this.input.slice(next, next + 8) === "function" &&
+    (next + 8 === this.input.length || !isIdentifierChar(this.input.charAt(next + 8)))
+};
+
+// Parse a single statement.
+//
+// If expecting a statement and finding a slash operator, parse a
+// regular expression literal. This is to handle cases like
+// `if (foo) /blah/.exec(foo)`, where looking at the previous token
+// does not help.
+
+pp$1.parseStatement = function(declaration, topLevel, exports) {
+  var starttype = this.type, node = this.startNode(), kind;
+
+  if (this.isLet()) {
+    starttype = types._var;
+    kind = "let";
+  }
+
+  // Most types of statements are recognized by the keyword they
+  // start with. Many are trivial to parse, some require a bit of
+  // complexity.
+
+  switch (starttype) {
+  case types._break: case types._continue: return this.parseBreakContinueStatement(node, starttype.keyword)
+  case types._debugger: return this.parseDebuggerStatement(node)
+  case types._do: return this.parseDoStatement(node)
+  case types._for: return this.parseForStatement(node)
+  case types._function:
+    if (!declaration && this.options.ecmaVersion >= 6) { this.unexpected(); }
+    return this.parseFunctionStatement(node, false)
+  case types._class:
+    if (!declaration) { this.unexpected(); }
+    return this.parseClass(node, true)
+  case types._if: return this.parseIfStatement(node)
+  case types._return: return this.parseReturnStatement(node)
+  case types._switch: return this.parseSwitchStatement(node)
+  case types._throw: return this.parseThrowStatement(node)
+  case types._try: return this.parseTryStatement(node)
+  case types._const: case types._var:
+    kind = kind || this.value;
+    if (!declaration && kind !== "var") { this.unexpected(); }
+    return this.parseVarStatement(node, kind)
+  case types._while: return this.parseWhileStatement(node)
+  case types._with: return this.parseWithStatement(node)
+  case types.braceL: return this.parseBlock()
+  case types.semi: return this.parseEmptyStatement(node)
+  case types._export:
+  case types._import:
+    if (!this.options.allowImportExportEverywhere) {
+      if (!topLevel)
+        { this.raise(this.start, "'import' and 'export' may only appear at the top level"); }
+      if (!this.inModule)
+        { this.raise(this.start, "'import' and 'export' may appear only with 'sourceType: module'"); }
+    }
+    return starttype === types._import ? this.parseImport(node) : this.parseExport(node, exports)
+
+    // If the statement does not start with a statement keyword or a
+    // brace, it's an ExpressionStatement or LabeledStatement. We
+    // simply start parsing an expression, and afterwards, if the
+    // next token is a colon and the expression was a simple
+    // Identifier node, we switch to interpreting it as a label.
+  default:
+    if (this.isAsyncFunction()) {
+      if (!declaration) { this.unexpected(); }
+      this.next();
+      return this.parseFunctionStatement(node, true)
+    }
+
+    var maybeName = this.value, expr = this.parseExpression();
+    if (starttype === types.name && expr.type === "Identifier" && this.eat(types.colon))
+      { return this.parseLabeledStatement(node, maybeName, expr) }
+    else { return this.parseExpressionStatement(node, expr) }
+  }
+};
+
+pp$1.parseBreakContinueStatement = function(node, keyword) {
+  var this$1 = this;
+
+  var isBreak = keyword === "break";
+  this.next();
+  if (this.eat(types.semi) || this.insertSemicolon()) { node.label = null; }
+  else if (this.type !== types.name) { this.unexpected(); }
+  else {
+    node.label = this.parseIdent();
+    this.semicolon();
+  }
+
+  // Verify that there is an actual destination to break or
+  // continue to.
+  var i = 0;
+  for (; i < this.labels.length; ++i) {
+    var lab = this$1.labels[i];
+    if (node.label == null || lab.name === node.label.name) {
+      if (lab.kind != null && (isBreak || lab.kind === "loop")) { break }
+      if (node.label && isBreak) { break }
+    }
+  }
+  if (i === this.labels.length) { this.raise(node.start, "Unsyntactic " + keyword); }
+  return this.finishNode(node, isBreak ? "BreakStatement" : "ContinueStatement")
+};
+
+pp$1.parseDebuggerStatement = function(node) {
+  this.next();
+  this.semicolon();
+  return this.finishNode(node, "DebuggerStatement")
+};
+
+pp$1.parseDoStatement = function(node) {
+  this.next();
+  this.labels.push(loopLabel);
+  node.body = this.parseStatement(false);
+  this.labels.pop();
+  this.expect(types._while);
+  node.test = this.parseParenExpression();
+  if (this.options.ecmaVersion >= 6)
+    { this.eat(types.semi); }
+  else
+    { this.semicolon(); }
+  return this.finishNode(node, "DoWhileStatement")
+};
+
+// Disambiguating between a `for` and a `for`/`in` or `for`/`of`
+// loop is non-trivial. Basically, we have to parse the init `var`
+// statement or expression, disallowing the `in` operator (see
+// the second parameter to `parseExpression`), and then check
+// whether the next token is `in` or `of`. When there is no init
+// part (semicolon immediately after the opening parenthesis), it
+// is a regular `for` loop.
+
+pp$1.parseForStatement = function(node) {
+  this.next();
+  var awaitAt = (this.options.ecmaVersion >= 9 && (this.inAsync || (!this.inFunction && this.options.allowAwaitOutsideFunction)) && this.eatContextual("await")) ? this.lastTokStart : -1;
+  this.labels.push(loopLabel);
+  this.enterLexicalScope();
+  this.expect(types.parenL);
+  if (this.type === types.semi) {
+    if (awaitAt > -1) { this.unexpected(awaitAt); }
+    return this.parseFor(node, null)
+  }
+  var isLet = this.isLet();
+  if (this.type === types._var || this.type === types._const || isLet) {
+    var init$1 = this.startNode(), kind = isLet ? "let" : this.value;
+    this.next();
+    this.parseVar(init$1, true, kind);
+    this.finishNode(init$1, "VariableDeclaration");
+    if ((this.type === types._in || (this.options.ecmaVersion >= 6 && this.isContextual("of"))) && init$1.declarations.length === 1 &&
+        !(kind !== "var" && init$1.declarations[0].init)) {
+      if (this.options.ecmaVersion >= 9) {
+        if (this.type === types._in) {
+          if (awaitAt > -1) { this.unexpected(awaitAt); }
+        } else { node.await = awaitAt > -1; }
+      }
+      return this.parseForIn(node, init$1)
+    }
+    if (awaitAt > -1) { this.unexpected(awaitAt); }
+    return this.parseFor(node, init$1)
+  }
+  var refDestructuringErrors = new DestructuringErrors;
+  var init = this.parseExpression(true, refDestructuringErrors);
+  if (this.type === types._in || (this.options.ecmaVersion >= 6 && this.isContextual("of"))) {
+    if (this.options.ecmaVersion >= 9) {
+      if (this.type === types._in) {
+        if (awaitAt > -1) { this.unexpected(awaitAt); }
+      } else { node.await = awaitAt > -1; }
+    }
+    this.toAssignable(init, false, refDestructuringErrors);
+    this.checkLVal(init);
+    return this.parseForIn(node, init)
+  } else {
+    this.checkExpressionErrors(refDestructuringErrors, true);
+  }
+  if (awaitAt > -1) { this.unexpected(awaitAt); }
+  return this.parseFor(node, init)
+};
+
+pp$1.parseFunctionStatement = function(node, isAsync) {
+  this.next();
+  return this.parseFunction(node, true, false, isAsync)
+};
+
+pp$1.parseIfStatement = function(node) {
+  this.next();
+  node.test = this.parseParenExpression();
+  // allow function declarations in branches, but only in non-strict mode
+  node.consequent = this.parseStatement(!this.strict && this.type === types._function);
+  node.alternate = this.eat(types._else) ? this.parseStatement(!this.strict && this.type === types._function) : null;
+  return this.finishNode(node, "IfStatement")
+};
+
+pp$1.parseReturnStatement = function(node) {
+  if (!this.inFunction && !this.options.allowReturnOutsideFunction)
+    { this.raise(this.start, "'return' outside of function"); }
+  this.next();
+
+  // In `return` (and `break`/`continue`), the keywords with
+  // optional arguments, we eagerly look for a semicolon or the
+  // possibility to insert one.
+
+  if (this.eat(types.semi) || this.insertSemicolon()) { node.argument = null; }
+  else { node.argument = this.parseExpression(); this.semicolon(); }
+  return this.finishNode(node, "ReturnStatement")
+};
+
+pp$1.parseSwitchStatement = function(node) {
+  var this$1 = this;
+
+  this.next();
+  node.discriminant = this.parseParenExpression();
+  node.cases = [];
+  this.expect(types.braceL);
+  this.labels.push(switchLabel);
+  this.enterLexicalScope();
+
+  // Statements under must be grouped (by label) in SwitchCase
+  // nodes. `cur` is used to keep the node that we are currently
+  // adding statements to.
+
+  var cur;
+  for (var sawDefault = false; this.type !== types.braceR;) {
+    if (this$1.type === types._case || this$1.type === types._default) {
+      var isCase = this$1.type === types._case;
+      if (cur) { this$1.finishNode(cur, "SwitchCase"); }
+      node.cases.push(cur = this$1.startNode());
+      cur.consequent = [];
+      this$1.next();
+      if (isCase) {
+        cur.test = this$1.parseExpression();
+      } else {
+        if (sawDefault) { this$1.raiseRecoverable(this$1.lastTokStart, "Multiple default clauses"); }
+        sawDefault = true;
+        cur.test = null;
+      }
+      this$1.expect(types.colon);
+    } else {
+      if (!cur) { this$1.unexpected(); }
+      cur.consequent.push(this$1.parseStatement(true));
+    }
+  }
+  this.exitLexicalScope();
+  if (cur) { this.finishNode(cur, "SwitchCase"); }
+  this.next(); // Closing brace
+  this.labels.pop();
+  return this.finishNode(node, "SwitchStatement")
+};
+
+pp$1.parseThrowStatement = function(node) {
+  this.next();
+  if (lineBreak.test(this.input.slice(this.lastTokEnd, this.start)))
+    { this.raise(this.lastTokEnd, "Illegal newline after throw"); }
+  node.argument = this.parseExpression();
+  this.semicolon();
+  return this.finishNode(node, "ThrowStatement")
+};
+
+// Reused empty array added for node fields that are always empty.
+
+var empty = [];
+
+pp$1.parseTryStatement = function(node) {
+  this.next();
+  node.block = this.parseBlock();
+  node.handler = null;
+  if (this.type === types._catch) {
+    var clause = this.startNode();
+    this.next();
+    if (this.eat(types.parenL)) {
+      clause.param = this.parseBindingAtom();
+      this.enterLexicalScope();
+      this.checkLVal(clause.param, "let");
+      this.expect(types.parenR);
+    } else {
+      if (this.options.ecmaVersion < 10) { this.unexpected(); }
+      clause.param = null;
+      this.enterLexicalScope();
+    }
+    clause.body = this.parseBlock(false);
+    this.exitLexicalScope();
+    node.handler = this.finishNode(clause, "CatchClause");
+  }
+  node.finalizer = this.eat(types._finally) ? this.parseBlock() : null;
+  if (!node.handler && !node.finalizer)
+    { this.raise(node.start, "Missing catch or finally clause"); }
+  return this.finishNode(node, "TryStatement")
+};
+
+pp$1.parseVarStatement = function(node, kind) {
+  this.next();
+  this.parseVar(node, false, kind);
+  this.semicolon();
+  return this.finishNode(node, "VariableDeclaration")
+};
+
+pp$1.parseWhileStatement = function(node) {
+  this.next();
+  node.test = this.parseParenExpression();
+  this.labels.push(loopLabel);
+  node.body = this.parseStatement(false);
+  this.labels.pop();
+  return this.finishNode(node, "WhileStatement")
+};
+
+pp$1.parseWithStatement = function(node) {
+  if (this.strict) { this.raise(this.start, "'with' in strict mode"); }
+  this.next();
+  node.object = this.parseParenExpression();
+  node.body = this.parseStatement(false);
+  return this.finishNode(node, "WithStatement")
+};
+
+pp$1.parseEmptyStatement = function(node) {
+  this.next();
+  return this.finishNode(node, "EmptyStatement")
+};
+
+pp$1.parseLabeledStatement = function(node, maybeName, expr) {
+  var this$1 = this;
+
+  for (var i$1 = 0, list = this$1.labels; i$1 < list.length; i$1 += 1)
+    {
+    var label = list[i$1];
+
+    if (label.name === maybeName)
+      { this$1.raise(expr.start, "Label '" + maybeName + "' is already declared");
+  } }
+  var kind = this.type.isLoop ? "loop" : this.type === types._switch ? "switch" : null;
+  for (var i = this.labels.length - 1; i >= 0; i--) {
+    var label$1 = this$1.labels[i];
+    if (label$1.statementStart === node.start) {
+      // Update information about previous labels on this node
+      label$1.statementStart = this$1.start;
+      label$1.kind = kind;
+    } else { break }
+  }
+  this.labels.push({name: maybeName, kind: kind, statementStart: this.start});
+  node.body = this.parseStatement(true);
+  if (node.body.type === "ClassDeclaration" ||
+      node.body.type === "VariableDeclaration" && node.body.kind !== "var" ||
+      node.body.type === "FunctionDeclaration" && (this.strict || node.body.generator || node.body.async))
+    { this.raiseRecoverable(node.body.start, "Invalid labeled declaration"); }
+  this.labels.pop();
+  node.label = expr;
+  return this.finishNode(node, "LabeledStatement")
+};
+
+pp$1.parseExpressionStatement = function(node, expr) {
+  node.expression = expr;
+  this.semicolon();
+  return this.finishNode(node, "ExpressionStatement")
+};
+
+// Parse a semicolon-enclosed block of statements, handling `"use
+// strict"` declarations when `allowStrict` is true (used for
+// function bodies).
+
+pp$1.parseBlock = function(createNewLexicalScope) {
+  var this$1 = this;
+  if ( createNewLexicalScope === void 0 ) createNewLexicalScope = true;
+
+  var node = this.startNode();
+  node.body = [];
+  this.expect(types.braceL);
+  if (createNewLexicalScope) {
+    this.enterLexicalScope();
+  }
+  while (!this.eat(types.braceR)) {
+    var stmt = this$1.parseStatement(true);
+    node.body.push(stmt);
+  }
+  if (createNewLexicalScope) {
+    this.exitLexicalScope();
+  }
+  return this.finishNode(node, "BlockStatement")
+};
+
+// Parse a regular `for` loop. The disambiguation code in
+// `parseStatement` will already have parsed the init statement or
+// expression.
+
+pp$1.parseFor = function(node, init) {
+  node.init = init;
+  this.expect(types.semi);
+  node.test = this.type === types.semi ? null : this.parseExpression();
+  this.expect(types.semi);
+  node.update = this.type === types.parenR ? null : this.parseExpression();
+  this.expect(types.parenR);
+  this.exitLexicalScope();
+  node.body = this.parseStatement(false);
+  this.labels.pop();
+  return this.finishNode(node, "ForStatement")
+};
+
+// Parse a `for`/`in` and `for`/`of` loop, which are almost
+// same from parser's perspective.
+
+pp$1.parseForIn = function(node, init) {
+  var type = this.type === types._in ? "ForInStatement" : "ForOfStatement";
+  this.next();
+  if (type === "ForInStatement") {
+    if (init.type === "AssignmentPattern" ||
+      (init.type === "VariableDeclaration" && init.declarations[0].init != null &&
+       (this.strict || init.declarations[0].id.type !== "Identifier")))
+      { this.raise(init.start, "Invalid assignment in for-in loop head"); }
+  }
+  node.left = init;
+  node.right = type === "ForInStatement" ? this.parseExpression() : this.parseMaybeAssign();
+  this.expect(types.parenR);
+  this.exitLexicalScope();
+  node.body = this.parseStatement(false);
+  this.labels.pop();
+  return this.finishNode(node, type)
+};
+
+// Parse a list of variable declarations.
+
+pp$1.parseVar = function(node, isFor, kind) {
+  var this$1 = this;
+
+  node.declarations = [];
+  node.kind = kind;
+  for (;;) {
+    var decl = this$1.startNode();
+    this$1.parseVarId(decl, kind);
+    if (this$1.eat(types.eq)) {
+      decl.init = this$1.parseMaybeAssign(isFor);
+    } else if (kind === "const" && !(this$1.type === types._in || (this$1.options.ecmaVersion >= 6 && this$1.isContextual("of")))) {
+      this$1.unexpected();
+    } else if (decl.id.type !== "Identifier" && !(isFor && (this$1.type === types._in || this$1.isContextual("of")))) {
+      this$1.raise(this$1.lastTokEnd, "Complex binding patterns require an initialization value");
+    } else {
+      decl.init = null;
+    }
+    node.declarations.push(this$1.finishNode(decl, "VariableDeclarator"));
+    if (!this$1.eat(types.comma)) { break }
+  }
+  return node
+};
+
+pp$1.parseVarId = function(decl, kind) {
+  decl.id = this.parseBindingAtom(kind);
+  this.checkLVal(decl.id, kind, false);
+};
+
+// Parse a function declaration or literal (depending on the
+// `isStatement` parameter).
+
+pp$1.parseFunction = function(node, isStatement, allowExpressionBody, isAsync) {
+  this.initFunction(node);
+  if (this.options.ecmaVersion >= 9 || this.options.ecmaVersion >= 6 && !isAsync)
+    { node.generator = this.eat(types.star); }
+  if (this.options.ecmaVersion >= 8)
+    { node.async = !!isAsync; }
+
+  if (isStatement) {
+    node.id = isStatement === "nullableID" && this.type !== types.name ? null : this.parseIdent();
+    if (node.id) {
+      this.checkLVal(node.id, this.inModule && !this.inFunction ? "let" : "var");
+    }
+  }
+
+  var oldInGen = this.inGenerator, oldInAsync = this.inAsync,
+      oldYieldPos = this.yieldPos, oldAwaitPos = this.awaitPos, oldInFunc = this.inFunction;
+  this.inGenerator = node.generator;
+  this.inAsync = node.async;
+  this.yieldPos = 0;
+  this.awaitPos = 0;
+  this.inFunction = true;
+  this.enterFunctionScope();
+
+  if (!isStatement)
+    { node.id = this.type === types.name ? this.parseIdent() : null; }
+
+  this.parseFunctionParams(node);
+  this.parseFunctionBody(node, allowExpressionBody);
+
+  this.inGenerator = oldInGen;
+  this.inAsync = oldInAsync;
+  this.yieldPos = oldYieldPos;
+  this.awaitPos = oldAwaitPos;
+  this.inFunction = oldInFunc;
+  return this.finishNode(node, isStatement ? "FunctionDeclaration" : "FunctionExpression")
+};
+
+pp$1.parseFunctionParams = function(node) {
+  this.expect(types.parenL);
+  node.params = this.parseBindingList(types.parenR, false, this.options.ecmaVersion >= 8);
+  this.checkYieldAwaitInDefaultParams();
+};
+
+// Parse a class declaration or literal (depending on the
+// `isStatement` parameter).
+
+pp$1.parseClass = function(node, isStatement) {
+  var this$1 = this;
+
+  this.next();
+
+  this.parseClassId(node, isStatement);
+  this.parseClassSuper(node);
+  var classBody = this.startNode();
+  var hadConstructor = false;
+  classBody.body = [];
+  this.expect(types.braceL);
+  while (!this.eat(types.braceR)) {
+    var member = this$1.parseClassMember(classBody);
+    if (member && member.type === "MethodDefinition" && member.kind === "constructor") {
+      if (hadConstructor) { this$1.raise(member.start, "Duplicate constructor in the same class"); }
+      hadConstructor = true;
+    }
+  }
+  node.body = this.finishNode(classBody, "ClassBody");
+  return this.finishNode(node, isStatement ? "ClassDeclaration" : "ClassExpression")
+};
+
+pp$1.parseClassMember = function(classBody) {
+  var this$1 = this;
+
+  if (this.eat(types.semi)) { return null }
+
+  var method = this.startNode();
+  var tryContextual = function (k, noLineBreak) {
+    if ( noLineBreak === void 0 ) noLineBreak = false;
+
+    var start = this$1.start, startLoc = this$1.startLoc;
+    if (!this$1.eatContextual(k)) { return false }
+    if (this$1.type !== types.parenL && (!noLineBreak || !this$1.canInsertSemicolon())) { return true }
+    if (method.key) { this$1.unexpected(); }
+    method.computed = false;
+    method.key = this$1.startNodeAt(start, startLoc);
+    method.key.name = k;
+    this$1.finishNode(method.key, "Identifier");
+    return false
+  };
+
+  method.kind = "method";
+  method.static = tryContextual("static");
+  var isGenerator = this.eat(types.star);
+  var isAsync = false;
+  if (!isGenerator) {
+    if (this.options.ecmaVersion >= 8 && tryContextual("async", true)) {
+      isAsync = true;
+      isGenerator = this.options.ecmaVersion >= 9 && this.eat(types.star);
+    } else if (tryContextual("get")) {
+      method.kind = "get";
+    } else if (tryContextual("set")) {
+      method.kind = "set";
+    }
+  }
+  if (!method.key) { this.parsePropertyName(method); }
+  var key = method.key;
+  if (!method.computed && !method.static && (key.type === "Identifier" && key.name === "constructor" ||
+      key.type === "Literal" && key.value === "constructor")) {
+    if (method.kind !== "method") { this.raise(key.start, "Constructor can't have get/set modifier"); }
+    if (isGenerator) { this.raise(key.start, "Constructor can't be a generator"); }
+    if (isAsync) { this.raise(key.start, "Constructor can't be an async method"); }
+    method.kind = "constructor";
+  } else if (method.static && key.type === "Identifier" && key.name === "prototype") {
+    this.raise(key.start, "Classes may not have a static property named prototype");
+  }
+  this.parseClassMethod(classBody, method, isGenerator, isAsync);
+  if (method.kind === "get" && method.value.params.length !== 0)
+    { this.raiseRecoverable(method.value.start, "getter should have no params"); }
+  if (method.kind === "set" && method.value.params.length !== 1)
+    { this.raiseRecoverable(method.value.start, "setter should have exactly one param"); }
+  if (method.kind === "set" && method.value.params[0].type === "RestElement")
+    { this.raiseRecoverable(method.value.params[0].start, "Setter cannot use rest params"); }
+  return method
+};
+
+pp$1.parseClassMethod = function(classBody, method, isGenerator, isAsync) {
+  method.value = this.parseMethod(isGenerator, isAsync);
+  classBody.body.push(this.finishNode(method, "MethodDefinition"));
+};
+
+pp$1.parseClassId = function(node, isStatement) {
+  node.id = this.type === types.name ? this.parseIdent() : isStatement === true ? this.unexpected() : null;
+};
+
+pp$1.parseClassSuper = function(node) {
+  node.superClass = this.eat(types._extends) ? this.parseExprSubscripts() : null;
+};
+
+// Parses module export declaration.
+
+pp$1.parseExport = function(node, exports) {
+  var this$1 = this;
+
+  this.next();
+  // export * from '...'
+  if (this.eat(types.star)) {
+    this.expectContextual("from");
+    if (this.type !== types.string) { this.unexpected(); }
+    node.source = this.parseExprAtom();
+    this.semicolon();
+    return this.finishNode(node, "ExportAllDeclaration")
+  }
+  if (this.eat(types._default)) { // export default ...
+    this.checkExport(exports, "default", this.lastTokStart);
+    var isAsync;
+    if (this.type === types._function || (isAsync = this.isAsyncFunction())) {
+      var fNode = this.startNode();
+      this.next();
+      if (isAsync) { this.next(); }
+      node.declaration = this.parseFunction(fNode, "nullableID", false, isAsync);
+    } else if (this.type === types._class) {
+      var cNode = this.startNode();
+      node.declaration = this.parseClass(cNode, "nullableID");
+    } else {
+      node.declaration = this.parseMaybeAssign();
+      this.semicolon();
+    }
+    return this.finishNode(node, "ExportDefaultDeclaration")
+  }
+  // export var|const|let|function|class ...
+  if (this.shouldParseExportStatement()) {
+    node.declaration = this.parseStatement(true);
+    if (node.declaration.type === "VariableDeclaration")
+      { this.checkVariableExport(exports, node.declaration.declarations); }
+    else
+      { this.checkExport(exports, node.declaration.id.name, node.declaration.id.start); }
+    node.specifiers = [];
+    node.source = null;
+  } else { // export { x, y as z } [from '...']
+    node.declaration = null;
+    node.specifiers = this.parseExportSpecifiers(exports);
+    if (this.eatContextual("from")) {
+      if (this.type !== types.string) { this.unexpected(); }
+      node.source = this.parseExprAtom();
+    } else {
+      // check for keywords used as local names
+      for (var i = 0, list = node.specifiers; i < list.length; i += 1) {
+        var spec = list[i];
+
+        this$1.checkUnreserved(spec.local);
+      }
+
+      node.source = null;
+    }
+    this.semicolon();
+  }
+  return this.finishNode(node, "ExportNamedDeclaration")
+};
+
+pp$1.checkExport = function(exports, name, pos) {
+  if (!exports) { return }
+  if (has(exports, name))
+    { this.raiseRecoverable(pos, "Duplicate export '" + name + "'"); }
+  exports[name] = true;
+};
+
+pp$1.checkPatternExport = function(exports, pat) {
+  var this$1 = this;
+
+  var type = pat.type;
+  if (type === "Identifier")
+    { this.checkExport(exports, pat.name, pat.start); }
+  else if (type === "ObjectPattern")
+    { for (var i = 0, list = pat.properties; i < list.length; i += 1)
+      {
+        var prop = list[i];
+
+        this$1.checkPatternExport(exports, prop);
+      } }
+  else if (type === "ArrayPattern")
+    { for (var i$1 = 0, list$1 = pat.elements; i$1 < list$1.length; i$1 += 1) {
+      var elt = list$1[i$1];
+
+        if (elt) { this$1.checkPatternExport(exports, elt); }
+    } }
+  else if (type === "Property")
+    { this.checkPatternExport(exports, pat.value); }
+  else if (type === "AssignmentPattern")
+    { this.checkPatternExport(exports, pat.left); }
+  else if (type === "RestElement")
+    { this.checkPatternExport(exports, pat.argument); }
+  else if (type === "ParenthesizedExpression")
+    { this.checkPatternExport(exports, pat.expression); }
+};
+
+pp$1.checkVariableExport = function(exports, decls) {
+  var this$1 = this;
+
+  if (!exports) { return }
+  for (var i = 0, list = decls; i < list.length; i += 1)
+    {
+    var decl = list[i];
+
+    this$1.checkPatternExport(exports, decl.id);
+  }
+};
+
+pp$1.shouldParseExportStatement = function() {
+  return this.type.keyword === "var" ||
+    this.type.keyword === "const" ||
+    this.type.keyword === "class" ||
+    this.type.keyword === "function" ||
+    this.isLet() ||
+    this.isAsyncFunction()
+};
+
+// Parses a comma-separated list of module exports.
+
+pp$1.parseExportSpecifiers = function(exports) {
+  var this$1 = this;
+
+  var nodes = [], first = true;
+  // export { x, y as z } [from '...']
+  this.expect(types.braceL);
+  while (!this.eat(types.braceR)) {
+    if (!first) {
+      this$1.expect(types.comma);
+      if (this$1.afterTrailingComma(types.braceR)) { break }
+    } else { first = false; }
+
+    var node = this$1.startNode();
+    node.local = this$1.parseIdent(true);
+    node.exported = this$1.eatContextual("as") ? this$1.parseIdent(true) : node.local;
+    this$1.checkExport(exports, node.exported.name, node.exported.start);
+    nodes.push(this$1.finishNode(node, "ExportSpecifier"));
+  }
+  return nodes
+};
+
+// Parses import declaration.
+
+pp$1.parseImport = function(node) {
+  this.next();
+  // import '...'
+  if (this.type === types.string) {
+    node.specifiers = empty;
+    node.source = this.parseExprAtom();
+  } else {
+    node.specifiers = this.parseImportSpecifiers();
+    this.expectContextual("from");
+    node.source = this.type === types.string ? this.parseExprAtom() : this.unexpected();
+  }
+  this.semicolon();
+  return this.finishNode(node, "ImportDeclaration")
+};
+
+// Parses a comma-separated list of module imports.
+
+pp$1.parseImportSpecifiers = function() {
+  var this$1 = this;
+
+  var nodes = [], first = true;
+  if (this.type === types.name) {
+    // import defaultObj, { x, y as z } from '...'
+    var node = this.startNode();
+    node.local = this.parseIdent();
+    this.checkLVal(node.local, "let");
+    nodes.push(this.finishNode(node, "ImportDefaultSpecifier"));
+    if (!this.eat(types.comma)) { return nodes }
+  }
+  if (this.type === types.star) {
+    var node$1 = this.startNode();
+    this.next();
+    this.expectContextual("as");
+    node$1.local = this.parseIdent();
+    this.checkLVal(node$1.local, "let");
+    nodes.push(this.finishNode(node$1, "ImportNamespaceSpecifier"));
+    return nodes
+  }
+  this.expect(types.braceL);
+  while (!this.eat(types.braceR)) {
+    if (!first) {
+      this$1.expect(types.comma);
+      if (this$1.afterTrailingComma(types.braceR)) { break }
+    } else { first = false; }
+
+    var node$2 = this$1.startNode();
+    node$2.imported = this$1.parseIdent(true);
+    if (this$1.eatContextual("as")) {
+      node$2.local = this$1.parseIdent();
+    } else {
+      this$1.checkUnreserved(node$2.imported);
+      node$2.local = node$2.imported;
+    }
+    this$1.checkLVal(node$2.local, "let");
+    nodes.push(this$1.finishNode(node$2, "ImportSpecifier"));
+  }
+  return nodes
+};
+
+// Set `ExpressionStatement#directive` property for directive prologues.
+pp$1.adaptDirectivePrologue = function(statements) {
+  for (var i = 0; i < statements.length && this.isDirectiveCandidate(statements[i]); ++i) {
+    statements[i].directive = statements[i].expression.raw.slice(1, -1);
+  }
+};
+pp$1.isDirectiveCandidate = function(statement) {
+  return (
+    statement.type === "ExpressionStatement" &&
+    statement.expression.type === "Literal" &&
+    typeof statement.expression.value === "string" &&
+    // Reject parenthesized strings.
+    (this.input[statement.start] === "\"" || this.input[statement.start] === "'")
+  )
+};
+
+var pp$2 = Parser.prototype;
+
+// Convert existing expression atom to assignable pattern
+// if possible.
+
+pp$2.toAssignable = function(node, isBinding, refDestructuringErrors) {
+  var this$1 = this;
+
+  if (this.options.ecmaVersion >= 6 && node) {
+    switch (node.type) {
+    case "Identifier":
+      if (this.inAsync && node.name === "await")
+        { this.raise(node.start, "Can not use 'await' as identifier inside an async function"); }
+      break
+
+    case "ObjectPattern":
+    case "ArrayPattern":
+    case "RestElement":
+      break
+
+    case "ObjectExpression":
+      node.type = "ObjectPattern";
+      if (refDestructuringErrors) { this.checkPatternErrors(refDestructuringErrors, true); }
+      for (var i = 0, list = node.properties; i < list.length; i += 1) {
+        var prop = list[i];
+
+      this$1.toAssignable(prop, isBinding);
+        // Early error:
+        //   AssignmentRestProperty[Yield, Await] :
+        //     `...` DestructuringAssignmentTarget[Yield, Await]
+        //
+        //   It is a Syntax Error if |DestructuringAssignmentTarget| is an |ArrayLiteral| or an |ObjectLiteral|.
+        if (
+          prop.type === "RestElement" &&
+          (prop.argument.type === "ArrayPattern" || prop.argument.type === "ObjectPattern")
+        ) {
+          this$1.raise(prop.argument.start, "Unexpected token");
+        }
+      }
+      break
+
+    case "Property":
+      // AssignmentProperty has type === "Property"
+      if (node.kind !== "init") { this.raise(node.key.start, "Object pattern can't contain getter or setter"); }
+      this.toAssignable(node.value, isBinding);
+      break
+
+    case "ArrayExpression":
+      node.type = "ArrayPattern";
+      if (refDestructuringErrors) { this.checkPatternErrors(refDestructuringErrors, true); }
+      this.toAssignableList(node.elements, isBinding);
+      break
+
+    case "SpreadElement":
+      node.type = "RestElement";
+      this.toAssignable(node.argument, isBinding);
+      if (node.argument.type === "AssignmentPattern")
+        { this.raise(node.argument.start, "Rest elements cannot have a default value"); }
+      break
+
+    case "AssignmentExpression":
+      if (node.operator !== "=") { this.raise(node.left.end, "Only '=' operator can be used for specifying default value."); }
+      node.type = "AssignmentPattern";
+      delete node.operator;
+      this.toAssignable(node.left, isBinding);
+      // falls through to AssignmentPattern
+
+    case "AssignmentPattern":
+      break
+
+    case "ParenthesizedExpression":
+      this.toAssignable(node.expression, isBinding);
+      break
+
+    case "MemberExpression":
+      if (!isBinding) { break }
+
+    default:
+      this.raise(node.start, "Assigning to rvalue");
+    }
+  } else if (refDestructuringErrors) { this.checkPatternErrors(refDestructuringErrors, true); }
+  return node
+};
+
+// Convert list of expression atoms to binding list.
+
+pp$2.toAssignableList = function(exprList, isBinding) {
+  var this$1 = this;
+
+  var end = exprList.length;
+  for (var i = 0; i < end; i++) {
+    var elt = exprList[i];
+    if (elt) { this$1.toAssignable(elt, isBinding); }
+  }
+  if (end) {
+    var last = exprList[end - 1];
+    if (this.options.ecmaVersion === 6 && isBinding && last && last.type === "RestElement" && last.argument.type !== "Identifier")
+      { this.unexpected(last.argument.start); }
+  }
+  return exprList
+};
+
+// Parses spread element.
+
+pp$2.parseSpread = function(refDestructuringErrors) {
+  var node = this.startNode();
+  this.next();
+  node.argument = this.parseMaybeAssign(false, refDestructuringErrors);
+  return this.finishNode(node, "SpreadElement")
+};
+
+pp$2.parseRestBinding = function() {
+  var node = this.startNode();
+  this.next();
+
+  // RestElement inside of a function parameter must be an identifier
+  if (this.options.ecmaVersion === 6 && this.type !== types.name)
+    { this.unexpected(); }
+
+  node.argument = this.parseBindingAtom();
+
+  return this.finishNode(node, "RestElement")
+};
+
+// Parses lvalue (assignable) atom.
+
+pp$2.parseBindingAtom = function() {
+  if (this.options.ecmaVersion >= 6) {
+    switch (this.type) {
+    case types.bracketL:
+      var node = this.startNode();
+      this.next();
+      node.elements = this.parseBindingList(types.bracketR, true, true);
+      return this.finishNode(node, "ArrayPattern")
+
+    case types.braceL:
+      return this.parseObj(true)
+    }
+  }
+  return this.parseIdent()
+};
+
+pp$2.parseBindingList = function(close, allowEmpty, allowTrailingComma) {
+  var this$1 = this;
+
+  var elts = [], first = true;
+  while (!this.eat(close)) {
+    if (first) { first = false; }
+    else { this$1.expect(types.comma); }
+    if (allowEmpty && this$1.type === types.comma) {
+      elts.push(null);
+    } else if (allowTrailingComma && this$1.afterTrailingComma(close)) {
+      break
+    } else if (this$1.type === types.ellipsis) {
+      var rest = this$1.parseRestBinding();
+      this$1.parseBindingListItem(rest);
+      elts.push(rest);
+      if (this$1.type === types.comma) { this$1.raise(this$1.start, "Comma is not permitted after the rest element"); }
+      this$1.expect(close);
+      break
+    } else {
+      var elem = this$1.parseMaybeDefault(this$1.start, this$1.startLoc);
+      this$1.parseBindingListItem(elem);
+      elts.push(elem);
+    }
+  }
+  return elts
+};
+
+pp$2.parseBindingListItem = function(param) {
+  return param
+};
+
+// Parses assignment pattern around given atom if possible.
+
+pp$2.parseMaybeDefault = function(startPos, startLoc, left) {
+  left = left || this.parseBindingAtom();
+  if (this.options.ecmaVersion < 6 || !this.eat(types.eq)) { return left }
+  var node = this.startNodeAt(startPos, startLoc);
+  node.left = left;
+  node.right = this.parseMaybeAssign();
+  return this.finishNode(node, "AssignmentPattern")
+};
+
+// Verify that a node is an lval — something that can be assigned
+// to.
+// bindingType can be either:
+// 'var' indicating that the lval creates a 'var' binding
+// 'let' indicating that the lval creates a lexical ('let' or 'const') binding
+// 'none' indicating that the binding should be checked for illegal identifiers, but not for duplicate references
+
+pp$2.checkLVal = function(expr, bindingType, checkClashes) {
+  var this$1 = this;
+
+  switch (expr.type) {
+  case "Identifier":
+    if (this.strict && this.reservedWordsStrictBind.test(expr.name))
+      { this.raiseRecoverable(expr.start, (bindingType ? "Binding " : "Assigning to ") + expr.name + " in strict mode"); }
+    if (checkClashes) {
+      if (has(checkClashes, expr.name))
+        { this.raiseRecoverable(expr.start, "Argument name clash"); }
+      checkClashes[expr.name] = true;
+    }
+    if (bindingType && bindingType !== "none") {
+      if (
+        bindingType === "var" && !this.canDeclareVarName(expr.name) ||
+        bindingType !== "var" && !this.canDeclareLexicalName(expr.name)
+      ) {
+        this.raiseRecoverable(expr.start, ("Identifier '" + (expr.name) + "' has already been declared"));
+      }
+      if (bindingType === "var") {
+        this.declareVarName(expr.name);
+      } else {
+        this.declareLexicalName(expr.name);
+      }
+    }
+    break
+
+  case "MemberExpression":
+    if (bindingType) { this.raiseRecoverable(expr.start, "Binding member expression"); }
+    break
+
+  case "ObjectPattern":
+    for (var i = 0, list = expr.properties; i < list.length; i += 1)
+      {
+    var prop = list[i];
+
+    this$1.checkLVal(prop, bindingType, checkClashes);
+  }
+    break
+
+  case "Property":
+    // AssignmentProperty has type === "Property"
+    this.checkLVal(expr.value, bindingType, checkClashes);
+    break
+
+  case "ArrayPattern":
+    for (var i$1 = 0, list$1 = expr.elements; i$1 < list$1.length; i$1 += 1) {
+      var elem = list$1[i$1];
+
+    if (elem) { this$1.checkLVal(elem, bindingType, checkClashes); }
+    }
+    break
+
+  case "AssignmentPattern":
+    this.checkLVal(expr.left, bindingType, checkClashes);
+    break
+
+  case "RestElement":
+    this.checkLVal(expr.argument, bindingType, checkClashes);
+    break
+
+  case "ParenthesizedExpression":
+    this.checkLVal(expr.expression, bindingType, checkClashes);
+    break
+
+  default:
+    this.raise(expr.start, (bindingType ? "Binding" : "Assigning to") + " rvalue");
+  }
+};
+
+// A recursive descent parser operates by defining functions for all
+// syntactic elements, and recursively calling those, each function
+// advancing the input stream and returning an AST node. Precedence
+// of constructs (for example, the fact that `!x[1]` means `!(x[1])`
+// instead of `(!x)[1]` is handled by the fact that the parser
+// function that parses unary prefix operators is called first, and
+// in turn calls the function that parses `[]` subscripts — that
+// way, it'll receive the node for `x[1]` already parsed, and wraps
+// *that* in the unary operator node.
+//
+// Acorn uses an [operator precedence parser][opp] to handle binary
+// operator precedence, because it is much more compact than using
+// the technique outlined above, which uses different, nesting
+// functions to specify precedence, for all of the ten binary
+// precedence levels that JavaScript defines.
+//
+// [opp]: http://en.wikipedia.org/wiki/Operator-precedence_parser
+
+var pp$3 = Parser.prototype;
+
+// Check if property name clashes with already added.
+// Object/class getters and setters are not allowed to clash —
+// either with each other or with an init property — and in
+// strict mode, init properties are also not allowed to be repeated.
+
+pp$3.checkPropClash = function(prop, propHash, refDestructuringErrors) {
+  if (this.options.ecmaVersion >= 9 && prop.type === "SpreadElement")
+    { return }
+  if (this.options.ecmaVersion >= 6 && (prop.computed || prop.method || prop.shorthand))
+    { return }
+  var key = prop.key;
+  var name;
+  switch (key.type) {
+  case "Identifier": name = key.name; break
+  case "Literal": name = String(key.value); break
+  default: return
+  }
+  var kind = prop.kind;
+  if (this.options.ecmaVersion >= 6) {
+    if (name === "__proto__" && kind === "init") {
+      if (propHash.proto) {
+        if (refDestructuringErrors && refDestructuringErrors.doubleProto < 0) { refDestructuringErrors.doubleProto = key.start; }
+        // Backwards-compat kludge. Can be removed in version 6.0
+        else { this.raiseRecoverable(key.start, "Redefinition of __proto__ property"); }
+      }
+      propHash.proto = true;
+    }
+    return
+  }
+  name = "$" + name;
+  var other = propHash[name];
+  if (other) {
+    var redefinition;
+    if (kind === "init") {
+      redefinition = this.strict && other.init || other.get || other.set;
+    } else {
+      redefinition = other.init || other[kind];
+    }
+    if (redefinition)
+      { this.raiseRecoverable(key.start, "Redefinition of property"); }
+  } else {
+    other = propHash[name] = {
+      init: false,
+      get: false,
+      set: false
+    };
+  }
+  other[kind] = true;
+};
+
+// ### Expression parsing
+
+// These nest, from the most general expression type at the top to
+// 'atomic', nondivisible expression types at the bottom. Most of
+// the functions will simply let the function(s) below them parse,
+// and, *if* the syntactic construct they handle is present, wrap
+// the AST node that the inner parser gave them in another node.
+
+// Parse a full expression. The optional arguments are used to
+// forbid the `in` operator (in for loops initalization expressions)
+// and provide reference for storing '=' operator inside shorthand
+// property assignment in contexts where both object expression
+// and object pattern might appear (so it's possible to raise
+// delayed syntax error at correct position).
+
+pp$3.parseExpression = function(noIn, refDestructuringErrors) {
+  var this$1 = this;
+
+  var startPos = this.start, startLoc = this.startLoc;
+  var expr = this.parseMaybeAssign(noIn, refDestructuringErrors);
+  if (this.type === types.comma) {
+    var node = this.startNodeAt(startPos, startLoc);
+    node.expressions = [expr];
+    while (this.eat(types.comma)) { node.expressions.push(this$1.parseMaybeAssign(noIn, refDestructuringErrors)); }
+    return this.finishNode(node, "SequenceExpression")
+  }
+  return expr
+};
+
+// Parse an assignment expression. This includes applications of
+// operators like `+=`.
+
+pp$3.parseMaybeAssign = function(noIn, refDestructuringErrors, afterLeftParse) {
+  if (this.inGenerator && this.isContextual("yield")) { return this.parseYield() }
+
+  var ownDestructuringErrors = false, oldParenAssign = -1, oldTrailingComma = -1;
+  if (refDestructuringErrors) {
+    oldParenAssign = refDestructuringErrors.parenthesizedAssign;
+    oldTrailingComma = refDestructuringErrors.trailingComma;
+    refDestructuringErrors.parenthesizedAssign = refDestructuringErrors.trailingComma = -1;
+  } else {
+    refDestructuringErrors = new DestructuringErrors;
+    ownDestructuringErrors = true;
+  }
+
+  var startPos = this.start, startLoc = this.startLoc;
+  if (this.type === types.parenL || this.type === types.name)
+    { this.potentialArrowAt = this.start; }
+  var left = this.parseMaybeConditional(noIn, refDestructuringErrors);
+  if (afterLeftParse) { left = afterLeftParse.call(this, left, startPos, startLoc); }
+  if (this.type.isAssign) {
+    var node = this.startNodeAt(startPos, startLoc);
+    node.operator = this.value;
+    node.left = this.type === types.eq ? this.toAssignable(left, false, refDestructuringErrors) : left;
+    if (!ownDestructuringErrors) { DestructuringErrors.call(refDestructuringErrors); }
+    refDestructuringErrors.shorthandAssign = -1; // reset because shorthand default was used correctly
+    this.checkLVal(left);
+    this.next();
+    node.right = this.parseMaybeAssign(noIn);
+    return this.finishNode(node, "AssignmentExpression")
+  } else {
+    if (ownDestructuringErrors) { this.checkExpressionErrors(refDestructuringErrors, true); }
+  }
+  if (oldParenAssign > -1) { refDestructuringErrors.parenthesizedAssign = oldParenAssign; }
+  if (oldTrailingComma > -1) { refDestructuringErrors.trailingComma = oldTrailingComma; }
+  return left
+};
+
+// Parse a ternary conditional (`?:`) operator.
+
+pp$3.parseMaybeConditional = function(noIn, refDestructuringErrors) {
+  var startPos = this.start, startLoc = this.startLoc;
+  var expr = this.parseExprOps(noIn, refDestructuringErrors);
+  if (this.checkExpressionErrors(refDestructuringErrors)) { return expr }
+  if (this.eat(types.question)) {
+    var node = this.startNodeAt(startPos, startLoc);
+    node.test = expr;
+    node.consequent = this.parseMaybeAssign();
+    this.expect(types.colon);
+    node.alternate = this.parseMaybeAssign(noIn);
+    return this.finishNode(node, "ConditionalExpression")
+  }
+  return expr
+};
+
+// Start the precedence parser.
+
+pp$3.parseExprOps = function(noIn, refDestructuringErrors) {
+  var startPos = this.start, startLoc = this.startLoc;
+  var expr = this.parseMaybeUnary(refDestructuringErrors, false);
+  if (this.checkExpressionErrors(refDestructuringErrors)) { return expr }
+  return expr.start === startPos && expr.type === "ArrowFunctionExpression" ? expr : this.parseExprOp(expr, startPos, startLoc, -1, noIn)
+};
+
+// Parse binary operators with the operator precedence parsing
+// algorithm. `left` is the left-hand side of the operator.
+// `minPrec` provides context that allows the function to stop and
+// defer further parser to one of its callers when it encounters an
+// operator that has a lower precedence than the set it is parsing.
+
+pp$3.parseExprOp = function(left, leftStartPos, leftStartLoc, minPrec, noIn) {
+  var prec = this.type.binop;
+  if (prec != null && (!noIn || this.type !== types._in)) {
+    if (prec > minPrec) {
+      var logical = this.type === types.logicalOR || this.type === types.logicalAND;
+      var op = this.value;
+      this.next();
+      var startPos = this.start, startLoc = this.startLoc;
+      var right = this.parseExprOp(this.parseMaybeUnary(null, false), startPos, startLoc, prec, noIn);
+      var node = this.buildBinary(leftStartPos, leftStartLoc, left, right, op, logical);
+      return this.parseExprOp(node, leftStartPos, leftStartLoc, minPrec, noIn)
+    }
+  }
+  return left
+};
+
+pp$3.buildBinary = function(startPos, startLoc, left, right, op, logical) {
+  var node = this.startNodeAt(startPos, startLoc);
+  node.left = left;
+  node.operator = op;
+  node.right = right;
+  return this.finishNode(node, logical ? "LogicalExpression" : "BinaryExpression")
+};
+
+// Parse unary operators, both prefix and postfix.
+
+pp$3.parseMaybeUnary = function(refDestructuringErrors, sawUnary) {
+  var this$1 = this;
+
+  var startPos = this.start, startLoc = this.startLoc, expr;
+  if (this.isContextual("await") && (this.inAsync || (!this.inFunction && this.options.allowAwaitOutsideFunction))) {
+    expr = this.parseAwait();
+    sawUnary = true;
+  } else if (this.type.prefix) {
+    var node = this.startNode(), update = this.type === types.incDec;
+    node.operator = this.value;
+    node.prefix = true;
+    this.next();
+    node.argument = this.parseMaybeUnary(null, true);
+    this.checkExpressionErrors(refDestructuringErrors, true);
+    if (update) { this.checkLVal(node.argument); }
+    else if (this.strict && node.operator === "delete" &&
+             node.argument.type === "Identifier")
+      { this.raiseRecoverable(node.start, "Deleting local variable in strict mode"); }
+    else { sawUnary = true; }
+    expr = this.finishNode(node, update ? "UpdateExpression" : "UnaryExpression");
+  } else {
+    expr = this.parseExprSubscripts(refDestructuringErrors);
+    if (this.checkExpressionErrors(refDestructuringErrors)) { return expr }
+    while (this.type.postfix && !this.canInsertSemicolon()) {
+      var node$1 = this$1.startNodeAt(startPos, startLoc);
+      node$1.operator = this$1.value;
+      node$1.prefix = false;
+      node$1.argument = expr;
+      this$1.checkLVal(expr);
+      this$1.next();
+      expr = this$1.finishNode(node$1, "UpdateExpression");
+    }
+  }
+
+  if (!sawUnary && this.eat(types.starstar))
+    { return this.buildBinary(startPos, startLoc, expr, this.parseMaybeUnary(null, false), "**", false) }
+  else
+    { return expr }
+};
+
+// Parse call, dot, and `[]`-subscript expressions.
+
+pp$3.parseExprSubscripts = function(refDestructuringErrors) {
+  var startPos = this.start, startLoc = this.startLoc;
+  var expr = this.parseExprAtom(refDestructuringErrors);
+  var skipArrowSubscripts = expr.type === "ArrowFunctionExpression" && this.input.slice(this.lastTokStart, this.lastTokEnd) !== ")";
+  if (this.checkExpressionErrors(refDestructuringErrors) || skipArrowSubscripts) { return expr }
+  var result = this.parseSubscripts(expr, startPos, startLoc);
+  if (refDestructuringErrors && result.type === "MemberExpression") {
+    if (refDestructuringErrors.parenthesizedAssign >= result.start) { refDestructuringErrors.parenthesizedAssign = -1; }
+    if (refDestructuringErrors.parenthesizedBind >= result.start) { refDestructuringErrors.parenthesizedBind = -1; }
+  }
+  return result
+};
+
+pp$3.parseSubscripts = function(base, startPos, startLoc, noCalls) {
+  var this$1 = this;
+
+  var maybeAsyncArrow = this.options.ecmaVersion >= 8 && base.type === "Identifier" && base.name === "async" &&
+      this.lastTokEnd === base.end && !this.canInsertSemicolon() && this.input.slice(base.start, base.end) === "async";
+  for (var computed = (void 0);;) {
+    if ((computed = this$1.eat(types.bracketL)) || this$1.eat(types.dot)) {
+      var node = this$1.startNodeAt(startPos, startLoc);
+      node.object = base;
+      node.property = computed ? this$1.parseExpression() : this$1.parseIdent(true);
+      node.computed = !!computed;
+      if (computed) { this$1.expect(types.bracketR); }
+      base = this$1.finishNode(node, "MemberExpression");
+    } else if (!noCalls && this$1.eat(types.parenL)) {
+      var refDestructuringErrors = new DestructuringErrors, oldYieldPos = this$1.yieldPos, oldAwaitPos = this$1.awaitPos;
+      this$1.yieldPos = 0;
+      this$1.awaitPos = 0;
+      var exprList = this$1.parseExprList(types.parenR, this$1.options.ecmaVersion >= 8, false, refDestructuringErrors);
+      if (maybeAsyncArrow && !this$1.canInsertSemicolon() && this$1.eat(types.arrow)) {
+        this$1.checkPatternErrors(refDestructuringErrors, false);
+        this$1.checkYieldAwaitInDefaultParams();
+        this$1.yieldPos = oldYieldPos;
+        this$1.awaitPos = oldAwaitPos;
+        return this$1.parseArrowExpression(this$1.startNodeAt(startPos, startLoc), exprList, true)
+      }
+      this$1.checkExpressionErrors(refDestructuringErrors, true);
+      this$1.yieldPos = oldYieldPos || this$1.yieldPos;
+      this$1.awaitPos = oldAwaitPos || this$1.awaitPos;
+      var node$1 = this$1.startNodeAt(startPos, startLoc);
+      node$1.callee = base;
+      node$1.arguments = exprList;
+      base = this$1.finishNode(node$1, "CallExpression");
+    } else if (this$1.type === types.backQuote) {
+      var node$2 = this$1.startNodeAt(startPos, startLoc);
+      node$2.tag = base;
+      node$2.quasi = this$1.parseTemplate({isTagged: true});
+      base = this$1.finishNode(node$2, "TaggedTemplateExpression");
+    } else {
+      return base
+    }
+  }
+};
+
+// Parse an atomic expression — either a single token that is an
+// expression, an expression started by a keyword like `function` or
+// `new`, or an expression wrapped in punctuation like `()`, `[]`,
+// or `{}`.
+
+pp$3.parseExprAtom = function(refDestructuringErrors) {
+  var node, canBeArrow = this.potentialArrowAt === this.start;
+  switch (this.type) {
+  case types._super:
+    if (!this.inFunction)
+      { this.raise(this.start, "'super' outside of function or class"); }
+    node = this.startNode();
+    this.next();
+    // The `super` keyword can appear at below:
+    // SuperProperty:
+    //     super [ Expression ]
+    //     super . IdentifierName
+    // SuperCall:
+    //     super Arguments
+    if (this.type !== types.dot && this.type !== types.bracketL && this.type !== types.parenL)
+      { this.unexpected(); }
+    return this.finishNode(node, "Super")
+
+  case types._this:
+    node = this.startNode();
+    this.next();
+    return this.finishNode(node, "ThisExpression")
+
+  case types.name:
+    var startPos = this.start, startLoc = this.startLoc, containsEsc = this.containsEsc;
+    var id = this.parseIdent(this.type !== types.name);
+    if (this.options.ecmaVersion >= 8 && !containsEsc && id.name === "async" && !this.canInsertSemicolon() && this.eat(types._function))
+      { return this.parseFunction(this.startNodeAt(startPos, startLoc), false, false, true) }
+    if (canBeArrow && !this.canInsertSemicolon()) {
+      if (this.eat(types.arrow))
+        { return this.parseArrowExpression(this.startNodeAt(startPos, startLoc), [id], false) }
+      if (this.options.ecmaVersion >= 8 && id.name === "async" && this.type === types.name && !containsEsc) {
+        id = this.parseIdent();
+        if (this.canInsertSemicolon() || !this.eat(types.arrow))
+          { this.unexpected(); }
+        return this.parseArrowExpression(this.startNodeAt(startPos, startLoc), [id], true)
+      }
+    }
+    return id
+
+  case types.regexp:
+    var value = this.value;
+    node = this.parseLiteral(value.value);
+    node.regex = {pattern: value.pattern, flags: value.flags};
+    return node
+
+  case types.num: case types.string:
+    return this.parseLiteral(this.value)
+
+  case types._null: case types._true: case types._false:
+    node = this.startNode();
+    node.value = this.type === types._null ? null : this.type === types._true;
+    node.raw = this.type.keyword;
+    this.next();
+    return this.finishNode(node, "Literal")
+
+  case types.parenL:
+    var start = this.start, expr = this.parseParenAndDistinguishExpression(canBeArrow);
+    if (refDestructuringErrors) {
+      if (refDestructuringErrors.parenthesizedAssign < 0 && !this.isSimpleAssignTarget(expr))
+        { refDestructuringErrors.parenthesizedAssign = start; }
+      if (refDestructuringErrors.parenthesizedBind < 0)
+        { refDestructuringErrors.parenthesizedBind = start; }
+    }
+    return expr
+
+  case types.bracketL:
+    node = this.startNode();
+    this.next();
+    node.elements = this.parseExprList(types.bracketR, true, true, refDestructuringErrors);
+    return this.finishNode(node, "ArrayExpression")
+
+  case types.braceL:
+    return this.parseObj(false, refDestructuringErrors)
+
+  case types._function:
+    node = this.startNode();
+    this.next();
+    return this.parseFunction(node, false)
+
+  case types._class:
+    return this.parseClass(this.startNode(), false)
+
+  case types._new:
+    return this.parseNew()
+
+  case types.backQuote:
+    return this.parseTemplate()
+
+  default:
+    this.unexpected();
+  }
+};
+
+pp$3.parseLiteral = function(value) {
+  var node = this.startNode();
+  node.value = value;
+  node.raw = this.input.slice(this.start, this.end);
+  this.next();
+  return this.finishNode(node, "Literal")
+};
+
+pp$3.parseParenExpression = function() {
+  this.expect(types.parenL);
+  var val = this.parseExpression();
+  this.expect(types.parenR);
+  return val
+};
+
+pp$3.parseParenAndDistinguishExpression = function(canBeArrow) {
+  var this$1 = this;
+
+  var startPos = this.start, startLoc = this.startLoc, val, allowTrailingComma = this.options.ecmaVersion >= 8;
+  if (this.options.ecmaVersion >= 6) {
+    this.next();
+
+    var innerStartPos = this.start, innerStartLoc = this.startLoc;
+    var exprList = [], first = true, lastIsComma = false;
+    var refDestructuringErrors = new DestructuringErrors, oldYieldPos = this.yieldPos, oldAwaitPos = this.awaitPos, spreadStart;
+    this.yieldPos = 0;
+    this.awaitPos = 0;
+    while (this.type !== types.parenR) {
+      first ? first = false : this$1.expect(types.comma);
+      if (allowTrailingComma && this$1.afterTrailingComma(types.parenR, true)) {
+        lastIsComma = true;
+        break
+      } else if (this$1.type === types.ellipsis) {
+        spreadStart = this$1.start;
+        exprList.push(this$1.parseParenItem(this$1.parseRestBinding()));
+        if (this$1.type === types.comma) { this$1.raise(this$1.start, "Comma is not permitted after the rest element"); }
+        break
+      } else {
+        exprList.push(this$1.parseMaybeAssign(false, refDestructuringErrors, this$1.parseParenItem));
+      }
+    }
+    var innerEndPos = this.start, innerEndLoc = this.startLoc;
+    this.expect(types.parenR);
+
+    if (canBeArrow && !this.canInsertSemicolon() && this.eat(types.arrow)) {
+      this.checkPatternErrors(refDestructuringErrors, false);
+      this.checkYieldAwaitInDefaultParams();
+      this.yieldPos = oldYieldPos;
+      this.awaitPos = oldAwaitPos;
+      return this.parseParenArrowList(startPos, startLoc, exprList)
+    }
+
+    if (!exprList.length || lastIsComma) { this.unexpected(this.lastTokStart); }
+    if (spreadStart) { this.unexpected(spreadStart); }
+    this.checkExpressionErrors(refDestructuringErrors, true);
+    this.yieldPos = oldYieldPos || this.yieldPos;
+    this.awaitPos = oldAwaitPos || this.awaitPos;
+
+    if (exprList.length > 1) {
+      val = this.startNodeAt(innerStartPos, innerStartLoc);
+      val.expressions = exprList;
+      this.finishNodeAt(val, "SequenceExpression", innerEndPos, innerEndLoc);
+    } else {
+      val = exprList[0];
+    }
+  } else {
+    val = this.parseParenExpression();
+  }
+
+  if (this.options.preserveParens) {
+    var par = this.startNodeAt(startPos, startLoc);
+    par.expression = val;
+    return this.finishNode(par, "ParenthesizedExpression")
+  } else {
+    return val
+  }
+};
+
+pp$3.parseParenItem = function(item) {
+  return item
+};
+
+pp$3.parseParenArrowList = function(startPos, startLoc, exprList) {
+  return this.parseArrowExpression(this.startNodeAt(startPos, startLoc), exprList)
+};
+
+// New's precedence is slightly tricky. It must allow its argument to
+// be a `[]` or dot subscript expression, but not a call — at least,
+// not without wrapping it in parentheses. Thus, it uses the noCalls
+// argument to parseSubscripts to prevent it from consuming the
+// argument list.
+
+var empty$1 = [];
+
+pp$3.parseNew = function() {
+  var node = this.startNode();
+  var meta = this.parseIdent(true);
+  if (this.options.ecmaVersion >= 6 && this.eat(types.dot)) {
+    node.meta = meta;
+    var containsEsc = this.containsEsc;
+    node.property = this.parseIdent(true);
+    if (node.property.name !== "target" || containsEsc)
+      { this.raiseRecoverable(node.property.start, "The only valid meta property for new is new.target"); }
+    if (!this.inFunction)
+      { this.raiseRecoverable(node.start, "new.target can only be used in functions"); }
+    return this.finishNode(node, "MetaProperty")
+  }
+  var startPos = this.start, startLoc = this.startLoc;
+  node.callee = this.parseSubscripts(this.parseExprAtom(), startPos, startLoc, true);
+  if (this.eat(types.parenL)) { node.arguments = this.parseExprList(types.parenR, this.options.ecmaVersion >= 8, false); }
+  else { node.arguments = empty$1; }
+  return this.finishNode(node, "NewExpression")
+};
+
+// Parse template expression.
+
+pp$3.parseTemplateElement = function(ref) {
+  var isTagged = ref.isTagged;
+
+  var elem = this.startNode();
+  if (this.type === types.invalidTemplate) {
+    if (!isTagged) {
+      this.raiseRecoverable(this.start, "Bad escape sequence in untagged template literal");
+    }
+    elem.value = {
+      raw: this.value,
+      cooked: null
+    };
+  } else {
+    elem.value = {
+      raw: this.input.slice(this.start, this.end).replace(/\r\n?/g, "\n"),
+      cooked: this.value
+    };
+  }
+  this.next();
+  elem.tail = this.type === types.backQuote;
+  return this.finishNode(elem, "TemplateElement")
+};
+
+pp$3.parseTemplate = function(ref) {
+  var this$1 = this;
+  if ( ref === void 0 ) ref = {};
+  var isTagged = ref.isTagged; if ( isTagged === void 0 ) isTagged = false;
+
+  var node = this.startNode();
+  this.next();
+  node.expressions = [];
+  var curElt = this.parseTemplateElement({isTagged: isTagged});
+  node.quasis = [curElt];
+  while (!curElt.tail) {
+    if (this$1.type === types.eof) { this$1.raise(this$1.pos, "Unterminated template literal"); }
+    this$1.expect(types.dollarBraceL);
+    node.expressions.push(this$1.parseExpression());
+    this$1.expect(types.braceR);
+    node.quasis.push(curElt = this$1.parseTemplateElement({isTagged: isTagged}));
+  }
+  this.next();
+  return this.finishNode(node, "TemplateLiteral")
+};
+
+pp$3.isAsyncProp = function(prop) {
+  return !prop.computed && prop.key.type === "Identifier" && prop.key.name === "async" &&
+    (this.type === types.name || this.type === types.num || this.type === types.string || this.type === types.bracketL || this.type.keyword || (this.options.ecmaVersion >= 9 && this.type === types.star)) &&
+    !lineBreak.test(this.input.slice(this.lastTokEnd, this.start))
+};
+
+// Parse an object literal or binding pattern.
+
+pp$3.parseObj = function(isPattern, refDestructuringErrors) {
+  var this$1 = this;
+
+  var node = this.startNode(), first = true, propHash = {};
+  node.properties = [];
+  this.next();
+  while (!this.eat(types.braceR)) {
+    if (!first) {
+      this$1.expect(types.comma);
+      if (this$1.afterTrailingComma(types.braceR)) { break }
+    } else { first = false; }
+
+    var prop = this$1.parseProperty(isPattern, refDestructuringErrors);
+    if (!isPattern) { this$1.checkPropClash(prop, propHash, refDestructuringErrors); }
+    node.properties.push(prop);
+  }
+  return this.finishNode(node, isPattern ? "ObjectPattern" : "ObjectExpression")
+};
+
+pp$3.parseProperty = function(isPattern, refDestructuringErrors) {
+  var prop = this.startNode(), isGenerator, isAsync, startPos, startLoc;
+  if (this.options.ecmaVersion >= 9 && this.eat(types.ellipsis)) {
+    if (isPattern) {
+      prop.argument = this.parseIdent(false);
+      if (this.type === types.comma) {
+        this.raise(this.start, "Comma is not permitted after the rest element");
+      }
+      return this.finishNode(prop, "RestElement")
+    }
+    // To disallow parenthesized identifier via `this.toAssignable()`.
+    if (this.type === types.parenL && refDestructuringErrors) {
+      if (refDestructuringErrors.parenthesizedAssign < 0) {
+        refDestructuringErrors.parenthesizedAssign = this.start;
+      }
+      if (refDestructuringErrors.parenthesizedBind < 0) {
+        refDestructuringErrors.parenthesizedBind = this.start;
+      }
+    }
+    // Parse argument.
+    prop.argument = this.parseMaybeAssign(false, refDestructuringErrors);
+    // To disallow trailing comma via `this.toAssignable()`.
+    if (this.type === types.comma && refDestructuringErrors && refDestructuringErrors.trailingComma < 0) {
+      refDestructuringErrors.trailingComma = this.start;
+    }
+    // Finish
+    return this.finishNode(prop, "SpreadElement")
+  }
+  if (this.options.ecmaVersion >= 6) {
+    prop.method = false;
+    prop.shorthand = false;
+    if (isPattern || refDestructuringErrors) {
+      startPos = this.start;
+      startLoc = this.startLoc;
+    }
+    if (!isPattern)
+      { isGenerator = this.eat(types.star); }
+  }
+  var containsEsc = this.containsEsc;
+  this.parsePropertyName(prop);
+  if (!isPattern && !containsEsc && this.options.ecmaVersion >= 8 && !isGenerator && this.isAsyncProp(prop)) {
+    isAsync = true;
+    isGenerator = this.options.ecmaVersion >= 9 && this.eat(types.star);
+    this.parsePropertyName(prop, refDestructuringErrors);
+  } else {
+    isAsync = false;
+  }
+  this.parsePropertyValue(prop, isPattern, isGenerator, isAsync, startPos, startLoc, refDestructuringErrors, containsEsc);
+  return this.finishNode(prop, "Property")
+};
+
+pp$3.parsePropertyValue = function(prop, isPattern, isGenerator, isAsync, startPos, startLoc, refDestructuringErrors, containsEsc) {
+  if ((isGenerator || isAsync) && this.type === types.colon)
+    { this.unexpected(); }
+
+  if (this.eat(types.colon)) {
+    prop.value = isPattern ? this.parseMaybeDefault(this.start, this.startLoc) : this.parseMaybeAssign(false, refDestructuringErrors);
+    prop.kind = "init";
+  } else if (this.options.ecmaVersion >= 6 && this.type === types.parenL) {
+    if (isPattern) { this.unexpected(); }
+    prop.kind = "init";
+    prop.method = true;
+    prop.value = this.parseMethod(isGenerator, isAsync);
+  } else if (!isPattern && !containsEsc &&
+             this.options.ecmaVersion >= 5 && !prop.computed && prop.key.type === "Identifier" &&
+             (prop.key.name === "get" || prop.key.name === "set") &&
+             (this.type !== types.comma && this.type !== types.braceR)) {
+    if (isGenerator || isAsync) { this.unexpected(); }
+    prop.kind = prop.key.name;
+    this.parsePropertyName(prop);
+    prop.value = this.parseMethod(false);
+    var paramCount = prop.kind === "get" ? 0 : 1;
+    if (prop.value.params.length !== paramCount) {
+      var start = prop.value.start;
+      if (prop.kind === "get")
+        { this.raiseRecoverable(start, "getter should have no params"); }
+      else
+        { this.raiseRecoverable(start, "setter should have exactly one param"); }
+    } else {
+      if (prop.kind === "set" && prop.value.params[0].type === "RestElement")
+        { this.raiseRecoverable(prop.value.params[0].start, "Setter cannot use rest params"); }
+    }
+  } else if (this.options.ecmaVersion >= 6 && !prop.computed && prop.key.type === "Identifier") {
+    this.checkUnreserved(prop.key);
+    prop.kind = "init";
+    if (isPattern) {
+      prop.value = this.parseMaybeDefault(startPos, startLoc, prop.key);
+    } else if (this.type === types.eq && refDestructuringErrors) {
+      if (refDestructuringErrors.shorthandAssign < 0)
+        { refDestructuringErrors.shorthandAssign = this.start; }
+      prop.value = this.parseMaybeDefault(startPos, startLoc, prop.key);
+    } else {
+      prop.value = prop.key;
+    }
+    prop.shorthand = true;
+  } else { this.unexpected(); }
+};
+
+pp$3.parsePropertyName = function(prop) {
+  if (this.options.ecmaVersion >= 6) {
+    if (this.eat(types.bracketL)) {
+      prop.computed = true;
+      prop.key = this.parseMaybeAssign();
+      this.expect(types.bracketR);
+      return prop.key
+    } else {
+      prop.computed = false;
+    }
+  }
+  return prop.key = this.type === types.num || this.type === types.string ? this.parseExprAtom() : this.parseIdent(true)
+};
+
+// Initialize empty function node.
+
+pp$3.initFunction = function(node) {
+  node.id = null;
+  if (this.options.ecmaVersion >= 6) {
+    node.generator = false;
+    node.expression = false;
+  }
+  if (this.options.ecmaVersion >= 8)
+    { node.async = false; }
+};
+
+// Parse object or class method.
+
+pp$3.parseMethod = function(isGenerator, isAsync) {
+  var node = this.startNode(), oldInGen = this.inGenerator, oldInAsync = this.inAsync,
+      oldYieldPos = this.yieldPos, oldAwaitPos = this.awaitPos, oldInFunc = this.inFunction;
+
+  this.initFunction(node);
+  if (this.options.ecmaVersion >= 6)
+    { node.generator = isGenerator; }
+  if (this.options.ecmaVersion >= 8)
+    { node.async = !!isAsync; }
+
+  this.inGenerator = node.generator;
+  this.inAsync = node.async;
+  this.yieldPos = 0;
+  this.awaitPos = 0;
+  this.inFunction = true;
+  this.enterFunctionScope();
+
+  this.expect(types.parenL);
+  node.params = this.parseBindingList(types.parenR, false, this.options.ecmaVersion >= 8);
+  this.checkYieldAwaitInDefaultParams();
+  this.parseFunctionBody(node, false);
+
+  this.inGenerator = oldInGen;
+  this.inAsync = oldInAsync;
+  this.yieldPos = oldYieldPos;
+  this.awaitPos = oldAwaitPos;
+  this.inFunction = oldInFunc;
+  return this.finishNode(node, "FunctionExpression")
+};
+
+// Parse arrow function expression with given parameters.
+
+pp$3.parseArrowExpression = function(node, params, isAsync) {
+  var oldInGen = this.inGenerator, oldInAsync = this.inAsync,
+      oldYieldPos = this.yieldPos, oldAwaitPos = this.awaitPos, oldInFunc = this.inFunction;
+
+  this.enterFunctionScope();
+  this.initFunction(node);
+  if (this.options.ecmaVersion >= 8)
+    { node.async = !!isAsync; }
+
+  this.inGenerator = false;
+  this.inAsync = node.async;
+  this.yieldPos = 0;
+  this.awaitPos = 0;
+  this.inFunction = true;
+
+  node.params = this.toAssignableList(params, true);
+  this.parseFunctionBody(node, true);
+
+  this.inGenerator = oldInGen;
+  this.inAsync = oldInAsync;
+  this.yieldPos = oldYieldPos;
+  this.awaitPos = oldAwaitPos;
+  this.inFunction = oldInFunc;
+  return this.finishNode(node, "ArrowFunctionExpression")
+};
+
+// Parse function body and check parameters.
+
+pp$3.parseFunctionBody = function(node, isArrowFunction) {
+  var isExpression = isArrowFunction && this.type !== types.braceL;
+  var oldStrict = this.strict, useStrict = false;
+
+  if (isExpression) {
+    node.body = this.parseMaybeAssign();
+    node.expression = true;
+    this.checkParams(node, false);
+  } else {
+    var nonSimple = this.options.ecmaVersion >= 7 && !this.isSimpleParamList(node.params);
+    if (!oldStrict || nonSimple) {
+      useStrict = this.strictDirective(this.end);
+      // If this is a strict mode function, verify that argument names
+      // are not repeated, and it does not try to bind the words `eval`
+      // or `arguments`.
+      if (useStrict && nonSimple)
+        { this.raiseRecoverable(node.start, "Illegal 'use strict' directive in function with non-simple parameter list"); }
+    }
+    // Start a new scope with regard to labels and the `inFunction`
+    // flag (restore them to their old value afterwards).
+    var oldLabels = this.labels;
+    this.labels = [];
+    if (useStrict) { this.strict = true; }
+
+    // Add the params to varDeclaredNames to ensure that an error is thrown
+    // if a let/const declaration in the function clashes with one of the params.
+    this.checkParams(node, !oldStrict && !useStrict && !isArrowFunction && this.isSimpleParamList(node.params));
+    node.body = this.parseBlock(false);
+    node.expression = false;
+    this.adaptDirectivePrologue(node.body.body);
+    this.labels = oldLabels;
+  }
+  this.exitFunctionScope();
+
+  if (this.strict && node.id) {
+    // Ensure the function name isn't a forbidden identifier in strict mode, e.g. 'eval'
+    this.checkLVal(node.id, "none");
+  }
+  this.strict = oldStrict;
+};
+
+pp$3.isSimpleParamList = function(params) {
+  for (var i = 0, list = params; i < list.length; i += 1)
+    {
+    var param = list[i];
+
+    if (param.type !== "Identifier") { return false
+  } }
+  return true
+};
+
+// Checks function params for various disallowed patterns such as using "eval"
+// or "arguments" and duplicate parameters.
+
+pp$3.checkParams = function(node, allowDuplicates) {
+  var this$1 = this;
+
+  var nameHash = {};
+  for (var i = 0, list = node.params; i < list.length; i += 1)
+    {
+    var param = list[i];
+
+    this$1.checkLVal(param, "var", allowDuplicates ? null : nameHash);
+  }
+};
+
+// Parses a comma-separated list of expressions, and returns them as
+// an array. `close` is the token type that ends the list, and
+// `allowEmpty` can be turned on to allow subsequent commas with
+// nothing in between them to be parsed as `null` (which is needed
+// for array literals).
+
+pp$3.parseExprList = function(close, allowTrailingComma, allowEmpty, refDestructuringErrors) {
+  var this$1 = this;
+
+  var elts = [], first = true;
+  while (!this.eat(close)) {
+    if (!first) {
+      this$1.expect(types.comma);
+      if (allowTrailingComma && this$1.afterTrailingComma(close)) { break }
+    } else { first = false; }
+
+    var elt = (void 0);
+    if (allowEmpty && this$1.type === types.comma)
+      { elt = null; }
+    else if (this$1.type === types.ellipsis) {
+      elt = this$1.parseSpread(refDestructuringErrors);
+      if (refDestructuringErrors && this$1.type === types.comma && refDestructuringErrors.trailingComma < 0)
+        { refDestructuringErrors.trailingComma = this$1.start; }
+    } else {
+      elt = this$1.parseMaybeAssign(false, refDestructuringErrors);
+    }
+    elts.push(elt);
+  }
+  return elts
+};
+
+pp$3.checkUnreserved = function(ref) {
+  var start = ref.start;
+  var end = ref.end;
+  var name = ref.name;
+
+  if (this.inGenerator && name === "yield")
+    { this.raiseRecoverable(start, "Can not use 'yield' as identifier inside a generator"); }
+  if (this.inAsync && name === "await")
+    { this.raiseRecoverable(start, "Can not use 'await' as identifier inside an async function"); }
+  if (this.isKeyword(name))
+    { this.raise(start, ("Unexpected keyword '" + name + "'")); }
+  if (this.options.ecmaVersion < 6 &&
+    this.input.slice(start, end).indexOf("\\") !== -1) { return }
+  var re = this.strict ? this.reservedWordsStrict : this.reservedWords;
+  if (re.test(name)) {
+    if (!this.inAsync && name === "await")
+      { this.raiseRecoverable(start, "Can not use keyword 'await' outside an async function"); }
+    this.raiseRecoverable(start, ("The keyword '" + name + "' is reserved"));
+  }
+};
+
+// Parse the next token as an identifier. If `liberal` is true (used
+// when parsing properties), it will also convert keywords into
+// identifiers.
+
+pp$3.parseIdent = function(liberal, isBinding) {
+  var node = this.startNode();
+  if (liberal && this.options.allowReserved === "never") { liberal = false; }
+  if (this.type === types.name) {
+    node.name = this.value;
+  } else if (this.type.keyword) {
+    node.name = this.type.keyword;
+
+    // To fix https://github.com/acornjs/acorn/issues/575
+    // `class` and `function` keywords push new context into this.context.
+    // But there is no chance to pop the context if the keyword is consumed as an identifier such as a property name.
+    // If the previous token is a dot, this does not apply because the context-managing code already ignored the keyword
+    if ((node.name === "class" || node.name === "function") &&
+        (this.lastTokEnd !== this.lastTokStart + 1 || this.input.charCodeAt(this.lastTokStart) !== 46)) {
+      this.context.pop();
+    }
+  } else {
+    this.unexpected();
+  }
+  this.next();
+  this.finishNode(node, "Identifier");
+  if (!liberal) { this.checkUnreserved(node); }
+  return node
+};
+
+// Parses yield expression inside generator.
+
+pp$3.parseYield = function() {
+  if (!this.yieldPos) { this.yieldPos = this.start; }
+
+  var node = this.startNode();
+  this.next();
+  if (this.type === types.semi || this.canInsertSemicolon() || (this.type !== types.star && !this.type.startsExpr)) {
+    node.delegate = false;
+    node.argument = null;
+  } else {
+    node.delegate = this.eat(types.star);
+    node.argument = this.parseMaybeAssign();
+  }
+  return this.finishNode(node, "YieldExpression")
+};
+
+pp$3.parseAwait = function() {
+  if (!this.awaitPos) { this.awaitPos = this.start; }
+
+  var node = this.startNode();
+  this.next();
+  node.argument = this.parseMaybeUnary(null, true);
+  return this.finishNode(node, "AwaitExpression")
+};
+
+var pp$4 = Parser.prototype;
+
+// This function is used to raise exceptions on parse errors. It
+// takes an offset integer (into the current `input`) to indicate
+// the location of the error, attaches the position to the end
+// of the error message, and then raises a `SyntaxError` with that
+// message.
+
+pp$4.raise = function(pos, message) {
+  var loc = getLineInfo(this.input, pos);
+  message += " (" + loc.line + ":" + loc.column + ")";
+  var err = new SyntaxError(message);
+  err.pos = pos; err.loc = loc; err.raisedAt = this.pos;
+  throw err
+};
+
+pp$4.raiseRecoverable = pp$4.raise;
+
+pp$4.curPosition = function() {
+  if (this.options.locations) {
+    return new Position(this.curLine, this.pos - this.lineStart)
+  }
+};
+
+var pp$5 = Parser.prototype;
+
+// Object.assign polyfill
+var assign = Object.assign || function(target) {
+  var sources = [], len = arguments.length - 1;
+  while ( len-- > 0 ) sources[ len ] = arguments[ len + 1 ];
+
+  for (var i = 0, list = sources; i < list.length; i += 1) {
+    var source = list[i];
+
+    for (var key in source) {
+      if (has(source, key)) {
+        target[key] = source[key];
+      }
+    }
+  }
+  return target
+};
+
+// The functions in this module keep track of declared variables in the current scope in order to detect duplicate variable names.
+
+pp$5.enterFunctionScope = function() {
+  // var: a hash of var-declared names in the current lexical scope
+  // lexical: a hash of lexically-declared names in the current lexical scope
+  // childVar: a hash of var-declared names in all child lexical scopes of the current lexical scope (within the current function scope)
+  // parentLexical: a hash of lexically-declared names in all parent lexical scopes of the current lexical scope (within the current function scope)
+  this.scopeStack.push({var: {}, lexical: {}, childVar: {}, parentLexical: {}});
+};
+
+pp$5.exitFunctionScope = function() {
+  this.scopeStack.pop();
+};
+
+pp$5.enterLexicalScope = function() {
+  var parentScope = this.scopeStack[this.scopeStack.length - 1];
+  var childScope = {var: {}, lexical: {}, childVar: {}, parentLexical: {}};
+
+  this.scopeStack.push(childScope);
+  assign(childScope.parentLexical, parentScope.lexical, parentScope.parentLexical);
+};
+
+pp$5.exitLexicalScope = function() {
+  var childScope = this.scopeStack.pop();
+  var parentScope = this.scopeStack[this.scopeStack.length - 1];
+
+  assign(parentScope.childVar, childScope.var, childScope.childVar);
+};
+
+/**
+ * A name can be declared with `var` if there are no variables with the same name declared with `let`/`const`
+ * in the current lexical scope or any of the parent lexical scopes in this function.
+ */
+pp$5.canDeclareVarName = function(name) {
+  var currentScope = this.scopeStack[this.scopeStack.length - 1];
+
+  return !has(currentScope.lexical, name) && !has(currentScope.parentLexical, name)
+};
+
+/**
+ * A name can be declared with `let`/`const` if there are no variables with the same name declared with `let`/`const`
+ * in the current scope, and there are no variables with the same name declared with `var` in the current scope or in
+ * any child lexical scopes in this function.
+ */
+pp$5.canDeclareLexicalName = function(name) {
+  var currentScope = this.scopeStack[this.scopeStack.length - 1];
+
+  return !has(currentScope.lexical, name) && !has(currentScope.var, name) && !has(currentScope.childVar, name)
+};
+
+pp$5.declareVarName = function(name) {
+  this.scopeStack[this.scopeStack.length - 1].var[name] = true;
+};
+
+pp$5.declareLexicalName = function(name) {
+  this.scopeStack[this.scopeStack.length - 1].lexical[name] = true;
+};
+
+var Node = function Node(parser, pos, loc) {
+  this.type = "";
+  this.start = pos;
+  this.end = 0;
+  if (parser.options.locations)
+    { this.loc = new SourceLocation(parser, loc); }
+  if (parser.options.directSourceFile)
+    { this.sourceFile = parser.options.directSourceFile; }
+  if (parser.options.ranges)
+    { this.range = [pos, 0]; }
+};
+
+// Start an AST node, attaching a start offset.
+
+var pp$6 = Parser.prototype;
+
+pp$6.startNode = function() {
+  return new Node(this, this.start, this.startLoc)
+};
+
+pp$6.startNodeAt = function(pos, loc) {
+  return new Node(this, pos, loc)
+};
+
+// Finish an AST node, adding `type` and `end` properties.
+
+function finishNodeAt(node, type, pos, loc) {
+  node.type = type;
+  node.end = pos;
+  if (this.options.locations)
+    { node.loc.end = loc; }
+  if (this.options.ranges)
+    { node.range[1] = pos; }
+  return node
+}
+
+pp$6.finishNode = function(node, type) {
+  return finishNodeAt.call(this, node, type, this.lastTokEnd, this.lastTokEndLoc)
+};
+
+// Finish node at given position
+
+pp$6.finishNodeAt = function(node, type, pos, loc) {
+  return finishNodeAt.call(this, node, type, pos, loc)
+};
+
+// The algorithm used to determine whether a regexp can appear at a
+// given point in the program is loosely based on sweet.js' approach.
+// See https://github.com/mozilla/sweet.js/wiki/design
+
+var TokContext = function TokContext(token, isExpr, preserveSpace, override, generator) {
+  this.token = token;
+  this.isExpr = !!isExpr;
+  this.preserveSpace = !!preserveSpace;
+  this.override = override;
+  this.generator = !!generator;
+};
+
+var types$1 = {
+  b_stat: new TokContext("{", false),
+  b_expr: new TokContext("{", true),
+  b_tmpl: new TokContext("${", false),
+  p_stat: new TokContext("(", false),
+  p_expr: new TokContext("(", true),
+  q_tmpl: new TokContext("`", true, true, function (p) { return p.tryReadTemplateToken(); }),
+  f_stat: new TokContext("function", false),
+  f_expr: new TokContext("function", true),
+  f_expr_gen: new TokContext("function", true, false, null, true),
+  f_gen: new TokContext("function", false, false, null, true)
+};
+
+var pp$7 = Parser.prototype;
+
+pp$7.initialContext = function() {
+  return [types$1.b_stat]
+};
+
+pp$7.braceIsBlock = function(prevType) {
+  var parent = this.curContext();
+  if (parent === types$1.f_expr || parent === types$1.f_stat)
+    { return true }
+  if (prevType === types.colon && (parent === types$1.b_stat || parent === types$1.b_expr))
+    { return !parent.isExpr }
+
+  // The check for `tt.name && exprAllowed` detects whether we are
+  // after a `yield` or `of` construct. See the `updateContext` for
+  // `tt.name`.
+  if (prevType === types._return || prevType === types.name && this.exprAllowed)
+    { return lineBreak.test(this.input.slice(this.lastTokEnd, this.start)) }
+  if (prevType === types._else || prevType === types.semi || prevType === types.eof || prevType === types.parenR || prevType === types.arrow)
+    { return true }
+  if (prevType === types.braceL)
+    { return parent === types$1.b_stat }
+  if (prevType === types._var || prevType === types.name)
+    { return false }
+  return !this.exprAllowed
+};
+
+pp$7.inGeneratorContext = function() {
+  var this$1 = this;
+
+  for (var i = this.context.length - 1; i >= 1; i--) {
+    var context = this$1.context[i];
+    if (context.token === "function")
+      { return context.generator }
+  }
+  return false
+};
+
+pp$7.updateContext = function(prevType) {
+  var update, type = this.type;
+  if (type.keyword && prevType === types.dot)
+    { this.exprAllowed = false; }
+  else if (update = type.updateContext)
+    { update.call(this, prevType); }
+  else
+    { this.exprAllowed = type.beforeExpr; }
+};
+
+// Token-specific context update code
+
+types.parenR.updateContext = types.braceR.updateContext = function() {
+  if (this.context.length === 1) {
+    this.exprAllowed = true;
+    return
+  }
+  var out = this.context.pop();
+  if (out === types$1.b_stat && this.curContext().token === "function") {
+    out = this.context.pop();
+  }
+  this.exprAllowed = !out.isExpr;
+};
+
+types.braceL.updateContext = function(prevType) {
+  this.context.push(this.braceIsBlock(prevType) ? types$1.b_stat : types$1.b_expr);
+  this.exprAllowed = true;
+};
+
+types.dollarBraceL.updateContext = function() {
+  this.context.push(types$1.b_tmpl);
+  this.exprAllowed = true;
+};
+
+types.parenL.updateContext = function(prevType) {
+  var statementParens = prevType === types._if || prevType === types._for || prevType === types._with || prevType === types._while;
+  this.context.push(statementParens ? types$1.p_stat : types$1.p_expr);
+  this.exprAllowed = true;
+};
+
+types.incDec.updateContext = function() {
+  // tokExprAllowed stays unchanged
+};
+
+types._function.updateContext = types._class.updateContext = function(prevType) {
+  if (prevType.beforeExpr && prevType !== types.semi && prevType !== types._else &&
+      !((prevType === types.colon || prevType === types.braceL) && this.curContext() === types$1.b_stat))
+    { this.context.push(types$1.f_expr); }
+  else
+    { this.context.push(types$1.f_stat); }
+  this.exprAllowed = false;
+};
+
+types.backQuote.updateContext = function() {
+  if (this.curContext() === types$1.q_tmpl)
+    { this.context.pop(); }
+  else
+    { this.context.push(types$1.q_tmpl); }
+  this.exprAllowed = false;
+};
+
+types.star.updateContext = function(prevType) {
+  if (prevType === types._function) {
+    var index = this.context.length - 1;
+    if (this.context[index] === types$1.f_expr)
+      { this.context[index] = types$1.f_expr_gen; }
+    else
+      { this.context[index] = types$1.f_gen; }
+  }
+  this.exprAllowed = true;
+};
+
+types.name.updateContext = function(prevType) {
+  var allowed = false;
+  if (this.options.ecmaVersion >= 6 && prevType !== types.dot) {
+    if (this.value === "of" && !this.exprAllowed ||
+        this.value === "yield" && this.inGeneratorContext())
+      { allowed = true; }
+  }
+  this.exprAllowed = allowed;
+};
+
+var data = {
+  "$LONE": [
+    "ASCII",
+    "ASCII_Hex_Digit",
+    "AHex",
+    "Alphabetic",
+    "Alpha",
+    "Any",
+    "Assigned",
+    "Bidi_Control",
+    "Bidi_C",
+    "Bidi_Mirrored",
+    "Bidi_M",
+    "Case_Ignorable",
+    "CI",
+    "Cased",
+    "Changes_When_Casefolded",
+    "CWCF",
+    "Changes_When_Casemapped",
+    "CWCM",
+    "Changes_When_Lowercased",
+    "CWL",
+    "Changes_When_NFKC_Casefolded",
+    "CWKCF",
+    "Changes_When_Titlecased",
+    "CWT",
+    "Changes_When_Uppercased",
+    "CWU",
+    "Dash",
+    "Default_Ignorable_Code_Point",
+    "DI",
+    "Deprecated",
+    "Dep",
+    "Diacritic",
+    "Dia",
+    "Emoji",
+    "Emoji_Component",
+    "Emoji_Modifier",
+    "Emoji_Modifier_Base",
+    "Emoji_Presentation",
+    "Extender",
+    "Ext",
+    "Grapheme_Base",
+    "Gr_Base",
+    "Grapheme_Extend",
+    "Gr_Ext",
+    "Hex_Digit",
+    "Hex",
+    "IDS_Binary_Operator",
+    "IDSB",
+    "IDS_Trinary_Operator",
+    "IDST",
+    "ID_Continue",
+    "IDC",
+    "ID_Start",
+    "IDS",
+    "Ideographic",
+    "Ideo",
+    "Join_Control",
+    "Join_C",
+    "Logical_Order_Exception",
+    "LOE",
+    "Lowercase",
+    "Lower",
+    "Math",
+    "Noncharacter_Code_Point",
+    "NChar",
+    "Pattern_Syntax",
+    "Pat_Syn",
+    "Pattern_White_Space",
+    "Pat_WS",
+    "Quotation_Mark",
+    "QMark",
+    "Radical",
+    "Regional_Indicator",
+    "RI",
+    "Sentence_Terminal",
+    "STerm",
+    "Soft_Dotted",
+    "SD",
+    "Terminal_Punctuation",
+    "Term",
+    "Unified_Ideograph",
+    "UIdeo",
+    "Uppercase",
+    "Upper",
+    "Variation_Selector",
+    "VS",
+    "White_Space",
+    "space",
+    "XID_Continue",
+    "XIDC",
+    "XID_Start",
+    "XIDS"
+  ],
+  "General_Category": [
+    "Cased_Letter",
+    "LC",
+    "Close_Punctuation",
+    "Pe",
+    "Connector_Punctuation",
+    "Pc",
+    "Control",
+    "Cc",
+    "cntrl",
+    "Currency_Symbol",
+    "Sc",
+    "Dash_Punctuation",
+    "Pd",
+    "Decimal_Number",
+    "Nd",
+    "digit",
+    "Enclosing_Mark",
+    "Me",
+    "Final_Punctuation",
+    "Pf",
+    "Format",
+    "Cf",
+    "Initial_Punctuation",
+    "Pi",
+    "Letter",
+    "L",
+    "Letter_Number",
+    "Nl",
+    "Line_Separator",
+    "Zl",
+    "Lowercase_Letter",
+    "Ll",
+    "Mark",
+    "M",
+    "Combining_Mark",
+    "Math_Symbol",
+    "Sm",
+    "Modifier_Letter",
+    "Lm",
+    "Modifier_Symbol",
+    "Sk",
+    "Nonspacing_Mark",
+    "Mn",
+    "Number",
+    "N",
+    "Open_Punctuation",
+    "Ps",
+    "Other",
+    "C",
+    "Other_Letter",
+    "Lo",
+    "Other_Number",
+    "No",
+    "Other_Punctuation",
+    "Po",
+    "Other_Symbol",
+    "So",
+    "Paragraph_Separator",
+    "Zp",
+    "Private_Use",
+    "Co",
+    "Punctuation",
+    "P",
+    "punct",
+    "Separator",
+    "Z",
+    "Space_Separator",
+    "Zs",
+    "Spacing_Mark",
+    "Mc",
+    "Surrogate",
+    "Cs",
+    "Symbol",
+    "S",
+    "Titlecase_Letter",
+    "Lt",
+    "Unassigned",
+    "Cn",
+    "Uppercase_Letter",
+    "Lu"
+  ],
+  "Script": [
+    "Adlam",
+    "Adlm",
+    "Ahom",
+    "Anatolian_Hieroglyphs",
+    "Hluw",
+    "Arabic",
+    "Arab",
+    "Armenian",
+    "Armn",
+    "Avestan",
+    "Avst",
+    "Balinese",
+    "Bali",
+    "Bamum",
+    "Bamu",
+    "Bassa_Vah",
+    "Bass",
+    "Batak",
+    "Batk",
+    "Bengali",
+    "Beng",
+    "Bhaiksuki",
+    "Bhks",
+    "Bopomofo",
+    "Bopo",
+    "Brahmi",
+    "Brah",
+    "Braille",
+    "Brai",
+    "Buginese",
+    "Bugi",
+    "Buhid",
+    "Buhd",
+    "Canadian_Aboriginal",
+    "Cans",
+    "Carian",
+    "Cari",
+    "Caucasian_Albanian",
+    "Aghb",
+    "Chakma",
+    "Cakm",
+    "Cham",
+    "Cherokee",
+    "Cher",
+    "Common",
+    "Zyyy",
+    "Coptic",
+    "Copt",
+    "Qaac",
+    "Cuneiform",
+    "Xsux",
+    "Cypriot",
+    "Cprt",
+    "Cyrillic",
+    "Cyrl",
+    "Deseret",
+    "Dsrt",
+    "Devanagari",
+    "Deva",
+    "Duployan",
+    "Dupl",
+    "Egyptian_Hieroglyphs",
+    "Egyp",
+    "Elbasan",
+    "Elba",
+    "Ethiopic",
+    "Ethi",
+    "Georgian",
+    "Geor",
+    "Glagolitic",
+    "Glag",
+    "Gothic",
+    "Goth",
+    "Grantha",
+    "Gran",
+    "Greek",
+    "Grek",
+    "Gujarati",
+    "Gujr",
+    "Gurmukhi",
+    "Guru",
+    "Han",
+    "Hani",
+    "Hangul",
+    "Hang",
+    "Hanunoo",
+    "Hano",
+    "Hatran",
+    "Hatr",
+    "Hebrew",
+    "Hebr",
+    "Hiragana",
+    "Hira",
+    "Imperial_Aramaic",
+    "Armi",
+    "Inherited",
+    "Zinh",
+    "Qaai",
+    "Inscriptional_Pahlavi",
+    "Phli",
+    "Inscriptional_Parthian",
+    "Prti",
+    "Javanese",
+    "Java",
+    "Kaithi",
+    "Kthi",
+    "Kannada",
+    "Knda",
+    "Katakana",
+    "Kana",
+    "Kayah_Li",
+    "Kali",
+    "Kharoshthi",
+    "Khar",
+    "Khmer",
+    "Khmr",
+    "Khojki",
+    "Khoj",
+    "Khudawadi",
+    "Sind",
+    "Lao",
+    "Laoo",
+    "Latin",
+    "Latn",
+    "Lepcha",
+    "Lepc",
+    "Limbu",
+    "Limb",
+    "Linear_A",
+    "Lina",
+    "Linear_B",
+    "Linb",
+    "Lisu",
+    "Lycian",
+    "Lyci",
+    "Lydian",
+    "Lydi",
+    "Mahajani",
+    "Mahj",
+    "Malayalam",
+    "Mlym",
+    "Mandaic",
+    "Mand",
+    "Manichaean",
+    "Mani",
+    "Marchen",
+    "Marc",
+    "Masaram_Gondi",
+    "Gonm",
+    "Meetei_Mayek",
+    "Mtei",
+    "Mende_Kikakui",
+    "Mend",
+    "Meroitic_Cursive",
+    "Merc",
+    "Meroitic_Hieroglyphs",
+    "Mero",
+    "Miao",
+    "Plrd",
+    "Modi",
+    "Mongolian",
+    "Mong",
+    "Mro",
+    "Mroo",
+    "Multani",
+    "Mult",
+    "Myanmar",
+    "Mymr",
+    "Nabataean",
+    "Nbat",
+    "New_Tai_Lue",
+    "Talu",
+    "Newa",
+    "Nko",
+    "Nkoo",
+    "Nushu",
+    "Nshu",
+    "Ogham",
+    "Ogam",
+    "Ol_Chiki",
+    "Olck",
+    "Old_Hungarian",
+    "Hung",
+    "Old_Italic",
+    "Ital",
+    "Old_North_Arabian",
+    "Narb",
+    "Old_Permic",
+    "Perm",
+    "Old_Persian",
+    "Xpeo",
+    "Old_South_Arabian",
+    "Sarb",
+    "Old_Turkic",
+    "Orkh",
+    "Oriya",
+    "Orya",
+    "Osage",
+    "Osge",
+    "Osmanya",
+    "Osma",
+    "Pahawh_Hmong",
+    "Hmng",
+    "Palmyrene",
+    "Palm",
+    "Pau_Cin_Hau",
+    "Pauc",
+    "Phags_Pa",
+    "Phag",
+    "Phoenician",
+    "Phnx",
+    "Psalter_Pahlavi",
+    "Phlp",
+    "Rejang",
+    "Rjng",
+    "Runic",
+    "Runr",
+    "Samaritan",
+    "Samr",
+    "Saurashtra",
+    "Saur",
+    "Sharada",
+    "Shrd",
+    "Shavian",
+    "Shaw",
+    "Siddham",
+    "Sidd",
+    "SignWriting",
+    "Sgnw",
+    "Sinhala",
+    "Sinh",
+    "Sora_Sompeng",
+    "Sora",
+    "Soyombo",
+    "Soyo",
+    "Sundanese",
+    "Sund",
+    "Syloti_Nagri",
+    "Sylo",
+    "Syriac",
+    "Syrc",
+    "Tagalog",
+    "Tglg",
+    "Tagbanwa",
+    "Tagb",
+    "Tai_Le",
+    "Tale",
+    "Tai_Tham",
+    "Lana",
+    "Tai_Viet",
+    "Tavt",
+    "Takri",
+    "Takr",
+    "Tamil",
+    "Taml",
+    "Tangut",
+    "Tang",
+    "Telugu",
+    "Telu",
+    "Thaana",
+    "Thaa",
+    "Thai",
+    "Tibetan",
+    "Tibt",
+    "Tifinagh",
+    "Tfng",
+    "Tirhuta",
+    "Tirh",
+    "Ugaritic",
+    "Ugar",
+    "Vai",
+    "Vaii",
+    "Warang_Citi",
+    "Wara",
+    "Yi",
+    "Yiii",
+    "Zanabazar_Square",
+    "Zanb"
+  ]
+};
+Array.prototype.push.apply(data.$LONE, data.General_Category);
+data.gc = data.General_Category;
+data.sc = data.Script_Extensions = data.scx = data.Script;
+
+var pp$9 = Parser.prototype;
+
+var RegExpValidationState = function RegExpValidationState(parser) {
+  this.parser = parser;
+  this.validFlags = "gim" + (parser.options.ecmaVersion >= 6 ? "uy" : "") + (parser.options.ecmaVersion >= 9 ? "s" : "");
+  this.source = "";
+  this.flags = "";
+  this.start = 0;
+  this.switchU = false;
+  this.switchN = false;
+  this.pos = 0;
+  this.lastIntValue = 0;
+  this.lastStringValue = "";
+  this.lastAssertionIsQuantifiable = false;
+  this.numCapturingParens = 0;
+  this.maxBackReference = 0;
+  this.groupNames = [];
+  this.backReferenceNames = [];
+};
+
+RegExpValidationState.prototype.reset = function reset (start, pattern, flags) {
+  var unicode = flags.indexOf("u") !== -1;
+  this.start = start | 0;
+  this.source = pattern + "";
+  this.flags = flags;
+  this.switchU = unicode && this.parser.options.ecmaVersion >= 6;
+  this.switchN = unicode && this.parser.options.ecmaVersion >= 9;
+};
+
+RegExpValidationState.prototype.raise = function raise (message) {
+  this.parser.raiseRecoverable(this.start, ("Invalid regular expression: /" + (this.source) + "/: " + message));
+};
+
+// If u flag is given, this returns the code point at the index (it combines a surrogate pair).
+// Otherwise, this returns the code unit of the index (can be a part of a surrogate pair).
+RegExpValidationState.prototype.at = function at (i) {
+  var s = this.source;
+  var l = s.length;
+  if (i >= l) {
+    return -1
+  }
+  var c = s.charCodeAt(i);
+  if (!this.switchU || c <= 0xD7FF || c >= 0xE000 || i + 1 >= l) {
+    return c
+  }
+  return (c << 10) + s.charCodeAt(i + 1) - 0x35FDC00
+};
+
+RegExpValidationState.prototype.nextIndex = function nextIndex (i) {
+  var s = this.source;
+  var l = s.length;
+  if (i >= l) {
+    return l
+  }
+  var c = s.charCodeAt(i);
+  if (!this.switchU || c <= 0xD7FF || c >= 0xE000 || i + 1 >= l) {
+    return i + 1
+  }
+  return i + 2
+};
+
+RegExpValidationState.prototype.current = function current () {
+  return this.at(this.pos)
+};
+
+RegExpValidationState.prototype.lookahead = function lookahead () {
+  return this.at(this.nextIndex(this.pos))
+};
+
+RegExpValidationState.prototype.advance = function advance () {
+  this.pos = this.nextIndex(this.pos);
+};
+
+RegExpValidationState.prototype.eat = function eat (ch) {
+  if (this.current() === ch) {
+    this.advance();
+    return true
+  }
+  return false
+};
+
+function codePointToString$1(ch) {
+  if (ch <= 0xFFFF) { return String.fromCharCode(ch) }
+  ch -= 0x10000;
+  return String.fromCharCode((ch >> 10) + 0xD800, (ch & 0x03FF) + 0xDC00)
+}
+
+/**
+ * Validate the flags part of a given RegExpLiteral.
+ *
+ * @param {RegExpValidationState} state The state to validate RegExp.
+ * @returns {void}
+ */
+pp$9.validateRegExpFlags = function(state) {
+  var this$1 = this;
+
+  var validFlags = state.validFlags;
+  var flags = state.flags;
+
+  for (var i = 0; i < flags.length; i++) {
+    var flag = flags.charAt(i);
+    if (validFlags.indexOf(flag) === -1) {
+      this$1.raise(state.start, "Invalid regular expression flag");
+    }
+    if (flags.indexOf(flag, i + 1) > -1) {
+      this$1.raise(state.start, "Duplicate regular expression flag");
+    }
+  }
+};
+
+/**
+ * Validate the pattern part of a given RegExpLiteral.
+ *
+ * @param {RegExpValidationState} state The state to validate RegExp.
+ * @returns {void}
+ */
+pp$9.validateRegExpPattern = function(state) {
+  this.regexp_pattern(state);
+
+  // The goal symbol for the parse is |Pattern[~U, ~N]|. If the result of
+  // parsing contains a |GroupName|, reparse with the goal symbol
+  // |Pattern[~U, +N]| and use this result instead. Throw a *SyntaxError*
+  // exception if _P_ did not conform to the grammar, if any elements of _P_
+  // were not matched by the parse, or if any Early Error conditions exist.
+  if (!state.switchN && this.options.ecmaVersion >= 9 && state.groupNames.length > 0) {
+    state.switchN = true;
+    this.regexp_pattern(state);
+  }
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-Pattern
+pp$9.regexp_pattern = function(state) {
+  state.pos = 0;
+  state.lastIntValue = 0;
+  state.lastStringValue = "";
+  state.lastAssertionIsQuantifiable = false;
+  state.numCapturingParens = 0;
+  state.maxBackReference = 0;
+  state.groupNames.length = 0;
+  state.backReferenceNames.length = 0;
+
+  this.regexp_disjunction(state);
+
+  if (state.pos !== state.source.length) {
+    // Make the same messages as V8.
+    if (state.eat(0x29 /* ) */)) {
+      state.raise("Unmatched ')'");
+    }
+    if (state.eat(0x5D /* [ */) || state.eat(0x7D /* } */)) {
+      state.raise("Lone quantifier brackets");
+    }
+  }
+  if (state.maxBackReference > state.numCapturingParens) {
+    state.raise("Invalid escape");
+  }
+  for (var i = 0, list = state.backReferenceNames; i < list.length; i += 1) {
+    var name = list[i];
+
+    if (state.groupNames.indexOf(name) === -1) {
+      state.raise("Invalid named capture referenced");
+    }
+  }
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-Disjunction
+pp$9.regexp_disjunction = function(state) {
+  var this$1 = this;
+
+  this.regexp_alternative(state);
+  while (state.eat(0x7C /* | */)) {
+    this$1.regexp_alternative(state);
+  }
+
+  // Make the same message as V8.
+  if (this.regexp_eatQuantifier(state, true)) {
+    state.raise("Nothing to repeat");
+  }
+  if (state.eat(0x7B /* { */)) {
+    state.raise("Lone quantifier brackets");
+  }
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-Alternative
+pp$9.regexp_alternative = function(state) {
+  while (state.pos < state.source.length && this.regexp_eatTerm(state))
+    {  }
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-Term
+pp$9.regexp_eatTerm = function(state) {
+  if (this.regexp_eatAssertion(state)) {
+    // Handle `QuantifiableAssertion Quantifier` alternative.
+    // `state.lastAssertionIsQuantifiable` is true if the last eaten Assertion
+    // is a QuantifiableAssertion.
+    if (state.lastAssertionIsQuantifiable && this.regexp_eatQuantifier(state)) {
+      // Make the same message as V8.
+      if (state.switchU) {
+        state.raise("Invalid quantifier");
+      }
+    }
+    return true
+  }
+
+  if (state.switchU ? this.regexp_eatAtom(state) : this.regexp_eatExtendedAtom(state)) {
+    this.regexp_eatQuantifier(state);
+    return true
+  }
+
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-Assertion
+pp$9.regexp_eatAssertion = function(state) {
+  var start = state.pos;
+  state.lastAssertionIsQuantifiable = false;
+
+  // ^, $
+  if (state.eat(0x5E /* ^ */) || state.eat(0x24 /* $ */)) {
+    return true
+  }
+
+  // \b \B
+  if (state.eat(0x5C /* \ */)) {
+    if (state.eat(0x42 /* B */) || state.eat(0x62 /* b */)) {
+      return true
+    }
+    state.pos = start;
+  }
+
+  // Lookahead / Lookbehind
+  if (state.eat(0x28 /* ( */) && state.eat(0x3F /* ? */)) {
+    var lookbehind = false;
+    if (this.options.ecmaVersion >= 9) {
+      lookbehind = state.eat(0x3C /* < */);
+    }
+    if (state.eat(0x3D /* = */) || state.eat(0x21 /* ! */)) {
+      this.regexp_disjunction(state);
+      if (!state.eat(0x29 /* ) */)) {
+        state.raise("Unterminated group");
+      }
+      state.lastAssertionIsQuantifiable = !lookbehind;
+      return true
+    }
+  }
+
+  state.pos = start;
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-Quantifier
+pp$9.regexp_eatQuantifier = function(state, noError) {
+  if ( noError === void 0 ) noError = false;
+
+  if (this.regexp_eatQuantifierPrefix(state, noError)) {
+    state.eat(0x3F /* ? */);
+    return true
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-QuantifierPrefix
+pp$9.regexp_eatQuantifierPrefix = function(state, noError) {
+  return (
+    state.eat(0x2A /* * */) ||
+    state.eat(0x2B /* + */) ||
+    state.eat(0x3F /* ? */) ||
+    this.regexp_eatBracedQuantifier(state, noError)
+  )
+};
+pp$9.regexp_eatBracedQuantifier = function(state, noError) {
+  var start = state.pos;
+  if (state.eat(0x7B /* { */)) {
+    var min = 0, max = -1;
+    if (this.regexp_eatDecimalDigits(state)) {
+      min = state.lastIntValue;
+      if (state.eat(0x2C /* , */) && this.regexp_eatDecimalDigits(state)) {
+        max = state.lastIntValue;
+      }
+      if (state.eat(0x7D /* } */)) {
+        // SyntaxError in https://www.ecma-international.org/ecma-262/8.0/#sec-term
+        if (max !== -1 && max < min && !noError) {
+          state.raise("numbers out of order in {} quantifier");
+        }
+        return true
+      }
+    }
+    if (state.switchU && !noError) {
+      state.raise("Incomplete quantifier");
+    }
+    state.pos = start;
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-Atom
+pp$9.regexp_eatAtom = function(state) {
+  return (
+    this.regexp_eatPatternCharacters(state) ||
+    state.eat(0x2E /* . */) ||
+    this.regexp_eatReverseSolidusAtomEscape(state) ||
+    this.regexp_eatCharacterClass(state) ||
+    this.regexp_eatUncapturingGroup(state) ||
+    this.regexp_eatCapturingGroup(state)
+  )
+};
+pp$9.regexp_eatReverseSolidusAtomEscape = function(state) {
+  var start = state.pos;
+  if (state.eat(0x5C /* \ */)) {
+    if (this.regexp_eatAtomEscape(state)) {
+      return true
+    }
+    state.pos = start;
+  }
+  return false
+};
+pp$9.regexp_eatUncapturingGroup = function(state) {
+  var start = state.pos;
+  if (state.eat(0x28 /* ( */)) {
+    if (state.eat(0x3F /* ? */) && state.eat(0x3A /* : */)) {
+      this.regexp_disjunction(state);
+      if (state.eat(0x29 /* ) */)) {
+        return true
+      }
+      state.raise("Unterminated group");
+    }
+    state.pos = start;
+  }
+  return false
+};
+pp$9.regexp_eatCapturingGroup = function(state) {
+  if (state.eat(0x28 /* ( */)) {
+    if (this.options.ecmaVersion >= 9) {
+      this.regexp_groupSpecifier(state);
+    } else if (state.current() === 0x3F /* ? */) {
+      state.raise("Invalid group");
+    }
+    this.regexp_disjunction(state);
+    if (state.eat(0x29 /* ) */)) {
+      state.numCapturingParens += 1;
+      return true
+    }
+    state.raise("Unterminated group");
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-ExtendedAtom
+pp$9.regexp_eatExtendedAtom = function(state) {
+  return (
+    state.eat(0x2E /* . */) ||
+    this.regexp_eatReverseSolidusAtomEscape(state) ||
+    this.regexp_eatCharacterClass(state) ||
+    this.regexp_eatUncapturingGroup(state) ||
+    this.regexp_eatCapturingGroup(state) ||
+    this.regexp_eatInvalidBracedQuantifier(state) ||
+    this.regexp_eatExtendedPatternCharacter(state)
+  )
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-InvalidBracedQuantifier
+pp$9.regexp_eatInvalidBracedQuantifier = function(state) {
+  if (this.regexp_eatBracedQuantifier(state, true)) {
+    state.raise("Nothing to repeat");
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-SyntaxCharacter
+pp$9.regexp_eatSyntaxCharacter = function(state) {
+  var ch = state.current();
+  if (isSyntaxCharacter(ch)) {
+    state.lastIntValue = ch;
+    state.advance();
+    return true
+  }
+  return false
+};
+function isSyntaxCharacter(ch) {
+  return (
+    ch === 0x24 /* $ */ ||
+    ch >= 0x28 /* ( */ && ch <= 0x2B /* + */ ||
+    ch === 0x2E /* . */ ||
+    ch === 0x3F /* ? */ ||
+    ch >= 0x5B /* [ */ && ch <= 0x5E /* ^ */ ||
+    ch >= 0x7B /* { */ && ch <= 0x7D /* } */
+  )
+}
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-PatternCharacter
+// But eat eager.
+pp$9.regexp_eatPatternCharacters = function(state) {
+  var start = state.pos;
+  var ch = 0;
+  while ((ch = state.current()) !== -1 && !isSyntaxCharacter(ch)) {
+    state.advance();
+  }
+  return state.pos !== start
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-ExtendedPatternCharacter
+pp$9.regexp_eatExtendedPatternCharacter = function(state) {
+  var ch = state.current();
+  if (
+    ch !== -1 &&
+    ch !== 0x24 /* $ */ &&
+    !(ch >= 0x28 /* ( */ && ch <= 0x2B /* + */) &&
+    ch !== 0x2E /* . */ &&
+    ch !== 0x3F /* ? */ &&
+    ch !== 0x5B /* [ */ &&
+    ch !== 0x5E /* ^ */ &&
+    ch !== 0x7C /* | */
+  ) {
+    state.advance();
+    return true
+  }
+  return false
+};
+
+// GroupSpecifier[U] ::
+//   [empty]
+//   `?` GroupName[?U]
+pp$9.regexp_groupSpecifier = function(state) {
+  if (state.eat(0x3F /* ? */)) {
+    if (this.regexp_eatGroupName(state)) {
+      if (state.groupNames.indexOf(state.lastStringValue) !== -1) {
+        state.raise("Duplicate capture group name");
+      }
+      state.groupNames.push(state.lastStringValue);
+      return
+    }
+    state.raise("Invalid group");
+  }
+};
+
+// GroupName[U] ::
+//   `<` RegExpIdentifierName[?U] `>`
+// Note: this updates `state.lastStringValue` property with the eaten name.
+pp$9.regexp_eatGroupName = function(state) {
+  state.lastStringValue = "";
+  if (state.eat(0x3C /* < */)) {
+    if (this.regexp_eatRegExpIdentifierName(state) && state.eat(0x3E /* > */)) {
+      return true
+    }
+    state.raise("Invalid capture group name");
+  }
+  return false
+};
+
+// RegExpIdentifierName[U] ::
+//   RegExpIdentifierStart[?U]
+//   RegExpIdentifierName[?U] RegExpIdentifierPart[?U]
+// Note: this updates `state.lastStringValue` property with the eaten name.
+pp$9.regexp_eatRegExpIdentifierName = function(state) {
+  state.lastStringValue = "";
+  if (this.regexp_eatRegExpIdentifierStart(state)) {
+    state.lastStringValue += codePointToString$1(state.lastIntValue);
+    while (this.regexp_eatRegExpIdentifierPart(state)) {
+      state.lastStringValue += codePointToString$1(state.lastIntValue);
+    }
+    return true
+  }
+  return false
+};
+
+// RegExpIdentifierStart[U] ::
+//   UnicodeIDStart
+//   `$`
+//   `_`
+//   `\` RegExpUnicodeEscapeSequence[?U]
+pp$9.regexp_eatRegExpIdentifierStart = function(state) {
+  var start = state.pos;
+  var ch = state.current();
+  state.advance();
+
+  if (ch === 0x5C /* \ */ && this.regexp_eatRegExpUnicodeEscapeSequence(state)) {
+    ch = state.lastIntValue;
+  }
+  if (isRegExpIdentifierStart(ch)) {
+    state.lastIntValue = ch;
+    return true
+  }
+
+  state.pos = start;
+  return false
+};
+function isRegExpIdentifierStart(ch) {
+  return isIdentifierStart(ch, true) || ch === 0x24 /* $ */ || ch === 0x5F /* _ */
+}
+
+// RegExpIdentifierPart[U] ::
+//   UnicodeIDContinue
+//   `$`
+//   `_`
+//   `\` RegExpUnicodeEscapeSequence[?U]
+//   <ZWNJ>
+//   <ZWJ>
+pp$9.regexp_eatRegExpIdentifierPart = function(state) {
+  var start = state.pos;
+  var ch = state.current();
+  state.advance();
+
+  if (ch === 0x5C /* \ */ && this.regexp_eatRegExpUnicodeEscapeSequence(state)) {
+    ch = state.lastIntValue;
+  }
+  if (isRegExpIdentifierPart(ch)) {
+    state.lastIntValue = ch;
+    return true
+  }
+
+  state.pos = start;
+  return false
+};
+function isRegExpIdentifierPart(ch) {
+  return isIdentifierChar(ch, true) || ch === 0x24 /* $ */ || ch === 0x5F /* _ */ || ch === 0x200C /* <ZWNJ> */ || ch === 0x200D /* <ZWJ> */
+}
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-AtomEscape
+pp$9.regexp_eatAtomEscape = function(state) {
+  if (
+    this.regexp_eatBackReference(state) ||
+    this.regexp_eatCharacterClassEscape(state) ||
+    this.regexp_eatCharacterEscape(state) ||
+    (state.switchN && this.regexp_eatKGroupName(state))
+  ) {
+    return true
+  }
+  if (state.switchU) {
+    // Make the same message as V8.
+    if (state.current() === 0x63 /* c */) {
+      state.raise("Invalid unicode escape");
+    }
+    state.raise("Invalid escape");
+  }
+  return false
+};
+pp$9.regexp_eatBackReference = function(state) {
+  var start = state.pos;
+  if (this.regexp_eatDecimalEscape(state)) {
+    var n = state.lastIntValue;
+    if (state.switchU) {
+      // For SyntaxError in https://www.ecma-international.org/ecma-262/8.0/#sec-atomescape
+      if (n > state.maxBackReference) {
+        state.maxBackReference = n;
+      }
+      return true
+    }
+    if (n <= state.numCapturingParens) {
+      return true
+    }
+    state.pos = start;
+  }
+  return false
+};
+pp$9.regexp_eatKGroupName = function(state) {
+  if (state.eat(0x6B /* k */)) {
+    if (this.regexp_eatGroupName(state)) {
+      state.backReferenceNames.push(state.lastStringValue);
+      return true
+    }
+    state.raise("Invalid named reference");
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-CharacterEscape
+pp$9.regexp_eatCharacterEscape = function(state) {
+  return (
+    this.regexp_eatControlEscape(state) ||
+    this.regexp_eatCControlLetter(state) ||
+    this.regexp_eatZero(state) ||
+    this.regexp_eatHexEscapeSequence(state) ||
+    this.regexp_eatRegExpUnicodeEscapeSequence(state) ||
+    (!state.switchU && this.regexp_eatLegacyOctalEscapeSequence(state)) ||
+    this.regexp_eatIdentityEscape(state)
+  )
+};
+pp$9.regexp_eatCControlLetter = function(state) {
+  var start = state.pos;
+  if (state.eat(0x63 /* c */)) {
+    if (this.regexp_eatControlLetter(state)) {
+      return true
+    }
+    state.pos = start;
+  }
+  return false
+};
+pp$9.regexp_eatZero = function(state) {
+  if (state.current() === 0x30 /* 0 */ && !isDecimalDigit(state.lookahead())) {
+    state.lastIntValue = 0;
+    state.advance();
+    return true
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-ControlEscape
+pp$9.regexp_eatControlEscape = function(state) {
+  var ch = state.current();
+  if (ch === 0x74 /* t */) {
+    state.lastIntValue = 0x09; /* \t */
+    state.advance();
+    return true
+  }
+  if (ch === 0x6E /* n */) {
+    state.lastIntValue = 0x0A; /* \n */
+    state.advance();
+    return true
+  }
+  if (ch === 0x76 /* v */) {
+    state.lastIntValue = 0x0B; /* \v */
+    state.advance();
+    return true
+  }
+  if (ch === 0x66 /* f */) {
+    state.lastIntValue = 0x0C; /* \f */
+    state.advance();
+    return true
+  }
+  if (ch === 0x72 /* r */) {
+    state.lastIntValue = 0x0D; /* \r */
+    state.advance();
+    return true
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-ControlLetter
+pp$9.regexp_eatControlLetter = function(state) {
+  var ch = state.current();
+  if (isControlLetter(ch)) {
+    state.lastIntValue = ch % 0x20;
+    state.advance();
+    return true
+  }
+  return false
+};
+function isControlLetter(ch) {
+  return (
+    (ch >= 0x41 /* A */ && ch <= 0x5A /* Z */) ||
+    (ch >= 0x61 /* a */ && ch <= 0x7A /* z */)
+  )
+}
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-RegExpUnicodeEscapeSequence
+pp$9.regexp_eatRegExpUnicodeEscapeSequence = function(state) {
+  var start = state.pos;
+
+  if (state.eat(0x75 /* u */)) {
+    if (this.regexp_eatFixedHexDigits(state, 4)) {
+      var lead = state.lastIntValue;
+      if (state.switchU && lead >= 0xD800 && lead <= 0xDBFF) {
+        var leadSurrogateEnd = state.pos;
+        if (state.eat(0x5C /* \ */) && state.eat(0x75 /* u */) && this.regexp_eatFixedHexDigits(state, 4)) {
+          var trail = state.lastIntValue;
+          if (trail >= 0xDC00 && trail <= 0xDFFF) {
+            state.lastIntValue = (lead - 0xD800) * 0x400 + (trail - 0xDC00) + 0x10000;
+            return true
+          }
+        }
+        state.pos = leadSurrogateEnd;
+        state.lastIntValue = lead;
+      }
+      return true
+    }
+    if (
+      state.switchU &&
+      state.eat(0x7B /* { */) &&
+      this.regexp_eatHexDigits(state) &&
+      state.eat(0x7D /* } */) &&
+      isValidUnicode(state.lastIntValue)
+    ) {
+      return true
+    }
+    if (state.switchU) {
+      state.raise("Invalid unicode escape");
+    }
+    state.pos = start;
+  }
+
+  return false
+};
+function isValidUnicode(ch) {
+  return ch >= 0 && ch <= 0x10FFFF
+}
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-IdentityEscape
+pp$9.regexp_eatIdentityEscape = function(state) {
+  if (state.switchU) {
+    if (this.regexp_eatSyntaxCharacter(state)) {
+      return true
+    }
+    if (state.eat(0x2F /* / */)) {
+      state.lastIntValue = 0x2F; /* / */
+      return true
+    }
+    return false
+  }
+
+  var ch = state.current();
+  if (ch !== 0x63 /* c */ && (!state.switchN || ch !== 0x6B /* k */)) {
+    state.lastIntValue = ch;
+    state.advance();
+    return true
+  }
+
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-DecimalEscape
+pp$9.regexp_eatDecimalEscape = function(state) {
+  state.lastIntValue = 0;
+  var ch = state.current();
+  if (ch >= 0x31 /* 1 */ && ch <= 0x39 /* 9 */) {
+    do {
+      state.lastIntValue = 10 * state.lastIntValue + (ch - 0x30 /* 0 */);
+      state.advance();
+    } while ((ch = state.current()) >= 0x30 /* 0 */ && ch <= 0x39 /* 9 */)
+    return true
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-CharacterClassEscape
+pp$9.regexp_eatCharacterClassEscape = function(state) {
+  var ch = state.current();
+
+  if (isCharacterClassEscape(ch)) {
+    state.lastIntValue = -1;
+    state.advance();
+    return true
+  }
+
+  if (
+    state.switchU &&
+    this.options.ecmaVersion >= 9 &&
+    (ch === 0x50 /* P */ || ch === 0x70 /* p */)
+  ) {
+    state.lastIntValue = -1;
+    state.advance();
+    if (
+      state.eat(0x7B /* { */) &&
+      this.regexp_eatUnicodePropertyValueExpression(state) &&
+      state.eat(0x7D /* } */)
+    ) {
+      return true
+    }
+    state.raise("Invalid property name");
+  }
+
+  return false
+};
+function isCharacterClassEscape(ch) {
+  return (
+    ch === 0x64 /* d */ ||
+    ch === 0x44 /* D */ ||
+    ch === 0x73 /* s */ ||
+    ch === 0x53 /* S */ ||
+    ch === 0x77 /* w */ ||
+    ch === 0x57 /* W */
+  )
+}
+
+// UnicodePropertyValueExpression ::
+//   UnicodePropertyName `=` UnicodePropertyValue
+//   LoneUnicodePropertyNameOrValue
+pp$9.regexp_eatUnicodePropertyValueExpression = function(state) {
+  var start = state.pos;
+
+  // UnicodePropertyName `=` UnicodePropertyValue
+  if (this.regexp_eatUnicodePropertyName(state) && state.eat(0x3D /* = */)) {
+    var name = state.lastStringValue;
+    if (this.regexp_eatUnicodePropertyValue(state)) {
+      var value = state.lastStringValue;
+      this.regexp_validateUnicodePropertyNameAndValue(state, name, value);
+      return true
+    }
+  }
+  state.pos = start;
+
+  // LoneUnicodePropertyNameOrValue
+  if (this.regexp_eatLoneUnicodePropertyNameOrValue(state)) {
+    var nameOrValue = state.lastStringValue;
+    this.regexp_validateUnicodePropertyNameOrValue(state, nameOrValue);
+    return true
+  }
+  return false
+};
+pp$9.regexp_validateUnicodePropertyNameAndValue = function(state, name, value) {
+  if (!data.hasOwnProperty(name) || data[name].indexOf(value) === -1) {
+    state.raise("Invalid property name");
+  }
+};
+pp$9.regexp_validateUnicodePropertyNameOrValue = function(state, nameOrValue) {
+  if (data.$LONE.indexOf(nameOrValue) === -1) {
+    state.raise("Invalid property name");
+  }
+};
+
+// UnicodePropertyName ::
+//   UnicodePropertyNameCharacters
+pp$9.regexp_eatUnicodePropertyName = function(state) {
+  var ch = 0;
+  state.lastStringValue = "";
+  while (isUnicodePropertyNameCharacter(ch = state.current())) {
+    state.lastStringValue += codePointToString$1(ch);
+    state.advance();
+  }
+  return state.lastStringValue !== ""
+};
+function isUnicodePropertyNameCharacter(ch) {
+  return isControlLetter(ch) || ch === 0x5F /* _ */
+}
+
+// UnicodePropertyValue ::
+//   UnicodePropertyValueCharacters
+pp$9.regexp_eatUnicodePropertyValue = function(state) {
+  var ch = 0;
+  state.lastStringValue = "";
+  while (isUnicodePropertyValueCharacter(ch = state.current())) {
+    state.lastStringValue += codePointToString$1(ch);
+    state.advance();
+  }
+  return state.lastStringValue !== ""
+};
+function isUnicodePropertyValueCharacter(ch) {
+  return isUnicodePropertyNameCharacter(ch) || isDecimalDigit(ch)
+}
+
+// LoneUnicodePropertyNameOrValue ::
+//   UnicodePropertyValueCharacters
+pp$9.regexp_eatLoneUnicodePropertyNameOrValue = function(state) {
+  return this.regexp_eatUnicodePropertyValue(state)
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-CharacterClass
+pp$9.regexp_eatCharacterClass = function(state) {
+  if (state.eat(0x5B /* [ */)) {
+    state.eat(0x5E /* ^ */);
+    this.regexp_classRanges(state);
+    if (state.eat(0x5D /* [ */)) {
+      return true
+    }
+    // Unreachable since it threw "unterminated regular expression" error before.
+    state.raise("Unterminated character class");
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-ClassRanges
+// https://www.ecma-international.org/ecma-262/8.0/#prod-NonemptyClassRanges
+// https://www.ecma-international.org/ecma-262/8.0/#prod-NonemptyClassRangesNoDash
+pp$9.regexp_classRanges = function(state) {
+  var this$1 = this;
+
+  while (this.regexp_eatClassAtom(state)) {
+    var left = state.lastIntValue;
+    if (state.eat(0x2D /* - */) && this$1.regexp_eatClassAtom(state)) {
+      var right = state.lastIntValue;
+      if (state.switchU && (left === -1 || right === -1)) {
+        state.raise("Invalid character class");
+      }
+      if (left !== -1 && right !== -1 && left > right) {
+        state.raise("Range out of order in character class");
+      }
+    }
+  }
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-ClassAtom
+// https://www.ecma-international.org/ecma-262/8.0/#prod-ClassAtomNoDash
+pp$9.regexp_eatClassAtom = function(state) {
+  var start = state.pos;
+
+  if (state.eat(0x5C /* \ */)) {
+    if (this.regexp_eatClassEscape(state)) {
+      return true
+    }
+    if (state.switchU) {
+      // Make the same message as V8.
+      var ch$1 = state.current();
+      if (ch$1 === 0x63 /* c */ || isOctalDigit(ch$1)) {
+        state.raise("Invalid class escape");
+      }
+      state.raise("Invalid escape");
+    }
+    state.pos = start;
+  }
+
+  var ch = state.current();
+  if (ch !== 0x5D /* [ */) {
+    state.lastIntValue = ch;
+    state.advance();
+    return true
+  }
+
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-ClassEscape
+pp$9.regexp_eatClassEscape = function(state) {
+  var start = state.pos;
+
+  if (state.eat(0x62 /* b */)) {
+    state.lastIntValue = 0x08; /* <BS> */
+    return true
+  }
+
+  if (state.switchU && state.eat(0x2D /* - */)) {
+    state.lastIntValue = 0x2D; /* - */
+    return true
+  }
+
+  if (!state.switchU && state.eat(0x63 /* c */)) {
+    if (this.regexp_eatClassControlLetter(state)) {
+      return true
+    }
+    state.pos = start;
+  }
+
+  return (
+    this.regexp_eatCharacterClassEscape(state) ||
+    this.regexp_eatCharacterEscape(state)
+  )
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-ClassControlLetter
+pp$9.regexp_eatClassControlLetter = function(state) {
+  var ch = state.current();
+  if (isDecimalDigit(ch) || ch === 0x5F /* _ */) {
+    state.lastIntValue = ch % 0x20;
+    state.advance();
+    return true
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-HexEscapeSequence
+pp$9.regexp_eatHexEscapeSequence = function(state) {
+  var start = state.pos;
+  if (state.eat(0x78 /* x */)) {
+    if (this.regexp_eatFixedHexDigits(state, 2)) {
+      return true
+    }
+    if (state.switchU) {
+      state.raise("Invalid escape");
+    }
+    state.pos = start;
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-DecimalDigits
+pp$9.regexp_eatDecimalDigits = function(state) {
+  var start = state.pos;
+  var ch = 0;
+  state.lastIntValue = 0;
+  while (isDecimalDigit(ch = state.current())) {
+    state.lastIntValue = 10 * state.lastIntValue + (ch - 0x30 /* 0 */);
+    state.advance();
+  }
+  return state.pos !== start
+};
+function isDecimalDigit(ch) {
+  return ch >= 0x30 /* 0 */ && ch <= 0x39 /* 9 */
+}
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-HexDigits
+pp$9.regexp_eatHexDigits = function(state) {
+  var start = state.pos;
+  var ch = 0;
+  state.lastIntValue = 0;
+  while (isHexDigit(ch = state.current())) {
+    state.lastIntValue = 16 * state.lastIntValue + hexToInt(ch);
+    state.advance();
+  }
+  return state.pos !== start
+};
+function isHexDigit(ch) {
+  return (
+    (ch >= 0x30 /* 0 */ && ch <= 0x39 /* 9 */) ||
+    (ch >= 0x41 /* A */ && ch <= 0x46 /* F */) ||
+    (ch >= 0x61 /* a */ && ch <= 0x66 /* f */)
+  )
+}
+function hexToInt(ch) {
+  if (ch >= 0x41 /* A */ && ch <= 0x46 /* F */) {
+    return 10 + (ch - 0x41 /* A */)
+  }
+  if (ch >= 0x61 /* a */ && ch <= 0x66 /* f */) {
+    return 10 + (ch - 0x61 /* a */)
+  }
+  return ch - 0x30 /* 0 */
+}
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-annexB-LegacyOctalEscapeSequence
+// Allows only 0-377(octal) i.e. 0-255(decimal).
+pp$9.regexp_eatLegacyOctalEscapeSequence = function(state) {
+  if (this.regexp_eatOctalDigit(state)) {
+    var n1 = state.lastIntValue;
+    if (this.regexp_eatOctalDigit(state)) {
+      var n2 = state.lastIntValue;
+      if (n1 <= 3 && this.regexp_eatOctalDigit(state)) {
+        state.lastIntValue = n1 * 64 + n2 * 8 + state.lastIntValue;
+      } else {
+        state.lastIntValue = n1 * 8 + n2;
+      }
+    } else {
+      state.lastIntValue = n1;
+    }
+    return true
+  }
+  return false
+};
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-OctalDigit
+pp$9.regexp_eatOctalDigit = function(state) {
+  var ch = state.current();
+  if (isOctalDigit(ch)) {
+    state.lastIntValue = ch - 0x30; /* 0 */
+    state.advance();
+    return true
+  }
+  state.lastIntValue = 0;
+  return false
+};
+function isOctalDigit(ch) {
+  return ch >= 0x30 /* 0 */ && ch <= 0x37 /* 7 */
+}
+
+// https://www.ecma-international.org/ecma-262/8.0/#prod-Hex4Digits
+// https://www.ecma-international.org/ecma-262/8.0/#prod-HexDigit
+// And HexDigit HexDigit in https://www.ecma-international.org/ecma-262/8.0/#prod-HexEscapeSequence
+pp$9.regexp_eatFixedHexDigits = function(state, length) {
+  var start = state.pos;
+  state.lastIntValue = 0;
+  for (var i = 0; i < length; ++i) {
+    var ch = state.current();
+    if (!isHexDigit(ch)) {
+      state.pos = start;
+      return false
+    }
+    state.lastIntValue = 16 * state.lastIntValue + hexToInt(ch);
+    state.advance();
+  }
+  return true
+};
+
+// Object type used to represent tokens. Note that normally, tokens
+// simply exist as properties on the parser object. This is only
+// used for the onToken callback and the external tokenizer.
+
+var Token = function Token(p) {
+  this.type = p.type;
+  this.value = p.value;
+  this.start = p.start;
+  this.end = p.end;
+  if (p.options.locations)
+    { this.loc = new SourceLocation(p, p.startLoc, p.endLoc); }
+  if (p.options.ranges)
+    { this.range = [p.start, p.end]; }
+};
+
+// ## Tokenizer
+
+var pp$8 = Parser.prototype;
+
+// Move to the next token
+
+pp$8.next = function() {
+  if (this.options.onToken)
+    { this.options.onToken(new Token(this)); }
+
+  this.lastTokEnd = this.end;
+  this.lastTokStart = this.start;
+  this.lastTokEndLoc = this.endLoc;
+  this.lastTokStartLoc = this.startLoc;
+  this.nextToken();
+};
+
+pp$8.getToken = function() {
+  this.next();
+  return new Token(this)
+};
+
+// If we're in an ES6 environment, make parsers iterable
+if (typeof Symbol !== "undefined")
+  { pp$8[Symbol.iterator] = function() {
+    var this$1 = this;
+
+    return {
+      next: function () {
+        var token = this$1.getToken();
+        return {
+          done: token.type === types.eof,
+          value: token
+        }
+      }
+    }
+  }; }
+
+// Toggle strict mode. Re-reads the next number or string to please
+// pedantic tests (`"use strict"; 010;` should fail).
+
+pp$8.curContext = function() {
+  return this.context[this.context.length - 1]
+};
+
+// Read a single token, updating the parser object's token-related
+// properties.
+
+pp$8.nextToken = function() {
+  var curContext = this.curContext();
+  if (!curContext || !curContext.preserveSpace) { this.skipSpace(); }
+
+  this.start = this.pos;
+  if (this.options.locations) { this.startLoc = this.curPosition(); }
+  if (this.pos >= this.input.length) { return this.finishToken(types.eof) }
+
+  if (curContext.override) { return curContext.override(this) }
+  else { this.readToken(this.fullCharCodeAtPos()); }
+};
+
+pp$8.readToken = function(code) {
+  // Identifier or keyword. '\uXXXX' sequences are allowed in
+  // identifiers, so '\' also dispatches to that.
+  if (isIdentifierStart(code, this.options.ecmaVersion >= 6) || code === 92 /* '\' */)
+    { return this.readWord() }
+
+  return this.getTokenFromCode(code)
+};
+
+pp$8.fullCharCodeAtPos = function() {
+  var code = this.input.charCodeAt(this.pos);
+  if (code <= 0xd7ff || code >= 0xe000) { return code }
+  var next = this.input.charCodeAt(this.pos + 1);
+  return (code << 10) + next - 0x35fdc00
+};
+
+pp$8.skipBlockComment = function() {
+  var this$1 = this;
+
+  var startLoc = this.options.onComment && this.curPosition();
+  var start = this.pos, end = this.input.indexOf("*/", this.pos += 2);
+  if (end === -1) { this.raise(this.pos - 2, "Unterminated comment"); }
+  this.pos = end + 2;
+  if (this.options.locations) {
+    lineBreakG.lastIndex = start;
+    var match;
+    while ((match = lineBreakG.exec(this.input)) && match.index < this.pos) {
+      ++this$1.curLine;
+      this$1.lineStart = match.index + match[0].length;
+    }
+  }
+  if (this.options.onComment)
+    { this.options.onComment(true, this.input.slice(start + 2, end), start, this.pos,
+                           startLoc, this.curPosition()); }
+};
+
+pp$8.skipLineComment = function(startSkip) {
+  var this$1 = this;
+
+  var start = this.pos;
+  var startLoc = this.options.onComment && this.curPosition();
+  var ch = this.input.charCodeAt(this.pos += startSkip);
+  while (this.pos < this.input.length && !isNewLine(ch)) {
+    ch = this$1.input.charCodeAt(++this$1.pos);
+  }
+  if (this.options.onComment)
+    { this.options.onComment(false, this.input.slice(start + startSkip, this.pos), start, this.pos,
+                           startLoc, this.curPosition()); }
+};
+
+// Called at the start of the parse and after every token. Skips
+// whitespace and comments, and.
+
+pp$8.skipSpace = function() {
+  var this$1 = this;
+
+  loop: while (this.pos < this.input.length) {
+    var ch = this$1.input.charCodeAt(this$1.pos);
+    switch (ch) {
+    case 32: case 160: // ' '
+      ++this$1.pos;
+      break
+    case 13:
+      if (this$1.input.charCodeAt(this$1.pos + 1) === 10) {
+        ++this$1.pos;
+      }
+    case 10: case 8232: case 8233:
+      ++this$1.pos;
+      if (this$1.options.locations) {
+        ++this$1.curLine;
+        this$1.lineStart = this$1.pos;
+      }
+      break
+    case 47: // '/'
+      switch (this$1.input.charCodeAt(this$1.pos + 1)) {
+      case 42: // '*'
+        this$1.skipBlockComment();
+        break
+      case 47:
+        this$1.skipLineComment(2);
+        break
+      default:
+        break loop
+      }
+      break
+    default:
+      if (ch > 8 && ch < 14 || ch >= 5760 && nonASCIIwhitespace.test(String.fromCharCode(ch))) {
+        ++this$1.pos;
+      } else {
+        break loop
+      }
+    }
+  }
+};
+
+// Called at the end of every token. Sets `end`, `val`, and
+// maintains `context` and `exprAllowed`, and skips the space after
+// the token, so that the next one's `start` will point at the
+// right position.
+
+pp$8.finishToken = function(type, val) {
+  this.end = this.pos;
+  if (this.options.locations) { this.endLoc = this.curPosition(); }
+  var prevType = this.type;
+  this.type = type;
+  this.value = val;
+
+  this.updateContext(prevType);
+};
+
+// ### Token reading
+
+// This is the function that is called to fetch the next token. It
+// is somewhat obscure, because it works in character codes rather
+// than characters, and because operator parsing has been inlined
+// into it.
+//
+// All in the name of speed.
+//
+pp$8.readToken_dot = function() {
+  var next = this.input.charCodeAt(this.pos + 1);
+  if (next >= 48 && next <= 57) { return this.readNumber(true) }
+  var next2 = this.input.charCodeAt(this.pos + 2);
+  if (this.options.ecmaVersion >= 6 && next === 46 && next2 === 46) { // 46 = dot '.'
+    this.pos += 3;
+    return this.finishToken(types.ellipsis)
+  } else {
+    ++this.pos;
+    return this.finishToken(types.dot)
+  }
+};
+
+pp$8.readToken_slash = function() { // '/'
+  var next = this.input.charCodeAt(this.pos + 1);
+  if (this.exprAllowed) { ++this.pos; return this.readRegexp() }
+  if (next === 61) { return this.finishOp(types.assign, 2) }
+  return this.finishOp(types.slash, 1)
+};
+
+pp$8.readToken_mult_modulo_exp = function(code) { // '%*'
+  var next = this.input.charCodeAt(this.pos + 1);
+  var size = 1;
+  var tokentype = code === 42 ? types.star : types.modulo;
+
+  // exponentiation operator ** and **=
+  if (this.options.ecmaVersion >= 7 && code === 42 && next === 42) {
+    ++size;
+    tokentype = types.starstar;
+    next = this.input.charCodeAt(this.pos + 2);
+  }
+
+  if (next === 61) { return this.finishOp(types.assign, size + 1) }
+  return this.finishOp(tokentype, size)
+};
+
+pp$8.readToken_pipe_amp = function(code) { // '|&'
+  var next = this.input.charCodeAt(this.pos + 1);
+  if (next === code) { return this.finishOp(code === 124 ? types.logicalOR : types.logicalAND, 2) }
+  if (next === 61) { return this.finishOp(types.assign, 2) }
+  return this.finishOp(code === 124 ? types.bitwiseOR : types.bitwiseAND, 1)
+};
+
+pp$8.readToken_caret = function() { // '^'
+  var next = this.input.charCodeAt(this.pos + 1);
+  if (next === 61) { return this.finishOp(types.assign, 2) }
+  return this.finishOp(types.bitwiseXOR, 1)
+};
+
+pp$8.readToken_plus_min = function(code) { // '+-'
+  var next = this.input.charCodeAt(this.pos + 1);
+  if (next === code) {
+    if (next === 45 && !this.inModule && this.input.charCodeAt(this.pos + 2) === 62 &&
+        (this.lastTokEnd === 0 || lineBreak.test(this.input.slice(this.lastTokEnd, this.pos)))) {
+      // A `-->` line comment
+      this.skipLineComment(3);
+      this.skipSpace();
+      return this.nextToken()
+    }
+    return this.finishOp(types.incDec, 2)
+  }
+  if (next === 61) { return this.finishOp(types.assign, 2) }
+  return this.finishOp(types.plusMin, 1)
+};
+
+pp$8.readToken_lt_gt = function(code) { // '<>'
+  var next = this.input.charCodeAt(this.pos + 1);
+  var size = 1;
+  if (next === code) {
+    size = code === 62 && this.input.charCodeAt(this.pos + 2) === 62 ? 3 : 2;
+    if (this.input.charCodeAt(this.pos + size) === 61) { return this.finishOp(types.assign, size + 1) }
+    return this.finishOp(types.bitShift, size)
+  }
+  if (next === 33 && code === 60 && !this.inModule && this.input.charCodeAt(this.pos + 2) === 45 &&
+      this.input.charCodeAt(this.pos + 3) === 45) {
+    // `<!--`, an XML-style comment that should be interpreted as a line comment
+    this.skipLineComment(4);
+    this.skipSpace();
+    return this.nextToken()
+  }
+  if (next === 61) { size = 2; }
+  return this.finishOp(types.relational, size)
+};
+
+pp$8.readToken_eq_excl = function(code) { // '=!'
+  var next = this.input.charCodeAt(this.pos + 1);
+  if (next === 61) { return this.finishOp(types.equality, this.input.charCodeAt(this.pos + 2) === 61 ? 3 : 2) }
+  if (code === 61 && next === 62 && this.options.ecmaVersion >= 6) { // '=>'
+    this.pos += 2;
+    return this.finishToken(types.arrow)
+  }
+  return this.finishOp(code === 61 ? types.eq : types.prefix, 1)
+};
+
+pp$8.getTokenFromCode = function(code) {
+  switch (code) {
+  // The interpretation of a dot depends on whether it is followed
+  // by a digit or another two dots.
+  case 46: // '.'
+    return this.readToken_dot()
+
+  // Punctuation tokens.
+  case 40: ++this.pos; return this.finishToken(types.parenL)
+  case 41: ++this.pos; return this.finishToken(types.parenR)
+  case 59: ++this.pos; return this.finishToken(types.semi)
+  case 44: ++this.pos; return this.finishToken(types.comma)
+  case 91: ++this.pos; return this.finishToken(types.bracketL)
+  case 93: ++this.pos; return this.finishToken(types.bracketR)
+  case 123: ++this.pos; return this.finishToken(types.braceL)
+  case 125: ++this.pos; return this.finishToken(types.braceR)
+  case 58: ++this.pos; return this.finishToken(types.colon)
+  case 63: ++this.pos; return this.finishToken(types.question)
+
+  case 96: // '`'
+    if (this.options.ecmaVersion < 6) { break }
+    ++this.pos;
+    return this.finishToken(types.backQuote)
+
+  case 48: // '0'
+    var next = this.input.charCodeAt(this.pos + 1);
+    if (next === 120 || next === 88) { return this.readRadixNumber(16) } // '0x', '0X' - hex number
+    if (this.options.ecmaVersion >= 6) {
+      if (next === 111 || next === 79) { return this.readRadixNumber(8) } // '0o', '0O' - octal number
+      if (next === 98 || next === 66) { return this.readRadixNumber(2) } // '0b', '0B' - binary number
+    }
+
+  // Anything else beginning with a digit is an integer, octal
+  // number, or float.
+  case 49: case 50: case 51: case 52: case 53: case 54: case 55: case 56: case 57: // 1-9
+    return this.readNumber(false)
+
+  // Quotes produce strings.
+  case 34: case 39: // '"', "'"
+    return this.readString(code)
+
+  // Operators are parsed inline in tiny state machines. '=' (61) is
+  // often referred to. `finishOp` simply skips the amount of
+  // characters it is given as second argument, and returns a token
+  // of the type given by its first argument.
+
+  case 47: // '/'
+    return this.readToken_slash()
+
+  case 37: case 42: // '%*'
+    return this.readToken_mult_modulo_exp(code)
+
+  case 124: case 38: // '|&'
+    return this.readToken_pipe_amp(code)
+
+  case 94: // '^'
+    return this.readToken_caret()
+
+  case 43: case 45: // '+-'
+    return this.readToken_plus_min(code)
+
+  case 60: case 62: // '<>'
+    return this.readToken_lt_gt(code)
+
+  case 61: case 33: // '=!'
+    return this.readToken_eq_excl(code)
+
+  case 126: // '~'
+    return this.finishOp(types.prefix, 1)
+  }
+
+  this.raise(this.pos, "Unexpected character '" + codePointToString(code) + "'");
+};
+
+pp$8.finishOp = function(type, size) {
+  var str = this.input.slice(this.pos, this.pos + size);
+  this.pos += size;
+  return this.finishToken(type, str)
+};
+
+pp$8.readRegexp = function() {
+  var this$1 = this;
+
+  var escaped, inClass, start = this.pos;
+  for (;;) {
+    if (this$1.pos >= this$1.input.length) { this$1.raise(start, "Unterminated regular expression"); }
+    var ch = this$1.input.charAt(this$1.pos);
+    if (lineBreak.test(ch)) { this$1.raise(start, "Unterminated regular expression"); }
+    if (!escaped) {
+      if (ch === "[") { inClass = true; }
+      else if (ch === "]" && inClass) { inClass = false; }
+      else if (ch === "/" && !inClass) { break }
+      escaped = ch === "\\";
+    } else { escaped = false; }
+    ++this$1.pos;
+  }
+  var pattern = this.input.slice(start, this.pos);
+  ++this.pos;
+  var flagsStart = this.pos;
+  var flags = this.readWord1();
+  if (this.containsEsc) { this.unexpected(flagsStart); }
+
+  // Validate pattern
+  var state = this.regexpState || (this.regexpState = new RegExpValidationState(this));
+  state.reset(start, pattern, flags);
+  this.validateRegExpFlags(state);
+  this.validateRegExpPattern(state);
+
+  // Create Literal#value property value.
+  var value = null;
+  try {
+    value = new RegExp(pattern, flags);
+  } catch (e) {
+    // ESTree requires null if it failed to instantiate RegExp object.
+    // https://github.com/estree/estree/blob/a27003adf4fd7bfad44de9cef372a2eacd527b1c/es5.md#regexpliteral
+  }
+
+  return this.finishToken(types.regexp, {pattern: pattern, flags: flags, value: value})
+};
+
+// Read an integer in the given radix. Return null if zero digits
+// were read, the integer value otherwise. When `len` is given, this
+// will return `null` unless the integer has exactly `len` digits.
+
+pp$8.readInt = function(radix, len) {
+  var this$1 = this;
+
+  var start = this.pos, total = 0;
+  for (var i = 0, e = len == null ? Infinity : len; i < e; ++i) {
+    var code = this$1.input.charCodeAt(this$1.pos), val = (void 0);
+    if (code >= 97) { val = code - 97 + 10; } // a
+    else if (code >= 65) { val = code - 65 + 10; } // A
+    else if (code >= 48 && code <= 57) { val = code - 48; } // 0-9
+    else { val = Infinity; }
+    if (val >= radix) { break }
+    ++this$1.pos;
+    total = total * radix + val;
+  }
+  if (this.pos === start || len != null && this.pos - start !== len) { return null }
+
+  return total
+};
+
+pp$8.readRadixNumber = function(radix) {
+  this.pos += 2; // 0x
+  var val = this.readInt(radix);
+  if (val == null) { this.raise(this.start + 2, "Expected number in radix " + radix); }
+  if (isIdentifierStart(this.fullCharCodeAtPos())) { this.raise(this.pos, "Identifier directly after number"); }
+  return this.finishToken(types.num, val)
+};
+
+// Read an integer, octal integer, or floating-point number.
+
+pp$8.readNumber = function(startsWithDot) {
+  var start = this.pos;
+  if (!startsWithDot && this.readInt(10) === null) { this.raise(start, "Invalid number"); }
+  var octal = this.pos - start >= 2 && this.input.charCodeAt(start) === 48;
+  if (octal && this.strict) { this.raise(start, "Invalid number"); }
+  if (octal && /[89]/.test(this.input.slice(start, this.pos))) { octal = false; }
+  var next = this.input.charCodeAt(this.pos);
+  if (next === 46 && !octal) { // '.'
+    ++this.pos;
+    this.readInt(10);
+    next = this.input.charCodeAt(this.pos);
+  }
+  if ((next === 69 || next === 101) && !octal) { // 'eE'
+    next = this.input.charCodeAt(++this.pos);
+    if (next === 43 || next === 45) { ++this.pos; } // '+-'
+    if (this.readInt(10) === null) { this.raise(start, "Invalid number"); }
+  }
+  if (isIdentifierStart(this.fullCharCodeAtPos())) { this.raise(this.pos, "Identifier directly after number"); }
+
+  var str = this.input.slice(start, this.pos);
+  var val = octal ? parseInt(str, 8) : parseFloat(str);
+  return this.finishToken(types.num, val)
+};
+
+// Read a string value, interpreting backslash-escapes.
+
+pp$8.readCodePoint = function() {
+  var ch = this.input.charCodeAt(this.pos), code;
+
+  if (ch === 123) { // '{'
+    if (this.options.ecmaVersion < 6) { this.unexpected(); }
+    var codePos = ++this.pos;
+    code = this.readHexChar(this.input.indexOf("}", this.pos) - this.pos);
+    ++this.pos;
+    if (code > 0x10FFFF) { this.invalidStringToken(codePos, "Code point out of bounds"); }
+  } else {
+    code = this.readHexChar(4);
+  }
+  return code
+};
+
+function codePointToString(code) {
+  // UTF-16 Decoding
+  if (code <= 0xFFFF) { return String.fromCharCode(code) }
+  code -= 0x10000;
+  return String.fromCharCode((code >> 10) + 0xD800, (code & 1023) + 0xDC00)
+}
+
+pp$8.readString = function(quote) {
+  var this$1 = this;
+
+  var out = "", chunkStart = ++this.pos;
+  for (;;) {
+    if (this$1.pos >= this$1.input.length) { this$1.raise(this$1.start, "Unterminated string constant"); }
+    var ch = this$1.input.charCodeAt(this$1.pos);
+    if (ch === quote) { break }
+    if (ch === 92) { // '\'
+      out += this$1.input.slice(chunkStart, this$1.pos);
+      out += this$1.readEscapedChar(false);
+      chunkStart = this$1.pos;
+    } else {
+      if (isNewLine(ch, this$1.options.ecmaVersion >= 10)) { this$1.raise(this$1.start, "Unterminated string constant"); }
+      ++this$1.pos;
+    }
+  }
+  out += this.input.slice(chunkStart, this.pos++);
+  return this.finishToken(types.string, out)
+};
+
+// Reads template string tokens.
+
+var INVALID_TEMPLATE_ESCAPE_ERROR = {};
+
+pp$8.tryReadTemplateToken = function() {
+  this.inTemplateElement = true;
+  try {
+    this.readTmplToken();
+  } catch (err) {
+    if (err === INVALID_TEMPLATE_ESCAPE_ERROR) {
+      this.readInvalidTemplateToken();
+    } else {
+      throw err
+    }
+  }
+
+  this.inTemplateElement = false;
+};
+
+pp$8.invalidStringToken = function(position, message) {
+  if (this.inTemplateElement && this.options.ecmaVersion >= 9) {
+    throw INVALID_TEMPLATE_ESCAPE_ERROR
+  } else {
+    this.raise(position, message);
+  }
+};
+
+pp$8.readTmplToken = function() {
+  var this$1 = this;
+
+  var out = "", chunkStart = this.pos;
+  for (;;) {
+    if (this$1.pos >= this$1.input.length) { this$1.raise(this$1.start, "Unterminated template"); }
+    var ch = this$1.input.charCodeAt(this$1.pos);
+    if (ch === 96 || ch === 36 && this$1.input.charCodeAt(this$1.pos + 1) === 123) { // '`', '${'
+      if (this$1.pos === this$1.start && (this$1.type === types.template || this$1.type === types.invalidTemplate)) {
+        if (ch === 36) {
+          this$1.pos += 2;
+          return this$1.finishToken(types.dollarBraceL)
+        } else {
+          ++this$1.pos;
+          return this$1.finishToken(types.backQuote)
+        }
+      }
+      out += this$1.input.slice(chunkStart, this$1.pos);
+      return this$1.finishToken(types.template, out)
+    }
+    if (ch === 92) { // '\'
+      out += this$1.input.slice(chunkStart, this$1.pos);
+      out += this$1.readEscapedChar(true);
+      chunkStart = this$1.pos;
+    } else if (isNewLine(ch)) {
+      out += this$1.input.slice(chunkStart, this$1.pos);
+      ++this$1.pos;
+      switch (ch) {
+      case 13:
+        if (this$1.input.charCodeAt(this$1.pos) === 10) { ++this$1.pos; }
+      case 10:
+        out += "\n";
+        break
+      default:
+        out += String.fromCharCode(ch);
+        break
+      }
+      if (this$1.options.locations) {
+        ++this$1.curLine;
+        this$1.lineStart = this$1.pos;
+      }
+      chunkStart = this$1.pos;
+    } else {
+      ++this$1.pos;
+    }
+  }
+};
+
+// Reads a template token to search for the end, without validating any escape sequences
+pp$8.readInvalidTemplateToken = function() {
+  var this$1 = this;
+
+  for (; this.pos < this.input.length; this.pos++) {
+    switch (this$1.input[this$1.pos]) {
+    case "\\":
+      ++this$1.pos;
+      break
+
+    case "$":
+      if (this$1.input[this$1.pos + 1] !== "{") {
+        break
+      }
+    // falls through
+
+    case "`":
+      return this$1.finishToken(types.invalidTemplate, this$1.input.slice(this$1.start, this$1.pos))
+
+    // no default
+    }
+  }
+  this.raise(this.start, "Unterminated template");
+};
+
+// Used to read escaped characters
+
+pp$8.readEscapedChar = function(inTemplate) {
+  var ch = this.input.charCodeAt(++this.pos);
+  ++this.pos;
+  switch (ch) {
+  case 110: return "\n" // 'n' -> '\n'
+  case 114: return "\r" // 'r' -> '\r'
+  case 120: return String.fromCharCode(this.readHexChar(2)) // 'x'
+  case 117: return codePointToString(this.readCodePoint()) // 'u'
+  case 116: return "\t" // 't' -> '\t'
+  case 98: return "\b" // 'b' -> '\b'
+  case 118: return "\u000b" // 'v' -> '\u000b'
+  case 102: return "\f" // 'f' -> '\f'
+  case 13: if (this.input.charCodeAt(this.pos) === 10) { ++this.pos; } // '\r\n'
+  case 10: // ' \n'
+    if (this.options.locations) { this.lineStart = this.pos; ++this.curLine; }
+    return ""
+  default:
+    if (ch >= 48 && ch <= 55) {
+      var octalStr = this.input.substr(this.pos - 1, 3).match(/^[0-7]+/)[0];
+      var octal = parseInt(octalStr, 8);
+      if (octal > 255) {
+        octalStr = octalStr.slice(0, -1);
+        octal = parseInt(octalStr, 8);
+      }
+      this.pos += octalStr.length - 1;
+      ch = this.input.charCodeAt(this.pos);
+      if ((octalStr !== "0" || ch === 56 || ch === 57) && (this.strict || inTemplate)) {
+        this.invalidStringToken(
+          this.pos - 1 - octalStr.length,
+          inTemplate
+            ? "Octal literal in template string"
+            : "Octal literal in strict mode"
+        );
+      }
+      return String.fromCharCode(octal)
+    }
+    return String.fromCharCode(ch)
+  }
+};
+
+// Used to read character escape sequences ('\x', '\u', '\U').
+
+pp$8.readHexChar = function(len) {
+  var codePos = this.pos;
+  var n = this.readInt(16, len);
+  if (n === null) { this.invalidStringToken(codePos, "Bad character escape sequence"); }
+  return n
+};
+
+// Read an identifier, and return it as a string. Sets `this.containsEsc`
+// to whether the word contained a '\u' escape.
+//
+// Incrementally adds only escaped chars, adding other chunks as-is
+// as a micro-optimization.
+
+pp$8.readWord1 = function() {
+  var this$1 = this;
+
+  this.containsEsc = false;
+  var word = "", first = true, chunkStart = this.pos;
+  var astral = this.options.ecmaVersion >= 6;
+  while (this.pos < this.input.length) {
+    var ch = this$1.fullCharCodeAtPos();
+    if (isIdentifierChar(ch, astral)) {
+      this$1.pos += ch <= 0xffff ? 1 : 2;
+    } else if (ch === 92) { // "\"
+      this$1.containsEsc = true;
+      word += this$1.input.slice(chunkStart, this$1.pos);
+      var escStart = this$1.pos;
+      if (this$1.input.charCodeAt(++this$1.pos) !== 117) // "u"
+        { this$1.invalidStringToken(this$1.pos, "Expecting Unicode escape sequence \\uXXXX"); }
+      ++this$1.pos;
+      var esc = this$1.readCodePoint();
+      if (!(first ? isIdentifierStart : isIdentifierChar)(esc, astral))
+        { this$1.invalidStringToken(escStart, "Invalid Unicode escape"); }
+      word += codePointToString(esc);
+      chunkStart = this$1.pos;
+    } else {
+      break
+    }
+    first = false;
+  }
+  return word + this.input.slice(chunkStart, this.pos)
+};
+
+// Read an identifier or keyword token. Will check for reserved
+// words when necessary.
+
+pp$8.readWord = function() {
+  var word = this.readWord1();
+  var type = types.name;
+  if (this.keywords.test(word)) {
+    if (this.containsEsc) { this.raiseRecoverable(this.start, "Escape sequence in keyword " + word); }
+    type = keywords$1[word];
+  }
+  return this.finishToken(type, word)
+};
+
+// Acorn is a tiny, fast JavaScript parser written in JavaScript.
+//
+// Acorn was written by Marijn Haverbeke, Ingvar Stepanyan, and
+// various contributors and released under an MIT license.
+//
+// Git repositories for Acorn are available at
+//
+//     http://marijnhaverbeke.nl/git/acorn
+//     https://github.com/acornjs/acorn.git
+//
+// Please use the [github bug tracker][ghbt] to report issues.
+//
+// [ghbt]: https://github.com/acornjs/acorn/issues
+//
+// This file defines the main parser interface. The library also comes
+// with a [error-tolerant parser][dammit] and an
+// [abstract syntax tree walker][walk], defined in other files.
+//
+// [dammit]: acorn_loose.js
+// [walk]: util/walk.js
+
+var version = "5.7.3";
+
+// The main exported interface (under `self.acorn` when in the
+// browser) is a `parse` function that takes a code string and
+// returns an abstract syntax tree as specified by [Mozilla parser
+// API][api].
+//
+// [api]: https://developer.mozilla.org/en-US/docs/SpiderMonkey/Parser_API
+
+function parse(input, options) {
+  return new Parser(options, input).parse()
+}
+
+// This function tries to parse a single expression at a given
+// offset in a string. Useful for parsing mixed-language formats
+// that embed JavaScript expressions.
+
+function parseExpressionAt(input, pos, options) {
+  var p = new Parser(options, input, pos);
+  p.nextToken();
+  return p.parseExpression()
+}
+
+// Acorn is organized as a tokenizer and a recursive-descent parser.
+// The `tokenizer` export provides an interface to the tokenizer.
+
+function tokenizer(input, options) {
+  return new Parser(options, input)
+}
+
+// This is a terrible kludge to support the existing, pre-ES6
+// interface where the loose parser module retroactively adds exports
+// to this module.
+var parse_dammit;
+var LooseParser;
+var pluginsLoose; // eslint-disable-line camelcase
+function addLooseExports(parse, Parser$$1, plugins$$1) {
+  parse_dammit = parse; // eslint-disable-line camelcase
+  LooseParser = Parser$$1;
+  pluginsLoose = plugins$$1;
+}
+
+
+
+
+/***/ }),
+/* 182 */
+/*!******************************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/node_modules/eval5/dist/esm/interpreter/messages.js ***!
+  \******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.Messages = exports.InterruptThrowReferenceError = exports.InterruptThrowSyntaxError = exports.InterruptThrowError = exports.ThrowTypeError = exports.ThrowReferenceError = exports.ThrowSyntaxError = exports.ThrowError = void 0;function _inheritsLoose(subClass, superClass) {subClass.prototype = Object.create(superClass.prototype);subClass.prototype.constructor = subClass;subClass.__proto__ = superClass;}
+
+function _wrapNativeSuper(Class) {var _cache = typeof Map === "function" ? new Map() : undefined;_wrapNativeSuper = function _wrapNativeSuper(Class) {if (Class === null || !_isNativeFunction(Class)) return Class;if (typeof Class !== "function") {throw new TypeError("Super expression must either be null or a function");}if (typeof _cache !== "undefined") {if (_cache.has(Class)) return _cache.get(Class);_cache.set(Class, Wrapper);}function Wrapper() {return _construct(Class, arguments, _getPrototypeOf(this).constructor);}Wrapper.prototype = Object.create(Class.prototype, { constructor: { value: Wrapper, enumerable: false, writable: true, configurable: true } });return _setPrototypeOf(Wrapper, Class);};return _wrapNativeSuper(Class);}
+
+function isNativeReflectConstruct() {if (typeof Reflect === "undefined" || !Reflect.construct) return false;if (Reflect.construct.sham) return false;if (typeof Proxy === "function") return true;try {Date.prototype.toString.call(Reflect.construct(Date, [], function () {}));return true;} catch (e) {return false;}}
+
+function _construct(Parent, args, Class) {if (isNativeReflectConstruct()) {_construct = Reflect.construct;} else {_construct = function _construct(Parent, args, Class) {var a = [null];a.push.apply(a, args);var Constructor = Function.bind.apply(Parent, a);var instance = new Constructor();if (Class) _setPrototypeOf(instance, Class.prototype);return instance;};}return _construct.apply(null, arguments);}
+
+function _isNativeFunction(fn) {return Function.toString.call(fn).indexOf("[native code]") !== -1;}
+
+function _setPrototypeOf(o, p) {_setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) {o.__proto__ = p;return o;};return _setPrototypeOf(o, p);}
+
+function _getPrototypeOf(o) {_getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) {return o.__proto__ || Object.getPrototypeOf(o);};return _getPrototypeOf(o);}
+
+var ThrowError =
+/*#__PURE__*/
+function (_Error) {
+  _inheritsLoose(ThrowError, _Error);
+
+  function ThrowError() {
+    return _Error.apply(this, arguments) || this;
+  }
+
+  return ThrowError;
+}(_wrapNativeSuper(Error));exports.ThrowError = ThrowError;
+var ThrowSyntaxError =
+/*#__PURE__*/
+function (_SyntaxError) {
+  _inheritsLoose(ThrowSyntaxError, _SyntaxError);
+
+  function ThrowSyntaxError() {
+    return _SyntaxError.apply(this, arguments) || this;
+  }
+
+  return ThrowSyntaxError;
+}(_wrapNativeSuper(SyntaxError));exports.ThrowSyntaxError = ThrowSyntaxError;
+var ThrowReferenceError =
+/*#__PURE__*/
+function (_ReferenceError) {
+  _inheritsLoose(ThrowReferenceError, _ReferenceError);
+
+  function ThrowReferenceError() {
+    return _ReferenceError.apply(this, arguments) || this;
+  }
+
+  return ThrowReferenceError;
+}(_wrapNativeSuper(ReferenceError));exports.ThrowReferenceError = ThrowReferenceError;
+var ThrowTypeError =
+/*#__PURE__*/
+function (_TypeError) {
+  _inheritsLoose(ThrowTypeError, _TypeError);
+
+  function ThrowTypeError() {
+    return _TypeError.apply(this, arguments) || this;
+  }
+
+  return ThrowTypeError;
+}(_wrapNativeSuper(TypeError));exports.ThrowTypeError = ThrowTypeError;
+var InterruptThrowError =
+/*#__PURE__*/
+function (_ThrowError) {
+  _inheritsLoose(InterruptThrowError, _ThrowError);
+
+  function InterruptThrowError() {
+    return _ThrowError.apply(this, arguments) || this;
+  }
+
+  return InterruptThrowError;
+}(ThrowError);exports.InterruptThrowError = InterruptThrowError;
+var InterruptThrowSyntaxError =
+/*#__PURE__*/
+function (_ThrowSyntaxError) {
+  _inheritsLoose(InterruptThrowSyntaxError, _ThrowSyntaxError);
+
+  function InterruptThrowSyntaxError() {
+    return _ThrowSyntaxError.apply(this, arguments) || this;
+  }
+
+  return InterruptThrowSyntaxError;
+}(ThrowSyntaxError);exports.InterruptThrowSyntaxError = InterruptThrowSyntaxError;
+var InterruptThrowReferenceError =
+/*#__PURE__*/
+function (_ThrowReferenceError) {
+  _inheritsLoose(InterruptThrowReferenceError, _ThrowReferenceError);
+
+  function InterruptThrowReferenceError() {
+    return _ThrowReferenceError.apply(this, arguments) || this;
+  }
+
+  return InterruptThrowReferenceError;
+}(ThrowReferenceError);exports.InterruptThrowReferenceError = InterruptThrowReferenceError;
+var Messages = {
+  UnknownError: [3001, "%0", InterruptThrowError],
+  ExecutionTimeOutError: [3002, "Script execution timed out after %0ms", InterruptThrowError],
+  NodeTypeSyntaxError: [1001, "Unknown node type: %0", InterruptThrowReferenceError],
+  BinaryOperatorSyntaxError: [1002, "Unknown binary operator: %0", InterruptThrowReferenceError],
+  LogicalOperatorSyntaxError: [1003, "Unknown logical operator: %0", InterruptThrowReferenceError],
+  UnaryOperatorSyntaxError: [1004, "Unknown unary operator: %0", InterruptThrowReferenceError],
+  UpdateOperatorSyntaxError: [1005, "Unknown update operator: %0", InterruptThrowReferenceError],
+  ObjectStructureSyntaxError: [1006, "Unknown object structure: %0", InterruptThrowReferenceError],
+  AssignmentExpressionSyntaxError: [1007, "Unknown assignment expression: %0", InterruptThrowReferenceError],
+  VariableTypeSyntaxError: [1008, "Unknown variable type: %0", InterruptThrowReferenceError],
+  ParamTypeSyntaxError: [1009, "Unknown param type: %0", InterruptThrowReferenceError],
+  AssignmentTypeSyntaxError: [1010, "Unknown assignment type: %0", InterruptThrowReferenceError],
+  FunctionUndefinedReferenceError: [2001, "%0 is not a function", ThrowReferenceError],
+  VariableUndefinedReferenceError: [2002, "%0 is not defined", ThrowReferenceError],
+  IsNotConstructor: [2003, "%0 is not a constructor", ThrowTypeError] };exports.Messages = Messages;
+
+/***/ }),
+/* 183 */
+/*!************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/node_modules/eval5/dist/esm/vm.js ***!
+  \************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.createContext = createContext;exports.compileFunction = compileFunction;exports.runInContext = _runInContext;exports.Script = exports.runInNewContext = void 0;var _main = __webpack_require__(/*! ./interpreter/main */ 180); // TODO:
+// add tests
+
+function createContext(ctx) {
+  if (ctx === void 0) {
+    ctx = Object.create(null);
+  }
+
+  return ctx;
+}
+function compileFunction(code, params, options) {
+  if (params === void 0) {
+    params = [];
+  }
+
+  if (options === void 0) {
+    options = {};
+  }
+
+  var ctx = options.parsingContext;
+  var timeout = options.timeout === undefined ? 0 : options.timeout;
+  var wrapCode = "\n    (function anonymous(" + params.join(",") + "){\n         " + code + "\n    });\n    ";
+  var interpreter = new _main.Interpreter(ctx, {
+    ecmaVersion: options.ecmaVersion,
+    timeout: timeout,
+    rootContext: options.rootContext,
+    globalContextInFunction: options.globalContextInFunction });
+
+  return interpreter.evaluate(wrapCode);
+}
+
+function _runInContext(code, ctx, options) {
+  var interpreter = new _main.Interpreter(ctx, options);
+  return interpreter.evaluate(code);
+}
+
+
+var runInNewContext = _runInContext;exports.runInNewContext = runInNewContext;
+var Script =
+/*#__PURE__*/
+function () {
+  function Script(code) {
+    this._code = code;
+  }
+
+  var _proto = Script.prototype;
+
+  _proto.runInContext = function runInContext(ctx) {
+    return _runInContext(this._code, ctx);
+  };
+
+  _proto.runInNewContext = function runInNewContext(ctx) {
+    return _runInContext(this._code, ctx);
+  };
+
+  return Script;
+}();exports.Script = Script;
+
+/***/ }),
+/* 184 */
+/*!******************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/node_modules/eval5/dist/esm/evaluate.js ***!
+  \******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _vm = __webpack_require__(/*! ./vm */ 183);var _default =
+function _default(code, ctx, options) {
+  return (0, _vm.runInContext)(code, ctx, options);
+};exports.default = _default;
+
+/***/ }),
+/* 185 */
+/*!******************************************************************************************!*\
+  !*** /Users/huanghaoran/Desktop/CODE/我的项目/Tally/node_modules/eval5/dist/esm/Function.js ***!
+  \******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = _default;var _vm = __webpack_require__(/*! ./vm */ 183);
+function _default() {
+  for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+    args[_key] = arguments[_key];
+  }
+
+  var code = args.pop();
+  return (0, _vm.compileFunction)(code || "", args);
+}
 
 /***/ })
 ]]);

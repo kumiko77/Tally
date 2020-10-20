@@ -2,10 +2,10 @@
 	<view class="box">
 		<view class="header">
 			<view class="total">
-				<view class="date">
-					<view class="year">2020年</view>
+				<view class="date" @click="datePickerShow=true">
+					<view class="year">{{date.year}}年</view>
 					<view class="month">
-						<span>07</span>
+						<span>{{date.month}}</span>
 						月
 						<image src="../../static/icon/down.png" mode="widthFix"></image>
 					</view>
@@ -16,9 +16,9 @@
 							收入
 						</view>
 						<view class="num">
-							<span class="integer">0</span>
+							<span class="integer">{{inInteger}}</span>
 							<span>.</span>
-							<span class="decimals">00</span>
+							<span class="decimals">{{inDecimals}}</span>
 						</view>
 					</view>
 					<view class="expend">
@@ -26,9 +26,9 @@
 							支出
 						</view>
 						<view class="num">
-							<span class="integer">0</span>
+							<span class="integer">{{outInteger}}</span>
 							<span>.</span>
-							<span class="decimals">00</span>
+							<span class="decimals">{{outDecimals}}</span>
 						</view>
 					</view>
 				</view>
@@ -55,277 +55,39 @@
 			</view>
 		</view>
 		<view class="detail-box">
-			<view class="detail-item">
+			<view class="detail-item" v-for="(item,index) in list" :key="index">
 				<view class="dateil-header">
 					<view class="datail-date">
 						<span class="detail-date-time">
-							07月25日
+							{{item.text}}
 						</span>
 						<span class="detail-date-week">
-							星期六
+							{{item.week}}
 						</span>
 					</view>
 					<span class="detail-money">
-						支出：57.3
+						支出：{{item.out}}&nbsp;
+						收入：{{item.in}}
 					</span>
 				</view>
-				<view class="detail-item-definite">
+				<view class="detail-item-definite" v-for="(detailItem, detailIndex) in item.subList" :key="detailIndex">
 					<view class="detail-item-definite-left">
 						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
+							<image :src="`../../static/type/e_${detailItem.type}_l@3x.png`" mode="widthFix"></image>
 						</view>
 					</view>
 					<view class="detail-item-definite-right">
 						<span class="detail-item-definite-name">
-							餐饮
+							{{detailItem.typeName}}
 						</span>
 						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-			</view>
-			<view class="detail-item">
-				<view class="dateil-header">
-					<view class="datail-date">
-						<span class="detail-date-time">
-							07月25日
-						</span>
-						<span class="detail-date-week">
-							星期六
-						</span>
-					</view>
-					<span class="detail-money">
-						支出：57.3
-					</span>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-			</view>
-			<view class="detail-item">
-				<view class="dateil-header">
-					<view class="datail-date">
-						<span class="detail-date-time">
-							07月25日
-						</span>
-						<span class="detail-date-week">
-							星期六
-						</span>
-					</view>
-					<span class="detail-money">
-						支出：57.3
-					</span>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-			</view>
-			<view class="detail-item">
-				<view class="dateil-header">
-					<view class="datail-date">
-						<span class="detail-date-time">
-							07月25日
-						</span>
-						<span class="detail-date-week">
-							星期六
-						</span>
-					</view>
-					<span class="detail-money">
-						支出：57.3
-					</span>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-			</view>
-			<view class="detail-item">
-				<view class="dateil-header">
-					<view class="datail-date">
-						<span class="detail-date-time">
-							07月25日
-						</span>
-						<span class="detail-date-week">
-							星期六
-						</span>
-					</view>
-					<span class="detail-money">
-						支出：57.3
-					</span>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-			</view>
-			<view class="detail-item">
-				<view class="dateil-header">
-					<view class="datail-date">
-						<span class="detail-date-time">
-							07月25日
-						</span>
-						<span class="detail-date-week">
-							星期六
-						</span>
-					</view>
-					<span class="detail-money">
-						支出：57.3
-					</span>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-			</view>
-			<view class="detail-item">
-				<view class="dateil-header">
-					<view class="datail-date">
-						<span class="detail-date-time">
-							07月25日
-						</span>
-						<span class="detail-date-week">
-							星期六
-						</span>
-					</view>
-					<span class="detail-money">
-						支出：57.3
-					</span>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
-						</span>
-					</view>
-				</view>
-				<view class="detail-item-definite">
-					<view class="detail-item-definite-left">
-						<view class="detail-item-definite-logo">
-							<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-						</view>
-					</view>
-					<view class="detail-item-definite-right">
-						<span class="detail-item-definite-name">
-							餐饮
-						</span>
-						<span class="detail-item-definite-money">
-							-40
+							{{detailItem.money}}
 						</span>
 					</view>
 				</view>
 			</view>
 		</view>
+		<u-picker v-model="datePickerShow" :params="params" mode="time" :default-time="`${date.year}-${date.month}`" @confirm="datePicker"></u-picker>
 		<u-tabbar :list="vuex_tabbar" :mid-button="true"></u-tabbar>
 	</view>
 </template>
@@ -336,29 +98,79 @@
 			return {
 				statusBar: 0,
 				customBar: 0,
-				custom: 0
+				custom: 0,
+				outCount: 0,
+				inCount:0,
+				date: {
+					//默认当前日期
+					year: new Date().getFullYear(),
+					month: new Date().getMonth() + 1
+				},
+				params: {
+					year: true,
+					month: true,
+					day: false,
+					hour: false,
+					minute: false,
+					second: false
+				},
+				datePickerShow: false,
+				list: []
+			}
+		},
+		computed:{
+			outInteger: function() {
+				return (this.outCount).toString().split(".")[0]
+			},
+			outDecimals: function() {
+				if(this.outCount % 1 == 0) {
+					return '00'
+				} else {
+					return (this.outCount).toString().split(".")[1]
+				}
+			},
+			inInteger: function() {
+				return (this.inCount).toString().split(".")[0]
+			},
+			inDecimals: function() {
+				if(this.outCount % 1 == 0) {
+					return '00'
+				} else {
+					return (this.inCount).toString().split(".")[1]
+				}
 			}
 		},
 		mounted() {
+			//状态栏自适应
 			const app = getApp().globalData
 			this.statusBar = app.statusBar + 8
 			this.customBar = app.customBar + app.pixelRatio * 30
 			this.custom = app.custom
 			//加载本月账单信息
 			this.getAccountData()
+
 		},
 		methods: {
-			getAccountData: async function() {
-				const month = new Date().getMonth() + 1
+			datePicker: function(e) {
+				this.date.year = e.year
+				this.date.month = e.month
+				this.getAccountData(e.year, e.month)
+			},
+			getAccountData:function(year, month) {
 				this.$uniCloud('account', {
-					month: month
+					year: +year || new Date().getFullYear(),
+					month: +month || new Date().getMonth() + 1
 				}).then(res => {
-					const {data} = res.result
-					console.log(this.sortByDate(data))
+					const {
+						data
+					} = res.result
+					this.list = this.sortByDate(data)
 				})
 			},
 			sortByDate: function(list) {
 				const newArr = [];
+				this.inCount = 0;
+				this.outCount = 0;
 				list.forEach((item, i) => {
 					let index = -1;
 					//判断新数组里是否存在该日期
@@ -371,18 +183,24 @@
 					if (!isExists) {
 						newArr.push({
 							date: item.date,
-							text: `${item.month}月 ${item.date}日 `,
+							text: `${item.month}月${item.date}日`,
+							week: this.$tool.number2Week(item.day),
 							in: item.money > 0 ? item.money : 0,
 							out: item.money < 0 ? Math.abs(item.money) : 0,
 							subList: [item]
 						})
 					} else {
 						newArr[index].subList.push(item);
-						if(item.accountType === 'out') {
+						if (item.accountType === 'out') {
 							newArr[index].out += Math.abs(item.money)
 						} else {
 							newArr[index].in += item.money
 						}
+					}
+					if(item.money > 0) {
+						this.inCount += item.money
+					} else {
+						this.outCount += Math.abs(item.money)
 					}
 				})
 				return newArr
@@ -393,8 +211,8 @@
 
 <style lang="scss" scoped>
 	.box {
-		display: none;
 
+		// display: none;
 		.header {
 			height: 270rpx;
 			padding: 0 40rpx;
@@ -436,7 +254,7 @@
 						font-size: 25rpx;
 						display: flex;
 						align-items: center;
-						margin-top: 20rpx;
+						margin-top: 15rpx;
 
 						span {
 							font-size: 45rpx;
@@ -526,7 +344,7 @@
 					padding-bottom: 15rpx;
 
 					.datail-date {
-						padding-left: 15rpx;
+						padding-left: 30rpx;
 
 						.detail-date-time {
 							margin-right: 10rpx;
@@ -534,7 +352,7 @@
 					}
 
 					.detail-money {
-						padding-right: 15rpx;
+						padding-right: 30rpx;
 					}
 				}
 
@@ -550,7 +368,7 @@
 					}
 
 					.detail-item-definite-left {
-						margin: 0 20rpx;
+						margin: 0 25rpx;
 
 						.detail-item-definite-logo {
 							border-radius: 50%;
@@ -566,7 +384,7 @@
 
 					.detail-item-definite-right {
 						width: 660rpx;
-						padding: 20rpx 20rpx 20rpx 0;
+						padding: 20rpx 30rpx 20rpx 0;
 						font-size: 25rpx;
 						font-weight: 200;
 						height: 80rpx;
