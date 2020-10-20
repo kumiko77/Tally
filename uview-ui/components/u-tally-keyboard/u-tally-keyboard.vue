@@ -3,7 +3,7 @@
 		<view class="remark">
 			<view class="remark-title">备注：</view>
 			<input type="text">
-			<span class="count">{{num}}</span>
+			<span class="count">{{num===''?0:num}}</span>
 		</view>
 		<view class="u-keyboard" @touchmove.stop.prevent="() => {}">
 			<view class="u-keyboard-grids">
@@ -29,8 +29,11 @@
 				<view class="today u-border-left u-border-bottom" @tap="keyboardClick('-')">
 					-
 				</view>
-				<view class="save u-border-left u-border-bottom" @tap="save()">
+				<view class="save u-border-left u-border-bottom" v-if="!calculateShow">
 					完成
+				</view>
+				<view class="save u-border-left u-border-bottom" @tap="save()" v-if="calculateShow">
+					=
 				</view>
 			</view>
 		</view>
@@ -38,7 +41,9 @@
 </template>
 
 <script>
-	import { evaluate } from "eval5";
+	import {
+		evaluate
+	} from "eval5";
 	export default {
 		props: {
 			// 键盘的类型，number-数字键盘，card-身份证键盘
@@ -63,12 +68,19 @@
 				dot: '.', // 点
 				timer: null, // 长按多次删除的事件监听
 				cardX: 'X', // 身份证的X符号‘
-				num: 0
+				num: '',
+				calculateShow: false
 			};
 		},
-		watch:{
+		watch: {
 			num() {
-				console.log(this.num)
+				let num = this.num.toString()
+				//包含运算符且末位是数字则表示可进行运算，则将完成按钮隐藏显示等于号
+				if((num.indexOf('+') !== -1 || num.indexOf('-') !== -1) && !isNaN(num.substring(num.length - 1))) {
+					this.calculateShow = true
+				} else {
+					this.calculateShow = false
+				}
 			}
 		},
 		computed: {
@@ -126,7 +138,7 @@
 				// this.timer = setInterval(() => {
 				// 	this.$emit('backspace');
 				// }, 250);
-				this.num = this.num.substr(0, this.num.length - 1);  
+				this.num = this.num.substr(0, this.num.length - 1);
 			},
 			clearTimer() {
 				clearInterval(this.timer);
@@ -134,14 +146,26 @@
 			},
 			// 获取键盘显示的内容
 			keyboardClick(val) {
-				if(this.num === 0) {
-					this.num += val
-				} else {
-					this.num += val.toString()
+				let num  = this.num + val.toString()
+				//判断最后一位是否是运算符
+				if(['+','-'].indexOf(num.substring(num.length - 1)) !== -1) {
+					//若是运算符判断末位与倒二位是否相等,若相等不允许重复输入运算符
+					if(num.substring(num.length - 1) === num.substring(num.length - 2, num.length - 1)) {
+						num = num.substr(0, num.length-1);
+						//若末位与倒二位不相等则取最后一次输入的运算符
+					} else if(['+','-'].indexOf(num.substring(num.length - 2)) !== -1){
+						num = num.substr(0, num.length-2) + val.toString();
+					}
+					//查找运算符是否为2个，若为两个则自动计算
+					if(num.split('').filter(i => i == '+').length + num.split('').filter(i => i == '-').length === 2) {
+						const operator = num.substring(num.length - 1)
+						num = evaluate(num.substr(0, num.length - 1)) + operator
+					}
 				}
+				this.num = num
 			},
 			save() {
-				console.log(evaluate(this.num))
+				this.num = evaluate(this.num)
 			}
 		}
 	};
@@ -149,30 +173,36 @@
 
 <style lang="scss" scoped>
 	@import "../../libs/css/style.components.scss";
+
 	.box {
 		background: #f3f3f3;
 	}
-.remark {
-	display: flex;
-	align-items: center;
-	height: 80rpx;
-	padding: 0 20rpx 0 25rpx;
-	font-weight: 200;
-	.title {
-		font-size: 20rpx;
-		flex:1
-	}
-	input {
-		margin-right: 50rpx;
-		flex:4
-	}
-	.count {
+
+	.remark {
+		display: flex;
+		align-items: center;
+		height: 80rpx;
+		padding: 0 20rpx 0 25rpx;
 		font-weight: 200;
-		font-size: 50rpx;
-		flex:2;
-		text-align: right;
+
+		.title {
+			font-size: 20rpx;
+			flex: 1
+		}
+
+		input {
+			margin-right: 50rpx;
+			flex: 4
+		}
+
+		.count {
+			font-weight: 200;
+			font-size: 50rpx;
+			flex: 2;
+			text-align: right;
+		}
 	}
-}
+
 	.u-keyboard {
 		position: relative;
 		z-index: 1003;

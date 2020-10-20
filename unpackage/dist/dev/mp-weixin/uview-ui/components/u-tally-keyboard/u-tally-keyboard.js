@@ -187,7 +187,13 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 
 
+
+
+
 var _eval = __webpack_require__(/*! eval5 */ 179); //
+//
+//
+//
 //
 //
 //
@@ -233,8 +239,14 @@ var _default = { props: { // 键盘的类型，number-数字键盘，card-身份
       dot: '.', // 点
       timer: null, // 长按多次删除的事件监听
       cardX: 'X', // 身份证的X符号‘
-      num: 0 };}, watch: { num: function num() {console.log(this.num);} }, computed: { // 键盘需要显示的内容
-    numList: function numList() {var tmp = [];if (!this.dotEnabled && this.mode == 'number') {if (!this.random) {return [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];} else {return this.$u.randomArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]);}} else if (this.dotEnabled && this.mode == 'number') {if (!this.random) {return [1, 2, 3, 4, 5, 6, 7, 8, 9, this.dot, 0];} else {return this.$u.randomArray([1, 2, 3, 4, 5, 6, 7, 8, 9, this.dot, 0]);
+      num: '', calculateShow: false };}, watch: { num: function num() {var num = this.num.toString(); //包含运算符且末位是数字则表示可进行运算，则将完成按钮隐藏显示等于号
+      if ((num.indexOf('+') !== -1 || num.indexOf('-') !== -1) && !isNaN(num.substring(num.length - 1))) {this.calculateShow = true;} else {this.calculateShow = false;}} }, computed: { // 键盘需要显示的内容
+    numList: function numList() {var tmp = [];if (!this.dotEnabled && this.mode == 'number') {if (!this.random) {return [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];} else {return this.$u.randomArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]);}
+      } else if (this.dotEnabled && this.mode == 'number') {
+        if (!this.random) {
+          return [1, 2, 3, 4, 5, 6, 7, 8, 9, this.dot, 0];
+        } else {
+          return this.$u.randomArray([1, 2, 3, 4, 5, 6, 7, 8, 9, this.dot, 0]);
         }
       } else if (this.mode == 'card') {
         if (!this.random) {
@@ -283,14 +295,26 @@ var _default = { props: { // 键盘的类型，number-数字键盘，card-身份
     },
     // 获取键盘显示的内容
     keyboardClick: function keyboardClick(val) {
-      if (this.num === 0) {
-        this.num += val;
-      } else {
-        this.num += val.toString();
+      var num = this.num + val.toString();
+      //判断最后一位是否是运算符
+      if (['+', '-'].indexOf(num.substring(num.length - 1)) !== -1) {
+        //若是运算符判断末位与倒二位是否相等,若相等不允许重复输入运算符
+        if (num.substring(num.length - 1) === num.substring(num.length - 2, num.length - 1)) {
+          num = num.substr(0, num.length - 1);
+          //若末位与倒二位不相等则取最后一次输入的运算符
+        } else if (['+', '-'].indexOf(num.substring(num.length - 2)) !== -1) {
+          num = num.substr(0, num.length - 2) + val.toString();
+        }
+        //查找运算符是否为2个，若为两个则自动计算
+        if (num.split('').filter(function (i) {return i == '+';}).length + num.split('').filter(function (i) {return i == '-';}).length === 2) {
+          var operator = num.substring(num.length - 1);
+          num = (0, _eval.evaluate)(num.substr(0, num.length - 1)) + operator;
+        }
       }
+      this.num = num;
     },
     save: function save() {
-      console.log((0, _eval.evaluate)(this.num));
+      this.num = (0, _eval.evaluate)(this.num);
     } } };exports.default = _default;
 
 /***/ }),

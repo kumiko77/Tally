@@ -1,6 +1,6 @@
 <template>
 	<view class="box">
-		<view class="select-box">
+		<view class="select-box" v-if="false">
 			<u-tabs :list="list" 
 					activeColor="#857746" 
 					inactiveColor="#857746" 
@@ -15,7 +15,7 @@
 					:barWidth="125"
 			></u-tabs>
 		</view>
-		<view class="menu-box">
+		<view class="menu-box" v-if="false">
 			<view class="menu-item">
 				<view class="img-box">
 					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
@@ -107,7 +107,7 @@
 			
 		</view>
 		<u-keyboard ref="uKeyboard" mode="tally" v-model="show" :tooltip="false"></u-keyboard>
-		<u-tabbar :list="vuex_tabbar" :mid-button="true"></u-tabbar>
+		<u-tabbar :list="vuex_tabbar" :mid-button="true" v-if="false"></u-tabbar>
 	</view>
 </template>
 

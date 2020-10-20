@@ -7,17 +7,18 @@
 	  },
 	"pages": [
 		{
-			"path": "pages/detail/index",
-			"style": {
-				"navigationBarTitleText": "鲨鱼记账"
-			}
-		},
-		{
 			"path": "pages/add/index",
 			"style": {
 				"navigationBarTitleText": "鲨鱼记账"
 			}
 		},
+		{
+			"path": "pages/detail/index",
+			"style": {
+				"navigationBarTitleText": "鲨鱼记账"
+			}
+		},
+
 		{
 			"path": "pages/chart/index",
 			"style": {

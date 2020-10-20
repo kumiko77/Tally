@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/detail/index",
     "pages/add/index",
+    "pages/detail/index",
     "pages/chart/index",
     "pages/community/index",
     "pages/me/index"
