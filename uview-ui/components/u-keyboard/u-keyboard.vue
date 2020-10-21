@@ -18,7 +18,7 @@
 		</block>
 		<block v-else>
 			<!-- <u-car-keyboard :random="random" @backspace="backspace" @change="change"></u-car-keyboard> -->
-			<u-tally-keyboard></u-tally-keyboard>
+			<u-tally-keyboard @confirm="onConfirm" ref="tallyKeyboard"></u-tally-keyboard>
 		</block>
 	</u-popup>
 </template>
@@ -137,6 +137,9 @@
 			}
 		},
 		methods: {
+			open() {
+				this.$refs.tallyKeyboard.reset()
+			},
 			change(e) {
 				this.$emit('change', e);
 			},
@@ -146,9 +149,9 @@
 				this.$emit('input', false);
 			},
 			// 输入完成
-			onConfirm() {
+			onConfirm(val) {
 				this.popupClose();
-				this.$emit('confirm');
+				this.$emit('confirm', val);
 			},
 			// 取消输入
 			onCancel() {
@@ -214,5 +217,8 @@
 
 	.u-tooltip-cancel-hover {
 		color: #333333;
+	}
+	.u-mask {
+		display: none;
 	}
 </style>

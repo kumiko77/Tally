@@ -1,6 +1,6 @@
 <template>
 	<view class="box">
-		<view class="select-box" v-if="false">
+		<view class="select-box">
 			<u-tabs :list="list" 
 					activeColor="#857746" 
 					inactiveColor="#857746" 
@@ -15,103 +15,23 @@
 					:barWidth="125"
 			></u-tabs>
 		</view>
-		<view class="menu-box" v-if="false">
-			<view class="menu-item">
+		<view class="menu-box">
+			<view class="menu-item" v-for="(item,index) in typeList" :key="index" @click="menuItemClick(item, index)">
 				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
+					<image :src="typeActive==index?item.activeImage:item.image" mode="widthFix"></image>
 				</view>
 				<view class="name-box">
-					餐饮
+					{{item.typeName}}
 				</view>
 			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/cc_home_w_and_e_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			<view class="menu-item">
-				<view class="img-box">
-					<image src="../../static/icon/e_travel@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="name-box">
-					餐饮
-				</view>
-			</view>
-			
 		</view>
-		<u-keyboard ref="uKeyboard" mode="tally" v-model="show" :tooltip="false"></u-keyboard>
-		<u-tabbar :list="vuex_tabbar" :mid-button="true" v-if="false"></u-tabbar>
+		<u-keyboard ref="uKeyboard" mode="tally" v-model="show" :tooltip="false" @confirm="save"></u-keyboard>
+		<u-tabbar :list="vuex_tabbar" :mid-button="true"></u-tabbar>
 	</view>
 </template>
 
 <script>
+	import typeJson from '../../common/json/type.json'
 	export default {
 		data() {
 			return {
@@ -120,13 +40,53 @@
 				}, {
 					name: '收入'
 				}],
+				typeList: [],
 				current:0,
-				show: true
+				typeActive: '999',
+				typeActiveEngName: '',
+				typeActiveName: '',
+				isOut:true,
+				show: false
+			}
+		},
+		mounted() {
+			this.typeList = typeJson.data
+		},
+		watch: {
+			show() {
+				if(!this.show) {
+					this.typeActive = '999'
+				}
 			}
 		},
 		methods: {
 			change(index) {
 				this.current = index;
+			},
+			menuItemClick: function(data, index) {
+				this.typeActive = index
+				this.typeActiveEngName = data.type
+				this.typeActiveName = data.typeName
+				this.show = true
+				this.$refs.uKeyboard.open()
+			},
+			save: function(val) {
+				const obj = {
+					time: val.date.dateTime,
+					year: val.date.year,
+					month: val.date.month,
+					date: val.date.date,
+					day:val.date.dateTime.getDay(),
+					money: this.isOut?-val.value:val.value,
+					accountType: this.isOut?'out':'in',
+					type: this.typeActiveEngName,
+					typeName: this.typeActiveName
+				}		
+						this.$uniCloud('saveAccount', obj).then(res => {
+							uni.switchTab({
+							    url: '../detail/index'
+							});
+						})
 			}
 		}
 	}

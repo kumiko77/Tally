@@ -97,6 +97,9 @@
   font-size: 40rpx;
   color: #333;
 }
+.u-keyboard-tools .today.data-v-415c6a40 {
+  font-size: 25rpx;
+}
 .u-keyboard-tools .save.data-v-415c6a40 {
   background: #f9db61;
 }

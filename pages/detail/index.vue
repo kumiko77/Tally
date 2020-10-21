@@ -118,6 +118,9 @@
 				list: []
 			}
 		},
+		onShow() {
+			this.getAccountData()
+		},
 		computed:{
 			outInteger: function() {
 				return (this.outCount).toString().split(".")[0]
@@ -148,7 +151,6 @@
 			this.custom = app.custom
 			//加载本月账单信息
 			this.getAccountData()
-
 		},
 		methods: {
 			datePicker: function(e) {

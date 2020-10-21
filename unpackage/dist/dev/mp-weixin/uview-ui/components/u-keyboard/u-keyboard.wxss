@@ -77,4 +77,7 @@
 .u-tooltip-cancel-hover.data-v-5aa479a0 {
   color: #333333;
 }
+.u-mask.data-v-5aa479a0 {
+  display: none;
+}
 

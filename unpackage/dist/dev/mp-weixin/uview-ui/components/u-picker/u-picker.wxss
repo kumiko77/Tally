@@ -71,7 +71,7 @@
 }
 .u-picker-body.data-v-70102400 {
   width: 100%;
-  height: 500rpx;
+  height: 400rpx;
   overflow: hidden;
   background-color: #fff;
 }

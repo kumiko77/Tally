@@ -629,7 +629,7 @@ export default {
 }
 .u-picker-body {
 	width: 100%;
-	height: 500rpx;
+	height: 400rpx;
 	overflow: hidden;
 	background-color: #fff;
 }

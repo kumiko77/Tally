@@ -20,8 +20,8 @@
 				</view>
 			</view>
 			<view class="u-keyboard-tools">
-				<view class="today u-border-top u-border-left u-border-bottom">
-					今天
+				<view class="today u-border-top u-border-left u-border-bottom today" @click="datePickerShow = true">
+					{{today.year+today.month+today.date === checkDate.year+checkDate.month+checkDate.date ? '今天':`${checkDate.year}-${checkDate.month}-${checkDate.date}`}}
 				</view>
 				<view class="today u-border-left u-border-bottom" @tap="keyboardClick('+')">
 					+
@@ -29,14 +29,15 @@
 				<view class="today u-border-left u-border-bottom" @tap="keyboardClick('-')">
 					-
 				</view>
-				<view class="save u-border-left u-border-bottom" v-if="!calculateShow">
+				<view class="save u-border-left u-border-bottom" @tap="save()" v-if="!calculateShow">
 					完成
 				</view>
-				<view class="save u-border-left u-border-bottom" @tap="save()" v-if="calculateShow">
+				<view class="save u-border-left u-border-bottom" @tap="calculate()" v-if="calculateShow">
 					=
 				</view>
 			</view>
 		</view>
+		<u-picker v-model="datePickerShow" z-index="10080" :params="params" mode="time" :default-time="`${today.year}-${today.month}-${today.date}`" @confirm="datePicker"></u-picker>
 	</view>
 </template>
 
@@ -68,8 +69,24 @@
 				dot: '.', // 点
 				timer: null, // 长按多次删除的事件监听
 				cardX: 'X', // 身份证的X符号‘
-				num: '',
-				calculateShow: false
+				num: '', //金额
+				calculateShow: false, //等于号是否展示
+				datePickerShow: false, //日期选择器是否展示
+				params: {  //日期选择器配置
+					year: true,
+					month: true,
+					day: true,
+					hour: false,
+					minute: false,
+					second: false
+				},
+				checkDate: {},
+				today: {
+					dateTime:'',
+					year:'',
+					month:'',
+					date:''
+				}
 			};
 		},
 		watch: {
@@ -82,6 +99,9 @@
 					this.calculateShow = false
 				}
 			}
+		},
+		mounted() {
+			this.loadDateNow()
 		},
 		computed: {
 			// 键盘需要显示的内容
@@ -130,6 +150,25 @@
 			}
 		},
 		methods: {
+			reset: function() {
+				this.num = ''
+				this.loadDateNow()
+			},
+			datePicker: function(e) {
+				this.checkDate = e
+				this.checkDate.dateTime = new Date(`${e.year}-${e.month}-${e.day}`)
+				this.checkDate.date = +e.day
+				this.checkDate.year = +e.year
+				this.checkDate.month = +e.month
+			},
+			loadDateNow: function() {
+				this.today.dateTime = new Date()
+				this.today.year = new Date().getFullYear()
+				this.today.month = new Date().getMonth() + 1
+				this.today.date = new Date().getDate()
+				
+				this.checkDate = {...this.today}
+			},
 			// 点击退格键
 			backspaceClick() {
 				// this.$emit('backspace');
@@ -164,8 +203,15 @@
 				}
 				this.num = num
 			},
-			save() {
+			calculate: function() {
 				this.num = evaluate(this.num)
+			},
+			save() {
+				this.$emit('confirm', {
+					value:this.num,
+					date: this.checkDate
+					},
+				);
 			}
 		}
 	};
@@ -174,6 +220,10 @@
 <style lang="scss" scoped>
 	@import "../../libs/css/style.components.scss";
 
+// .u-picker-header .date {
+// 	height: 400rpx;
+// 	    border-bottom: 1rpx solid #f5f6f8;
+// }
 	.box {
 		background: #f3f3f3;
 	}
@@ -229,7 +279,9 @@
 			font-size: 40rpx;
 			color: #333;
 		}
-
+		.today {
+			font-size: 25rpx;
+		}
 		.save {
 			background: #f9db61;
 		}
