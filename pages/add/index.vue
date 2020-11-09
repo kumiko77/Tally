@@ -16,7 +16,15 @@
 			></u-tabs>
 		</view>
 		<view class="menu-box">
-			<view class="menu-item" v-for="(item,index) in typeList" :key="index" @click="menuItemClick(item, index)">
+			<view class="menu-item" v-for="(item,index) in typeList.out" :key="index" @click="menuItemClick(item, index, 'out')" v-if="current==0">
+				<view class="img-box">
+					<image :src="typeActive==index?item.activeImage:item.image" mode="widthFix"></image>
+				</view>
+				<view class="name-box">
+					{{item.typeName}}
+				</view>
+			</view>
+			<view class="menu-item" v-for="(item,index) in typeList.in" :key="index" @click="menuItemClick(item, index, 'in')" v-if="current==1">
 				<view class="img-box">
 					<image :src="typeActive==index?item.activeImage:item.image" mode="widthFix"></image>
 				</view>
@@ -57,6 +65,9 @@
 				if(!this.show) {
 					this.typeActive = '999'
 				}
+			},
+			current() {
+				this.current === 0? this.isOut=true : this.isOut=false
 			}
 		},
 		methods: {

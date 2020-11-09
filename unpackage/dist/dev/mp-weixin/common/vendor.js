@@ -16944,7 +16944,7 @@ module.exports = {
 /*! exports provided: data, default */
 /***/ (function(module) {
 
-module.exports = {"data":[{"type":"catering","typeName":"餐饮","image":"../../static/type/e_catering@3x.png","activeImage":"../../static/type/e_catering_s@3x.png","code":1},{"type":"shopping","typeName":"购物","image":"../../static/type/e_shopping@3x.png","activeImage":"../../static/type/e_shopping_s@3x.png","code":2},{"type":"commodity","typeName":"日用","image":"../../static/type/e_commodity@3x.png","activeImage":"../../static/type/e_commodity_s@3x.png","code":3}]};
+module.exports = {"data":{"out":[{"type":"catering","typeName":"餐饮","image":"../../static/type/e_catering@3x.png","activeImage":"../../static/type/e_catering_s@3x.png","code":1},{"type":"shopping","typeName":"购物","image":"../../static/type/e_shopping@3x.png","activeImage":"../../static/type/e_shopping_s@3x.png","code":2},{"type":"commodity","typeName":"日用","image":"../../static/type/e_commodity@3x.png","activeImage":"../../static/type/e_commodity_s@3x.png","code":3}],"in":[{"type":"catering","typeName":"工资","image":"../../static/type/i_wage@3x.png","activeImage":"../../static/type/i_wage_s@3x.png","code":1},{"type":"shopping","typeName":"兼职","image":"../../static/type/i_parttimework@3x.png","activeImage":"../../static/type/i_parttimework_s@3x.png","code":2}]}};
 
 /***/ }),
 /* 55 */,

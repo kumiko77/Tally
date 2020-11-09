@@ -3,6 +3,7 @@
   "usingComponents": {
     "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
     "u-line-progress": "/uview-ui/components/u-line-progress/u-line-progress",
+    "u-action-sheet": "/uview-ui/components/u-action-sheet/u-action-sheet",
     "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
   }
 }

@@ -136,7 +136,7 @@
 				return (this.inCount).toString().split(".")[0]
 			},
 			inDecimals: function() {
-				if(this.outCount % 1 == 0) {
+				if(this.inCount % 1 == 0) {
 					return '00'
 				} else {
 					return (this.inCount).toString().split(".")[1]
@@ -149,10 +149,21 @@
 			this.statusBar = app.statusBar + 8
 			this.customBar = app.customBar + app.pixelRatio * 30
 			this.custom = app.custom
+		},
+		onShow() {
 			//加载本月账单信息
+			this.dateRender()
+			//日期初始化
 			this.getAccountData()
 		},
 		methods: {
+			dateRender: function() {
+				this.date = {
+					//默认当前日期
+					year: new Date().getFullYear(),
+					month: new Date().getMonth() + 1
+				}
+			},
 			datePicker: function(e) {
 				this.date.year = e.year
 				this.date.month = e.month
@@ -196,11 +207,11 @@
 						if (item.accountType === 'out') {
 							newArr[index].out += Math.abs(item.money)
 						} else {
-							newArr[index].in += item.money
+							newArr[index].in += Number(item.money)
 						}
 					}
 					if(item.money > 0) {
-						this.inCount += item.money
+						this.inCount += item.money*1
 					} else {
 						this.outCount += Math.abs(item.money)
 					}

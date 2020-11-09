@@ -99,6 +99,9 @@ var components = {
   uLineProgress: function() {
     return __webpack_require__.e(/*! import() | uview-ui/components/u-line-progress/u-line-progress */ "uview-ui/components/u-line-progress/u-line-progress").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-line-progress/u-line-progress.vue */ 116))
   },
+  uActionSheet: function() {
+    return __webpack_require__.e(/*! import() | uview-ui/components/u-action-sheet/u-action-sheet */ "uview-ui/components/u-action-sheet/u-action-sheet").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-action-sheet/u-action-sheet.vue */ 187))
+  },
   uTabbar: function() {
     return Promise.all(/*! import() | uview-ui/components/u-tabbar/u-tabbar */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uview-ui/components/u-tabbar/u-tabbar")]).then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-tabbar/u-tabbar.vue */ 99))
   }
@@ -107,6 +110,11 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
+  if (!_vm._isMounted) {
+    _vm.e0 = function($event) {
+      _vm.menuShow = true
+    }
+  }
 }
 var recyclableRender = false
 var staticRenderFns = []
@@ -273,6 +281,17 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 var canvaLineA = null;var _default =
 {
@@ -281,6 +300,14 @@ var canvaLineA = null;var _default =
       cWidth: '',
       cHeight: '',
       pixelRatio: '',
+      menuShow: false,
+      menuList: [{
+        text: '收入' },
+
+      {
+        text: '支出' }],
+
+
       list: [{
         name: '1月' },
       {
@@ -306,9 +333,24 @@ var canvaLineA = null;var _default =
       {
         name: '12月' }],
 
-      current: 0 };
+      current: new Date().getMonth(),
+      //默认显示支出
+      type: 'out',
+      total: 0 };
 
   },
+  computed: {
+    average: function average() {
+      var now = new Date();
+      var average = this.total / new Date(now.getFullYear(), this.current + 1, 0).getDate();
+      return average.toFixed(2);
+    } },
+
+  watch: {
+    current: function current() {
+      this.getAccountData();
+    } },
+
   mounted: function mounted() {var _getApp =
 
 
@@ -316,9 +358,37 @@ var canvaLineA = null;var _default =
     this.pixelRatio = globalData.pixelRatio;
     this.cWidth = uni.upx2px(730);
     this.cHeight = uni.upx2px(200);
-    this.showColumn();
+    this.getAccountData();
   },
   methods: {
+    getAccountData: function getAccountData(year, month) {var _this = this;
+      this.$uniCloud('account', {
+        year: +year || new Date().getFullYear(),
+        month: this.current + 1,
+        accountType: this.type }).
+      then(function (res) {var
+
+        data =
+        res.result.data;
+        //先生成月份数组
+        var arr = Array.from({
+          length: 31 },
+        function (v, i) {return i;}).map(function (date) {
+          var obj = data.filter(function (has) {return has.date === date;});
+          //长度为0说明该日没有进行消费（支出或者收入）
+          if (obj.length === 0) {
+            return 0;
+          }
+          //使用reduce进行该日内所有消费统计
+          return obj.reduce(function (sum, item) {
+            return sum + Math.abs(item.money);
+          }, 0);
+        });
+        //消费总金额
+        _this.total = arr.reduce(function (sum, item) {return sum + item;});
+        _this.showColumn(arr);
+      });
+    },
     change: function change(index) {
       this.current = index;
     },
@@ -328,8 +398,11 @@ var canvaLineA = null;var _default =
     moveLineA: function moveLineA(e) {
       canvaLineA.scroll(e);
     },
+    menuClick: function menuClick(index) {
+      index == 0 ? this.type = "in" : this.type = "out";
+    },
     toJSON: function toJSON() {},
-    showColumn: function showColumn(canvasId, chartData) {
+    showColumn: function showColumn(arr) {
       console.log(this.globalData);
       console.log(this.cWidth);
       canvaLineA = new this.$uCharts({
@@ -343,10 +416,12 @@ var canvaLineA = null;var _default =
         dataPointShape: false,
         background: '#FFFFFF',
         pixelRatio: 1,
-        categories: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31],
+        categories: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27,
+        28, 29, 30, 31],
+
         series: [{
           name: '成交量A',
-          data: [35, 20, 25, 37, 4, 20, 35, 20, 325, 537, 4, 20, 235, 20, 125, 37, 4, 20, 35, 20, 25, 37, 4, 20],
+          data: arr,
           color: '#666' }],
 
         animation: true,

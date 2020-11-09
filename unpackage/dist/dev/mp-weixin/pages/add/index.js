@@ -173,6 +173,14 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
+
+
+
+
+
+
+
 var _type = _interopRequireDefault(__webpack_require__(/*! ../../common/json/type.json */ 54));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} //
 //
 //
@@ -205,12 +213,15 @@ var _type = _interopRequireDefault(__webpack_require__(/*! ../../common/json/typ
 //
 //
 //
-var _default = { data: function data() {return { list: [{ name: '支出' }, { name: '收入' }], typeList: [], current: 0, typeActive: '999', typeActiveEngName: '', typeActiveName: '', isOut: true, show: false };}, mounted: function mounted() {this.typeList = _type.default.data;}, watch: { show: function show() {if (!this.show) {this.typeActive = '999';}} }, methods: { change: function change(index) {this.current = index;}, menuItemClick: function menuItemClick(data, index) {
-      this.typeActive = index;
-      this.typeActiveEngName = data.type;
-      this.typeActiveName = data.typeName;
-      this.show = true;
-      this.$refs.uKeyboard.open();
+//
+//
+//
+//
+//
+//
+//
+//
+var _default = { data: function data() {return { list: [{ name: '支出' }, { name: '收入' }], typeList: [], current: 0, typeActive: '999', typeActiveEngName: '', typeActiveName: '', isOut: true, show: false };}, mounted: function mounted() {this.typeList = _type.default.data;}, watch: { show: function show() {if (!this.show) {this.typeActive = '999';}}, current: function current() {this.current === 0 ? this.isOut = true : this.isOut = false;} }, methods: { change: function change(index) {this.current = index;}, menuItemClick: function menuItemClick(data, index) {this.typeActive = index;this.typeActiveEngName = data.type;this.typeActiveName = data.typeName;this.show = true;this.$refs.uKeyboard.open();
     },
     save: function save(val) {
       var obj = {

@@ -1,8 +1,8 @@
 <template>
 	<view class="box">
 		<view class="header">
-			<view class="check">
-				支出
+			<view class="check" @click="menuShow = true">
+				{{type == 'in' ? '收入':'支出'}}
 				<image src="../../static/icon/time_down.png" mode="widthFix"></image>
 			</view>
 			<view class="menu">
@@ -16,10 +16,10 @@
 		</view>
 		<view class="total">
 			<view class="count">
-				总支出：666.66
+				总支出：{{total}}
 			</view>
 			<view class="average">
-				平均值：20.25
+				平均值：{{average}}
 			</view>
 		</view>
 		<view class="chart">
@@ -46,7 +46,9 @@
 						</view>
 					</view>
 					<view class="info-box-line-percent">
-						<strong><u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress></strong>
+						<strong>
+							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
+						</strong>
 					</view>
 				</view>
 			</view>
@@ -65,7 +67,9 @@
 						</view>
 					</view>
 					<view class="info-box-line-percent">
-						<strong><u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress></strong>
+						<strong>
+							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
+						</strong>
 					</view>
 				</view>
 			</view>
@@ -84,7 +88,9 @@
 						</view>
 					</view>
 					<view class="info-box-line-percent">
-						<strong><u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress></strong>
+						<strong>
+							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
+						</strong>
 					</view>
 				</view>
 			</view>
@@ -103,7 +109,9 @@
 						</view>
 					</view>
 					<view class="info-box-line-percent">
-						<strong><u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress></strong>
+						<strong>
+							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
+						</strong>
 					</view>
 				</view>
 			</view>
@@ -122,11 +130,14 @@
 						</view>
 					</view>
 					<view class="info-box-line-percent">
-						<strong><u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress></strong>
+						<strong>
+							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
+						</strong>
 					</view>
 				</view>
 			</view>
 		</view>
+		<u-action-sheet :list="menuList" v-model="menuShow" @click="menuClick"></u-action-sheet>
 		<u-tabbar :list="vuex_tabbar" :mid-button="true"></u-tabbar>
 	</view>
 </template>
@@ -139,6 +150,14 @@
 				cWidth: '',
 				cHeight: '',
 				pixelRatio: '',
+				menuShow: false,
+				menuList: [{
+						text: '收入'
+					},
+					{
+						text: '支出'
+					}
+				],
 				list: [{
 					name: '1月'
 				}, {
@@ -164,7 +183,22 @@
 				}, {
 					name: '12月'
 				}],
-				current: 0
+				current: new Date().getMonth(),
+				//默认显示支出
+				type: 'out',
+				total: 0
+			}
+		},
+		computed: {
+			average() {
+				const now = new Date()
+				const average = this.total / new Date(now.getFullYear(), this.current + 1, 0).getDate()
+				return average.toFixed(2)
+			}
+		},
+		watch: {
+			current() {
+				this.getAccountData()
 			}
 		},
 		mounted() {
@@ -174,9 +208,37 @@
 			this.pixelRatio = globalData.pixelRatio
 			this.cWidth = uni.upx2px(730);
 			this.cHeight = uni.upx2px(200);
-			this.showColumn()
+			this.getAccountData()
 		},
 		methods: {
+			getAccountData: function(year, month) {
+				this.$uniCloud('account', {
+					year: +year || new Date().getFullYear(),
+					month: this.current + 1,
+					accountType: this.type
+				}).then(res => {
+					const {
+						data
+					} = res.result
+					//先生成月份数组
+					const arr = Array.from({
+						length: 31
+					}, (v, i) => i).map(date => {
+						let obj = data.filter(has => (has.date === date))
+						//长度为0说明该日没有进行消费（支出或者收入）
+						if (obj.length === 0) {
+							return 0;
+						}
+						//使用reduce进行该日内所有消费统计
+						return obj.reduce((sum, item) => {
+							return sum + Math.abs(item.money)
+						}, 0)
+					})
+					//消费总金额
+					this.total = arr.reduce((sum, item) => sum + item)
+					this.showColumn(arr)
+				})
+			},
 			change(index) {
 				this.current = index;
 			},
@@ -186,8 +248,11 @@
 			moveLineA(e) {
 				canvaLineA.scroll(e);
 			},
+			menuClick: function(index) {
+				index == 0 ? this.type = "in" : this.type = "out"
+			},
 			toJSON() {},
-			showColumn(canvasId, chartData) {
+			showColumn(arr) {
 				console.log(this.globalData)
 				console.log(this.cWidth)
 				canvaLineA = new this.$uCharts({
@@ -201,10 +266,12 @@
 					dataPointShape: false,
 					background: '#FFFFFF',
 					pixelRatio: 1,
-					categories: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31],
+					categories: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27,
+						28, 29, 30, 31
+					],
 					series: [{
 						name: '成交量A',
-						data: [35, 20, 25, 37, 4, 20,35, 20, 325, 537, 4, 20,235, 20, 125, 37, 4, 20,35, 20, 25, 37, 4, 20],
+						data: arr,
 						color: '#666'
 					}],
 					animation: true,
@@ -212,12 +279,12 @@
 					xAxis: {
 						type: 'grid',
 						gridType: 'dash',
-						disableGrid:true,
+						disableGrid: true,
 						labelCount: 7, //x轴单屏显示数据的数量，默认为5个
 					},
 					yAxis: {
 						disabled: true,
-						disableGrid:true,
+						disableGrid: true,
 						gridType: 'dash',
 						gridColor: '#CCCCCC',
 						splitNumber: 5,
@@ -312,6 +379,7 @@
 				font-size: 25rpx;
 			}
 		}
+
 		.rank-box {
 			.rank-title {
 				padding: 15rpx 30rpx;
@@ -319,38 +387,46 @@
 				font-weight: 200;
 				font-size: 25rpx;
 			}
+
 			.rank-item {
 				display: flex;
 				align-items: center;
 				justify-content: space-between;
+
 				.img-box {
 					margin: 0 20rpx;
+
 					image {
 						width: 60rpx;
 					}
 				}
+
 				.info-box {
 					width: 660rpx;
 					padding: 15rpx 20rpx 15rpx 0;
 					border-bottom: 1rpx solid #f3f1f5;
+
 					.info-box-line-info {
 						display: flex;
 						align-items: center;
 						justify-content: space-between;
+
 						&-left {
 							color: #555;
+
 							.info-box-name {
 								font-size: 30rpx;
 								margin-right: 5rpx
 							}
+
 							.info-box-percent {
 								font-size: 25rpx;
 							}
 						}
-						&-right {
-							
-						}
+
+						&-right {}
 					}
+
 					.info-box-line-percent {
 						position: relative;
 						top: -10rpx;

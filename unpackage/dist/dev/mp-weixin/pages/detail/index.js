@@ -142,7 +142,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0; //
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _data$onShow$computed;function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} //
 //
 //
 //
@@ -236,8 +236,8 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 //
 //
 //
-var _default =
-{
+var _default = (_data$onShow$computed = {
+
   data: function data() {
     return {
       statusBar: 0,
@@ -280,7 +280,7 @@ var _default =
       return this.inCount.toString().split(".")[0];
     },
     inDecimals: function inDecimals() {
-      if (this.outCount % 1 == 0) {
+      if (this.inCount % 1 == 0) {
         return '00';
       } else {
         return this.inCount.toString().split(".")[1];
@@ -293,64 +293,75 @@ var _default =
     this.statusBar = app.statusBar + 8;
     this.customBar = app.customBar + app.pixelRatio * 30;
     this.custom = app.custom;
-    //加载本月账单信息
-    this.getAccountData();
+  } }, _defineProperty(_data$onShow$computed, "onShow", function onShow()
+{
+  //加载本月账单信息
+  this.dateRender();
+  //日期初始化
+  this.getAccountData();
+}), _defineProperty(_data$onShow$computed, "methods",
+{
+  dateRender: function dateRender() {
+    this.date = {
+      //默认当前日期
+      year: new Date().getFullYear(),
+      month: new Date().getMonth() + 1 };
+
   },
-  methods: {
-    datePicker: function datePicker(e) {
-      this.date.year = e.year;
-      this.date.month = e.month;
-      this.getAccountData(e.year, e.month);
-    },
-    getAccountData: function getAccountData(year, month) {var _this = this;
-      this.$uniCloud('account', {
-        year: +year || new Date().getFullYear(),
-        month: +month || new Date().getMonth() + 1 }).
-      then(function (res) {var
+  datePicker: function datePicker(e) {
+    this.date.year = e.year;
+    this.date.month = e.month;
+    this.getAccountData(e.year, e.month);
+  },
+  getAccountData: function getAccountData(year, month) {var _this = this;
+    this.$uniCloud('account', {
+      year: +year || new Date().getFullYear(),
+      month: +month || new Date().getMonth() + 1 }).
+    then(function (res) {var
 
-        data =
-        res.result.data;
-        _this.list = _this.sortByDate(data);
-      });
-    },
-    sortByDate: function sortByDate(list) {var _this2 = this;
-      var newArr = [];
-      this.inCount = 0;
-      this.outCount = 0;
-      list.forEach(function (item, i) {
-        var index = -1;
-        //判断新数组里是否存在该日期
-        var isExists = newArr.some(function (newItem, j) {
-          if (item.date == newItem.date) {
-            index = j;
-            return true;
-          }
-        });
-        if (!isExists) {
-          newArr.push({
-            date: item.date,
-            text: "".concat(item.month, "\u6708").concat(item.date, "\u65E5"),
-            week: _this2.$tool.number2Week(item.day),
-            in: item.money > 0 ? item.money : 0,
-            out: item.money < 0 ? Math.abs(item.money) : 0,
-            subList: [item] });
-
-        } else {
-          newArr[index].subList.push(item);
-          if (item.accountType === 'out') {
-            newArr[index].out += Math.abs(item.money);
-          } else {
-            newArr[index].in += item.money;
-          }
-        }
-        if (item.money > 0) {
-          _this2.inCount += item.money;
-        } else {
-          _this2.outCount += Math.abs(item.money);
+      data =
+      res.result.data;
+      _this.list = _this.sortByDate(data);
+    });
+  },
+  sortByDate: function sortByDate(list) {var _this2 = this;
+    var newArr = [];
+    this.inCount = 0;
+    this.outCount = 0;
+    list.forEach(function (item, i) {
+      var index = -1;
+      //判断新数组里是否存在该日期
+      var isExists = newArr.some(function (newItem, j) {
+        if (item.date == newItem.date) {
+          index = j;
+          return true;
         }
       });
-      return newArr;
-    } } };exports.default = _default;
+      if (!isExists) {
+        newArr.push({
+          date: item.date,
+          text: "".concat(item.month, "\u6708").concat(item.date, "\u65E5"),
+          week: _this2.$tool.number2Week(item.day),
+          in: item.money > 0 ? item.money : 0,
+          out: item.money < 0 ? Math.abs(item.money) : 0,
+          subList: [item] });
+
+      } else {
+        newArr[index].subList.push(item);
+        if (item.accountType === 'out') {
+          newArr[index].out += Math.abs(item.money);
+        } else {
+          newArr[index].in += Number(item.money);
+        }
+      }
+      if (item.money > 0) {
+        _this2.inCount += item.money * 1;
+      } else {
+        _this2.outCount += Math.abs(item.money);
+      }
+    });
+    return newArr;
+  } }), _data$onShow$computed);exports.default = _default;
 
 /***/ }),
 
