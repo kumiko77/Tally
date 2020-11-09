@@ -153,6 +153,7 @@
 }
 .box .detail-box.data-v-12dbf08d {
   margin-top: 280rpx;
+  height: 830rpx;
 }
 .box .detail-box .detail-item.data-v-12dbf08d {
   margin-bottom: 30rpx;

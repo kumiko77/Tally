@@ -259,7 +259,9 @@ var _default = (_data$onShow$computed = {
         second: false },
 
       datePickerShow: false,
-      list: [] };
+      list: [],
+      triggered: false,
+      _freshing: false };
 
   },
   onShow: function onShow() {
@@ -322,7 +324,11 @@ var _default = (_data$onShow$computed = {
       data =
       res.result.data;
       _this.list = _this.sortByDate(data);
+      _this.triggered = false;
     });
+  },
+  refresh: function refresh() {
+    this.triggered = true;
   },
   sortByDate: function sortByDate(list) {var _this2 = this;
     var newArr = [];

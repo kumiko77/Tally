@@ -16,7 +16,7 @@
 		</view>
 		<view class="total">
 			<view class="count">
-				总支出：{{total}}
+				{{type == 'in'?'总收入':'总支出'}}：{{total}}
 			</view>
 			<view class="average">
 				平均值：{{average}}
@@ -31,111 +31,27 @@
 			<view class="rank-title">
 				支出排行榜
 			</view>
-			<view class="rank-item">
+			<view class="rank-item" v-for="(item, index) in rank" :key="index">
 				<view class="img-box">
-					<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
+					<image :src="`../../static/icon/e_${item.type}_l@3x.png`" mode="widthFix"></image>
 				</view>
 				<view class="info-box">
 					<view class="info-box-line-info">
 						<view class="info-box-line-info-left">
-							<span class="info-box-name">餐饮</span>
-							<span class="info-box-percent">77.0%</span>
+							<span class="info-box-name">{{item.typeName}}</span>
+							<span class="info-box-percent">{{(item.percent)}}%</span>
 						</view>
 						<view class="info-box-line-info-right">
-							161.3
+							{{item.money}}
 						</view>
 					</view>
 					<view class="info-box-line-percent">
 						<strong>
-							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
+							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="item.percent"></u-line-progress>
 						</strong>
 					</view>
 				</view>
-			</view>
-			<view class="rank-item">
-				<view class="img-box">
-					<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="info-box">
-					<view class="info-box-line-info">
-						<view class="info-box-line-info-left">
-							<span class="info-box-name">餐饮</span>
-							<span class="info-box-percent">77.0%</span>
-						</view>
-						<view class="info-box-line-info-right">
-							161.3
-						</view>
-					</view>
-					<view class="info-box-line-percent">
-						<strong>
-							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
-						</strong>
-					</view>
-				</view>
-			</view>
-			<view class="rank-item">
-				<view class="img-box">
-					<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="info-box">
-					<view class="info-box-line-info">
-						<view class="info-box-line-info-left">
-							<span class="info-box-name">餐饮</span>
-							<span class="info-box-percent">77.0%</span>
-						</view>
-						<view class="info-box-line-info-right">
-							161.3
-						</view>
-					</view>
-					<view class="info-box-line-percent">
-						<strong>
-							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
-						</strong>
-					</view>
-				</view>
-			</view>
-			<view class="rank-item">
-				<view class="img-box">
-					<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="info-box">
-					<view class="info-box-line-info">
-						<view class="info-box-line-info-left">
-							<span class="info-box-name">餐饮</span>
-							<span class="info-box-percent">77.0%</span>
-						</view>
-						<view class="info-box-line-info-right">
-							161.3
-						</view>
-					</view>
-					<view class="info-box-line-percent">
-						<strong>
-							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
-						</strong>
-					</view>
-				</view>
-			</view>
-			<view class="rank-item">
-				<view class="img-box">
-					<image src="../../static/icon/e_catering_l@3x.png" mode="widthFix"></image>
-				</view>
-				<view class="info-box">
-					<view class="info-box-line-info">
-						<view class="info-box-line-info-left">
-							<span class="info-box-name">餐饮</span>
-							<span class="info-box-percent">77.0%</span>
-						</view>
-						<view class="info-box-line-info-right">
-							161.3
-						</view>
-					</view>
-					<view class="info-box-line-percent">
-						<strong>
-							<u-line-progress :show-percent="false" active-color="#f9db61" :percent="70"></u-line-progress>
-						</strong>
-					</view>
-				</view>
-			</view>
+			</view>		
 		</view>
 		<u-action-sheet :list="menuList" v-model="menuShow" @click="menuClick"></u-action-sheet>
 		<u-tabbar :list="vuex_tabbar" :mid-button="true"></u-tabbar>
@@ -186,7 +102,8 @@
 				current: new Date().getMonth(),
 				//默认显示支出
 				type: 'out',
-				total: 0
+				total: 0,
+				rank: {}
 			}
 		},
 		computed: {
@@ -198,6 +115,9 @@
 		},
 		watch: {
 			current() {
+				this.getAccountData()
+			},
+			type() {
 				this.getAccountData()
 			}
 		},
@@ -221,9 +141,11 @@
 						data
 					} = res.result
 					//先生成月份数组
+					console.log(data)
 					const arr = Array.from({
 						length: 31
 					}, (v, i) => i).map(date => {
+						//过滤多余数据只保留保留当前天的数据
 						let obj = data.filter(has => (has.date === date))
 						//长度为0说明该日没有进行消费（支出或者收入）
 						if (obj.length === 0) {
@@ -236,7 +158,29 @@
 					})
 					//消费总金额
 					this.total = arr.reduce((sum, item) => sum + item)
+					//渲染折线图
 					this.showColumn(arr)
+					//先排序
+					this.rank = data.sort((x, y) => {
+							return x['type'].localeCompare(y['type'])
+						})
+						.reduce((init, item) => {
+							//分类合计
+							if (init.length === 0 || init[init.length-1].type !== item.type) {
+								init.push({
+									type:item.type,
+									typeName:item.typeName,
+									money:Math.abs(item.money)
+								});
+							} else if(init.length > 0) {
+								init[init.length - 1].money += Math.abs(item.money)
+								init[init.length - 1].percent = (init[init.length - 1].money/this.total*100).toFixed(1)
+							}
+							return init;
+						}, [])
+						//计算完百分比在进行排序
+						.sort((x, y) => { return x['percent'] - y['percent'] })
+						.reverse()
 				})
 			},
 			change(index) {
@@ -253,8 +197,6 @@
 			},
 			toJSON() {},
 			showColumn(arr) {
-				console.log(this.globalData)
-				console.log(this.cWidth)
 				canvaLineA = new this.$uCharts({
 					$this: this,
 					canvasId: 'canvasColumn',

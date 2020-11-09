@@ -208,90 +208,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 
 var canvaLineA = null;var _default =
 {
@@ -336,7 +252,8 @@ var canvaLineA = null;var _default =
       current: new Date().getMonth(),
       //默认显示支出
       type: 'out',
-      total: 0 };
+      total: 0,
+      rank: {} };
 
   },
   computed: {
@@ -348,6 +265,9 @@ var canvaLineA = null;var _default =
 
   watch: {
     current: function current() {
+      this.getAccountData();
+    },
+    type: function type() {
       this.getAccountData();
     } },
 
@@ -371,9 +291,11 @@ var canvaLineA = null;var _default =
         data =
         res.result.data;
         //先生成月份数组
+        console.log(data);
         var arr = Array.from({
           length: 31 },
         function (v, i) {return i;}).map(function (date) {
+          //过滤多余数据只保留保留当前天的数据
           var obj = data.filter(function (has) {return has.date === date;});
           //长度为0说明该日没有进行消费（支出或者收入）
           if (obj.length === 0) {
@@ -386,7 +308,29 @@ var canvaLineA = null;var _default =
         });
         //消费总金额
         _this.total = arr.reduce(function (sum, item) {return sum + item;});
+        //渲染折线图
         _this.showColumn(arr);
+        //先排序
+        _this.rank = data.sort(function (x, y) {
+          return x['type'].localeCompare(y['type']);
+        }).
+        reduce(function (init, item) {
+          //分类合计
+          if (init.length === 0 || init[init.length - 1].type !== item.type) {
+            init.push({
+              type: item.type,
+              typeName: item.typeName,
+              money: Math.abs(item.money) });
+
+          } else if (init.length > 0) {
+            init[init.length - 1].money += Math.abs(item.money);
+            init[init.length - 1].percent = (init[init.length - 1].money / _this.total * 100).toFixed(1);
+          }
+          return init;
+        }, [])
+        //计算完百分比在进行排序
+        .sort(function (x, y) {return x['percent'] - y['percent'];}).
+        reverse();
       });
     },
     change: function change(index) {
@@ -403,8 +347,6 @@ var canvaLineA = null;var _default =
     },
     toJSON: function toJSON() {},
     showColumn: function showColumn(arr) {
-      console.log(this.globalData);
-      console.log(this.cWidth);
       canvaLineA = new this.$uCharts({
         $this: this,
         canvasId: 'canvasColumn',

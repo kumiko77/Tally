@@ -15,7 +15,8 @@
 		{
 			"path": "pages/detail/index",
 			"style": {
-				"navigationBarTitleText": "鲨鱼记账"
+				"navigationBarTitleText": "鲨鱼记账",
+				"disableScroll":true
 			}
 		},
 

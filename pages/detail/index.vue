@@ -54,7 +54,7 @@
 				</view>
 			</view>
 		</view>
-		<view class="detail-box">
+		<scroll-view class="detail-box" scroll-y="true" refresher-enabled="true" @refresherrefresh="refresh" :refresher-triggered="triggered">
 			<view class="detail-item" v-for="(item,index) in list" :key="index">
 				<view class="dateil-header">
 					<view class="datail-date">
@@ -86,7 +86,7 @@
 					</view>
 				</view>
 			</view>
-		</view>
+		</scroll-view>
 		<u-picker v-model="datePickerShow" :params="params" mode="time" :default-time="`${date.year}-${date.month}`" @confirm="datePicker"></u-picker>
 		<u-tabbar :list="vuex_tabbar" :mid-button="true"></u-tabbar>
 	</view>
@@ -115,7 +115,9 @@
 					second: false
 				},
 				datePickerShow: false,
-				list: []
+				list: [],
+				triggered: false,
+				_freshing: false  
 			}
 		},
 		onShow() {
@@ -177,8 +179,12 @@
 					const {
 						data
 					} = res.result
-					this.list = this.sortByDate(data)
+					this.list = this.sortByDate(data)	
+					this.triggered = false
 				})
+			},
+			refresh: function() {
+				this.triggered = true
 			},
 			sortByDate: function(list) {
 				const newArr = [];
@@ -224,8 +230,6 @@
 
 <style lang="scss" scoped>
 	.box {
-
-		// display: none;
 		.header {
 			height: 270rpx;
 			padding: 0 40rpx;
@@ -344,7 +348,7 @@
 
 		.detail-box {
 			margin-top: 280rpx;
-
+			    height: 830rpx;
 			.detail-item {
 				margin-bottom: 30rpx;
 
