@@ -54,7 +54,7 @@
 				</view>
 			</view>
 		</view>
-		<scroll-view class="detail-box" scroll-y="true" refresher-enabled="true" @refresherrefresh="refresh" :refresher-triggered="triggered">
+		<scroll-view class="detail-box" scroll-y="true">
 			<view class="detail-item" v-for="(item,index) in list" :key="index">
 				<view class="dateil-header">
 					<view class="datail-date">
@@ -100,11 +100,11 @@
 				customBar: 0,
 				custom: 0,
 				outCount: 0,
-				inCount:0,
+				inCount: 0,
 				date: {
 					//默认当前日期
-					year: new Date().getFullYear(),
-					month: new Date().getMonth() + 1
+					year: 0,
+					month: 0
 				},
 				params: {
 					year: true,
@@ -117,18 +117,18 @@
 				datePickerShow: false,
 				list: [],
 				triggered: false,
-				_freshing: false  
+				_freshing: false
 			}
 		},
 		onShow() {
 			this.getAccountData()
 		},
-		computed:{
+		computed: {
 			outInteger: function() {
 				return (this.outCount).toString().split(".")[0]
 			},
 			outDecimals: function() {
-				if(this.outCount % 1 == 0) {
+				if (this.outCount % 1 == 0) {
 					return '00'
 				} else {
 					return (this.outCount).toString().split(".")[1]
@@ -138,7 +138,7 @@
 				return (this.inCount).toString().split(".")[0]
 			},
 			inDecimals: function() {
-				if(this.inCount % 1 == 0) {
+				if (this.inCount % 1 == 0) {
 					return '00'
 				} else {
 					return (this.inCount).toString().split(".")[1]
@@ -155,8 +155,14 @@
 		onShow() {
 			//加载本月账单信息
 			this.dateRender()
-			//日期初始化
-			this.getAccountData()
+		},
+		watch: {
+			date: {
+				handler(newVal, oldVal) {
+					this.getAccountData(this.date.year, this.date.month)
+				},
+				deep: true,
+			}
 		},
 		methods: {
 			dateRender: function() {
@@ -171,7 +177,7 @@
 				this.date.month = e.month
 				this.getAccountData(e.year, e.month)
 			},
-			getAccountData:function(year, month) {
+			getAccountData: function(year, month) {
 				this.$uniCloud('account', {
 					year: +year || new Date().getFullYear(),
 					month: +month || new Date().getMonth() + 1
@@ -179,12 +185,11 @@
 					const {
 						data
 					} = res.result
-					this.list = this.sortByDate(data)	
-					this.triggered = false
+					this.list = this.sortByDate(data)
 				})
 			},
 			refresh: function() {
-				this.triggered = true
+				this.getAccountData()
 			},
 			sortByDate: function(list) {
 				const newArr = [];
@@ -216,8 +221,8 @@
 							newArr[index].in += Number(item.money)
 						}
 					}
-					if(item.money > 0) {
-						this.inCount += item.money*1
+					if (item.money > 0) {
+						this.inCount += item.money * 1
 					} else {
 						this.outCount += Math.abs(item.money)
 					}
@@ -348,7 +353,8 @@
 
 		.detail-box {
 			margin-top: 280rpx;
-			    height: 830rpx;
+			height: 830rpx;
+
 			.detail-item {
 				margin-bottom: 30rpx;
 

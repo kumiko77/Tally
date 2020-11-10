@@ -247,8 +247,8 @@ var _default = (_data$onShow$computed = {
       inCount: 0,
       date: {
         //默认当前日期
-        year: new Date().getFullYear(),
-        month: new Date().getMonth() + 1 },
+        year: 0,
+        month: 0 },
 
       params: {
         year: true,
@@ -299,9 +299,15 @@ var _default = (_data$onShow$computed = {
 {
   //加载本月账单信息
   this.dateRender();
-  //日期初始化
-  this.getAccountData();
-}), _defineProperty(_data$onShow$computed, "methods",
+}), _defineProperty(_data$onShow$computed, "watch",
+{
+  date: {
+    handler: function handler(newVal, oldVal) {
+      this.getAccountData(this.date.year, this.date.month);
+    },
+    deep: true } }), _defineProperty(_data$onShow$computed, "methods",
+
+
 {
   dateRender: function dateRender() {
     this.date = {
@@ -324,11 +330,10 @@ var _default = (_data$onShow$computed = {
       data =
       res.result.data;
       _this.list = _this.sortByDate(data);
-      _this.triggered = false;
     });
   },
   refresh: function refresh() {
-    this.triggered = true;
+    this.getAccountData();
   },
   sortByDate: function sortByDate(list) {var _this2 = this;
     var newArr = [];
